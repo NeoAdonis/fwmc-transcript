@@ -1,0 +1,37 @@
+Pattern,Replacement
+\bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU
+\bruffian,Ruffian
+\bmama\s?p[ao]p(py|i)\b,Mama Puppy
+\bp[ao]p[ao]\s?p[ao]p(py|i)\b,Papa Puppy
+\bdogg(y|ie) of the day\b,Doggie of the Day
+\bquestion of the day\b,Question of the Day
+\bextra special ruffian,Extra Special Ruffian
+\b(Na|No|Mo|Lo)riss?ai?\b,Nerissa
+\bNerissa Raven\s?\w+,Nerissa Ravencroft
+\bBijuu?\b,Bijou
+\bCrony\b,Kronii
+\bBay[\s\-]senpai,Bae-senpai
+\bCorny-senpai,Kronii-senpai
+\bFawna\b,Fauna
+\bMume\b,Mumei
+\bIris[\s\-]senpai,IRyS-senpai
+\b(Ch|K)ia[rn]a\b,Kiara
+\b(Kali|Callie)\b,Calli
+\bOli\b,Ollie
+\bEi-chan\b,A-chan
+\bA[sz]uki[\s\-](san|chan|senpai),AZKi-$1
+\bRoboco-san\b,Robocosan
+\bPecora\b,Pekora
+\bSenjou?\b,Senchou
+\bToa\b,Towa
+\bHolox\b,holoX
+\bKoei[\s\-]senpai,Chloe-senpai
+\bLaplace[\s\-]senpai,La+-senpai
+\b[rw]eg[lr]oss\b,ReGLOSS
+\bTwoS[nt]acks\b,2Snacks
+\bKyoto no Kano(jo|[\s\-]chan)\b,Cute na Kanojo
+\bDoggy Kong\b,Donkey Kong
+\bMr\. Donut,Mister Donut
+\byobae\b,yobai
+\b(Por[io]r[ou]|Portal|Porter)[\s\-]oneechan\b,Poruru-oneechan
+\bholodoroke\b,holo Dorokei

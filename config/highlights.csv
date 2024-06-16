@@ -1,0 +1,7 @@
+Pattern,Reason
+\b(L|M|N)(a|o)riss?ai?\b,'Nerissa'
+\bMoomin\b,'Mumei'
+\bKuroe\b,'Chloe' or 'Kuroi' or 'Kuro'
+\bKoei\b,'Chloe'
+\bHajime\b,'Haachama'
+\bMococo[\s\-]chan,'Moco-chan'

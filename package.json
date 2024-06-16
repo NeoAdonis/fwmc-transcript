@@ -1,0 +1,10 @@
+{
+  "name": "fwmc-transcript",
+  "scripts": {
+    "lint-summaries": "markdownlint-cli2 \"**/summary.md\""
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.13.0",
+    "markdownlint-rule-search-replace": "^1.2.0"
+  }
+}

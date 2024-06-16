@@ -1,0 +1,226 @@
+{
+    "config": {
+        "code-block-style": {
+            "style": "fenced"
+        },
+        "code-fence-style": {
+            "style": "backtick"
+        },
+        "first-line-heading": {
+            "level": 2
+        },
+        "heading-style": {
+            "style": "atx"
+        },
+        "line-length": false,
+        "no-trailing-spaces": {
+            "strict": true
+        },
+        "proper-names": {
+            "names": [
+                // Names should not be included here if there's a high chance they could also be
+                // used as common nouns, thus spelled in lowercase.
+                // English common nouns shouldn't be included unless their usage as common nouns is very rare.
+                // Japanese common nouns can be included if they aren't frequently used as such
+                // and the noun doesn't describe a concept originated from Japan (miko, okayu…).
+                "holoEN",
+                "DEV_IS",
+                "ReGLOSS",
+                //// NON-HOLOLIVE
+                "Icomochi",
+                "Haruko",
+                "Momoi",
+                "Pako",
+                "Ui",
+                "Shigure",
+                "Arino",
+                "Shinya",
+                "Petra",
+                "Suo",
+                "Yoiko",
+                //// STAFF
+                "Tanigo",
+                "Motoaki",
+                "YAGOO",
+                "A-chan",
+                "Nodoka",
+                "Harusaki",
+                //// GENERATION 0
+                // "Sora" is a common noun in Japanese (sky)
+                "Tokino",
+                "Robocosan", // "san" as part of the name is intentional
+                "Roboco",
+                "AZKi",
+                // "Miko" is a Japanese concept (shrine maiden)
+                // "Sakura" is a common noun in Japanese (cherry blossom)
+                // "Suisei" is a common noun in Japanese (comet)
+                "Hoshimachi",
+                //// GENERATION 1
+                // "Aki" is a common noun in Japanese (autumn)
+                "Rosenthal",
+                "Haato",
+                // "Akai" is a common noun in Japanese (red)
+                // "Fubuki" is a common noun in Japanese (blizzard)
+                "Shirakami",
+                // "Matsuri" is a common noun in Japanese (festival)
+                "Natsuiro",
+                "Mel",
+                "Yozora", // Also a common noun in Japanese (night sky)
+                //// GENERATION 2
+                // "Aqua" is a common noun in English
+                "Minato", // Also a common noun in Japanese (harbor)
+                "Shion",
+                // "Murasaki" is a common noun in Japanese (purple)
+                "Ayame",
+                "Nakiri",
+                // "Choco" is a common short form of "chocolate"
+                "Choco-sensei",
+                "Yuzuki",
+                "Subaru",
+                "Oozora", // Also a common noun in Japanese (firmament)
+                //// GAMERS
+                "Mio", // Not to be confused with "mío" (mine)
+                // "Ookami" is a common noun in Japanese (wolf)
+                // "Okayu" is a Japanese concept (rice gruel)
+                "Nekomata",
+                // "Korone" is a Japanese concept (a pastry)
+                "Inugami",
+                //// GENERATION 3 "FANTASY"
+                "Pekora",
+                "Usada",
+                // "Flare" is a common noun in English
+                "Shiranui", // Rarely used as a common noun in Japanese (will-o'-the-wisp)
+                "Noel",
+                "Shirogane", // Also a common noun in Japanese (silver)
+                // "Marine" is a common noun in English
+                "Houshou", // Rarely used as a common noun in Japanese
+                //// GENERATION 4 "HOLOFORCE"
+                "Kanata",
+                "Amane",
+                "Watame", // Not to be confused with "wataame" (cotton candy)
+                "Tsunomaki",
+                "Towa",
+                "Tokoyami",
+                // "Luna" is a common noun in Spanish (moon)
+                "Himemori",
+                // "Coco" is a common noun in Spanish (coconut)
+                "Kiryu",
+                //// GENERATION 5 "NEPOLABO"
+                "Lamy",
+                "Wamy",
+                "Yukihana",
+                // "Nene" is a common noun in Spanish (baby)
+                "Momosuzu",
+                "Botan",
+                "Shishiro",
+                // "Polka" is a common noun in English
+                "Poruru",
+                "Omaru",
+                //// HOLOX
+                // "La+" is not included to avoid issues with the "+" symbol
+                "Darknesss", // Extra "s" is intentional
+                "Lui",
+                "Takane", // Also a common noun in Japanese (high sound; high price)
+                "Iroha", // Rarely used as a common noun in Japanese (an ordering system for kana)
+                "Kazama",
+                //// INDONESIA
+                "Ayunda",
+                // "Risu" is a common noun in Japanese (squirrel)
+                "Moona",
+                "Hoshinova",
+                "Airani",
+                "Iofifteen",
+                "Iofi",
+                "Yopi",
+                "Kureiji",
+                "Ollie",
+                "Anya",
+                "Melfissa",
+                "Reine",
+                "Pavolia",
+                "Zeta", // Also a common noun in Spanish (letter Z)
+                "Vestia",
+                "Kaela",
+                "Kovalskia",
+                "Kobo",
+                "Kanaeru",
+                //// ENGLISH MYTH
+                "Amelia",
+                // "Ame" is a common noun in Japanese (rain)
+                "Watson",
+                "Calliope",
+                "Calli",
+                // "Mori" is a common noun in Japanese (forest) and Latin (death)
+                "Gawr",
+                "Gura",
+                "Ina'nis",
+                "Ina",
+                "Ninomae",
+                "Kiara",
+                "Takanashi",
+                //// ENGLISH PROMISE + COUNCIL
+                "IRyS",
+                "Baelz",
+                // "Bae" is a common noun in English
+                "Hakos",
+                // "Fauna" is a common noun in English
+                "Ceres",
+                "Kronii",
+                "Ouro",
+                // "Mumei" is a common noun in Japanese (nameless); the song "mumei" is spelled in lowercase
+                "Nanashi", // Also a common noun in Japanese (nameless)
+                "Sana", // Also an adjective in Spanish (healthy female)
+                // "Tsukumo" spelled as "TSUKUMO" is the name of a company
+                //// ENGLISH ADVENT
+                "Bijou",
+                "Biboo",
+                "Koseki",
+                "FUWAMOCO",
+                "Fuwawa",
+                "Mococo",
+                // "Moco" is a common noun in Spanish (snot)
+                "Moco-chan",
+                "Abyssgard",
+                "Pero", // Also a common noun in Spanish (but)
+                "Nerissa",
+                "Ravencroft",
+                // "Shiori" is a common noun in Japanese (bookmark)
+                // "Novella" is a common noun in English
+                //// REGLOSS
+                // "Ao" is a common noun in Japanese (blue)
+                "Hiodoshi",
+                "Kanade",
+                "Otonose",
+                "Ririka",
+                "Ichijou",
+                "Raden",
+                "Juufuutei",
+                // "Hajime" is a common noun in Japanese (beginning)
+                "Todoroki"
+            ]
+        },
+        "search-replace": {
+            "rules": [
+                {
+                    "message": "Timestamp not enclosed in parentheses",
+                    "name": "heading-timestamp-parentheses",
+                    "replace": "$1 $2 ($3)",
+                    "searchPattern": "/^(#+)\\s*(.*)\\s+(\\d+:\\d+)$/gm",
+                    "searchScope": "text"
+                },
+                {
+                    "message": "No timestamp at end of heading",
+                    "name": "no-missing-heading-timestamp",
+                    "searchPattern": "/^#+(.(?!\\((\\d+:\\d+|n\\/a)\\)))*$/gm", // look for a string in format m:ss or the string "n/a"
+                    "searchScope": "text"
+                }
+            ]
+        }
+    },
+    "customRules": [
+        "markdownlint-rule-search-replace"
+    ],
+    "fix": true,
+    "gitignore": true,
+    "noBanner": true
+}
