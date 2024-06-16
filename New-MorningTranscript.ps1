@@ -15,12 +15,18 @@ $TranscriptPrompt = Get-Content -Path $PromptPath -Raw
 $FileBaseName = 'audio'
 $NewBaseName = 'transcript'
 
+if (-not (Get-Command conda -ErrorAction SilentlyContinue)) {
+    Write-Host "conda not found. Please make sure that Anaconda/Miniconda is properly installed." -ForegroundColor Red
+    & conda deactivate
+    throw 'conda not found'
+}
+
 & conda activate $WhisperXEnvironment
 
 if (-not (Get-Command whisperx -ErrorAction SilentlyContinue)) {
     Write-Host "WhisperX not found. Please make sure that WhisperX is installed in the Conda environment '$WhisperXEnvironment'." -ForegroundColor Red
     & conda deactivate
-    throw 'WhisperX not found'
+    throw 'whisperx not found'
 }
 
 foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav" -Recurse)) {
@@ -36,7 +42,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
             $Matches[1]
             continue
         }
-        '^【FUWAMOCO MORNING】\s*([\w\s]+)' {
+        '^【FUWAMOCO MORNING】\s*([\w\s\p{P}]+)' {
             $Matches[1].Trim()
             continue
         }
