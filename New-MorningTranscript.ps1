@@ -49,6 +49,15 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
             '???'
         }
     }
+    $Description = $DescriptionFileContent[0]
+    $Illustrator = 'rswxx' # Icomochi, FUWAMOCO designer
+    for ($i = 1; $i -lt $DescriptionFileContent.Count; $i++) {
+        if ($DescriptionFileContent[$i] -match '\billust') {
+            $Illustrator = $DescriptionFileContent[$i] -replace '.*@(\w+).*', '$1'
+            break
+        }
+        $Description += " " + $DescriptionFileContent[$i]
+    }
 
     $Metadata = [PSCustomObject]@{
         'id'          = $TitleFileContent[0]
@@ -57,8 +66,8 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
         'isSpecial'   = $Episode -notmatch '^\d+$' # Every episode is special, but they're more special when they're non-numbered one-offs
         'date'        = [datetime]::ParseExact($ParentFolderName, 'yyyyMMdd', $null).ToString('yyyy-MM-dd')
         'dayOfWeek'   = [datetime]::ParseExact($ParentFolderName, 'yyyyMMdd', $null).DayOfWeek.ToString()
-        'description' = $DescriptionFileContent[0]
-        'illustrator' = $DescriptionFileContent[1] -replace '.*@(\w+).*', '$1'
+        'description' = $Description
+        'illustrator' = $Illustrator
     }
 
     if ($Metadata.dayOfWeek -notin @([DayOfWeek]::Monday, [DayOfWeek]::Wednesday, [DayOfWeek]::Friday)) {
@@ -104,7 +113,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
             New-Item -Path $NewOutputFolderNoPrompt -ItemType Directory | Out-Null
         }
     
-        # Transcript without prompt; output will be used to fix potential errors when using the prompt
+        # Transcript without prompt can be used to fix potential errors when using the prompt
         & whisperx --model $Model --device cuda --batch_size 16 -o $NewOutputFolderNoPrompt --output_format vtt --verbose False --language en $Audio.FullName
     }
 
