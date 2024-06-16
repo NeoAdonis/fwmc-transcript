@@ -62,7 +62,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     }
 
     if ($Metadata.dayOfWeek -notin @([DayOfWeek]::Monday, [DayOfWeek]::Wednesday, [DayOfWeek]::Friday)) {
-        Write-Host "Episode emitted on an unexpected day ($($Metadata.dayOfWeek)). Maybe a bug?" -ForegroundColor Yellow
+        Write-Host "Episode aired on an unexpected day ($($Metadata.dayOfWeek)). Maybe a bug?" -ForegroundColor Yellow
     }
 
     if (-not (Test-Path -Path $NewOutputFolder)) {
