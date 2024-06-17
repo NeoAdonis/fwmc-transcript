@@ -1,4 +1,4 @@
-# FUWAMOCO Transcripts Repository
+# 🐾 FUWAMOCO Transcripts Repository
 
 This repo holds a set of scripts for automatic transcription, as well as summaries, for [FUWAMOCO](https://www.youtube.com/@FUWAMOCOch) content, starting with FWMC Morning.
 
@@ -7,20 +7,20 @@ This is a fan made project. The contents in this repository follow the [hololive
 > [!NOTE]
 > In its initial state, the transcriptions provided in this repository were generated automatically using speech recognition software. The summaries were created aided by a large language model virtual assistant. As a result, there may be inaccuracies or errors in these documents that are not representative of the original content. If you notice significant errors, feel free to submit corrections or raise issues through the repository's issue tracker.
 
-## FUWAMOCO Morning
+## 🌅 FUWAMOCO Morning
 
-[FUWAMOCO Morning](https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS) is a short-format morning talk show hosted by the fuzzy and fluffy guard dog sisters [FUWAMOCO](https://www.youtube.com/@FUWAMOCOch). Their aim with this show is to bring a smile to every Ruffian's face and to help them start the day on the right paw!
+[FUWAMOCO Morning](https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS) is an online, short-format morning show hosted by the fuzzy and fluffy guard dog sisters [FUWAMOCO](https://www.youtube.com/@FUWAMOCOch). Their aim with this show is to bring a smile to everyone's face and to help them start the day on the right paw!
 
-- Schedule: every **F**riday, **W**ednesday and **M**onday (aka **F**U**W**A**M**OCO) at 8:00 hrs. US Pacific Time.
-- Jingle by [Sarina](https://twitter.com/Sarina_A_Elysia/status/1695163342699081980).
-- Playlist: https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS
-- Submissions:
+- 📅 Schedule: every **F**riday, **W**ednesday and **M**onday (aka **F**U**W**A**M**OCO) at 8:00 hrs. US Pacific Time.
+- 🎶 Jingle by [Sarina](https://twitter.com/Sarina_A_Elysia/status/1695163342699081980).
+- ▶️ Playlist: https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS
+- 📤 Submissions:
     - Question Of The Day: [#helpFWMC](https://twitter.com/hashtag/helpFWMC)
     - Other corners (Pero Sighting, Doggie Of The Day, Today I Went On A Walk...): [#FWMCMORNING](https://twitter.com/hashtag/FWMCMORNING)
 
 An index of all FWMC Morning episodes, summaries and transcripts can be found at [`morning/index.md`](./morning/index.md).
 
-## Building
+## ⚒️ Building
 
 Some of the files here are generated automatically.
 
@@ -41,7 +41,7 @@ Some of the files here are generated automatically.
 
 If using Windows, you can install all these prerequisites with [WinGet](https://learn.microsoft.com/windows/package-manager/).
 
-## Thanks
+## ✨ Thanks
 
 - Cover Corp.: For hololive and for giving FUWAMOCO a chance to shine through.
 - Dylan Mendes, Kami-bako: For the timestamps in each video's comments sections; it was an useful resource to easily find sections and compare against my own timestamps.
