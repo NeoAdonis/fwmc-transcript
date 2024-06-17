@@ -8,8 +8,8 @@ param(
 $SummaryIndex = @()
 $SummaryTable = @()
 
-$SummaryIndex += "| Date |     | Episode | Summary | Transcript |"
-$SummaryIndex += "| ---- | --- | ------- | ------- | ---------- |"
+$SummaryIndex += "| 🗓️ Date |     | 📺 Episode | 📄 Summary | 🔤 Transcript |"
+$SummaryIndex += "| ------ | --- | --------- | --------- | ------------ |"
 
 foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Directory)) {
     $EmojiList = Get-Content -Path './config/emojis.csv' | ConvertFrom-Csv
@@ -17,14 +17,16 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
     $NewSummary = @()
     $Metadata = Get-Content -Path (Join-Path -Path $TranscriptSubfolder.FullName -ChildPath "metadata.json") | ConvertFrom-Json
     $EpisodeName = if ($Metadata.isSpecial) { $Metadata.episode } else { "Episode $($Metadata.episode)" }
-    $SummaryIndex += "| $($Metadata.date) | $($Metadata.dayOfWeek.SubString(0, 3)) | 📺 [$EpisodeName](https://youtu.be/$($Metadata.id)) | 📄 [Summary](./$SummariesFolder/$($TranscriptSubfolder.Name).md) | 🔤 [Transcript](./$TranscriptsFolder/$($TranscriptSubfolder.Name)/transcript.vtt) |"
+    $TranscriptPath = "$TranscriptsFolder/$($TranscriptSubfolder.Name)/transcript.vtt"
+    $EpisodeLink = "https://youtu.be/$($Metadata.id)"
+    $SummaryIndex += "| $($Metadata.date) | $($Metadata.dayOfWeek.SubString(0, 3)) | [$EpisodeName]($EpisodeLink) | [Summary]($SummariesFolder/$($TranscriptSubfolder.Name).md) | [Transcript]($TranscriptPath) ([DL]($($TranscriptPath)?raw=true)) |"
     $SummaryTable += [PSCustomObject]@{
         'Date'        = $Metadata.date
         'Episode'     = $EpisodeName
         'Title'       = $Metadata.title
         'Description' = $Metadata.description
         'Illustrator' = $Metadata.illustrator
-        'Link'        = "https://youtu.be/$($Metadata.id)"
+        'Link'        = $EpisodeLink
     }
     foreach ($Line in $Summary) {
         if ($Line -match '^(#+) (.*)$') {
@@ -44,7 +46,7 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
             }
             
             if ($Header -match '^(.*) \((\d+):(\d+)\)$') {
-                $Timestamp = "[$($Matches[2]):$($Matches[3])](https://youtu.be/$($Metadata.id)?t=$($Matches[2])m$($Matches[3])s)"
+                $Timestamp = "[$($Matches[2]):$($Matches[3])]($($EpisodeLink)?t=$($Matches[2])m$($Matches[3])s)"
                 $Line = "$HeaderLevel $($Matches[1]) ($Timestamp)"
                 if ($Header -match '^(📺 )?Introduction') {
                     $Line = "# $EpisodeName (start: $Timestamp)"

@@ -1,107 +1,107 @@
-| Date |     | Episode | Summary | Transcript |
-| ---- | --- | ------- | ------- | ---------- |
-| 2023-07-31 | Mon | 📺 [Episode 0](https://youtu.be/Qd7ohtlOOkQ) | 📄 [Summary](./summaries/20230731.md) | 🔤 [Transcript](./transcripts/20230731/transcript.vtt) |
-| 2023-08-02 | Wed | 📺 [Episode 1](https://youtu.be/4giLWiqvyVo) | 📄 [Summary](./summaries/20230802.md) | 🔤 [Transcript](./transcripts/20230802/transcript.vtt) |
-| 2023-08-04 | Fri | 📺 [Episode 2](https://youtu.be/YILB_0QF-uI) | 📄 [Summary](./summaries/20230804.md) | 🔤 [Transcript](./transcripts/20230804/transcript.vtt) |
-| 2023-08-07 | Mon | 📺 [Episode 3](https://youtu.be/Nph4ogfhuBE) | 📄 [Summary](./summaries/20230807.md) | 🔤 [Transcript](./transcripts/20230807/transcript.vtt) |
-| 2023-08-09 | Wed | 📺 [Episode 4](https://youtu.be/cS_4XGXUOeg) | 📄 [Summary](./summaries/20230809.md) | 🔤 [Transcript](./transcripts/20230809/transcript.vtt) |
-| 2023-08-11 | Fri | 📺 [Episode 5](https://youtu.be/v5U0pUY24xs) | 📄 [Summary](./summaries/20230811.md) | 🔤 [Transcript](./transcripts/20230811/transcript.vtt) |
-| 2023-08-14 | Mon | 📺 [Episode 6](https://youtu.be/VdRKCMgF-Ug) | 📄 [Summary](./summaries/20230814.md) | 🔤 [Transcript](./transcripts/20230814/transcript.vtt) |
-| 2023-08-16 | Wed | 📺 [Episode 7](https://youtu.be/sUJVYegLEN4) | 📄 [Summary](./summaries/20230816.md) | 🔤 [Transcript](./transcripts/20230816/transcript.vtt) |
-| 2023-08-18 | Fri | 📺 [Episode 8](https://youtu.be/-UBdZ4tykfI) | 📄 [Summary](./summaries/20230818.md) | 🔤 [Transcript](./transcripts/20230818/transcript.vtt) |
-| 2023-08-21 | Mon | 📺 [Episode 9](https://youtu.be/4IX46S1AiJk) | 📄 [Summary](./summaries/20230821.md) | 🔤 [Transcript](./transcripts/20230821/transcript.vtt) |
-| 2023-08-23 | Wed | 📺 [Episode 10](https://youtu.be/Vi46JBb2aY4) | 📄 [Summary](./summaries/20230823.md) | 🔤 [Transcript](./transcripts/20230823/transcript.vtt) |
-| 2023-08-25 | Fri | 📺 [Episode 11](https://youtu.be/dZwzqM4UOME) | 📄 [Summary](./summaries/20230825.md) | 🔤 [Transcript](./transcripts/20230825/transcript.vtt) |
-| 2023-08-28 | Mon | 📺 [Episode 12](https://youtu.be/wz04zoH_THU) | 📄 [Summary](./summaries/20230828.md) | 🔤 [Transcript](./transcripts/20230828/transcript.vtt) |
-| 2023-08-30 | Wed | 📺 [Episode 13](https://youtu.be/rD_ZE3DrWlY) | 📄 [Summary](./summaries/20230830.md) | 🔤 [Transcript](./transcripts/20230830/transcript.vtt) |
-| 2023-09-01 | Fri | 📺 [Episode 14](https://youtu.be/ydD-l-36UHk) | 📄 [Summary](./summaries/20230901.md) | 🔤 [Transcript](./transcripts/20230901/transcript.vtt) |
-| 2023-09-04 | Mon | 📺 [Episode 15](https://youtu.be/5Qc-PJ_ewGU) | 📄 [Summary](./summaries/20230904.md) | 🔤 [Transcript](./transcripts/20230904/transcript.vtt) |
-| 2023-09-06 | Wed | 📺 [Episode 16](https://youtu.be/Z3C4pzDIeEo) | 📄 [Summary](./summaries/20230906.md) | 🔤 [Transcript](./transcripts/20230906/transcript.vtt) |
-| 2023-09-08 | Fri | 📺 [Episode 17](https://youtu.be/HRSKx7qshyQ) | 📄 [Summary](./summaries/20230908.md) | 🔤 [Transcript](./transcripts/20230908/transcript.vtt) |
-| 2023-09-11 | Mon | 📺 [Episode 18](https://youtu.be/_scYvetrFEo) | 📄 [Summary](./summaries/20230911.md) | 🔤 [Transcript](./transcripts/20230911/transcript.vtt) |
-| 2023-09-13 | Wed | 📺 [Episode 19](https://youtu.be/8w8utBUJwEY) | 📄 [Summary](./summaries/20230913.md) | 🔤 [Transcript](./transcripts/20230913/transcript.vtt) |
-| 2023-09-15 | Fri | 📺 [Episode 20](https://youtu.be/U1pBlHt7jD8) | 📄 [Summary](./summaries/20230915.md) | 🔤 [Transcript](./transcripts/20230915/transcript.vtt) |
-| 2023-09-18 | Mon | 📺 [Episode 21](https://youtu.be/ySxu81riSGY) | 📄 [Summary](./summaries/20230918.md) | 🔤 [Transcript](./transcripts/20230918/transcript.vtt) |
-| 2023-09-20 | Wed | 📺 [Episode 22](https://youtu.be/_aK_6Wb05hY) | 📄 [Summary](./summaries/20230920.md) | 🔤 [Transcript](./transcripts/20230920/transcript.vtt) |
-| 2023-09-22 | Fri | 📺 [Episode 23](https://youtu.be/RDlng6GMJno) | 📄 [Summary](./summaries/20230922.md) | 🔤 [Transcript](./transcripts/20230922/transcript.vtt) |
-| 2023-09-25 | Mon | 📺 [Episode 24](https://youtu.be/0mS9yvp-SbM) | 📄 [Summary](./summaries/20230925.md) | 🔤 [Transcript](./transcripts/20230925/transcript.vtt) |
-| 2023-09-27 | Wed | 📺 [Episode 25](https://youtu.be/VzT1MBdQsWE) | 📄 [Summary](./summaries/20230927.md) | 🔤 [Transcript](./transcripts/20230927/transcript.vtt) |
-| 2023-09-29 | Fri | 📺 [Episode 26](https://youtu.be/A844xQnE97A) | 📄 [Summary](./summaries/20230929.md) | 🔤 [Transcript](./transcripts/20230929/transcript.vtt) |
-| 2023-10-02 | Mon | 📺 [Episode 27](https://youtu.be/PkKdHUz89jY) | 📄 [Summary](./summaries/20231002.md) | 🔤 [Transcript](./transcripts/20231002/transcript.vtt) |
-| 2023-10-04 | Wed | 📺 [Episode 28](https://youtu.be/gwjuPSwi2Ho) | 📄 [Summary](./summaries/20231004.md) | 🔤 [Transcript](./transcripts/20231004/transcript.vtt) |
-| 2023-10-06 | Fri | 📺 [Episode 29](https://youtu.be/Tu6QNPp9d3c) | 📄 [Summary](./summaries/20231006.md) | 🔤 [Transcript](./transcripts/20231006/transcript.vtt) |
-| 2023-10-09 | Mon | 📺 [Episode 30](https://youtu.be/4ljeCZkA2mc) | 📄 [Summary](./summaries/20231009.md) | 🔤 [Transcript](./transcripts/20231009/transcript.vtt) |
-| 2023-10-11 | Wed | 📺 [Episode 31](https://youtu.be/f270ObaKNZw) | 📄 [Summary](./summaries/20231011.md) | 🔤 [Transcript](./transcripts/20231011/transcript.vtt) |
-| 2023-10-13 | Fri | 📺 [friday the 13th](https://youtu.be/QW_VwFyUBeU) | 📄 [Summary](./summaries/20231013.md) | 🔤 [Transcript](./transcripts/20231013/transcript.vtt) |
-| 2023-10-16 | Mon | 📺 [Episode 32](https://youtu.be/qTcTR5q0gTk) | 📄 [Summary](./summaries/20231016.md) | 🔤 [Transcript](./transcripts/20231016/transcript.vtt) |
-| 2023-10-18 | Wed | 📺 [Episode 33](https://youtu.be/1C4TFSqt_nk) | 📄 [Summary](./summaries/20231018.md) | 🔤 [Transcript](./transcripts/20231018/transcript.vtt) |
-| 2023-10-20 | Fri | 📺 [Episode 34](https://youtu.be/WttmEXH3VWs) | 📄 [Summary](./summaries/20231020.md) | 🔤 [Transcript](./transcripts/20231020/transcript.vtt) |
-| 2023-10-23 | Mon | 📺 [Episode 35](https://youtu.be/VV4H3SFTb8k) | 📄 [Summary](./summaries/20231023.md) | 🔤 [Transcript](./transcripts/20231023/transcript.vtt) |
-| 2023-10-25 | Wed | 📺 [Episode 36](https://youtu.be/NRnMHn7bBHI) | 📄 [Summary](./summaries/20231025.md) | 🔤 [Transcript](./transcripts/20231025/transcript.vtt) |
-| 2023-10-27 | Fri | 📺 [Episode 37](https://youtu.be/JGuhonVvvoE) | 📄 [Summary](./summaries/20231027.md) | 🔤 [Transcript](./transcripts/20231027/transcript.vtt) |
-| 2023-10-30 | Mon | 📺 [FUWAMOCO MIDNIGHT](https://youtu.be/f6Xtez79CNs) | 📄 [Summary](./summaries/20231030.md) | 🔤 [Transcript](./transcripts/20231030/transcript.vtt) |
-| 2023-11-01 | Wed | 📺 [Episode 38](https://youtu.be/X4Anzun9bKk) | 📄 [Summary](./summaries/20231101.md) | 🔤 [Transcript](./transcripts/20231101/transcript.vtt) |
-| 2023-11-03 | Fri | 📺 [Episode 39](https://youtu.be/3Ddj-qG98nU) | 📄 [Summary](./summaries/20231103.md) | 🔤 [Transcript](./transcripts/20231103/transcript.vtt) |
-| 2023-11-06 | Mon | 📺 [Episode 40](https://youtu.be/V5v4Na0j9Ro) | 📄 [Summary](./summaries/20231106.md) | 🔤 [Transcript](./transcripts/20231106/transcript.vtt) |
-| 2023-11-08 | Wed | 📺 [Episode 41](https://youtu.be/8w37u9FOvpk) | 📄 [Summary](./summaries/20231108.md) | 🔤 [Transcript](./transcripts/20231108/transcript.vtt) |
-| 2023-11-10 | Fri | 📺 [Episode 42](https://youtu.be/pMVUiczAd74) | 📄 [Summary](./summaries/20231110.md) | 🔤 [Transcript](./transcripts/20231110/transcript.vtt) |
-| 2023-11-13 | Mon | 📺 [Episode 43](https://youtu.be/TJbJTq8DD-U) | 📄 [Summary](./summaries/20231113.md) | 🔤 [Transcript](./transcripts/20231113/transcript.vtt) |
-| 2023-11-15 | Wed | 📺 [Episode 44](https://youtu.be/SFB8O55DTNw) | 📄 [Summary](./summaries/20231115.md) | 🔤 [Transcript](./transcripts/20231115/transcript.vtt) |
-| 2023-11-17 | Fri | 📺 [Episode 45](https://youtu.be/O8HEew0UC7A) | 📄 [Summary](./summaries/20231117.md) | 🔤 [Transcript](./transcripts/20231117/transcript.vtt) |
-| 2023-11-20 | Mon | 📺 [Episode 46](https://youtu.be/8mI5oiPOYm4) | 📄 [Summary](./summaries/20231120.md) | 🔤 [Transcript](./transcripts/20231120/transcript.vtt) |
-| 2023-11-22 | Wed | 📺 [Episode 47](https://youtu.be/duICxeTSRJo) | 📄 [Summary](./summaries/20231122.md) | 🔤 [Transcript](./transcripts/20231122/transcript.vtt) |
-| 2023-11-24 | Fri | 📺 [Episode 48](https://youtu.be/fRytzbbNoCo) | 📄 [Summary](./summaries/20231124.md) | 🔤 [Transcript](./transcripts/20231124/transcript.vtt) |
-| 2023-11-27 | Mon | 📺 [Episode 49](https://youtu.be/6wfIKjnYxwQ) | 📄 [Summary](./summaries/20231127.md) | 🔤 [Transcript](./transcripts/20231127/transcript.vtt) |
-| 2023-11-29 | Wed | 📺 [Episode 50](https://youtu.be/fPFDx54Y1tI) | 📄 [Summary](./summaries/20231129.md) | 🔤 [Transcript](./transcripts/20231129/transcript.vtt) |
-| 2023-12-01 | Fri | 📺 [Episode 51](https://youtu.be/v6lsxvh3qNs) | 📄 [Summary](./summaries/20231201.md) | 🔤 [Transcript](./transcripts/20231201/transcript.vtt) |
-| 2023-12-04 | Mon | 📺 [Episode 52](https://youtu.be/Iq0PC1B8HCM) | 📄 [Summary](./summaries/20231204.md) | 🔤 [Transcript](./transcripts/20231204/transcript.vtt) |
-| 2023-12-06 | Wed | 📺 [Episode 53](https://youtu.be/c5y7fR88Ngo) | 📄 [Summary](./summaries/20231206.md) | 🔤 [Transcript](./transcripts/20231206/transcript.vtt) |
-| 2023-12-08 | Fri | 📺 [Episode 54](https://youtu.be/91NURP2SgC8) | 📄 [Summary](./summaries/20231208.md) | 🔤 [Transcript](./transcripts/20231208/transcript.vtt) |
-| 2023-12-11 | Mon | 📺 [Episode 55](https://youtu.be/j1vp5W3pYpA) | 📄 [Summary](./summaries/20231211.md) | 🔤 [Transcript](./transcripts/20231211/transcript.vtt) |
-| 2023-12-13 | Wed | 📺 [Episode 56](https://youtu.be/OSGvHVy1wn0) | 📄 [Summary](./summaries/20231213.md) | 🔤 [Transcript](./transcripts/20231213/transcript.vtt) |
-| 2023-12-15 | Fri | 📺 [Episode 57](https://youtu.be/suSvc7ijPv8) | 📄 [Summary](./summaries/20231215.md) | 🔤 [Transcript](./transcripts/20231215/transcript.vtt) |
-| 2023-12-18 | Mon | 📺 [Episode 58](https://youtu.be/VwnzT5CkWds) | 📄 [Summary](./summaries/20231218.md) | 🔤 [Transcript](./transcripts/20231218/transcript.vtt) |
-| 2023-12-20 | Wed | 📺 [Episode 59](https://youtu.be/7TWeHToWRyU) | 📄 [Summary](./summaries/20231220.md) | 🔤 [Transcript](./transcripts/20231220/transcript.vtt) |
-| 2023-12-22 | Fri | 📺 [Episode 60](https://youtu.be/zu3kYXC8GYs) | 📄 [Summary](./summaries/20231222.md) | 🔤 [Transcript](./transcripts/20231222/transcript.vtt) |
-| 2023-12-25 | Mon | 📺 [christmas edition](https://youtu.be/ddeU_2d6pjA) | 📄 [Summary](./summaries/20231225.md) | 🔤 [Transcript](./transcripts/20231225/transcript.vtt) |
-| 2023-12-27 | Wed | 📺 [Episode 61](https://youtu.be/N-x6_8v4nnw) | 📄 [Summary](./summaries/20231227.md) | 🔤 [Transcript](./transcripts/20231227/transcript.vtt) |
-| 2023-12-29 | Fri | 📺 [#あさモコLIVE](https://youtu.be/2LBUGKmvebc) | 📄 [Summary](./summaries/20231229.md) | 🔤 [Transcript](./transcripts/20231229/transcript.vtt) |
-| 2024-01-01 | Mon | 📺 [Episode 62](https://youtu.be/YxkjfewtHpE) | 📄 [Summary](./summaries/20240101.md) | 🔤 [Transcript](./transcripts/20240101/transcript.vtt) |
-| 2024-01-03 | Wed | 📺 [Episode 63](https://youtu.be/xE6S8eMeHRw) | 📄 [Summary](./summaries/20240103.md) | 🔤 [Transcript](./transcripts/20240103/transcript.vtt) |
-| 2024-01-05 | Fri | 📺 [Episode 64](https://youtu.be/IvcuF4RlRvQ) | 📄 [Summary](./summaries/20240105.md) | 🔤 [Transcript](./transcripts/20240105/transcript.vtt) |
-| 2024-01-08 | Mon | 📺 [Episode 65](https://youtu.be/Q8pQaiEmNAQ) | 📄 [Summary](./summaries/20240108.md) | 🔤 [Transcript](./transcripts/20240108/transcript.vtt) |
-| 2024-01-10 | Wed | 📺 [Episode 66](https://youtu.be/js_Z9bB1Sog) | 📄 [Summary](./summaries/20240110.md) | 🔤 [Transcript](./transcripts/20240110/transcript.vtt) |
-| 2024-01-12 | Fri | 📺 [Episode 67](https://youtu.be/JJR8hAEbECA) | 📄 [Summary](./summaries/20240112.md) | 🔤 [Transcript](./transcripts/20240112/transcript.vtt) |
-| 2024-01-15 | Mon | 📺 [Episode 68](https://youtu.be/Cedlvs7ur7k) | 📄 [Summary](./summaries/20240115.md) | 🔤 [Transcript](./transcripts/20240115/transcript.vtt) |
-| 2024-01-17 | Wed | 📺 [Episode 69](https://youtu.be/r-bJNL11ah4) | 📄 [Summary](./summaries/20240117.md) | 🔤 [Transcript](./transcripts/20240117/transcript.vtt) |
-| 2024-01-19 | Fri | 📺 [Episode 70](https://youtu.be/E_hsZFDEKPs) | 📄 [Summary](./summaries/20240119.md) | 🔤 [Transcript](./transcripts/20240119/transcript.vtt) |
-| 2024-01-22 | Mon | 📺 [Episode 71](https://youtu.be/MR38tWe0r38) | 📄 [Summary](./summaries/20240122.md) | 🔤 [Transcript](./transcripts/20240122/transcript.vtt) |
-| 2024-01-24 | Wed | 📺 [Episode 72](https://youtu.be/fTaj_UzI3rs) | 📄 [Summary](./summaries/20240124.md) | 🔤 [Transcript](./transcripts/20240124/transcript.vtt) |
-| 2024-01-26 | Fri | 📺 [Episode 73](https://youtu.be/Kg3z19krjxc) | 📄 [Summary](./summaries/20240126.md) | 🔤 [Transcript](./transcripts/20240126/transcript.vtt) |
-| 2024-01-29 | Mon | 📺 [Episode 74](https://youtu.be/rShDkBgyol4) | 📄 [Summary](./summaries/20240129.md) | 🔤 [Transcript](./transcripts/20240129/transcript.vtt) |
-| 2024-01-31 | Wed | 📺 [Episode 75](https://youtu.be/gxZYeXU5Dek) | 📄 [Summary](./summaries/20240131.md) | 🔤 [Transcript](./transcripts/20240131/transcript.vtt) |
-| 2024-02-02 | Fri | 📺 [Episode 76](https://youtu.be/dc8RmlvhM9k) | 📄 [Summary](./summaries/20240202.md) | 🔤 [Transcript](./transcripts/20240202/transcript.vtt) |
-| 2024-02-05 | Mon | 📺 [Episode 77](https://youtu.be/gunjt6dWp_Y) | 📄 [Summary](./summaries/20240205.md) | 🔤 [Transcript](./transcripts/20240205/transcript.vtt) |
-| 2024-02-07 | Wed | 📺 [Episode 78](https://youtu.be/Q63GpUbKjjw) | 📄 [Summary](./summaries/20240207.md) | 🔤 [Transcript](./transcripts/20240207/transcript.vtt) |
-| 2024-02-09 | Fri | 📺 [Episode 79](https://youtu.be/8TbaxoOgHhQ) | 📄 [Summary](./summaries/20240209.md) | 🔤 [Transcript](./transcripts/20240209/transcript.vtt) |
-| 2024-02-12 | Mon | 📺 [Episode 80](https://youtu.be/m-kuDdF_iLc) | 📄 [Summary](./summaries/20240212.md) | 🔤 [Transcript](./transcripts/20240212/transcript.vtt) |
-| 2024-02-14 | Wed | 📺 [BAU-lentine's day](https://youtu.be/nMl8WQ1Iuls) | 📄 [Summary](./summaries/20240214.md) | 🔤 [Transcript](./transcripts/20240214/transcript.vtt) |
-| 2024-02-16 | Fri | 📺 [Episode 81](https://youtu.be/QotQYM6nqGQ) | 📄 [Summary](./summaries/20240216.md) | 🔤 [Transcript](./transcripts/20240216/transcript.vtt) |
-| 2024-02-19 | Mon | 📺 [Episode 82](https://youtu.be/BW7yzCaqTII) | 📄 [Summary](./summaries/20240219.md) | 🔤 [Transcript](./transcripts/20240219/transcript.vtt) |
-| 2024-02-21 | Wed | 📺 [Episode 83](https://youtu.be/8b9vrCNeXfI) | 📄 [Summary](./summaries/20240221.md) | 🔤 [Transcript](./transcripts/20240221/transcript.vtt) |
-| 2024-02-23 | Fri | 📺 [Episode 84](https://youtu.be/6-XcGLUSYFE) | 📄 [Summary](./summaries/20240223.md) | 🔤 [Transcript](./transcripts/20240223/transcript.vtt) |
-| 2024-04-15 | Mon | 📺 [Episode 85](https://youtu.be/3vjDKAjuN90) | 📄 [Summary](./summaries/20240415.md) | 🔤 [Transcript](./transcripts/20240415/transcript.vtt) |
-| 2024-04-17 | Wed | 📺 [Episode 86](https://youtu.be/ktznm6I4N40) | 📄 [Summary](./summaries/20240417.md) | 🔤 [Transcript](./transcripts/20240417/transcript.vtt) |
-| 2024-04-19 | Fri | 📺 [Episode 87](https://youtu.be/Ddkp6C2xKnc) | 📄 [Summary](./summaries/20240419.md) | 🔤 [Transcript](./transcripts/20240419/transcript.vtt) |
-| 2024-04-22 | Mon | 📺 [Episode 88](https://youtu.be/XK4HLRuDAaU) | 📄 [Summary](./summaries/20240422.md) | 🔤 [Transcript](./transcripts/20240422/transcript.vtt) |
-| 2024-04-24 | Wed | 📺 [Episode 89](https://youtu.be/_uAalFIWtqM) | 📄 [Summary](./summaries/20240424.md) | 🔤 [Transcript](./transcripts/20240424/transcript.vtt) |
-| 2024-04-26 | Fri | 📺 [Episode 90](https://youtu.be/gCYXKgYcFmk) | 📄 [Summary](./summaries/20240426.md) | 🔤 [Transcript](./transcripts/20240426/transcript.vtt) |
-| 2024-04-29 | Mon | 📺 [Episode 91](https://youtu.be/xlARRtCMwSY) | 📄 [Summary](./summaries/20240429.md) | 🔤 [Transcript](./transcripts/20240429/transcript.vtt) |
-| 2024-05-01 | Wed | 📺 [Episode 92](https://youtu.be/1pNasjVO0mk) | 📄 [Summary](./summaries/20240501.md) | 🔤 [Transcript](./transcripts/20240501/transcript.vtt) |
-| 2024-05-03 | Fri | 📺 [Episode 93](https://youtu.be/g74KvmrYo0M) | 📄 [Summary](./summaries/20240503.md) | 🔤 [Transcript](./transcripts/20240503/transcript.vtt) |
-| 2024-05-06 | Mon | 📺 [Episode 94](https://youtu.be/5uQ0WNOn6Eg) | 📄 [Summary](./summaries/20240506.md) | 🔤 [Transcript](./transcripts/20240506/transcript.vtt) |
-| 2024-05-08 | Wed | 📺 [Episode 95](https://youtu.be/jxsLZqPS--M) | 📄 [Summary](./summaries/20240508.md) | 🔤 [Transcript](./transcripts/20240508/transcript.vtt) |
-| 2024-05-10 | Fri | 📺 [Episode 96](https://youtu.be/b7e9XNZe9c0) | 📄 [Summary](./summaries/20240510.md) | 🔤 [Transcript](./transcripts/20240510/transcript.vtt) |
-| 2024-06-10 | Mon | 📺 [Episode 97](https://youtu.be/oKVNiM-NuJU) | 📄 [Summary](./summaries/20240610.md) | 🔤 [Transcript](./transcripts/20240610/transcript.vtt) |
-| 2024-06-12 | Wed | 📺 [Episode 98](https://youtu.be/5qFX0nlnHIQ) | 📄 [Summary](./summaries/20240612.md) | 🔤 [Transcript](./transcripts/20240612/transcript.vtt) |
-| 2024-06-14 | Fri | 📺 [Episode 99](https://youtu.be/8cOOCpt6HNM) | 📄 [Summary](./summaries/20240614.md) | 🔤 [Transcript](./transcripts/20240614/transcript.vtt) |
+| 🗓️ Date |     | 📺 Episode | 📄 Summary | 🔤 Transcript |
+| ------ | --- | --------- | --------- | ------------ |
+| 2023-07-31 | Mon | [Episode 0](https://youtu.be/Qd7ohtlOOkQ) | [Summary](summaries/20230731.md) | [Transcript](transcripts/20230731/transcript.vtt) ([DL](transcripts/20230731/transcript.vtt?raw=true)) |
+| 2023-08-02 | Wed | [Episode 1](https://youtu.be/4giLWiqvyVo) | [Summary](summaries/20230802.md) | [Transcript](transcripts/20230802/transcript.vtt) ([DL](transcripts/20230802/transcript.vtt?raw=true)) |
+| 2023-08-04 | Fri | [Episode 2](https://youtu.be/YILB_0QF-uI) | [Summary](summaries/20230804.md) | [Transcript](transcripts/20230804/transcript.vtt) ([DL](transcripts/20230804/transcript.vtt?raw=true)) |
+| 2023-08-07 | Mon | [Episode 3](https://youtu.be/Nph4ogfhuBE) | [Summary](summaries/20230807.md) | [Transcript](transcripts/20230807/transcript.vtt) ([DL](transcripts/20230807/transcript.vtt?raw=true)) |
+| 2023-08-09 | Wed | [Episode 4](https://youtu.be/cS_4XGXUOeg) | [Summary](summaries/20230809.md) | [Transcript](transcripts/20230809/transcript.vtt) ([DL](transcripts/20230809/transcript.vtt?raw=true)) |
+| 2023-08-11 | Fri | [Episode 5](https://youtu.be/v5U0pUY24xs) | [Summary](summaries/20230811.md) | [Transcript](transcripts/20230811/transcript.vtt) ([DL](transcripts/20230811/transcript.vtt?raw=true)) |
+| 2023-08-14 | Mon | [Episode 6](https://youtu.be/VdRKCMgF-Ug) | [Summary](summaries/20230814.md) | [Transcript](transcripts/20230814/transcript.vtt) ([DL](transcripts/20230814/transcript.vtt?raw=true)) |
+| 2023-08-16 | Wed | [Episode 7](https://youtu.be/sUJVYegLEN4) | [Summary](summaries/20230816.md) | [Transcript](transcripts/20230816/transcript.vtt) ([DL](transcripts/20230816/transcript.vtt?raw=true)) |
+| 2023-08-18 | Fri | [Episode 8](https://youtu.be/-UBdZ4tykfI) | [Summary](summaries/20230818.md) | [Transcript](transcripts/20230818/transcript.vtt) ([DL](transcripts/20230818/transcript.vtt?raw=true)) |
+| 2023-08-21 | Mon | [Episode 9](https://youtu.be/4IX46S1AiJk) | [Summary](summaries/20230821.md) | [Transcript](transcripts/20230821/transcript.vtt) ([DL](transcripts/20230821/transcript.vtt?raw=true)) |
+| 2023-08-23 | Wed | [Episode 10](https://youtu.be/Vi46JBb2aY4) | [Summary](summaries/20230823.md) | [Transcript](transcripts/20230823/transcript.vtt) ([DL](transcripts/20230823/transcript.vtt?raw=true)) |
+| 2023-08-25 | Fri | [Episode 11](https://youtu.be/dZwzqM4UOME) | [Summary](summaries/20230825.md) | [Transcript](transcripts/20230825/transcript.vtt) ([DL](transcripts/20230825/transcript.vtt?raw=true)) |
+| 2023-08-28 | Mon | [Episode 12](https://youtu.be/wz04zoH_THU) | [Summary](summaries/20230828.md) | [Transcript](transcripts/20230828/transcript.vtt) ([DL](transcripts/20230828/transcript.vtt?raw=true)) |
+| 2023-08-30 | Wed | [Episode 13](https://youtu.be/rD_ZE3DrWlY) | [Summary](summaries/20230830.md) | [Transcript](transcripts/20230830/transcript.vtt) ([DL](transcripts/20230830/transcript.vtt?raw=true)) |
+| 2023-09-01 | Fri | [Episode 14](https://youtu.be/ydD-l-36UHk) | [Summary](summaries/20230901.md) | [Transcript](transcripts/20230901/transcript.vtt) ([DL](transcripts/20230901/transcript.vtt?raw=true)) |
+| 2023-09-04 | Mon | [Episode 15](https://youtu.be/5Qc-PJ_ewGU) | [Summary](summaries/20230904.md) | [Transcript](transcripts/20230904/transcript.vtt) ([DL](transcripts/20230904/transcript.vtt?raw=true)) |
+| 2023-09-06 | Wed | [Episode 16](https://youtu.be/Z3C4pzDIeEo) | [Summary](summaries/20230906.md) | [Transcript](transcripts/20230906/transcript.vtt) ([DL](transcripts/20230906/transcript.vtt?raw=true)) |
+| 2023-09-08 | Fri | [Episode 17](https://youtu.be/HRSKx7qshyQ) | [Summary](summaries/20230908.md) | [Transcript](transcripts/20230908/transcript.vtt) ([DL](transcripts/20230908/transcript.vtt?raw=true)) |
+| 2023-09-11 | Mon | [Episode 18](https://youtu.be/_scYvetrFEo) | [Summary](summaries/20230911.md) | [Transcript](transcripts/20230911/transcript.vtt) ([DL](transcripts/20230911/transcript.vtt?raw=true)) |
+| 2023-09-13 | Wed | [Episode 19](https://youtu.be/8w8utBUJwEY) | [Summary](summaries/20230913.md) | [Transcript](transcripts/20230913/transcript.vtt) ([DL](transcripts/20230913/transcript.vtt?raw=true)) |
+| 2023-09-15 | Fri | [Episode 20](https://youtu.be/U1pBlHt7jD8) | [Summary](summaries/20230915.md) | [Transcript](transcripts/20230915/transcript.vtt) ([DL](transcripts/20230915/transcript.vtt?raw=true)) |
+| 2023-09-18 | Mon | [Episode 21](https://youtu.be/ySxu81riSGY) | [Summary](summaries/20230918.md) | [Transcript](transcripts/20230918/transcript.vtt) ([DL](transcripts/20230918/transcript.vtt?raw=true)) |
+| 2023-09-20 | Wed | [Episode 22](https://youtu.be/_aK_6Wb05hY) | [Summary](summaries/20230920.md) | [Transcript](transcripts/20230920/transcript.vtt) ([DL](transcripts/20230920/transcript.vtt?raw=true)) |
+| 2023-09-22 | Fri | [Episode 23](https://youtu.be/RDlng6GMJno) | [Summary](summaries/20230922.md) | [Transcript](transcripts/20230922/transcript.vtt) ([DL](transcripts/20230922/transcript.vtt?raw=true)) |
+| 2023-09-25 | Mon | [Episode 24](https://youtu.be/0mS9yvp-SbM) | [Summary](summaries/20230925.md) | [Transcript](transcripts/20230925/transcript.vtt) ([DL](transcripts/20230925/transcript.vtt?raw=true)) |
+| 2023-09-27 | Wed | [Episode 25](https://youtu.be/VzT1MBdQsWE) | [Summary](summaries/20230927.md) | [Transcript](transcripts/20230927/transcript.vtt) ([DL](transcripts/20230927/transcript.vtt?raw=true)) |
+| 2023-09-29 | Fri | [Episode 26](https://youtu.be/A844xQnE97A) | [Summary](summaries/20230929.md) | [Transcript](transcripts/20230929/transcript.vtt) ([DL](transcripts/20230929/transcript.vtt?raw=true)) |
+| 2023-10-02 | Mon | [Episode 27](https://youtu.be/PkKdHUz89jY) | [Summary](summaries/20231002.md) | [Transcript](transcripts/20231002/transcript.vtt) ([DL](transcripts/20231002/transcript.vtt?raw=true)) |
+| 2023-10-04 | Wed | [Episode 28](https://youtu.be/gwjuPSwi2Ho) | [Summary](summaries/20231004.md) | [Transcript](transcripts/20231004/transcript.vtt) ([DL](transcripts/20231004/transcript.vtt?raw=true)) |
+| 2023-10-06 | Fri | [Episode 29](https://youtu.be/Tu6QNPp9d3c) | [Summary](summaries/20231006.md) | [Transcript](transcripts/20231006/transcript.vtt) ([DL](transcripts/20231006/transcript.vtt?raw=true)) |
+| 2023-10-09 | Mon | [Episode 30](https://youtu.be/4ljeCZkA2mc) | [Summary](summaries/20231009.md) | [Transcript](transcripts/20231009/transcript.vtt) ([DL](transcripts/20231009/transcript.vtt?raw=true)) |
+| 2023-10-11 | Wed | [Episode 31](https://youtu.be/f270ObaKNZw) | [Summary](summaries/20231011.md) | [Transcript](transcripts/20231011/transcript.vtt) ([DL](transcripts/20231011/transcript.vtt?raw=true)) |
+| 2023-10-13 | Fri | [friday the 13th](https://youtu.be/QW_VwFyUBeU) | [Summary](summaries/20231013.md) | [Transcript](transcripts/20231013/transcript.vtt) ([DL](transcripts/20231013/transcript.vtt?raw=true)) |
+| 2023-10-16 | Mon | [Episode 32](https://youtu.be/qTcTR5q0gTk) | [Summary](summaries/20231016.md) | [Transcript](transcripts/20231016/transcript.vtt) ([DL](transcripts/20231016/transcript.vtt?raw=true)) |
+| 2023-10-18 | Wed | [Episode 33](https://youtu.be/1C4TFSqt_nk) | [Summary](summaries/20231018.md) | [Transcript](transcripts/20231018/transcript.vtt) ([DL](transcripts/20231018/transcript.vtt?raw=true)) |
+| 2023-10-20 | Fri | [Episode 34](https://youtu.be/WttmEXH3VWs) | [Summary](summaries/20231020.md) | [Transcript](transcripts/20231020/transcript.vtt) ([DL](transcripts/20231020/transcript.vtt?raw=true)) |
+| 2023-10-23 | Mon | [Episode 35](https://youtu.be/VV4H3SFTb8k) | [Summary](summaries/20231023.md) | [Transcript](transcripts/20231023/transcript.vtt) ([DL](transcripts/20231023/transcript.vtt?raw=true)) |
+| 2023-10-25 | Wed | [Episode 36](https://youtu.be/NRnMHn7bBHI) | [Summary](summaries/20231025.md) | [Transcript](transcripts/20231025/transcript.vtt) ([DL](transcripts/20231025/transcript.vtt?raw=true)) |
+| 2023-10-27 | Fri | [Episode 37](https://youtu.be/JGuhonVvvoE) | [Summary](summaries/20231027.md) | [Transcript](transcripts/20231027/transcript.vtt) ([DL](transcripts/20231027/transcript.vtt?raw=true)) |
+| 2023-10-30 | Mon | [FUWAMOCO MIDNIGHT](https://youtu.be/f6Xtez79CNs) | [Summary](summaries/20231030.md) | [Transcript](transcripts/20231030/transcript.vtt) ([DL](transcripts/20231030/transcript.vtt?raw=true)) |
+| 2023-11-01 | Wed | [Episode 38](https://youtu.be/X4Anzun9bKk) | [Summary](summaries/20231101.md) | [Transcript](transcripts/20231101/transcript.vtt) ([DL](transcripts/20231101/transcript.vtt?raw=true)) |
+| 2023-11-03 | Fri | [Episode 39](https://youtu.be/3Ddj-qG98nU) | [Summary](summaries/20231103.md) | [Transcript](transcripts/20231103/transcript.vtt) ([DL](transcripts/20231103/transcript.vtt?raw=true)) |
+| 2023-11-06 | Mon | [Episode 40](https://youtu.be/V5v4Na0j9Ro) | [Summary](summaries/20231106.md) | [Transcript](transcripts/20231106/transcript.vtt) ([DL](transcripts/20231106/transcript.vtt?raw=true)) |
+| 2023-11-08 | Wed | [Episode 41](https://youtu.be/8w37u9FOvpk) | [Summary](summaries/20231108.md) | [Transcript](transcripts/20231108/transcript.vtt) ([DL](transcripts/20231108/transcript.vtt?raw=true)) |
+| 2023-11-10 | Fri | [Episode 42](https://youtu.be/pMVUiczAd74) | [Summary](summaries/20231110.md) | [Transcript](transcripts/20231110/transcript.vtt) ([DL](transcripts/20231110/transcript.vtt?raw=true)) |
+| 2023-11-13 | Mon | [Episode 43](https://youtu.be/TJbJTq8DD-U) | [Summary](summaries/20231113.md) | [Transcript](transcripts/20231113/transcript.vtt) ([DL](transcripts/20231113/transcript.vtt?raw=true)) |
+| 2023-11-15 | Wed | [Episode 44](https://youtu.be/SFB8O55DTNw) | [Summary](summaries/20231115.md) | [Transcript](transcripts/20231115/transcript.vtt) ([DL](transcripts/20231115/transcript.vtt?raw=true)) |
+| 2023-11-17 | Fri | [Episode 45](https://youtu.be/O8HEew0UC7A) | [Summary](summaries/20231117.md) | [Transcript](transcripts/20231117/transcript.vtt) ([DL](transcripts/20231117/transcript.vtt?raw=true)) |
+| 2023-11-20 | Mon | [Episode 46](https://youtu.be/8mI5oiPOYm4) | [Summary](summaries/20231120.md) | [Transcript](transcripts/20231120/transcript.vtt) ([DL](transcripts/20231120/transcript.vtt?raw=true)) |
+| 2023-11-22 | Wed | [Episode 47](https://youtu.be/duICxeTSRJo) | [Summary](summaries/20231122.md) | [Transcript](transcripts/20231122/transcript.vtt) ([DL](transcripts/20231122/transcript.vtt?raw=true)) |
+| 2023-11-24 | Fri | [Episode 48](https://youtu.be/fRytzbbNoCo) | [Summary](summaries/20231124.md) | [Transcript](transcripts/20231124/transcript.vtt) ([DL](transcripts/20231124/transcript.vtt?raw=true)) |
+| 2023-11-27 | Mon | [Episode 49](https://youtu.be/6wfIKjnYxwQ) | [Summary](summaries/20231127.md) | [Transcript](transcripts/20231127/transcript.vtt) ([DL](transcripts/20231127/transcript.vtt?raw=true)) |
+| 2023-11-29 | Wed | [Episode 50](https://youtu.be/fPFDx54Y1tI) | [Summary](summaries/20231129.md) | [Transcript](transcripts/20231129/transcript.vtt) ([DL](transcripts/20231129/transcript.vtt?raw=true)) |
+| 2023-12-01 | Fri | [Episode 51](https://youtu.be/v6lsxvh3qNs) | [Summary](summaries/20231201.md) | [Transcript](transcripts/20231201/transcript.vtt) ([DL](transcripts/20231201/transcript.vtt?raw=true)) |
+| 2023-12-04 | Mon | [Episode 52](https://youtu.be/Iq0PC1B8HCM) | [Summary](summaries/20231204.md) | [Transcript](transcripts/20231204/transcript.vtt) ([DL](transcripts/20231204/transcript.vtt?raw=true)) |
+| 2023-12-06 | Wed | [Episode 53](https://youtu.be/c5y7fR88Ngo) | [Summary](summaries/20231206.md) | [Transcript](transcripts/20231206/transcript.vtt) ([DL](transcripts/20231206/transcript.vtt?raw=true)) |
+| 2023-12-08 | Fri | [Episode 54](https://youtu.be/91NURP2SgC8) | [Summary](summaries/20231208.md) | [Transcript](transcripts/20231208/transcript.vtt) ([DL](transcripts/20231208/transcript.vtt?raw=true)) |
+| 2023-12-11 | Mon | [Episode 55](https://youtu.be/j1vp5W3pYpA) | [Summary](summaries/20231211.md) | [Transcript](transcripts/20231211/transcript.vtt) ([DL](transcripts/20231211/transcript.vtt?raw=true)) |
+| 2023-12-13 | Wed | [Episode 56](https://youtu.be/OSGvHVy1wn0) | [Summary](summaries/20231213.md) | [Transcript](transcripts/20231213/transcript.vtt) ([DL](transcripts/20231213/transcript.vtt?raw=true)) |
+| 2023-12-15 | Fri | [Episode 57](https://youtu.be/suSvc7ijPv8) | [Summary](summaries/20231215.md) | [Transcript](transcripts/20231215/transcript.vtt) ([DL](transcripts/20231215/transcript.vtt?raw=true)) |
+| 2023-12-18 | Mon | [Episode 58](https://youtu.be/VwnzT5CkWds) | [Summary](summaries/20231218.md) | [Transcript](transcripts/20231218/transcript.vtt) ([DL](transcripts/20231218/transcript.vtt?raw=true)) |
+| 2023-12-20 | Wed | [Episode 59](https://youtu.be/7TWeHToWRyU) | [Summary](summaries/20231220.md) | [Transcript](transcripts/20231220/transcript.vtt) ([DL](transcripts/20231220/transcript.vtt?raw=true)) |
+| 2023-12-22 | Fri | [Episode 60](https://youtu.be/zu3kYXC8GYs) | [Summary](summaries/20231222.md) | [Transcript](transcripts/20231222/transcript.vtt) ([DL](transcripts/20231222/transcript.vtt?raw=true)) |
+| 2023-12-25 | Mon | [christmas edition](https://youtu.be/ddeU_2d6pjA) | [Summary](summaries/20231225.md) | [Transcript](transcripts/20231225/transcript.vtt) ([DL](transcripts/20231225/transcript.vtt?raw=true)) |
+| 2023-12-27 | Wed | [Episode 61](https://youtu.be/N-x6_8v4nnw) | [Summary](summaries/20231227.md) | [Transcript](transcripts/20231227/transcript.vtt) ([DL](transcripts/20231227/transcript.vtt?raw=true)) |
+| 2023-12-29 | Fri | [#あさモコLIVE](https://youtu.be/2LBUGKmvebc) | [Summary](summaries/20231229.md) | [Transcript](transcripts/20231229/transcript.vtt) ([DL](transcripts/20231229/transcript.vtt?raw=true)) |
+| 2024-01-01 | Mon | [Episode 62](https://youtu.be/YxkjfewtHpE) | [Summary](summaries/20240101.md) | [Transcript](transcripts/20240101/transcript.vtt) ([DL](transcripts/20240101/transcript.vtt?raw=true)) |
+| 2024-01-03 | Wed | [Episode 63](https://youtu.be/xE6S8eMeHRw) | [Summary](summaries/20240103.md) | [Transcript](transcripts/20240103/transcript.vtt) ([DL](transcripts/20240103/transcript.vtt?raw=true)) |
+| 2024-01-05 | Fri | [Episode 64](https://youtu.be/IvcuF4RlRvQ) | [Summary](summaries/20240105.md) | [Transcript](transcripts/20240105/transcript.vtt) ([DL](transcripts/20240105/transcript.vtt?raw=true)) |
+| 2024-01-08 | Mon | [Episode 65](https://youtu.be/Q8pQaiEmNAQ) | [Summary](summaries/20240108.md) | [Transcript](transcripts/20240108/transcript.vtt) ([DL](transcripts/20240108/transcript.vtt?raw=true)) |
+| 2024-01-10 | Wed | [Episode 66](https://youtu.be/js_Z9bB1Sog) | [Summary](summaries/20240110.md) | [Transcript](transcripts/20240110/transcript.vtt) ([DL](transcripts/20240110/transcript.vtt?raw=true)) |
+| 2024-01-12 | Fri | [Episode 67](https://youtu.be/JJR8hAEbECA) | [Summary](summaries/20240112.md) | [Transcript](transcripts/20240112/transcript.vtt) ([DL](transcripts/20240112/transcript.vtt?raw=true)) |
+| 2024-01-15 | Mon | [Episode 68](https://youtu.be/Cedlvs7ur7k) | [Summary](summaries/20240115.md) | [Transcript](transcripts/20240115/transcript.vtt) ([DL](transcripts/20240115/transcript.vtt?raw=true)) |
+| 2024-01-17 | Wed | [Episode 69](https://youtu.be/r-bJNL11ah4) | [Summary](summaries/20240117.md) | [Transcript](transcripts/20240117/transcript.vtt) ([DL](transcripts/20240117/transcript.vtt?raw=true)) |
+| 2024-01-19 | Fri | [Episode 70](https://youtu.be/E_hsZFDEKPs) | [Summary](summaries/20240119.md) | [Transcript](transcripts/20240119/transcript.vtt) ([DL](transcripts/20240119/transcript.vtt?raw=true)) |
+| 2024-01-22 | Mon | [Episode 71](https://youtu.be/MR38tWe0r38) | [Summary](summaries/20240122.md) | [Transcript](transcripts/20240122/transcript.vtt) ([DL](transcripts/20240122/transcript.vtt?raw=true)) |
+| 2024-01-24 | Wed | [Episode 72](https://youtu.be/fTaj_UzI3rs) | [Summary](summaries/20240124.md) | [Transcript](transcripts/20240124/transcript.vtt) ([DL](transcripts/20240124/transcript.vtt?raw=true)) |
+| 2024-01-26 | Fri | [Episode 73](https://youtu.be/Kg3z19krjxc) | [Summary](summaries/20240126.md) | [Transcript](transcripts/20240126/transcript.vtt) ([DL](transcripts/20240126/transcript.vtt?raw=true)) |
+| 2024-01-29 | Mon | [Episode 74](https://youtu.be/rShDkBgyol4) | [Summary](summaries/20240129.md) | [Transcript](transcripts/20240129/transcript.vtt) ([DL](transcripts/20240129/transcript.vtt?raw=true)) |
+| 2024-01-31 | Wed | [Episode 75](https://youtu.be/gxZYeXU5Dek) | [Summary](summaries/20240131.md) | [Transcript](transcripts/20240131/transcript.vtt) ([DL](transcripts/20240131/transcript.vtt?raw=true)) |
+| 2024-02-02 | Fri | [Episode 76](https://youtu.be/dc8RmlvhM9k) | [Summary](summaries/20240202.md) | [Transcript](transcripts/20240202/transcript.vtt) ([DL](transcripts/20240202/transcript.vtt?raw=true)) |
+| 2024-02-05 | Mon | [Episode 77](https://youtu.be/gunjt6dWp_Y) | [Summary](summaries/20240205.md) | [Transcript](transcripts/20240205/transcript.vtt) ([DL](transcripts/20240205/transcript.vtt?raw=true)) |
+| 2024-02-07 | Wed | [Episode 78](https://youtu.be/Q63GpUbKjjw) | [Summary](summaries/20240207.md) | [Transcript](transcripts/20240207/transcript.vtt) ([DL](transcripts/20240207/transcript.vtt?raw=true)) |
+| 2024-02-09 | Fri | [Episode 79](https://youtu.be/8TbaxoOgHhQ) | [Summary](summaries/20240209.md) | [Transcript](transcripts/20240209/transcript.vtt) ([DL](transcripts/20240209/transcript.vtt?raw=true)) |
+| 2024-02-12 | Mon | [Episode 80](https://youtu.be/m-kuDdF_iLc) | [Summary](summaries/20240212.md) | [Transcript](transcripts/20240212/transcript.vtt) ([DL](transcripts/20240212/transcript.vtt?raw=true)) |
+| 2024-02-14 | Wed | [BAU-lentine's day](https://youtu.be/nMl8WQ1Iuls) | [Summary](summaries/20240214.md) | [Transcript](transcripts/20240214/transcript.vtt) ([DL](transcripts/20240214/transcript.vtt?raw=true)) |
+| 2024-02-16 | Fri | [Episode 81](https://youtu.be/QotQYM6nqGQ) | [Summary](summaries/20240216.md) | [Transcript](transcripts/20240216/transcript.vtt) ([DL](transcripts/20240216/transcript.vtt?raw=true)) |
+| 2024-02-19 | Mon | [Episode 82](https://youtu.be/BW7yzCaqTII) | [Summary](summaries/20240219.md) | [Transcript](transcripts/20240219/transcript.vtt) ([DL](transcripts/20240219/transcript.vtt?raw=true)) |
+| 2024-02-21 | Wed | [Episode 83](https://youtu.be/8b9vrCNeXfI) | [Summary](summaries/20240221.md) | [Transcript](transcripts/20240221/transcript.vtt) ([DL](transcripts/20240221/transcript.vtt?raw=true)) |
+| 2024-02-23 | Fri | [Episode 84](https://youtu.be/6-XcGLUSYFE) | [Summary](summaries/20240223.md) | [Transcript](transcripts/20240223/transcript.vtt) ([DL](transcripts/20240223/transcript.vtt?raw=true)) |
+| 2024-04-15 | Mon | [Episode 85](https://youtu.be/3vjDKAjuN90) | [Summary](summaries/20240415.md) | [Transcript](transcripts/20240415/transcript.vtt) ([DL](transcripts/20240415/transcript.vtt?raw=true)) |
+| 2024-04-17 | Wed | [Episode 86](https://youtu.be/ktznm6I4N40) | [Summary](summaries/20240417.md) | [Transcript](transcripts/20240417/transcript.vtt) ([DL](transcripts/20240417/transcript.vtt?raw=true)) |
+| 2024-04-19 | Fri | [Episode 87](https://youtu.be/Ddkp6C2xKnc) | [Summary](summaries/20240419.md) | [Transcript](transcripts/20240419/transcript.vtt) ([DL](transcripts/20240419/transcript.vtt?raw=true)) |
+| 2024-04-22 | Mon | [Episode 88](https://youtu.be/XK4HLRuDAaU) | [Summary](summaries/20240422.md) | [Transcript](transcripts/20240422/transcript.vtt) ([DL](transcripts/20240422/transcript.vtt?raw=true)) |
+| 2024-04-24 | Wed | [Episode 89](https://youtu.be/_uAalFIWtqM) | [Summary](summaries/20240424.md) | [Transcript](transcripts/20240424/transcript.vtt) ([DL](transcripts/20240424/transcript.vtt?raw=true)) |
+| 2024-04-26 | Fri | [Episode 90](https://youtu.be/gCYXKgYcFmk) | [Summary](summaries/20240426.md) | [Transcript](transcripts/20240426/transcript.vtt) ([DL](transcripts/20240426/transcript.vtt?raw=true)) |
+| 2024-04-29 | Mon | [Episode 91](https://youtu.be/xlARRtCMwSY) | [Summary](summaries/20240429.md) | [Transcript](transcripts/20240429/transcript.vtt) ([DL](transcripts/20240429/transcript.vtt?raw=true)) |
+| 2024-05-01 | Wed | [Episode 92](https://youtu.be/1pNasjVO0mk) | [Summary](summaries/20240501.md) | [Transcript](transcripts/20240501/transcript.vtt) ([DL](transcripts/20240501/transcript.vtt?raw=true)) |
+| 2024-05-03 | Fri | [Episode 93](https://youtu.be/g74KvmrYo0M) | [Summary](summaries/20240503.md) | [Transcript](transcripts/20240503/transcript.vtt) ([DL](transcripts/20240503/transcript.vtt?raw=true)) |
+| 2024-05-06 | Mon | [Episode 94](https://youtu.be/5uQ0WNOn6Eg) | [Summary](summaries/20240506.md) | [Transcript](transcripts/20240506/transcript.vtt) ([DL](transcripts/20240506/transcript.vtt?raw=true)) |
+| 2024-05-08 | Wed | [Episode 95](https://youtu.be/jxsLZqPS--M) | [Summary](summaries/20240508.md) | [Transcript](transcripts/20240508/transcript.vtt) ([DL](transcripts/20240508/transcript.vtt?raw=true)) |
+| 2024-05-10 | Fri | [Episode 96](https://youtu.be/b7e9XNZe9c0) | [Summary](summaries/20240510.md) | [Transcript](transcripts/20240510/transcript.vtt) ([DL](transcripts/20240510/transcript.vtt?raw=true)) |
+| 2024-06-10 | Mon | [Episode 97](https://youtu.be/oKVNiM-NuJU) | [Summary](summaries/20240610.md) | [Transcript](transcripts/20240610/transcript.vtt) ([DL](transcripts/20240610/transcript.vtt?raw=true)) |
+| 2024-06-12 | Wed | [Episode 98](https://youtu.be/5qFX0nlnHIQ) | [Summary](summaries/20240612.md) | [Transcript](transcripts/20240612/transcript.vtt) ([DL](transcripts/20240612/transcript.vtt?raw=true)) |
+| 2024-06-14 | Fri | [Episode 99](https://youtu.be/8cOOCpt6HNM) | [Summary](summaries/20240614.md) | [Transcript](transcripts/20240614/transcript.vtt) ([DL](transcripts/20240614/transcript.vtt?raw=true)) |
