@@ -1,10 +1,10 @@
 [CmdletBinding()]
 param(
     [string]$SourceFolder = 'audio',
-    [string]$OutputFolder = 'transcript',
+    [string]$OutputFolder = 'transcripts',
     [string]$WhisperXEnvironment = 'whisperx',
     [string]$Model = 'large-v2', # This model *seems* to work better than "large-v3" for FUWAMOCO Morning
-    [string]$PromptPath = './config/transcript-morning-prompt.txt',
+    [string]$PromptPath = './config/transcript-prompt.txt',
     [switch]$IncludeNoPrompt = $false
 )
 

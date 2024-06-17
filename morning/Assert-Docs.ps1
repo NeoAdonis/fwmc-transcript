@@ -1,6 +1,6 @@
 [CmdletBinding()]
 param(
-    [string]$TranscriptPath = './transcript'
+    [string]$TranscriptPath = './transcripts'
 )
 
 
