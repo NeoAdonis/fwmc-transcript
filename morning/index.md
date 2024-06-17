@@ -105,3 +105,4 @@
 | 2024-06-10 | Mon | [Episode #97](https://youtu.be/oKVNiM-NuJU) | back to mornings together ✨ | [Summary](summaries/20240610.md) | [Transcript](transcripts/20240610/transcript.vtt) |
 | 2024-06-12 | Wed | [Episode #98](https://youtu.be/5qFX0nlnHIQ) | fluffy dream episode ✨ | [Summary](summaries/20240612.md) | [Transcript](transcripts/20240612/transcript.vtt) |
 | 2024-06-14 | Fri | [Episode #99](https://youtu.be/8cOOCpt6HNM) | we can't believe it, the number 99 ✨ | [Summary](summaries/20240614.md) | [Transcript](transcripts/20240614/transcript.vtt) |
+| 2024-06-17 | Mon | [Episode #100](https://youtu.be/Ux-LD0uM0YQ) | it's finally here, the big triple digit day... episode 100! ✨ it's time to celebrate!! 🎂 | [Summary](summaries/20240617.md) | [Transcript](transcripts/20240617/transcript.vtt) |
