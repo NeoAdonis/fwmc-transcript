@@ -8,8 +8,8 @@ param(
 $SummaryIndex = @()
 $SummaryTable = @()
 
-$SummaryIndex += "| 🗓️ Date |     | 📺 Episode | 📄 Summary | 🔤 Transcript |"
-$SummaryIndex += "| ------ | --- | --------- | --------- | ------------ |"
+$SummaryIndex += "| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |"
+$SummaryIndex += "| ------ | --- | --------- | --- | --------- | ------------ |"
 
 foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Directory)) {
     $EmojiList = Get-Content -Path './config/emojis.csv' | ConvertFrom-Csv
@@ -19,7 +19,7 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
     $EpisodeName = if ($Metadata.isSpecial) { $Metadata.episode } else { "Episode $($Metadata.episode)" }
     $TranscriptPath = "$TranscriptsFolder/$($TranscriptSubfolder.Name)/transcript.vtt"
     $EpisodeLink = "https://youtu.be/$($Metadata.id)"
-    $SummaryIndex += "| $($Metadata.date) | $($Metadata.dayOfWeek.SubString(0, 3)) | [$EpisodeName]($EpisodeLink) | [Summary]($SummariesFolder/$($TranscriptSubfolder.Name).md) | [Transcript]($TranscriptPath) ([DL]($($TranscriptPath)?raw=true)) |"
+    $SummaryIndex += "| $($Metadata.date) | $($Metadata.dayOfWeek.SubString(0, 3)) | [$EpisodeName]($EpisodeLink) | $($Metadata.description) | [Summary]($SummariesFolder/$($TranscriptSubfolder.Name).md) | [Transcript]($TranscriptPath) |"
     $SummaryTable += [PSCustomObject]@{
         'Date'        = $Metadata.date
         'Episode'     = $EpisodeName
