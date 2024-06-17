@@ -16,7 +16,7 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
     $Summary = Get-Content -Path (Join-Path -Path $TranscriptSubfolder.FullName -ChildPath "summary.md")
     $NewSummary = @()
     $Metadata = Get-Content -Path (Join-Path -Path $TranscriptSubfolder.FullName -ChildPath "metadata.json") | ConvertFrom-Json
-    $EpisodeName = if ($Metadata.isSpecial) { $Metadata.episode } else { "Episode $($Metadata.episode)" }
+    $EpisodeName = if ($Metadata.isSpecial) { $Metadata.episode } else { "Episode #$($Metadata.episode)" }
     $TranscriptPath = "$TranscriptsFolder/$($TranscriptSubfolder.Name)/transcript.vtt"
     $EpisodeLink = "https://youtu.be/$($Metadata.id)"
     $SummaryIndex += "| $($Metadata.date) | $($Metadata.dayOfWeek.SubString(0, 3)) | [$EpisodeName]($EpisodeLink) | $($Metadata.description) | [Summary]($SummariesFolder/$($TranscriptSubfolder.Name).md) | [Transcript]($TranscriptPath) |"

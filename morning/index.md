@@ -1,107 +1,107 @@
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
-| 2023-07-31 | Mon | [Episode 0](https://youtu.be/Qd7ohtlOOkQ) | pilot episodes always end up a bit different than the planned show, huh! 🐾  | [Summary](summaries/20230731.md) | [Transcript](transcripts/20230731/transcript.vtt) |
-| 2023-08-02 | Wed | [Episode 1](https://youtu.be/4giLWiqvyVo) | welcome adventrix! ⚠️ | [Summary](summaries/20230802.md) | [Transcript](transcripts/20230802/transcript.vtt) |
-| 2023-08-04 | Fri | [Episode 2](https://youtu.be/YILB_0QF-uI) | the start to a new day filled with smiles ✨ | [Summary](summaries/20230804.md) | [Transcript](transcripts/20230804/transcript.vtt) |
-| 2023-08-07 | Mon | [Episode 3](https://youtu.be/Nph4ogfhuBE) | misunderstanding corner edition❓ | [Summary](summaries/20230807.md) | [Transcript](transcripts/20230807/transcript.vtt) |
-| 2023-08-09 | Wed | [Episode 4](https://youtu.be/cS_4XGXUOeg) | happy mornings with you! ✨ | [Summary](summaries/20230809.md) | [Transcript](transcripts/20230809/transcript.vtt) |
-| 2023-08-11 | Fri | [Episode 5](https://youtu.be/v5U0pUY24xs) | FWMC vs. your morning coffee! ✨ | [Summary](summaries/20230811.md) | [Transcript](transcripts/20230811/transcript.vtt) |
-| 2023-08-14 | Mon | [Episode 6](https://youtu.be/VdRKCMgF-Ug) | how about a bit of FWMC to start your day? ✨ | [Summary](summaries/20230814.md) | [Transcript](transcripts/20230814/transcript.vtt) |
-| 2023-08-16 | Wed | [Episode 7](https://youtu.be/sUJVYegLEN4) | wake up together! ✨ | [Summary](summaries/20230816.md) | [Transcript](transcripts/20230816/transcript.vtt) |
-| 2023-08-18 | Fri | [Episode 8](https://youtu.be/-UBdZ4tykfI) | spend the last day of the work week together! ✨ | [Summary](summaries/20230818.md) | [Transcript](transcripts/20230818/transcript.vtt) |
-| 2023-08-21 | Mon | [Episode 9](https://youtu.be/4IX46S1AiJk) | are you ready to WAKE UP? ✨ | [Summary](summaries/20230821.md) | [Transcript](transcripts/20230821/transcript.vtt) |
-| 2023-08-23 | Wed | [Episode 10](https://youtu.be/Vi46JBb2aY4) | somehow we're already at episode 10!! ✨ | [Summary](summaries/20230823.md) | [Transcript](transcripts/20230823/transcript.vtt) |
-| 2023-08-25 | Fri | [Episode 11](https://youtu.be/dZwzqM4UOME) | pero pero pero ✨ | [Summary](summaries/20230825.md) | [Transcript](transcripts/20230825/transcript.vtt) |
-| 2023-08-28 | Mon | [Episode 12](https://youtu.be/wz04zoH_THU) | a new week together ✨ | [Summary](summaries/20230828.md) | [Transcript](transcripts/20230828/transcript.vtt) |
-| 2023-08-30 | Wed | [Episode 13](https://youtu.be/rD_ZE3DrWlY) | wednesday wednesday wednesday ✨ | [Summary](summaries/20230830.md) | [Transcript](transcripts/20230830/transcript.vtt) |
-| 2023-09-01 | Fri | [Episode 14](https://youtu.be/ydD-l-36UHk) | end of the week party with you ✨ | [Summary](summaries/20230901.md) | [Transcript](transcripts/20230901/transcript.vtt) |
-| 2023-09-04 | Mon | [Episode 15](https://youtu.be/5Qc-PJ_ewGU) | new week new start ✨ | [Summary](summaries/20230904.md) | [Transcript](transcripts/20230904/transcript.vtt) |
-| 2023-09-06 | Wed | [Episode 16](https://youtu.be/Z3C4pzDIeEo) | let's make it a good one ✨ | [Summary](summaries/20230906.md) | [Transcript](transcripts/20230906/transcript.vtt) |
-| 2023-09-08 | Fri | [Episode 17](https://youtu.be/HRSKx7qshyQ) | here comes the jingle results...! ✨ | [Summary](summaries/20230908.md) | [Transcript](transcripts/20230908/transcript.vtt) |
-| 2023-09-11 | Mon | [Episode 18](https://youtu.be/_scYvetrFEo) | challenge episode! ✨ | [Summary](summaries/20230911.md) | [Transcript](transcripts/20230911/transcript.vtt) |
-| 2023-09-13 | Wed | [Episode 19](https://youtu.be/8w8utBUJwEY) | wednesday warrior ✨ | [Summary](summaries/20230913.md) | [Transcript](transcripts/20230913/transcript.vtt) |
-| 2023-09-15 | Fri | [Episode 20](https://youtu.be/U1pBlHt7jD8) | already the 20th episode?! ✨ | [Summary](summaries/20230915.md) | [Transcript](transcripts/20230915/transcript.vtt) |
-| 2023-09-18 | Mon | [Episode 21](https://youtu.be/ySxu81riSGY) | more challenges?! ✨ | [Summary](summaries/20230918.md) | [Transcript](transcripts/20230918/transcript.vtt) |
-| 2023-09-20 | Wed | [Episode 22](https://youtu.be/_aK_6Wb05hY) | no worries for wednesday ✨ | [Summary](summaries/20230920.md) | [Transcript](transcripts/20230920/transcript.vtt) |
-| 2023-09-22 | Fri | [Episode 23](https://youtu.be/RDlng6GMJno) | end of the week already?! ✨ | [Summary](summaries/20230922.md) | [Transcript](transcripts/20230922/transcript.vtt) |
-| 2023-09-25 | Mon | [Episode 24](https://youtu.be/0mS9yvp-SbM) | another monday together✨ | [Summary](summaries/20230925.md) | [Transcript](transcripts/20230925/transcript.vtt) |
-| 2023-09-27 | Wed | [Episode 25](https://youtu.be/VzT1MBdQsWE) | we'll make it through together ✨ | [Summary](summaries/20230927.md) | [Transcript](transcripts/20230927/transcript.vtt) |
-| 2023-09-29 | Fri | [Episode 26](https://youtu.be/A844xQnE97A) | finally another fun friday✨ | [Summary](summaries/20230929.md) | [Transcript](transcripts/20230929/transcript.vtt) |
-| 2023-10-02 | Mon | [Episode 27](https://youtu.be/PkKdHUz89jY) | new month, new monday ✨ | [Summary](summaries/20231002.md) | [Transcript](transcripts/20231002/transcript.vtt) |
-| 2023-10-04 | Wed | [Episode 28](https://youtu.be/gwjuPSwi2Ho) | special wednesday with you ✨ | [Summary](summaries/20231004.md) | [Transcript](transcripts/20231004/transcript.vtt) |
-| 2023-10-06 | Fri | [Episode 29](https://youtu.be/Tu6QNPp9d3c) | finally friday (and some secrets) ✨ | [Summary](summaries/20231006.md) | [Transcript](transcripts/20231006/transcript.vtt) |
-| 2023-10-09 | Mon | [Episode 30](https://youtu.be/4ljeCZkA2mc) | how is it episode 30 already?✨ | [Summary](summaries/20231009.md) | [Transcript](transcripts/20231009/transcript.vtt) |
-| 2023-10-11 | Wed | [Episode 31](https://youtu.be/f270ObaKNZw) | wednesday strength for you ✨ | [Summary](summaries/20231011.md) | [Transcript](transcripts/20231011/transcript.vtt) |
+| 2023-07-31 | Mon | [Episode #0](https://youtu.be/Qd7ohtlOOkQ) | pilot episodes always end up a bit different than the planned show, huh! 🐾  | [Summary](summaries/20230731.md) | [Transcript](transcripts/20230731/transcript.vtt) |
+| 2023-08-02 | Wed | [Episode #1](https://youtu.be/4giLWiqvyVo) | welcome adventrix! ⚠️ | [Summary](summaries/20230802.md) | [Transcript](transcripts/20230802/transcript.vtt) |
+| 2023-08-04 | Fri | [Episode #2](https://youtu.be/YILB_0QF-uI) | the start to a new day filled with smiles ✨ | [Summary](summaries/20230804.md) | [Transcript](transcripts/20230804/transcript.vtt) |
+| 2023-08-07 | Mon | [Episode #3](https://youtu.be/Nph4ogfhuBE) | misunderstanding corner edition❓ | [Summary](summaries/20230807.md) | [Transcript](transcripts/20230807/transcript.vtt) |
+| 2023-08-09 | Wed | [Episode #4](https://youtu.be/cS_4XGXUOeg) | happy mornings with you! ✨ | [Summary](summaries/20230809.md) | [Transcript](transcripts/20230809/transcript.vtt) |
+| 2023-08-11 | Fri | [Episode #5](https://youtu.be/v5U0pUY24xs) | FWMC vs. your morning coffee! ✨ | [Summary](summaries/20230811.md) | [Transcript](transcripts/20230811/transcript.vtt) |
+| 2023-08-14 | Mon | [Episode #6](https://youtu.be/VdRKCMgF-Ug) | how about a bit of FWMC to start your day? ✨ | [Summary](summaries/20230814.md) | [Transcript](transcripts/20230814/transcript.vtt) |
+| 2023-08-16 | Wed | [Episode #7](https://youtu.be/sUJVYegLEN4) | wake up together! ✨ | [Summary](summaries/20230816.md) | [Transcript](transcripts/20230816/transcript.vtt) |
+| 2023-08-18 | Fri | [Episode #8](https://youtu.be/-UBdZ4tykfI) | spend the last day of the work week together! ✨ | [Summary](summaries/20230818.md) | [Transcript](transcripts/20230818/transcript.vtt) |
+| 2023-08-21 | Mon | [Episode #9](https://youtu.be/4IX46S1AiJk) | are you ready to WAKE UP? ✨ | [Summary](summaries/20230821.md) | [Transcript](transcripts/20230821/transcript.vtt) |
+| 2023-08-23 | Wed | [Episode #10](https://youtu.be/Vi46JBb2aY4) | somehow we're already at episode 10!! ✨ | [Summary](summaries/20230823.md) | [Transcript](transcripts/20230823/transcript.vtt) |
+| 2023-08-25 | Fri | [Episode #11](https://youtu.be/dZwzqM4UOME) | pero pero pero ✨ | [Summary](summaries/20230825.md) | [Transcript](transcripts/20230825/transcript.vtt) |
+| 2023-08-28 | Mon | [Episode #12](https://youtu.be/wz04zoH_THU) | a new week together ✨ | [Summary](summaries/20230828.md) | [Transcript](transcripts/20230828/transcript.vtt) |
+| 2023-08-30 | Wed | [Episode #13](https://youtu.be/rD_ZE3DrWlY) | wednesday wednesday wednesday ✨ | [Summary](summaries/20230830.md) | [Transcript](transcripts/20230830/transcript.vtt) |
+| 2023-09-01 | Fri | [Episode #14](https://youtu.be/ydD-l-36UHk) | end of the week party with you ✨ | [Summary](summaries/20230901.md) | [Transcript](transcripts/20230901/transcript.vtt) |
+| 2023-09-04 | Mon | [Episode #15](https://youtu.be/5Qc-PJ_ewGU) | new week new start ✨ | [Summary](summaries/20230904.md) | [Transcript](transcripts/20230904/transcript.vtt) |
+| 2023-09-06 | Wed | [Episode #16](https://youtu.be/Z3C4pzDIeEo) | let's make it a good one ✨ | [Summary](summaries/20230906.md) | [Transcript](transcripts/20230906/transcript.vtt) |
+| 2023-09-08 | Fri | [Episode #17](https://youtu.be/HRSKx7qshyQ) | here comes the jingle results...! ✨ | [Summary](summaries/20230908.md) | [Transcript](transcripts/20230908/transcript.vtt) |
+| 2023-09-11 | Mon | [Episode #18](https://youtu.be/_scYvetrFEo) | challenge episode! ✨ | [Summary](summaries/20230911.md) | [Transcript](transcripts/20230911/transcript.vtt) |
+| 2023-09-13 | Wed | [Episode #19](https://youtu.be/8w8utBUJwEY) | wednesday warrior ✨ | [Summary](summaries/20230913.md) | [Transcript](transcripts/20230913/transcript.vtt) |
+| 2023-09-15 | Fri | [Episode #20](https://youtu.be/U1pBlHt7jD8) | already the 20th episode?! ✨ | [Summary](summaries/20230915.md) | [Transcript](transcripts/20230915/transcript.vtt) |
+| 2023-09-18 | Mon | [Episode #21](https://youtu.be/ySxu81riSGY) | more challenges?! ✨ | [Summary](summaries/20230918.md) | [Transcript](transcripts/20230918/transcript.vtt) |
+| 2023-09-20 | Wed | [Episode #22](https://youtu.be/_aK_6Wb05hY) | no worries for wednesday ✨ | [Summary](summaries/20230920.md) | [Transcript](transcripts/20230920/transcript.vtt) |
+| 2023-09-22 | Fri | [Episode #23](https://youtu.be/RDlng6GMJno) | end of the week already?! ✨ | [Summary](summaries/20230922.md) | [Transcript](transcripts/20230922/transcript.vtt) |
+| 2023-09-25 | Mon | [Episode #24](https://youtu.be/0mS9yvp-SbM) | another monday together✨ | [Summary](summaries/20230925.md) | [Transcript](transcripts/20230925/transcript.vtt) |
+| 2023-09-27 | Wed | [Episode #25](https://youtu.be/VzT1MBdQsWE) | we'll make it through together ✨ | [Summary](summaries/20230927.md) | [Transcript](transcripts/20230927/transcript.vtt) |
+| 2023-09-29 | Fri | [Episode #26](https://youtu.be/A844xQnE97A) | finally another fun friday✨ | [Summary](summaries/20230929.md) | [Transcript](transcripts/20230929/transcript.vtt) |
+| 2023-10-02 | Mon | [Episode #27](https://youtu.be/PkKdHUz89jY) | new month, new monday ✨ | [Summary](summaries/20231002.md) | [Transcript](transcripts/20231002/transcript.vtt) |
+| 2023-10-04 | Wed | [Episode #28](https://youtu.be/gwjuPSwi2Ho) | special wednesday with you ✨ | [Summary](summaries/20231004.md) | [Transcript](transcripts/20231004/transcript.vtt) |
+| 2023-10-06 | Fri | [Episode #29](https://youtu.be/Tu6QNPp9d3c) | finally friday (and some secrets) ✨ | [Summary](summaries/20231006.md) | [Transcript](transcripts/20231006/transcript.vtt) |
+| 2023-10-09 | Mon | [Episode #30](https://youtu.be/4ljeCZkA2mc) | how is it episode 30 already?✨ | [Summary](summaries/20231009.md) | [Transcript](transcripts/20231009/transcript.vtt) |
+| 2023-10-11 | Wed | [Episode #31](https://youtu.be/f270ObaKNZw) | wednesday strength for you ✨ | [Summary](summaries/20231011.md) | [Transcript](transcripts/20231011/transcript.vtt) |
 | 2023-10-13 | Fri | [friday the 13th](https://youtu.be/QW_VwFyUBeU) | i̵͔̠̖͌̈̉̇́̎ẗ̵̢̡̳̦̫̦̫́̌̒͛̀'̷̣̀͐̀́̆s̷̰̦̅͐ ̴̨̻͇͓̼̹̙͋͑f̷̡̩̭͍͇͂̂̓̎̋ü̸̡̙͈̰͚̱̒ẘ̸̧̖̘͈͕͇́̏͐á̶̡̧͔̯̜̬͛́m̶̠̥̮̬̤̮̜̈́̄͂̀̏̈́o̶͚̞͚̐͌͜͝ĉ̵̥̼̀̉̃͝o̷̩͍̠̿̀̉̐͋ ̷̦̂͌ͅm̶͈̣̲̻̖͆̈͘ô̶̢̹̅͊̇̄͝r̸̮͊͌͑n̵̢͉̣̭͚͖̙̿̈́̀i̵̪͙̿̀̄̋͝ͅņ̶͈͎̰̻̘̏g̶͈͔̟͐̓͑̌̄͛͠.̵̡͔̘̣͈̌.̸̡̱̰̔̈́.̶̫͓̃  | [Summary](summaries/20231013.md) | [Transcript](transcripts/20231013/transcript.vtt) |
-| 2023-10-16 | Mon | [Episode 32](https://youtu.be/qTcTR5q0gTk) | power for the new week ✨ | [Summary](summaries/20231016.md) | [Transcript](transcripts/20231016/transcript.vtt) |
-| 2023-10-18 | Wed | [Episode 33](https://youtu.be/1C4TFSqt_nk) | what day of the week is it again ✨ | [Summary](summaries/20231018.md) | [Transcript](transcripts/20231018/transcript.vtt) |
-| 2023-10-20 | Fri | [Episode 34](https://youtu.be/WttmEXH3VWs) | fluffy and fuzzy friday ✨ | [Summary](summaries/20231020.md) | [Transcript](transcripts/20231020/transcript.vtt) |
-| 2023-10-23 | Mon | [Episode 35](https://youtu.be/VV4H3SFTb8k) | make it a happy monday ✨ | [Summary](summaries/20231023.md) | [Transcript](transcripts/20231023/transcript.vtt) |
-| 2023-10-25 | Wed | [Episode 36](https://youtu.be/NRnMHn7bBHI) | how is it already wednesday ✨ | [Summary](summaries/20231025.md) | [Transcript](transcripts/20231025/transcript.vtt) |
-| 2023-10-27 | Fri | [Episode 37](https://youtu.be/JGuhonVvvoE) | (not quite) the spookiest friday of the year ✨ | [Summary](summaries/20231027.md) | [Transcript](transcripts/20231027/transcript.vtt) |
+| 2023-10-16 | Mon | [Episode #32](https://youtu.be/qTcTR5q0gTk) | power for the new week ✨ | [Summary](summaries/20231016.md) | [Transcript](transcripts/20231016/transcript.vtt) |
+| 2023-10-18 | Wed | [Episode #33](https://youtu.be/1C4TFSqt_nk) | what day of the week is it again ✨ | [Summary](summaries/20231018.md) | [Transcript](transcripts/20231018/transcript.vtt) |
+| 2023-10-20 | Fri | [Episode #34](https://youtu.be/WttmEXH3VWs) | fluffy and fuzzy friday ✨ | [Summary](summaries/20231020.md) | [Transcript](transcripts/20231020/transcript.vtt) |
+| 2023-10-23 | Mon | [Episode #35](https://youtu.be/VV4H3SFTb8k) | make it a happy monday ✨ | [Summary](summaries/20231023.md) | [Transcript](transcripts/20231023/transcript.vtt) |
+| 2023-10-25 | Wed | [Episode #36](https://youtu.be/NRnMHn7bBHI) | how is it already wednesday ✨ | [Summary](summaries/20231025.md) | [Transcript](transcripts/20231025/transcript.vtt) |
+| 2023-10-27 | Fri | [Episode #37](https://youtu.be/JGuhonVvvoE) | (not quite) the spookiest friday of the year ✨ | [Summary](summaries/20231027.md) | [Transcript](transcripts/20231027/transcript.vtt) |
 | 2023-10-30 | Mon | [FUWAMOCO MIDNIGHT](https://youtu.be/f6Xtez79CNs) | what happens when the clock strikes midnight? 🍬 | [Summary](summaries/20231030.md) | [Transcript](transcripts/20231030/transcript.vtt) |
-| 2023-11-01 | Wed | [Episode 38](https://youtu.be/X4Anzun9bKk) | survived the spooky season ✨ | [Summary](summaries/20231101.md) | [Transcript](transcripts/20231101/transcript.vtt) |
-| 2023-11-03 | Fri | [Episode 39](https://youtu.be/3Ddj-qG98nU) | big weekend party time ✨ | [Summary](summaries/20231103.md) | [Transcript](transcripts/20231103/transcript.vtt) |
-| 2023-11-06 | Mon | [Episode 40](https://youtu.be/V5v4Na0j9Ro) | week goal: more sleep (hopefully) ✨ | [Summary](summaries/20231106.md) | [Transcript](transcripts/20231106/transcript.vtt) |
-| 2023-11-08 | Wed | [Episode 41](https://youtu.be/8w37u9FOvpk) | thank you ruffians always ✨ | [Summary](summaries/20231108.md) | [Transcript](transcripts/20231108/transcript.vtt) |
-| 2023-11-10 | Fri | [Episode 42](https://youtu.be/pMVUiczAd74) | weekend is here but work work work ✨ | [Summary](summaries/20231110.md) | [Transcript](transcripts/20231110/transcript.vtt) |
-| 2023-11-13 | Mon | [Episode 43](https://youtu.be/TJbJTq8DD-U) | new week already?! ✨ | [Summary](summaries/20231113.md) | [Transcript](transcripts/20231113/transcript.vtt) |
-| 2023-11-15 | Wed | [Episode 44](https://youtu.be/SFB8O55DTNw) | wash the wednesday worries away ✨ | [Summary](summaries/20231115.md) | [Transcript](transcripts/20231115/transcript.vtt) |
-| 2023-11-17 | Fri | [Episode 45](https://youtu.be/O8HEew0UC7A) | wrap up the week together ✨ | [Summary](summaries/20231117.md) | [Transcript](transcripts/20231117/transcript.vtt) |
-| 2023-11-20 | Mon | [Episode 46](https://youtu.be/8mI5oiPOYm4) | where has november gone HUH ✨ | [Summary](summaries/20231120.md) | [Transcript](transcripts/20231120/transcript.vtt) |
-| 2023-11-22 | Wed | [Episode 47](https://youtu.be/duICxeTSRJo) | wednesday WORK HARD DAY ✨ | [Summary](summaries/20231122.md) | [Transcript](transcripts/20231122/transcript.vtt) |
-| 2023-11-24 | Fri | [Episode 48](https://youtu.be/fRytzbbNoCo) | it's our special day as sisters soon, surely you haven't forgotten...? ✨ | [Summary](summaries/20231124.md) | [Transcript](transcripts/20231124/transcript.vtt) |
-| 2023-11-27 | Mon | [Episode 49](https://youtu.be/6wfIKjnYxwQ) | closing in on something big...! ✨ | [Summary](summaries/20231127.md) | [Transcript](transcripts/20231127/transcript.vtt) |
-| 2023-11-29 | Wed | [Episode 50](https://youtu.be/fPFDx54Y1tI) | and before we even knew it, we're here... episode 50!! 💕✨ | [Summary](summaries/20231129.md) | [Transcript](transcripts/20231129/transcript.vtt) |
-| 2023-12-01 | Fri | [Episode 51](https://youtu.be/v6lsxvh3qNs) | we continue onwards and upwards ✨ | [Summary](summaries/20231201.md) | [Transcript](transcripts/20231201/transcript.vtt) |
-| 2023-12-04 | Mon | [Episode 52](https://youtu.be/Iq0PC1B8HCM) | another start to a week spent together ✨ | [Summary](summaries/20231204.md) | [Transcript](transcripts/20231204/transcript.vtt) |
-| 2023-12-06 | Wed | [Episode 53](https://youtu.be/c5y7fR88Ngo) | are you awake wednesday!! ✨ | [Summary](summaries/20231206.md) | [Transcript](transcripts/20231206/transcript.vtt) |
-| 2023-12-08 | Fri | [Episode 54](https://youtu.be/91NURP2SgC8) | today is the day of BIG ANNOUNCEMENT ✨ | [Summary](summaries/20231208.md) | [Transcript](transcripts/20231208/transcript.vtt) |
-| 2023-12-11 | Mon | [Episode 55](https://youtu.be/j1vp5W3pYpA) | not more nattou... ✨ | [Summary](summaries/20231211.md) | [Transcript](transcripts/20231211/transcript.vtt) |
-| 2023-12-13 | Wed | [Episode 56](https://youtu.be/OSGvHVy1wn0) | conquer it step by step ✨ | [Summary](summaries/20231213.md) | [Transcript](transcripts/20231213/transcript.vtt) |
-| 2023-12-15 | Fri | [Episode 57](https://youtu.be/suSvc7ijPv8) | feeling like a festive Friday ✨ | [Summary](summaries/20231215.md) | [Transcript](transcripts/20231215/transcript.vtt) |
-| 2023-12-18 | Mon | [Episode 58](https://youtu.be/VwnzT5CkWds) | up to the Monday challenge ✨ | [Summary](summaries/20231218.md) | [Transcript](transcripts/20231218/transcript.vtt) |
-| 2023-12-20 | Wed | [Episode 59](https://youtu.be/7TWeHToWRyU) | what do you mean it's wednesday ✨ | [Summary](summaries/20231220.md) | [Transcript](transcripts/20231220/transcript.vtt) |
-| 2023-12-22 | Fri | [Episode 60](https://youtu.be/zu3kYXC8GYs) | only a few more sleeps and it's...! ✨ | [Summary](summaries/20231222.md) | [Transcript](transcripts/20231222/transcript.vtt) |
+| 2023-11-01 | Wed | [Episode #38](https://youtu.be/X4Anzun9bKk) | survived the spooky season ✨ | [Summary](summaries/20231101.md) | [Transcript](transcripts/20231101/transcript.vtt) |
+| 2023-11-03 | Fri | [Episode #39](https://youtu.be/3Ddj-qG98nU) | big weekend party time ✨ | [Summary](summaries/20231103.md) | [Transcript](transcripts/20231103/transcript.vtt) |
+| 2023-11-06 | Mon | [Episode #40](https://youtu.be/V5v4Na0j9Ro) | week goal: more sleep (hopefully) ✨ | [Summary](summaries/20231106.md) | [Transcript](transcripts/20231106/transcript.vtt) |
+| 2023-11-08 | Wed | [Episode #41](https://youtu.be/8w37u9FOvpk) | thank you ruffians always ✨ | [Summary](summaries/20231108.md) | [Transcript](transcripts/20231108/transcript.vtt) |
+| 2023-11-10 | Fri | [Episode #42](https://youtu.be/pMVUiczAd74) | weekend is here but work work work ✨ | [Summary](summaries/20231110.md) | [Transcript](transcripts/20231110/transcript.vtt) |
+| 2023-11-13 | Mon | [Episode #43](https://youtu.be/TJbJTq8DD-U) | new week already?! ✨ | [Summary](summaries/20231113.md) | [Transcript](transcripts/20231113/transcript.vtt) |
+| 2023-11-15 | Wed | [Episode #44](https://youtu.be/SFB8O55DTNw) | wash the wednesday worries away ✨ | [Summary](summaries/20231115.md) | [Transcript](transcripts/20231115/transcript.vtt) |
+| 2023-11-17 | Fri | [Episode #45](https://youtu.be/O8HEew0UC7A) | wrap up the week together ✨ | [Summary](summaries/20231117.md) | [Transcript](transcripts/20231117/transcript.vtt) |
+| 2023-11-20 | Mon | [Episode #46](https://youtu.be/8mI5oiPOYm4) | where has november gone HUH ✨ | [Summary](summaries/20231120.md) | [Transcript](transcripts/20231120/transcript.vtt) |
+| 2023-11-22 | Wed | [Episode #47](https://youtu.be/duICxeTSRJo) | wednesday WORK HARD DAY ✨ | [Summary](summaries/20231122.md) | [Transcript](transcripts/20231122/transcript.vtt) |
+| 2023-11-24 | Fri | [Episode #48](https://youtu.be/fRytzbbNoCo) | it's our special day as sisters soon, surely you haven't forgotten...? ✨ | [Summary](summaries/20231124.md) | [Transcript](transcripts/20231124/transcript.vtt) |
+| 2023-11-27 | Mon | [Episode #49](https://youtu.be/6wfIKjnYxwQ) | closing in on something big...! ✨ | [Summary](summaries/20231127.md) | [Transcript](transcripts/20231127/transcript.vtt) |
+| 2023-11-29 | Wed | [Episode #50](https://youtu.be/fPFDx54Y1tI) | and before we even knew it, we're here... episode 50!! 💕✨ | [Summary](summaries/20231129.md) | [Transcript](transcripts/20231129/transcript.vtt) |
+| 2023-12-01 | Fri | [Episode #51](https://youtu.be/v6lsxvh3qNs) | we continue onwards and upwards ✨ | [Summary](summaries/20231201.md) | [Transcript](transcripts/20231201/transcript.vtt) |
+| 2023-12-04 | Mon | [Episode #52](https://youtu.be/Iq0PC1B8HCM) | another start to a week spent together ✨ | [Summary](summaries/20231204.md) | [Transcript](transcripts/20231204/transcript.vtt) |
+| 2023-12-06 | Wed | [Episode #53](https://youtu.be/c5y7fR88Ngo) | are you awake wednesday!! ✨ | [Summary](summaries/20231206.md) | [Transcript](transcripts/20231206/transcript.vtt) |
+| 2023-12-08 | Fri | [Episode #54](https://youtu.be/91NURP2SgC8) | today is the day of BIG ANNOUNCEMENT ✨ | [Summary](summaries/20231208.md) | [Transcript](transcripts/20231208/transcript.vtt) |
+| 2023-12-11 | Mon | [Episode #55](https://youtu.be/j1vp5W3pYpA) | not more nattou... ✨ | [Summary](summaries/20231211.md) | [Transcript](transcripts/20231211/transcript.vtt) |
+| 2023-12-13 | Wed | [Episode #56](https://youtu.be/OSGvHVy1wn0) | conquer it step by step ✨ | [Summary](summaries/20231213.md) | [Transcript](transcripts/20231213/transcript.vtt) |
+| 2023-12-15 | Fri | [Episode #57](https://youtu.be/suSvc7ijPv8) | feeling like a festive Friday ✨ | [Summary](summaries/20231215.md) | [Transcript](transcripts/20231215/transcript.vtt) |
+| 2023-12-18 | Mon | [Episode #58](https://youtu.be/VwnzT5CkWds) | up to the Monday challenge ✨ | [Summary](summaries/20231218.md) | [Transcript](transcripts/20231218/transcript.vtt) |
+| 2023-12-20 | Wed | [Episode #59](https://youtu.be/7TWeHToWRyU) | what do you mean it's wednesday ✨ | [Summary](summaries/20231220.md) | [Transcript](transcripts/20231220/transcript.vtt) |
+| 2023-12-22 | Fri | [Episode #60](https://youtu.be/zu3kYXC8GYs) | only a few more sleeps and it's...! ✨ | [Summary](summaries/20231222.md) | [Transcript](transcripts/20231222/transcript.vtt) |
 | 2023-12-25 | Mon | [christmas edition](https://youtu.be/ddeU_2d6pjA) | the C in FWMC stands for CHRISTMAS 🎁✨ | [Summary](summaries/20231225.md) | [Transcript](transcripts/20231225/transcript.vtt) |
-| 2023-12-27 | Wed | [Episode 61](https://youtu.be/N-x6_8v4nnw) | last FWMC MORNING of the year ✨ | [Summary](summaries/20231227.md) | [Transcript](transcripts/20231227/transcript.vtt) |
+| 2023-12-27 | Wed | [Episode #61](https://youtu.be/N-x6_8v4nnw) | last FWMC MORNING of the year ✨ | [Summary](summaries/20231227.md) | [Transcript](transcripts/20231227/transcript.vtt) |
 | 2023-12-29 | Fri | [#あさモコLIVE](https://youtu.be/2LBUGKmvebc) | It's time for ASAMOCO! ✨ | [Summary](summaries/20231229.md) | [Transcript](transcripts/20231229/transcript.vtt) |
-| 2024-01-01 | Mon | [Episode 62](https://youtu.be/YxkjfewtHpE) | first FWMC morning of the year!! ✨ | [Summary](summaries/20240101.md) | [Transcript](transcripts/20240101/transcript.vtt) |
-| 2024-01-03 | Wed | [Episode 63](https://youtu.be/xE6S8eMeHRw) | begin the year on the right paw ✨ | [Summary](summaries/20240103.md) | [Transcript](transcripts/20240103/transcript.vtt) |
-| 2024-01-05 | Fri | [Episode 64](https://youtu.be/IvcuF4RlRvQ) | time to breathe again ✨ | [Summary](summaries/20240105.md) | [Transcript](transcripts/20240105/transcript.vtt) |
-| 2024-01-08 | Mon | [Episode 65](https://youtu.be/Q8pQaiEmNAQ) | we did it!! ✨ | [Summary](summaries/20240108.md) | [Transcript](transcripts/20240108/transcript.vtt) |
-| 2024-01-10 | Wed | [Episode 66](https://youtu.be/js_Z9bB1Sog) | spooky (but maybe not) ✨ | [Summary](summaries/20240110.md) | [Transcript](transcripts/20240110/transcript.vtt) |
-| 2024-01-12 | Fri | [Episode 67](https://youtu.be/JJR8hAEbECA) | time to rest the paws ✨ | [Summary](summaries/20240112.md) | [Transcript](transcripts/20240112/transcript.vtt) |
-| 2024-01-15 | Mon | [Episode 68](https://youtu.be/Cedlvs7ur7k) | the fluff and fuzz will keep you warm ✨ | [Summary](summaries/20240115.md) | [Transcript](transcripts/20240115/transcript.vtt) |
-| 2024-01-17 | Wed | [Episode 69](https://youtu.be/r-bJNL11ah4) | warm-you-up wednesday ✨ | [Summary](summaries/20240117.md) | [Transcript](transcripts/20240117/transcript.vtt) |
-| 2024-01-19 | Fri | [Episode 70](https://youtu.be/E_hsZFDEKPs) | super silly episode 70 ✨ | [Summary](summaries/20240119.md) | [Transcript](transcripts/20240119/transcript.vtt) |
-| 2024-01-22 | Mon | [Episode 71](https://youtu.be/MR38tWe0r38) | monday madness ✨ | [Summary](summaries/20240122.md) | [Transcript](transcripts/20240122/transcript.vtt) |
-| 2024-01-24 | Wed | [Episode 72](https://youtu.be/fTaj_UzI3rs) | wake up wake up wake up ✨ | [Summary](summaries/20240124.md) | [Transcript](transcripts/20240124/transcript.vtt) |
-| 2024-01-26 | Fri | [Episode 73](https://youtu.be/Kg3z19krjxc) | where does the time go ✨ | [Summary](summaries/20240126.md) | [Transcript](transcripts/20240126/transcript.vtt) |
-| 2024-01-29 | Mon | [Episode 74](https://youtu.be/rShDkBgyol4) | 6 months is just crazy ✨ | [Summary](summaries/20240129.md) | [Transcript](transcripts/20240129/transcript.vtt) |
-| 2024-01-31 | Wed | [Episode 75](https://youtu.be/gxZYeXU5Dek) | how is this episode 75 though (that's just weird) ✨ | [Summary](summaries/20240131.md) | [Transcript](transcripts/20240131/transcript.vtt) |
-| 2024-02-02 | Fri | [Episode 76](https://youtu.be/dc8RmlvhM9k) | FWMC birthday edition ✨ | [Summary](summaries/20240202.md) | [Transcript](transcripts/20240202/transcript.vtt) |
-| 2024-02-05 | Mon | [Episode 77](https://youtu.be/gunjt6dWp_Y) | FWMC lucky 7 ✨ | [Summary](summaries/20240205.md) | [Transcript](transcripts/20240205/transcript.vtt) |
-| 2024-02-07 | Wed | [Episode 78](https://youtu.be/Q63GpUbKjjw) | fwmc info session ✨ | [Summary](summaries/20240207.md) | [Transcript](transcripts/20240207/transcript.vtt) |
-| 2024-02-09 | Fri | [Episode 79](https://youtu.be/8TbaxoOgHhQ) | fluffy fuzzy februrary friday ✨ | [Summary](summaries/20240209.md) | [Transcript](transcripts/20240209/transcript.vtt) |
-| 2024-02-12 | Mon | [Episode 80](https://youtu.be/m-kuDdF_iLc) | soup brain monday ✨ | [Summary](summaries/20240212.md) | [Transcript](transcripts/20240212/transcript.vtt) |
+| 2024-01-01 | Mon | [Episode #62](https://youtu.be/YxkjfewtHpE) | first FWMC morning of the year!! ✨ | [Summary](summaries/20240101.md) | [Transcript](transcripts/20240101/transcript.vtt) |
+| 2024-01-03 | Wed | [Episode #63](https://youtu.be/xE6S8eMeHRw) | begin the year on the right paw ✨ | [Summary](summaries/20240103.md) | [Transcript](transcripts/20240103/transcript.vtt) |
+| 2024-01-05 | Fri | [Episode #64](https://youtu.be/IvcuF4RlRvQ) | time to breathe again ✨ | [Summary](summaries/20240105.md) | [Transcript](transcripts/20240105/transcript.vtt) |
+| 2024-01-08 | Mon | [Episode #65](https://youtu.be/Q8pQaiEmNAQ) | we did it!! ✨ | [Summary](summaries/20240108.md) | [Transcript](transcripts/20240108/transcript.vtt) |
+| 2024-01-10 | Wed | [Episode #66](https://youtu.be/js_Z9bB1Sog) | spooky (but maybe not) ✨ | [Summary](summaries/20240110.md) | [Transcript](transcripts/20240110/transcript.vtt) |
+| 2024-01-12 | Fri | [Episode #67](https://youtu.be/JJR8hAEbECA) | time to rest the paws ✨ | [Summary](summaries/20240112.md) | [Transcript](transcripts/20240112/transcript.vtt) |
+| 2024-01-15 | Mon | [Episode #68](https://youtu.be/Cedlvs7ur7k) | the fluff and fuzz will keep you warm ✨ | [Summary](summaries/20240115.md) | [Transcript](transcripts/20240115/transcript.vtt) |
+| 2024-01-17 | Wed | [Episode #69](https://youtu.be/r-bJNL11ah4) | warm-you-up wednesday ✨ | [Summary](summaries/20240117.md) | [Transcript](transcripts/20240117/transcript.vtt) |
+| 2024-01-19 | Fri | [Episode #70](https://youtu.be/E_hsZFDEKPs) | super silly episode 70 ✨ | [Summary](summaries/20240119.md) | [Transcript](transcripts/20240119/transcript.vtt) |
+| 2024-01-22 | Mon | [Episode #71](https://youtu.be/MR38tWe0r38) | monday madness ✨ | [Summary](summaries/20240122.md) | [Transcript](transcripts/20240122/transcript.vtt) |
+| 2024-01-24 | Wed | [Episode #72](https://youtu.be/fTaj_UzI3rs) | wake up wake up wake up ✨ | [Summary](summaries/20240124.md) | [Transcript](transcripts/20240124/transcript.vtt) |
+| 2024-01-26 | Fri | [Episode #73](https://youtu.be/Kg3z19krjxc) | where does the time go ✨ | [Summary](summaries/20240126.md) | [Transcript](transcripts/20240126/transcript.vtt) |
+| 2024-01-29 | Mon | [Episode #74](https://youtu.be/rShDkBgyol4) | 6 months is just crazy ✨ | [Summary](summaries/20240129.md) | [Transcript](transcripts/20240129/transcript.vtt) |
+| 2024-01-31 | Wed | [Episode #75](https://youtu.be/gxZYeXU5Dek) | how is this episode 75 though (that's just weird) ✨ | [Summary](summaries/20240131.md) | [Transcript](transcripts/20240131/transcript.vtt) |
+| 2024-02-02 | Fri | [Episode #76](https://youtu.be/dc8RmlvhM9k) | FWMC birthday edition ✨ | [Summary](summaries/20240202.md) | [Transcript](transcripts/20240202/transcript.vtt) |
+| 2024-02-05 | Mon | [Episode #77](https://youtu.be/gunjt6dWp_Y) | FWMC lucky 7 ✨ | [Summary](summaries/20240205.md) | [Transcript](transcripts/20240205/transcript.vtt) |
+| 2024-02-07 | Wed | [Episode #78](https://youtu.be/Q63GpUbKjjw) | fwmc info session ✨ | [Summary](summaries/20240207.md) | [Transcript](transcripts/20240207/transcript.vtt) |
+| 2024-02-09 | Fri | [Episode #79](https://youtu.be/8TbaxoOgHhQ) | fluffy fuzzy februrary friday ✨ | [Summary](summaries/20240209.md) | [Transcript](transcripts/20240209/transcript.vtt) |
+| 2024-02-12 | Mon | [Episode #80](https://youtu.be/m-kuDdF_iLc) | soup brain monday ✨ | [Summary](summaries/20240212.md) | [Transcript](transcripts/20240212/transcript.vtt) |
 | 2024-02-14 | Wed | [BAU-lentine's day](https://youtu.be/nMl8WQ1Iuls) | may your heart be filled with fluff and fuzz 💕🍫 | [Summary](summaries/20240214.md) | [Transcript](transcripts/20240214/transcript.vtt) |
-| 2024-02-16 | Fri | [Episode 81](https://youtu.be/QotQYM6nqGQ) | the LOVEliest friday ✨ | [Summary](summaries/20240216.md) | [Transcript](transcripts/20240216/transcript.vtt) |
-| 2024-02-19 | Mon | [Episode 82](https://youtu.be/BW7yzCaqTII) | can we beat 8 beans...? ✨ | [Summary](summaries/20240219.md) | [Transcript](transcripts/20240219/transcript.vtt) |
-| 2024-02-21 | Wed | [Episode 83](https://youtu.be/8b9vrCNeXfI) | who needs a pup talk ✨ | [Summary](summaries/20240221.md) | [Transcript](transcripts/20240221/transcript.vtt) |
-| 2024-02-23 | Fri | [Episode 84](https://youtu.be/6-XcGLUSYFE) | bau bau baby ✨ | [Summary](summaries/20240223.md) | [Transcript](transcripts/20240223/transcript.vtt) |
-| 2024-04-15 | Mon | [Episode 85](https://youtu.be/3vjDKAjuN90) | make sure to wake up ✨ | [Summary](summaries/20240415.md) | [Transcript](transcripts/20240415/transcript.vtt) |
-| 2024-04-17 | Wed | [Episode 86](https://youtu.be/ktznm6I4N40) | what did you miss on wednesdays? ✨ | [Summary](summaries/20240417.md) | [Transcript](transcripts/20240417/transcript.vtt) |
-| 2024-04-19 | Fri | [Episode 87](https://youtu.be/Ddkp6C2xKnc) | another full week of FWMC MORNING ✨ | [Summary](summaries/20240419.md) | [Transcript](transcripts/20240419/transcript.vtt) |
-| 2024-04-22 | Mon | [Episode 88](https://youtu.be/XK4HLRuDAaU) | bau bau 88 ✨ | [Summary](summaries/20240422.md) | [Transcript](transcripts/20240422/transcript.vtt) |
-| 2024-04-24 | Wed | [Episode 89](https://youtu.be/_uAalFIWtqM) | i just sneezed 6 times in a row ✨ | [Summary](summaries/20240424.md) | [Transcript](transcripts/20240424/transcript.vtt) |
-| 2024-04-26 | Fri | [Episode 90](https://youtu.be/gCYXKgYcFmk) | BAU BAU WAOーN ✨ | [Summary](summaries/20240426.md) | [Transcript](transcripts/20240426/transcript.vtt) |
-| 2024-04-29 | Mon | [Episode 91](https://youtu.be/xlARRtCMwSY) | start a new week fluffy & fuzzy ✨ | [Summary](summaries/20240429.md) | [Transcript](transcripts/20240429/transcript.vtt) |
-| 2024-05-01 | Wed | [Episode 92](https://youtu.be/1pNasjVO0mk) | golden week wednesday ✨ | [Summary](summaries/20240501.md) | [Transcript](transcripts/20240501/transcript.vtt) |
-| 2024-05-03 | Fri | [Episode 93](https://youtu.be/g74KvmrYo0M) | start of the weekend holidays (not so golden?!) ✨ | [Summary](summaries/20240503.md) | [Transcript](transcripts/20240503/transcript.vtt) |
-| 2024-05-06 | Mon | [Episode 94](https://youtu.be/5uQ0WNOn6Eg) | back to the dash ✨ | [Summary](summaries/20240506.md) | [Transcript](transcripts/20240506/transcript.vtt) |
-| 2024-05-08 | Wed | [Episode 95](https://youtu.be/jxsLZqPS--M) | wednesday break together ✨ | [Summary](summaries/20240508.md) | [Transcript](transcripts/20240508/transcript.vtt) |
-| 2024-05-10 | Fri | [Episode 96](https://youtu.be/b7e9XNZe9c0) | go go go doggo ✨ | [Summary](summaries/20240510.md) | [Transcript](transcripts/20240510/transcript.vtt) |
-| 2024-06-10 | Mon | [Episode 97](https://youtu.be/oKVNiM-NuJU) | back to mornings together ✨ | [Summary](summaries/20240610.md) | [Transcript](transcripts/20240610/transcript.vtt) |
-| 2024-06-12 | Wed | [Episode 98](https://youtu.be/5qFX0nlnHIQ) | fluffy dream episode ✨ | [Summary](summaries/20240612.md) | [Transcript](transcripts/20240612/transcript.vtt) |
-| 2024-06-14 | Fri | [Episode 99](https://youtu.be/8cOOCpt6HNM) | we can't believe it, the number 99 ✨ | [Summary](summaries/20240614.md) | [Transcript](transcripts/20240614/transcript.vtt) |
+| 2024-02-16 | Fri | [Episode #81](https://youtu.be/QotQYM6nqGQ) | the LOVEliest friday ✨ | [Summary](summaries/20240216.md) | [Transcript](transcripts/20240216/transcript.vtt) |
+| 2024-02-19 | Mon | [Episode #82](https://youtu.be/BW7yzCaqTII) | can we beat 8 beans...? ✨ | [Summary](summaries/20240219.md) | [Transcript](transcripts/20240219/transcript.vtt) |
+| 2024-02-21 | Wed | [Episode #83](https://youtu.be/8b9vrCNeXfI) | who needs a pup talk ✨ | [Summary](summaries/20240221.md) | [Transcript](transcripts/20240221/transcript.vtt) |
+| 2024-02-23 | Fri | [Episode #84](https://youtu.be/6-XcGLUSYFE) | bau bau baby ✨ | [Summary](summaries/20240223.md) | [Transcript](transcripts/20240223/transcript.vtt) |
+| 2024-04-15 | Mon | [Episode #85](https://youtu.be/3vjDKAjuN90) | make sure to wake up ✨ | [Summary](summaries/20240415.md) | [Transcript](transcripts/20240415/transcript.vtt) |
+| 2024-04-17 | Wed | [Episode #86](https://youtu.be/ktznm6I4N40) | what did you miss on wednesdays? ✨ | [Summary](summaries/20240417.md) | [Transcript](transcripts/20240417/transcript.vtt) |
+| 2024-04-19 | Fri | [Episode #87](https://youtu.be/Ddkp6C2xKnc) | another full week of FWMC MORNING ✨ | [Summary](summaries/20240419.md) | [Transcript](transcripts/20240419/transcript.vtt) |
+| 2024-04-22 | Mon | [Episode #88](https://youtu.be/XK4HLRuDAaU) | bau bau 88 ✨ | [Summary](summaries/20240422.md) | [Transcript](transcripts/20240422/transcript.vtt) |
+| 2024-04-24 | Wed | [Episode #89](https://youtu.be/_uAalFIWtqM) | i just sneezed 6 times in a row ✨ | [Summary](summaries/20240424.md) | [Transcript](transcripts/20240424/transcript.vtt) |
+| 2024-04-26 | Fri | [Episode #90](https://youtu.be/gCYXKgYcFmk) | BAU BAU WAOーN ✨ | [Summary](summaries/20240426.md) | [Transcript](transcripts/20240426/transcript.vtt) |
+| 2024-04-29 | Mon | [Episode #91](https://youtu.be/xlARRtCMwSY) | start a new week fluffy & fuzzy ✨ | [Summary](summaries/20240429.md) | [Transcript](transcripts/20240429/transcript.vtt) |
+| 2024-05-01 | Wed | [Episode #92](https://youtu.be/1pNasjVO0mk) | golden week wednesday ✨ | [Summary](summaries/20240501.md) | [Transcript](transcripts/20240501/transcript.vtt) |
+| 2024-05-03 | Fri | [Episode #93](https://youtu.be/g74KvmrYo0M) | start of the weekend holidays (not so golden?!) ✨ | [Summary](summaries/20240503.md) | [Transcript](transcripts/20240503/transcript.vtt) |
+| 2024-05-06 | Mon | [Episode #94](https://youtu.be/5uQ0WNOn6Eg) | back to the dash ✨ | [Summary](summaries/20240506.md) | [Transcript](transcripts/20240506/transcript.vtt) |
+| 2024-05-08 | Wed | [Episode #95](https://youtu.be/jxsLZqPS--M) | wednesday break together ✨ | [Summary](summaries/20240508.md) | [Transcript](transcripts/20240508/transcript.vtt) |
+| 2024-05-10 | Fri | [Episode #96](https://youtu.be/b7e9XNZe9c0) | go go go doggo ✨ | [Summary](summaries/20240510.md) | [Transcript](transcripts/20240510/transcript.vtt) |
+| 2024-06-10 | Mon | [Episode #97](https://youtu.be/oKVNiM-NuJU) | back to mornings together ✨ | [Summary](summaries/20240610.md) | [Transcript](transcripts/20240610/transcript.vtt) |
+| 2024-06-12 | Wed | [Episode #98](https://youtu.be/5qFX0nlnHIQ) | fluffy dream episode ✨ | [Summary](summaries/20240612.md) | [Transcript](transcripts/20240612/transcript.vtt) |
+| 2024-06-14 | Fri | [Episode #99](https://youtu.be/8cOOCpt6HNM) | we can't believe it, the number 99 ✨ | [Summary](summaries/20240614.md) | [Transcript](transcripts/20240614/transcript.vtt) |
