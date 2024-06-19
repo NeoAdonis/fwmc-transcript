@@ -97,7 +97,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
 
     # Fix common mistakes in the transcript
     $TranscriptFile = Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $FileBaseName } | Select-Object -First 1
-    $TranscriptContent = Get-Content -Path $TranscriptFile.FullName -Raw
+    $TranscriptContent = Get-Content -Path $TranscriptFile.FullName
     Get-Content -Path './config/replacements.csv' | ConvertFrom-Csv | ForEach-Object {
         $TranscriptContent = $TranscriptContent -replace $_.Pattern, $_.Replacement
     }
