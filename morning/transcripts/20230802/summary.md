@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## 700K Views on "Kaibutsu" (5:59)
+## 700K Views on "Kaibutsu" (05:59)
 
-FUWAMOCO thanks Ruffians for the 700K views on their [cover of YOASOBI's "Kaibutsu"](https://youtu.be/Yr1EI_jYBB8).
+FUWAMOCO thank Ruffians for the 700K views on their [cover of YOASOBI's "Kaibutsu"](https://youtu.be/Yr1EI_jYBB8).
 
-## Misunderstanding (8:40)
+## Misunderstanding (08:40)
 
 Mococo apologizes for not knowing about [Ina's "TOMORROW!"](https://youtu.be/sMcfFmR0MmA) meme despite their high grades in the Official Hololive Knowledge Test. Also, Fuwawa thought of a different thing when asked about her posture on Takenoko vs. Kinoko.
 

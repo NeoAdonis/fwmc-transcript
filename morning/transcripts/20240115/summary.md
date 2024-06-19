@@ -8,7 +8,7 @@ Pero was spotted as hot chocolate, looking warm and cozy, which Fuwawa and Mococ
 
 ## "Identity" 500k Views (10:25)
 
-FUWAMOCO celebrates their cover of Kanaya's "Identity" reaching 500,000 views, expressing happiness and hope for future original music.
+FUWAMOCO celebrate their cover of Kanaya's "Identity" reaching 500,000 views, expressing happiness and hope for future original music.
 
 ## holoEN "Mind craft" Release (12:16)
 
@@ -44,7 +44,7 @@ Preparing an episode of FUWAMOCO Morning takes about three hours, with FUWAMOCO 
 
 ## Next Stream & Schedule (34:02)
 
-FUWAMOCO announces their upcoming stream, Escalator, and a first-time viewing of Kanon 2006, inviting Ruffians to join them.
+FUWAMOCO announce their upcoming stream, Escalator, and a first-time viewing of Kanon 2006, inviting Ruffians to join them.
 
 ## Thanks & Extra Special Ruffians (35:02)
 

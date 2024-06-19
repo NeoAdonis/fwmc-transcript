@@ -36,7 +36,7 @@ Ruffians share a vacation-like walk to a hidden beach, inspiring FUWAMOCO to ima
 
 ## Question of the Day (25:27)
 
-FUWAMOCO holds their breath for nearly a minute, aiming to improve their lung capacity for better singing in the future.
+FUWAMOCO hold their breath for nearly a minute, aiming to improve their lung capacity for better singing in the future.
 
 ## Next Stream & Schedule (28:56)
 

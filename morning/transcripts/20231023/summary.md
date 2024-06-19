@@ -1,6 +1,6 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (8:12)
+## Pero Sighting (08:12)
 
 [CPTTANKERJOE](https://twitter.com/CPTTANKERJOEv2/status/1702487834135851171) found Pero working hard at a steel shop.
 

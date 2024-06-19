@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (7:26)
+## Pero Sighting (07:26)
 
 [Itta](https://twitter.com/Itta12065/status/1702728531233611885) found Pero having a deserved break at the beach after so many adventures around the world.
 
-## Kobo 3D Showcase (9:27)
+## Kobo 3D Showcase (09:27)
 
 Rain shaman from hololive Indonesia Gen 3 [Kobo Kanaeru](https://www.youtube.com/@KoboKanaeru) will be having a 3D showcase! 2023-10-27T05:00Z
 

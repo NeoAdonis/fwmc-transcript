@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:35)
+## Pero Sighting (06:35)
 
 [Akiwave](https://twitter.com/Rassver/status/1707402515640185020) found Pero relaxing near a pool that looks kind of familiar...
 
-## Baelz 3D Showcase (8:47)
+## Baelz 3D Showcase (08:47)
 
 FUWAMOCO remind us to tune in for [Hakos Baelz's 3D Showcase](https://youtu.be/Qd5HBpoOIJA)! - 2023-09-30T19:00Z
 

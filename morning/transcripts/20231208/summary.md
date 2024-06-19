@@ -40,7 +40,7 @@ Ruffians shared a photo that looks like a scene from a winter romance movie, enj
 
 ## Question of the Day (26:08)
 
-FUWAMOCO clarifies they won’t transform into a form similar to Pero when they become masters.
+FUWAMOCO clarify they won’t transform into a form similar to Pero when they become masters.
 
 ## Next Stream & Schedule (27:56)
 

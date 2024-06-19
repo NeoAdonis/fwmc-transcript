@@ -12,7 +12,7 @@ FUWAMOCO thanks Ruffians for 100,000 views on their original intro song, "Lifeti
 
 ## DEV_IS ReGLOSS (11:22)
 
-FUWAMOCO shares their excitement about becoming senpai with the debut of the new group ReGLOSS from a new hololive branch. They speculate about the new group's personality and look forward to collaborations.
+FUWAMOCO share their excitement about becoming senpai with the debut of the new group ReGLOSS from a new hololive branch. They speculate about the new group's personality and look forward to collaborations.
 
 ## Misunderstanding (13:40)
 
@@ -44,7 +44,7 @@ A Ruffian asks how to hide their smile during serious meetings where "BAU" (busi
 
 ## Next Stream & Schedule (36:03)
 
-FUWAMOCO announces their next stream, "Adventures of Cookie and Cream," and a new schedule including Minecraft debut with Advent and a Japanese Classroom session with Advent 2.
+FUWAMOCO announce their next stream, "Adventures of Cookie and Cream," and a new schedule including Minecraft debut with Advent and a Japanese Classroom session with Advent 2.
 
 ## Thanks & Extra Special Ruffians (39:00)
 

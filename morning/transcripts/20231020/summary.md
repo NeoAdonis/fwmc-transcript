@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:55)
+## Pero Sighting (06:55)
 
 [FaithCafe](https://twitter.com/FaithCafe563/status/1715142112273158582) found Pero near their plants. Gotta need to deploy LA CHANCLA.
 
-## Advent Halloween Party (9:26)
+## Advent Halloween Party (09:26)
 
 Reminder that you're [invited to Advent's Halloween Party](https://twitter.com/hololive_En/status/1713755393363734639)! 2023-10-31T17:00Z. Also, don't forget to share your hololive costume on Twitter with the hashtag [#AdventCostumeParty](https://twitter.com/hashtag/AdventCostumeParty).
 

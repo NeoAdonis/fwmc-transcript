@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Breaking News (7:10)
+## Breaking News (07:10)
 
 Recently there have been reports of severe shortages of Pon-de-rings, a peculiar variety of mochi donut. This event has fueled a black market of these treats.
 
-## Report: Seasonal Allergies (8:42)
+## Report: Seasonal Allergies (08:42)
 
 Thanks to recent advancements in the field of medicine, seasonal allergies are now a thing of the past.
 

@@ -1,14 +1,14 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting  (6:10)
+## Pero Sighting  (06:10)
 
 [Zogajah](https://twitter.com/zogajah/status/1697460559141343503) found Pero floating down a small steam, just spining.
 
-## Myth 3rd Anniversary (7:40)
+## Myth 3rd Anniversary (07:40)
 
 FUWAMOCO remind us that 3 years ago, Hololive English -Myth-, the first EN generation, made their debut, and invite us to their [celebration stream](https://youtu.be/gYEsfr1Y-CI).
 
-## Confession (9:50)
+## Confession (09:50)
 
 As time passes, FUWAMOCO find themselves relying more on Ruffians.
 

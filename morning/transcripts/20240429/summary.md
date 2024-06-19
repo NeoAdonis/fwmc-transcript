@@ -1,4 +1,4 @@
-## Introduction (00:00)
+## Introduction (05:00)
 
 FUWAMOCO greets Ruffians and introduces the show, mentioning the episode number and reminding them to use the hashtag #FWMCMORNING.
 

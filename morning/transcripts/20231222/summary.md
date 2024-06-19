@@ -12,11 +12,11 @@ FUWAMOCO released solo covers of "Cute na Kanojo." They thank Ruffians for liste
 
 ## Comic Fiesta (11:00)
 
-FUWAMOCO announces their participation in Comic Fiesta with a big panel, Q&A, and a mini welcome party. They invite Ruffians to join them at the event.
+FUWAMOCO announce their participation in Comic Fiesta with a big panel, Q&A, and a mini welcome party. They invite Ruffians to join them at the event.
 
 ## "Legend of Polka" Nuggets (12:02)
 
-FUWAMOCO discusses their feature in "Legend of Polka" and share their preference for eating nuggets without sauce, highlighting the flavor of the meat.
+FUWAMOCO discuss their feature in "Legend of Polka" and share their preference for eating nuggets without sauce, highlighting the flavor of the meat.
 
 ## New Challenge (15:19)
 

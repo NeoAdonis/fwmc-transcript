@@ -8,7 +8,7 @@ Pero was seen wrestling a giant millipede, a fascinating sight for Ruffians duri
 
 ## "Let me be with you" 100k (11:07)
 
-FUWAMOCO celebrates their cover of "Let Me Be With You" from Chobits reaching 100k views and thanks Ruffians for their support.
+FUWAMOCO celebrate their cover of "Let Me Be With You" from Chobits reaching 100k views and thanks Ruffians for their support.
 
 ## Shiori VN "Snowed In" (12:56)
 

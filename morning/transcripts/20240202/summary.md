@@ -16,7 +16,7 @@ Fuwawa announces her first birthday merchandise, featuring a special illustratio
 
 ## Valentine's Voice Pack (21:29)
 
-FUWAMOCO introduces their 2024 Valentine's Voice Packs in Japanese and English, encouraging Ruffians to enjoy the special recordings and share their responses.
+FUWAMOCO introduce their 2024 Valentine's Voice Packs in Japanese and English, encouraging Ruffians to enjoy the special recordings and share their responses.
 
 ## FWMC Scoop - Outfit reveals (24:18)
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:30)
+## Pero Sighting (06:30)
 
 [Trifful](https://twitter.com/Trifful/status/1699321925691183444) spotted Pero inside a claw machine.
 
-## Happy news (9:20)
+## Happy news (09:20)
 
 FUWAMOCO looking good on Mumei's drawings of them.
 

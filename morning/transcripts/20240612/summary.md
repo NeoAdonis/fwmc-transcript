@@ -32,7 +32,7 @@ FUWAMOCO talks about the story of Hachiko and their excitement to watch "Hachi: 
 
 ## Next Stream & Schedule (35:19)
 
-FUWAMOCO announces their next stream will be "Donkey Kong Country 2" and shares their weekly schedule including more Touhou and Mbembe Radio.
+FUWAMOCO announce their next stream will be "Donkey Kong Country 2" and shares their weekly schedule including more Touhou and Mbembe Radio.
 
 ## Thanks & Extra Special Ruffians (38:21)
 

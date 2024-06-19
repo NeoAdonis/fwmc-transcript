@@ -16,7 +16,7 @@ Kanata released a new song, "Junsui-shin," written by Tsunku, producer for Morni
 
 ## FWMC in Palworld (16:00)
 
-Fubuki and Suisei caught rare and legendary PAOs in Palworld. FUWAMOCO discusses their admiration for their senpais' success in the game.
+Fubuki and Suisei caught rare and legendary PAOs in Palworld. FUWAMOCO discuss their admiration for their senpais' success in the game.
 
 ## Valentine's Merch (18:05)
 

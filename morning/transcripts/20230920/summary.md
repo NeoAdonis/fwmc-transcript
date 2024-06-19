@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:55)
+## Pero Sighting (06:55)
 
 [Yumial](https://twitter.com/Yumial_/status/1689299318535294977) found Pero... in The Backrooms again?! FUWAMOCO to the rescue once more! And this time they won't be by themselves: Fubuki-senpai will go with them!
 
-## Good News (9:55)
+## Good News (09:55)
 
 Papa puppy (who FUWAMOCO have barely seen since debut) saves the day by fixing a lightbulb by just touching it!
 

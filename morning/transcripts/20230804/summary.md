@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## 400K Ruffians (6:27)
+## 400K Ruffians (06:27)
 
 FUWAMOCO celebrate and thank Ruffians for reaching 400K subscribers on YouTube, only 4 days after debut!
 
-## Starting Voice Packs (8:12)
+## Starting Voice Packs (08:12)
 
 FUWAMOCO remind us that the [Advent Starting Voice Packs](https://shop.hololivepro.com/en/pages/search-results-page?q=starting%20voice%20advent), a set of Japanese and English voices, are on sale.
 

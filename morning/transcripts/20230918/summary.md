@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:32)
+## Pero Sighting (06:32)
 
 [@rengoku_White](https://twitter.com/rengoku_White/status/1702960335039467607) went to the rice fields, where they found Pero pulling some crops.
 
-## 2M views for "Kaibutsu" (9:23)
+## 2M views for "Kaibutsu" (09:23)
 
 FUWAMOCO's [cover of YOASOBI's "Kaibutsu"](https://youtu.be/Yr1EI_jYBB8) has now reached two million views!
 

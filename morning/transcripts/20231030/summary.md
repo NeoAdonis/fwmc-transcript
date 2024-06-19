@@ -1,6 +1,6 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (8:05)
+## Pero Sighting (08:05)
 
 [@TdesuJ](https://twitter.com/TdesuJ/status/1717024018371432637) was visited by Pero who was demanding candy. After he ran off, this Ruffian carved his face in a pumpkin as to not forget it.
 
@@ -22,7 +22,7 @@ Fuwawa is concerned that Ruffians don't know that an special date for FUWAMOCO i
 
 ## FUWAMOCO's 2nd Cover Song (20:14)
 
-FUWAMOCO reveals their next cover: it's [syudou's "Cute na Kanojo"](https://youtu.be/XYmZUh_YAq0)! A song with spooky vibes to fit perfectly with the season.
+FUWAMOCO reveal their next cover: it's [syudou's "Cute na Kanojo"](https://youtu.be/XYmZUh_YAq0)! A song with spooky vibes to fit perfectly with the season.
 
 ## Halloween Memories (22:36)
 

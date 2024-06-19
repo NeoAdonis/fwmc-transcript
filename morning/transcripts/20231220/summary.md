@@ -8,7 +8,7 @@ Pero is seen working as a Santa, having children sit on his lap to tell him thei
 
 ## "Cute na Kanojo" Solo Cover (10:13)
 
-FUWAMOCO announces their solo covers of "Cute na Kanojo" by Shiro. Fuwawa's version releases at 6 PM PT tonight, and Mococo's version releases tomorrow at the same time.
+FUWAMOCO announce their solo covers of "Cute na Kanojo" by Shiro. Fuwawa's version releases at 6 PM PT tonight, and Mococo's version releases tomorrow at the same time.
 
 ## Christmas Memories (11:52)
 
@@ -48,7 +48,7 @@ A Ruffian asks about FUWAMOCO's hair length ratio. FUWAMOCO explains that Fuwawa
 
 ## Next Stream & Schedule (32:48)
 
-FUWAMOCO previews their upcoming solo covers of "Cute na Kanojo," airing today and tomorrow, and reminds Ruffians of their next FUWAMOCO Morning episode on Friday.
+FUWAMOCO preview their upcoming solo covers of "Cute na Kanojo," airing today and tomorrow, and reminds Ruffians of their next FUWAMOCO Morning episode on Friday.
 
 ## Thanks & Extra Special Ruffians (34:44)
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:39)
+## Pero Sighting (06:39)
 
 [Sky](https://twitter.com/Skylanderspizza/status/1703504111600115713) found Pero while mowing the lawn, but he noticed that the white blob was just in front of the mower a bit too late... Only a pair of broken bones seemed to remain... FUWAMOCO laughs at what they think is a Halloween joke. *But is it?*
 
-## Confession (8:52)
+## Confession (08:52)
 
 Thanks to a certain puzzle level, FUWAMOCO spent 6 and a half hours [completing "Adventures of Cookies & Cream"](https://youtu.be/ZK7hNUALkvI), way more time than they expected. Unfortunately for them, they still had some homework to do, meaning that they've got no sleep that night. This has been a pattern during the last three weeks where they've got about 4 hours of sleep a day, so they ask Ruffians to lend them some power to go through the day.
 

@@ -40,7 +40,7 @@ Ruffians sent pictures of their countryside walks, reminding FUWAMOCO of a princ
 
 ## Question of the Day (27:16)
 
-FUWAMOCO discusses their wish for when they reach 1 million subscribers, aiming for something extraordinary requiring many talents.
+FUWAMOCO discuss their wish for when they reach 1 million subscribers, aiming for something extraordinary requiring many talents.
 
 ## Next Stream & Schedule (30:14)
 

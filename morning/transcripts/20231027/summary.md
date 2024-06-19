@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (7:47)
+## Pero Sighting (07:47)
 
 Pero acted as model for [ReaperGrimm88](https://twitter.com/ReaperGrimm88/status/1716885452190547991)'s well-carved pumpkin.
 
-## Spooky Storytime (9:58)
+## Spooky Storytime (09:58)
 
 Reminder to join FUWAMOCO next Halloween for some spooky stories, read by FUWAMOCO and composed by Ruffians! 2023-10-31T19:00Z
 

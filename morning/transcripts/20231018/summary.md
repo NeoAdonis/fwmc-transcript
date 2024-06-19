@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (7:08)
+## Pero Sighting (07:08)
 
 [art_k__](https://twitter.com/art_k__/status/1711098409594347787) found Pero while cleaning some leaves.
 
-## Kaela 3D Showcase (9:19)
+## Kaela 3D Showcase (09:19)
 
 FUWAMOCO invite you to watch [Kaela's 3D Showcase](https://youtu.be/uMc2xEMA5Ek)! - 2023-10-20T05:00Z
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (7:07)
+## Pero Sighting (07:07)
 
 [Claxle](https://twitter.com/Claxle/status/1702478051966087468) found Pero while tidying up their DVDs.
 
-## CouncilRyS 3D Collab (9:18)
+## CouncilRyS 3D Collab (09:18)
 
 Tune in for a [special 3D Collab](https://twitter.com/hololive_En/status/1701430450273837276) featuring [IRyS](https://www.youtube.com/@IRyS) joined by Hololive EN -Council-. 2023-10-07T19:00Z
 

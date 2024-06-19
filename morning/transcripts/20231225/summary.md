@@ -48,7 +48,7 @@ FUWAMOCO discusses the many visual novels they started but never finished due to
 
 ## Next Stream & Schedule (36:18)
 
-FUWAMOCO teases their upcoming stream schedule and invites Ruffians to spend the end of 2023 with them.
+FUWAMOCO tease their upcoming stream schedule and invites Ruffians to spend the end of 2023 with them.
 
 ## Thanks & Extra Special Ruffians (37:49)
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Mumei 3D Showcase (7:28)
+## Mumei 3D Showcase (07:28)
 
 FUWAMOCO are excited for the upcoming [Nanashi Mumei's 3D Showcase](https://youtu.be/HTgzc9_uAaY) (scheduled: 2023-09-23T19:00Z) and wonders what she will do. Will there be a horror segment?
 
-## Bad News (8:58)
+## Bad News (08:58)
 
 Alas, the lightbulb that Papapuppy had fixed [a few days before](https://youtu.be/_aK_6Wb05hY?t=9m54s) died again...
 

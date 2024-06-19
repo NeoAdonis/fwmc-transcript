@@ -12,7 +12,7 @@ FUWAMOCO congratulates Nanashi Mumei-senpai from Hololive Promise for reaching 1
 
 ## EXPO and 5th fes (11:22)
 
-FUWAMOCO discusses their appearance on the official hololive English channel and reveals the key visuals for this year's hololive expo and fanfest, featuring cute aloha-style outfits.
+FUWAMOCO discuss their appearance on the official hololive English channel and reveals the key visuals for this year's hololive expo and fanfest, featuring cute aloha-style outfits.
 
 ## FWMC 64 (16:15)
 
@@ -32,7 +32,7 @@ Today's Doggie of the Day is Spike, a two-month-old puppy who loves eating, slee
 
 ## Today I Went On A Walk (26:19)
 
-A Ruffian shares a picture of a beautiful day with an overflowing water bank. FUWAMOCO hopes they enjoyed their walk without getting their shoes soggy.
+A Ruffian shares a picture of a beautiful day with an overflowing water bank. FUWAMOCO hope they enjoyed their walk without getting their shoes soggy.
 
 ## Question Of The Day (27:06)
 
@@ -40,7 +40,7 @@ A Ruffian asks if FUWAMOCO ever didn't get along. They respond they've always be
 
 ## Next Stream & Schedule (28:42)
 
-FUWAMOCO announces their upcoming weekly collab with Advent, where they will play "Inside the Backrooms." They also mention a Metal Gear Solid 2 stream this weekend.
+FUWAMOCO announce their upcoming weekly collab with Advent, where they will play "Inside the Backrooms." They also mention a Metal Gear Solid 2 stream this weekend.
 
 ## Thanks & Extra Special Ruffians (31:13)
 

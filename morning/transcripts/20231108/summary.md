@@ -8,7 +8,7 @@ A Ruffian spotted Pero with a Gundam model, making Pero look large and intimidat
 
 ## 100 Days Together (09:15)
 
-FUWAMOCO celebrates their 100th day together, highlighting their continuous daily streams and perfect attendance. They express gratitude to Ruffians for their love and support.
+FUWAMOCO celebrate their 100th day together, highlighting their continuous daily streams and perfect attendance. They express gratitude to Ruffians for their love and support.
 
 ## Ruffian Design (11:01)
 
@@ -48,7 +48,7 @@ A Ruffian's inappropriate question involving undergarments is humorously rebuffe
 
 ## Next Stream & Schedule (31:28)
 
-FUWAMOCO announces they will focus on homework tonight but will return tomorrow for a Fall Guys stream. They invite Ruffians to join and play together.
+FUWAMOCO announce they will focus on homework tonight but will return tomorrow for a Fall Guys stream. They invite Ruffians to join and play together.
 
 ## Thanks & Extra Special Ruffians (34:59)
 

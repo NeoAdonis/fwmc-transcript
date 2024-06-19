@@ -1,6 +1,6 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (7:41)
+## Pero Sighting (07:41)
 
 [@darealhanz](https://twitter.com/darealhanz/status/1741352918631035075) made some [mitarashi dango](https://en.wikipedia.org/wiki/Mitarashi_dango) to have as snack, and Pero was used as an ingredient.
 

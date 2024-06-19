@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:39)
+## Pero Sighting (06:39)
 
 [@Ztynz1](https://twitter.com/Ztynz1/status/1719572335747797367) found Pero in the gym and it seems that he does, in fact, lift. FUWAMOCO encourage Ruffians not to wait until next year and make November a month for getting in good shape!
 
-## "Cute na Kanojo" Song Release (8:45)
+## "Cute na Kanojo" Song Release (08:45)
 
 Stream ["Cute na Kanojo"](https://youtu.be/XYmZUh_YAq0), the latest song cover from FUWAMOCO!
 

@@ -48,7 +48,7 @@ FUWAMOCO finds that the kind words and actions of Ruffians brighten their day th
 
 ## Next Stream & Schedule (46:58)
 
-FUWAMOCO announces their appearance on the Hololive English channel for a special announcement about the recent concert.
+FUWAMOCO announce their appearance on the Hololive English channel for a special announcement about the recent concert.
 
 ## Thanks & Extra Special Ruffians (46:02)
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:58)
+## Pero Sighting (06:58)
 
 [DLan](https://twitter.com/DylanMend/status/1695043836777566696) found Pero roaming in the desert.
 
-## hololive Minecraft Sports Festival (9:16)
+## hololive Minecraft Sports Festival (09:16)
 
 FUWAMOCO will be participating in the [Minecraft Sports Festival 2023](https://youtu.be/QBMF6LN1QyU) as part of the Red Team!
 

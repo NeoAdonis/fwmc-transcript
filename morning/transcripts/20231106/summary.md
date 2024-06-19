@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:56)
+## Pero Sighting (06:56)
 
 [LoneBushido](https://twitter.com/FlameBushidoNo1/status/1719017559758889107) found Pero while trying out their new FUWAMOCO bowling ball.
 
-## hololive Minecraft Sport Festival (8:34)
+## hololive Minecraft Sport Festival (08:34)
 
 Their training beared fruits, and FUWAMOCO along with the Red Team achieved victory in the [Minecraft Sports Festival 2023](https://youtu.be/QBMF6LN1QyU)!
 

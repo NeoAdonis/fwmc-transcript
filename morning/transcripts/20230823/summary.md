@@ -8,7 +8,7 @@ Pero was spotted in a beautiful open field under a blue sky. He seems to enjoy t
 
 ## Council 2nd Anniversary (08:42)
 
-FUWAMOCO congratulates their senpai, Council, on their second anniversary. They reminisce about good memories and express excitement for the upcoming 3D showcases.
+FUWAMOCO congratulate their senpai, Council, on their second anniversary. They reminisce about good memories and express excitement for the upcoming 3D showcases.
 
 ## Advent Debut Merch (10:35)
 
@@ -16,7 +16,7 @@ FUWAMOCO reminds Ruffians about the debut celebration merchandise, emphasizing t
 
 ## Figures & Garage Kit (14:02)
 
-FUWAMOCO shares their love for scale figures and garage kits, discussing their favorite sculptors and the joy of collecting figures.
+FUWAMOCO share their love for scale figures and garage kits, discussing their favorite sculptors and the joy of collecting figures.
 
 ## Misunderstanding (19:29)
 

@@ -1,6 +1,6 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (7:31)
+## Pero Sighting (07:31)
 
 While looking over their pet turtle, [Ezihkhel](https://twitter.com/Ezihkhel/status/1706153654162686322) found Pero. It seems they are friends now!
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## 1 Millon Views on "Kaibutsu" (6:50)
+## 1 Millon Views on "Kaibutsu" (06:50)
 
 Just after one week of being released, FUWAMOCO's [cover of YOASOBI's "Kaibutsu"](https://youtu.be/Yr1EI_jYBB8) has reached 1 millon views! They thank all the people who made the MV possible, as well as the Ruffians for helping them reach this milestone. And that's not all: another cover is in the works!
 
-## Starting Voice Packs (9:26)
+## Starting Voice Packs (09:26)
 
 FUWAMOCO thank all the Ruffians who have bought [Fuwawa](https://shop.hololivepro.com/en/products/starting-voice-fuwawa-abyssgard) and [Mococo](https://shop.hololivepro.com/en/products/starting-voice-mococo-abyssgard)'s Starting Voice Packs. If you're one of them, what was your favorite voice?
 

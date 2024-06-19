@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (7:00)
+## Pero Sighting (07:00)
 
 [F4](https://twitter.com/ThiemkeAndreas/status/1707068904848162865) found Pero inside a chew toy. FUWAMOCO wonder if those toys actually taste good.
 
-## Today's Dream (9:57)
+## Today's Dream (09:57)
 
 Mococo had an interesting yet unsettling dream in which she feared that spiders would come into her ear after trying to clean a dusty spot.
 

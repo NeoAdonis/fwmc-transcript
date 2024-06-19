@@ -1,12 +1,12 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:44)
+## Pero Sighting (06:44)
 
 [Ginko](https://twitter.com/Ginko_02/status/1700227442798195182) found Pero sitting on a bench, just to disappear shortly afterwards. FUWAMOCO don't seem very concerned about that...
 
-## Council 3D Showcase (8:55)
+## Council 3D Showcase (08:55)
 
-FUWAMOCO celebrates their senpai's upcoming [3D showcase](https://twitter.com/hololive_En/status/1701430450273837276). Will you join them?
+FUWAMOCO celebrate their senpai's upcoming [3D showcase](https://twitter.com/hololive_En/status/1701430450273837276). Will you join them?
 
 ## RIP Vacuum (10:24)
 

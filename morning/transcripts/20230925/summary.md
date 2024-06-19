@@ -1,16 +1,16 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:43)
+## Pero Sighting (06:43)
 
 [ItchyKneeSan](https://twitter.com/IchiNiSan_123_/status/1702514303625257433) found out that Pero is... actually a mother?! Fortunately for FUWAMOCO, it seems that this was just a dream...
 
-## Sad News (9:18)
+## Sad News (09:18)
 
 FUWAMOCO had a ruff night as they were unable to sleep. After sharing their frustration on [a tweet](https://twitter.com/FUWAMOCO_en/status/1706237510979080502), they got a few ideas from Ruffians on how to sleep. They regret that they'll have no time for naps this afternoon.
 
 ## Koyori 1 Million Subscribers (13:09)
 
-FUWAMOCO congratulates their fellow holo-canine [Hakui Koyori](https://www.youtube.com/@HakuiKoyori) for reaching 1 million subscribers on YouTube!
+FUWAMOCO congratulate their fellow holo-canine [Hakui Koyori](https://www.youtube.com/@HakuiKoyori) for reaching 1 million subscribers on YouTube!
 
 ## Misunderstanding (14:22)
 

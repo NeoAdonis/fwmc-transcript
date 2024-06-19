@@ -6,7 +6,7 @@ The hosts address the viewers' concerns about Pero's absence and reveal that he 
 
 ## FWMC in Japan (11:09)
 
-FUWAMOCO shares their experience of moving to Japan and their new doghouse. They also mention the benefits of the new streaming schedule.
+FUWAMOCO share their experience of moving to Japan and their new doghouse. They also mention the benefits of the new streaming schedule.
 
 ## Biboo Birthday (14:19)
 

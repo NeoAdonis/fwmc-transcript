@@ -1,6 +1,6 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (9:08)
+## Pero Sighting (09:08)
 
 It seems that Pero was nowhere to be found this weekend. Definitely it's not that sleepyhead Fuwawa didn't prepare this section or something...
 

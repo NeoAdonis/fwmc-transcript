@@ -8,7 +8,7 @@ Pero was seen mingling with pigeons, continuing his bird-watching hobby. The hos
 
 ## Advent 6 Months (11:39)
 
-FUWAMOCO celebrates their six-month anniversary with the announcement of special half-year celebration merchandise, including a tapestry and keychains.
+FUWAMOCO celebrate their six-month anniversary with the announcement of special half-year celebration merchandise, including a tapestry and keychains.
 
 ## IRyS New Outfit (15:45)
 

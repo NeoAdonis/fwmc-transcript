@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:36)
+## Pero Sighting (06:36)
 
 [Itta](https://twitter.com/Itta12065/status/1707447872021790981) found Pero at their local cat cafe trying to blend with the other felines. While Ruffians want Pero kicked out, FUWAMOCO intervene by saying that he doesn't deserve that.
 
-## New Month, New Hope (9:25)
+## New Month, New Hope (09:25)
 
 FUWAMOCO encourage us to reflect on the last month, and to work hard next one!
 

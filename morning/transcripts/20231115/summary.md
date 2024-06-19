@@ -1,14 +1,14 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:45)
+## Pero Sighting (06:45)
 
 Pero is still missing, and FUWAMOCO started to get worried.
 
-## Marine 4th Anniversary Concert (8:02)
+## Marine 4th Anniversary Concert (08:02)
 
 hololive's captain [Houshou Marine](https://www.youtube.com/@HoushouMarine) celebrated her 4th Anniversary with a [small concert](https://youtu.be/Nuy3XE8vjgc), 70's style.
 
-## New Song "SHINKIRO" (9:56)
+## New Song "SHINKIRO" (09:56)
 
 Marine also revealed her MV for her new original song ["SHINKIRO"](https://youtu.be/9ehwhQJ50gs), a colaboration with [Gawr Gura](https://www.youtube.com/@GawrGura) from hololive English -Myth-. A city pop song with nostalgic vibes. Check it out!
 

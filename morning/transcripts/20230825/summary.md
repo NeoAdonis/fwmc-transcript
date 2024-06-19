@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Backrooms Search (0:00)
+## Backrooms Search (00:00)
 
 Pero [criticizes] FUWAMOCO's attempt at finding him in The Backrooms, blaming Ruffians as well for making the sisters believe he was there. *Fan art by [Sobbi](https://twitter.com/Sobbi11/status/1694922137092444539).*
 
-## HoloSummer SPLASH PARTY (0:00)
+## HoloSummer SPLASH PARTY (00:00)
 
 Pero shares his enjoyment of Hololive Summer, and invites Ruffians to watch SPLASH PARTY live concert along with Advent ([day 1](https://youtu.be/w5gAcmMcrGg) )).
 

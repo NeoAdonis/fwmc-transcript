@@ -32,7 +32,7 @@ Ruffians share pictures from their walks, showcasing peaceful scenes and invitin
 
 ## Question of the Day (@Zeik89) (30:40)
 
-In response to Zeik89's question, FUWAMOCO discusses their favorite Japanese foods, highlighting udon and chikuwa. They also share their experiences with Indian cuisine in Japan, noting its unique taste compared to other places.
+In response to Zeik89's question, FUWAMOCO discuss their favorite Japanese foods, highlighting udon and chikuwa. They also share their experiences with Indian cuisine in Japan, noting its unique taste compared to other places.
 
 ## Next Stream & Schedule (34:42)
 

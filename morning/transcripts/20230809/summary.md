@@ -8,7 +8,7 @@ Pero is missing, and FUWAMOCO asks Ruffians for help in finding him. They specul
 
 ## Information - Superchat Reading (07:52)
 
-FUWAMOCO expresses gratitude for the support during their monetization celebration. They announce a new Superchat Reading segment after every stream (except FUWAMOCO Mornings) to get to know Ruffians better.
+FUWAMOCO expresses gratitude for the support during their monetization celebration. They announce a new Superchat Reading segment after every stream (except FUWAMOCO Morning ones) to get to know Ruffians better.
 
 ## Misunderstanding - AsaMoco (09:21)
 
@@ -20,7 +20,7 @@ FUWAMOCO addresses confusion about "Bloobs" mentioned during Spooky's Jump Scare
 
 ## Confession (14:47)
 
-FUWAMOCO shares an embarrassing confession about their synchronized greetings. Despite finding it awkward, they are glad Ruffians find it cute and ask for their support to feel less self-conscious.
+FUWAMOCO share an embarrassing confession about their synchronized greetings. Despite finding it awkward, they are glad Ruffians find it cute and ask for their support to feel less self-conscious.
 
 ## Akihabara Mister Donut (17:41)
 
@@ -40,7 +40,7 @@ A Ruffian asks about challenges of sharing a channel. FUWAMOCO explains there ar
 
 ## Next Stream & Schedule (31:51)
 
-FUWAMOCO announces their next streams: appearing on Kiara-senpai's Holotalk and playing Sakura Wars V. They plan to poll Ruffians on whether to use Japanese or English dub for the game.
+FUWAMOCO announce their next streams: appearing on Kiara-senpai's Holotalk and playing Sakura Wars V. They plan to poll Ruffians on whether to use Japanese or English dub for the game.
 
 ## Thanks & Extra Special Ruffians (33:23)
 

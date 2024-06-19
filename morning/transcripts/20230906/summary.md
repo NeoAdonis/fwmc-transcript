@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:34)
+## Pero Sighting (06:34)
 
 Our resident Ruffian [Dark Morford](https://twitter.com/darkmorford/status/1698809325748461591) found Pero saBAUtaging their attempt to make some pon-de-rings.
 
-## Misunderstanding (9:08)
+## Misunderstanding (09:08)
 
 Much to Mococo's dismay, Fuwawa feels that her sister needs to clear up a misunderstanding about something said to Nerissa.
 

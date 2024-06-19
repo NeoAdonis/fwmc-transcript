@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:52)
+## Pero Sighting (06:52)
 
 [ArcticFoxx6](twitter_link)'s brother brought Pero to their home. Where's the brother?
 
-## Membership (9:47)
+## Membership (09:47)
 
 A reminder from FUWAMOCO to join The Doggy Pack membership to get access to cute emotes and tune in for their first membership stream, "battle plan" session, to discuss goals and dreams with Ruffians.
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:51)
+## Pero Sighting (06:51)
 
 [DLan](https://twitter.com/DylanMend/status/1698633380928102867) found some Pero tokens in what seems a 'shady' arcade.
 
-## holoEN "Promise" (9:07)
+## holoEN "Promise" (09:07)
 
 During the last [IRyS + Council 3D Collab](https://youtu.be/sEnjWtbnUj4), it was announced that IRyS would join Fauna, Kronii, Mumei and Baelz to form the new hololive English unit "Promise"!
 

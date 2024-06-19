@@ -36,7 +36,7 @@ A Ruffian shared a nighttime mountain climb picture. FUWAMOCO appreciated the vi
 
 ## Question of the Day (31:09)
 
-FUWAMOCO reveals they use multiple alarm clocks to maintain their streaming schedule, although Mococo tends to hit snooze.
+FUWAMOCO reveal they use multiple alarm clocks to maintain their streaming schedule, although Mococo tends to hit snooze.
 
 ## Next Stream & Schedule (32:30)
 

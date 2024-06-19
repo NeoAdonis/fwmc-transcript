@@ -1,4 +1,4 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
 ## Celebration: 300K Ruffians (10:04)
 

@@ -1,10 +1,10 @@
-## Introduction (5:00)
+## Introduction (05:00)
 
-## Pero Sighting (6:52)
+## Pero Sighting (06:52)
 
 [Kei-ki](https://twitter.com/kei_ki/status/1694435692896469225) founds Pero exploring Teotihuacan.
 
-## Celebration: 600K Ruffians (9:13)
+## Celebration: 600K Ruffians (09:13)
 
 FUWAMOCO reached 600K subscribers on YouTube during their [endurance Suika Game stream](https://youtu.be/3PFyuPcp-Fw?t=13583)!
 
