@@ -1,6 +1,6 @@
 ## Introduction (05:00)
 
-FUWAMOCO greets Ruffians and introduces the show, mentioning the episode number and reminding them to use the hashtag #FWMCMORNING.
+FUWAMOCO greets Ruffians and introduces the 91st episode of FUWAMOCO Morning. Ruffians are reminded to use the hashtag #FWMCMORNING to share their thoughts about the show.
 
 ## Pero Sighting (07:53)
 
@@ -24,7 +24,7 @@ FUWAMOCO announced an off-collab with Marine-senpai, planning to play Touhou tog
 
 ## Today's Challenge (13:28)
 
-Given her condition today, Mococo got to tried a special kind of natto that was less of natto and more of a pon-de-ring as a treat to help her to get better soon.
+Given her condition today, Mococo got to try a special kind of natto that was less of natto and more of a pon-de-ring as a treat to help her to get better soon.
 
 ## Doggie of the Day (34:17)
 
