@@ -97,7 +97,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
 
     # Fix common mistakes in the transcript
     $TranscriptFile = Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $FileBaseName } | Select-Object -First 1
-    $TranscriptContent = Get-Content -Path $TranscriptFile.FullName
+    $TranscriptContent = Get-Content -Path $TranscriptFile.FullName -Raw
     Get-Content -Path './config/replacements.csv' | ConvertFrom-Csv | ForEach-Object {
         $TranscriptContent = $TranscriptContent -replace $_.Pattern, $_.Replacement
     }
@@ -106,11 +106,15 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     # Detect and highlight potential mistakes that might actually be correct for manual review
     Get-Content -Path './config/highlights.csv' | ConvertFrom-Csv | ForEach-Object {
         $Reason = $_.Reason
-        $TranscriptContent | Select-String -Pattern $_.Pattern -AllMatches -Context 1, 0 | ForEach-Object {
+        $TranscriptContent | Select-String -Pattern $_.Pattern -AllMatches -Context 1 | ForEach-Object {
             $LineNumber = $_.LineNumber
             Write-Host "$TranscriptFile@$LineNumber - $Reason" -ForegroundColor Yellow
             Write-Host $_.ToEmphasizedString('')
         }
+    }
+
+    if ($TranscriptContent -notmatch 'Hello,? hello,? BAU BAU') {
+        Write-Host "$TranscriptFile - Potential missing introduction" -ForegroundColor Yellow
     }
 
     if ($IncludeNoPrompt.IsPresent) {
