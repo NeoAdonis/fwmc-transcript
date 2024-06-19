@@ -18,7 +18,7 @@ New corner, brought to you by your sneezy Mococo. Today's forecast: sunny with a
 
 ## FWMC Morning Jingle (19:03)
 
-FUWAMOCO thank everyone for their submissions for a new jingle, and shows us a few more of them before announcing the new one for the show.
+FUWAMOCO thank everyone for their submissions for a new jingle and shows us a few more of them before announcing the new one for the show.
 
 * From [midijunki](https://twitter.com/midi_junki/status/1695190560741441592)
 * From [neya](https://twitter.com/bullcaniro/status/1698217614215115117), a melody reminiscent of puppies playing in the yard.

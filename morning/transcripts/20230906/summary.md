@@ -32,7 +32,7 @@ Yet again we're in the middle of the week, and Mococo has another important spee
 
 ## Doggie of the Day (27:34)
 
-[Evan Bregnsdal](https://twitter.com/EvanBregnsdal/status/1698918072634298804) shows us their German Shepherd. Juju seems too happy to be in that pic!
+[Evan Bregnsdal](https://twitter.com/EvanBregnsdal/status/1698918072634298804) shows us their German Shepherd. Juju seems so happy to be in that pic!
 
 ## Today I Went On A Walk (30:18)
 

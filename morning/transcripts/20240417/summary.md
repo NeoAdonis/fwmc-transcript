@@ -18,7 +18,7 @@ FUWAMOCO thank HyperX for their gift of two sleek, professional-grade monitors, 
 
 ## Misunderstanding (19:56)
 
-FUWAMOCO clarify a recent incident involving an enthusiastic salesperson and expensive cheesecakes, ensuring Ruffians it was not a scam.
+FUWAMOCO clarify a recent incident involving an enthusiastic salesperson and expensive cheesecakes, rectifying that it was not a scam.
 
 ## Mococo Pup Talk (23:27)
 
@@ -34,7 +34,7 @@ A Ruffian shares a serene picture from a reflective beach walk at sunrise, provi
 
 ## Question Of The Day (29:48)
 
-Responding to a question about their bunk beds, Fuwawa and Mococo assure they haven't sold them; their parents are keeping all their belongings.
+Responding to a question about their bunk beds, Fuwawa and Mococo confirm they haven't sold them; their parents are keeping all their belongings.
 
 ## Next Stream & Schedule (32:16)
 

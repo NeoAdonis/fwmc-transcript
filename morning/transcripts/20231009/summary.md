@@ -22,7 +22,7 @@ Fuwawa swears that, during [last Rock 'n Rawr party](https://youtu.be/9e8Wnx-FRQ
 
 ## Apology (18:06)
 
-Mococo apologizes profusely with her fellow holoID zombie idol [Kureiji Ollie](https://youtube.com/@KureijiOllie) after leaving her last message on read. Apparently she had the message composed but forgot to hit 'send' and noticed only after a week.
+Mococo apologizes profusely with her fellow holoID zombie idol [Kureiji Ollie](https://youtube.com/@KureijiOllie) after leaving her last message on read. Apparently, she had the message composed but forgot to hit 'send' and noticed only after a week.
 
 ## Natto Challenge (22:26)
 
@@ -38,7 +38,7 @@ Despite the weather getting colder, [OraNav](https://twitter.com/Nepgyaaaaaaa/st
 
 ## Question of the day (36:50)
 
-[Claire](https://twitter.com/ExistingClaire/status/1710657549304053829) wonders if FUWAMOCO have ever been anxious about a test. It seems that they've been there, and specifically recall having trouble with a certain class they had during guard dog training and almost gave up, but in the end they persevered and passed it!
+[Claire](https://twitter.com/ExistingClaire/status/1710657549304053829) wonders if FUWAMOCO have ever been anxious about a test. It seems that they've been there, and specifically recall having trouble with a certain class they had during guard dog training and almost gave up, but in the end, they persevered and passed it!
 
 ## Next Stream & Schedule (40:00)
 

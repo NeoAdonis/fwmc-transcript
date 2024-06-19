@@ -6,7 +6,7 @@
 
 ## New Month, New Hope (09:25)
 
-FUWAMOCO encourage us to reflect on the last month, and to work hard next one!
+FUWAMOCO encourage us to reflect on the last month, and to work hard on the next one!
 
 ## Celebration: 100 videos (12:13)
 
@@ -18,7 +18,7 @@ Apparently unbeknownst to most Ruffians, today is Tofu Day! This comes from a Ja
 
 ## Misunderstanding (19:32)
 
-[Last FWMC Morning](https://youtu.be/A844xQnE97A) had no Misunderstanding corner. FUWAMOCO apologize for creating a misunderstanding that there were no misunderstandings to announce that day; they just forgot.
+[Last FWMC Morning](https://youtu.be/A844xQnE97A) had no Misunderstanding corner. FUWAMOCO apologized for creating a misunderstanding that there were no misunderstandings to announce that day; they just forgot.
 
 ## Today's Challenge (21:46)
 

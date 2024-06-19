@@ -2,7 +2,7 @@
 
 ## Pero Sighting (08:05)
 
-[@TdesuJ](https://twitter.com/TdesuJ/status/1717024018371432637) was visited by Pero who was demanding candy. After he ran off, this Ruffian carved his face in a pumpkin as to not forget it.
+[@TdesuJ](https://twitter.com/TdesuJ/status/1717024018371432637) was visited by Pero who was demanding candy. After he ran off, this Ruffian carved his face in a pumpkin so as to not forget it.
 
 ## Biboo's "Loveit?" Cover (10:08)
 
@@ -10,7 +10,7 @@ Don't miss fellow Advent member [Koseki Bijou](https://www.youtube.com/@KosekiBi
 
 ## BAUtime (11:48)
 
-Have you felt that the last 3 months have went by too quick? FUWAMOCO give us their thoughts on the phenomenon known as "BAUtime".
+Have you felt that the last 3 months have went by too quickly? FUWAMOCO give us their thoughts on the phenomenon known as "BAUtime".
 
 ## Confession (15:02)
 
@@ -18,7 +18,7 @@ Mococo reveals the real reason why her mouth is shaped like a cat, and it's of c
 
 ## Special Day (17:57)
 
-Fuwawa is concerned that Ruffians don't know that an special date for FUWAMOCO is approaching. At that moment FUWAMOCO had only found one single Ruffian who correctly guessed it.
+Fuwawa is concerned that Ruffians don't know that a special date for FUWAMOCO is approaching. At that moment FUWAMOCO had only found one single Ruffian who correctly guessed it.
 
 ## FUWAMOCO's 2nd Cover Song (20:14)
 
@@ -26,7 +26,7 @@ FUWAMOCO reveal their next cover: it's [syudou's "Cute na Kanojo"](https://youtu
 
 ## Halloween Memories (22:36)
 
-FUWAMOCO tell us a small memory from their childhood, when they went to watch some fireworks with their family on a Halloween day, and Fuwawa accidentally dropped the gum that she was chewing on Mama puppy's hair.
+FUWAMOCO tell Ruffians about a small memory from their childhood, when they went to watch some fireworks with their family on a Halloween day, and Fuwawa accidentally dropped the gum that she was chewing on Mama puppy's hair.
 
 ## Doggie of the Night (25:45)
 
@@ -38,7 +38,7 @@ From [hololulz](https://twitter.com/hololulz/status/1709663409103401263) we have
 
 ## Question of the Night (29:38)
 
-[Blazecake](https://twitter.com/Blazecake20/status/1706887023783563752) asks if there are types of "BAU BAU" other than "BAU BAU⤴︎⤴︎" and "bau bau⤵︎⤵︎". It seems that there are other types to convey other feelings! However, these might be also harder to understand for humans.
+[Blazecake](https://twitter.com/Blazecake20/status/1706887023783563752) asks if there are types of "BAU BAU" other than "BAU BAU⤴︎⤴︎" and "bau bau⤵︎⤵︎". It seems that there are more sets of "BAU BAU" that can be used to convey other feelings! However, these might be also harder to understand for humans.
 
 ## Next Stream & Schedule (31:57)
 

@@ -4,7 +4,7 @@ FUWAMOCO welcomes Ruffians to the 67th episode of FUWAMOCO Morning, aiming to br
 
 ## Pero Sighting (07:10)
 
-Pero was seen in the sky among the clouds, looking pleasant yet mischievous. Ruffians are advised to avoid eye contact if they encounter him .
+Pero was seen in the sky among the clouds, looking pleasant yet mischievous. Ruffians are advised to avoid eye contact if they encounter him.
 
 ## Nerissa "Yuki no Hana" Cover (09:32)
 

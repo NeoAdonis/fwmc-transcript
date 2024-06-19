@@ -20,7 +20,7 @@ Mococo dreamt about going to an amusement park with their mamas, Mama Puppy and 
 
 ## Misunderstanding (19:46)
 
-FUWAMOCO clarify that they don't dislike Re:Zero; they just don't consider Subaru Natsuki a protagonist of their liking.
+FUWAMOCO clarify that they don't dislike Re: Zero; they just don't consider Subaru Natsuki a protagonist of their liking.
 
 ## Today's Challenge (22:21)
 

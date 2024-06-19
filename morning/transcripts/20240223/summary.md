@@ -4,7 +4,7 @@
 
 FUWAMOCO shares a recent sighting of Pero, who has found a comfortable spot to sit. They speculate on what he might be doing, with Fuwawa suggesting that with spring approaching, Pero might sprout and become part of a tree. They acknowledge that this idea is terrifying but fun to imagine.
 
-## "Let me be with you" 200k (09:38)
+## "Let Me Be With You" 200k (09:38)
 
 FUWAMOCO thank their fans, the Ruffians, for helping their newest song cover, "Let Me Be With You," reach over 200,000 views on YouTube. They express their happiness and hope that the song can soothe their fans during busy days.
 

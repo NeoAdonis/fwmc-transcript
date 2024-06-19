@@ -20,11 +20,11 @@ Another lightbulb broke on a crucial area of the FUWAMOCO den. They somehow hope
 
 ## Misunderstanding (17:44)
 
-FUWAMOCO are concerned with some misleading clips that they've seen about them. They specifically reference one where Fuwawa presumably said that she liked to wear no clothes at all, something which is not true. The twin sisters ask clippers respectfully not to mislead others as to avoid creating any kind of misunderstandings.
+FUWAMOCO are concerned with some misleading clips that they've seen about them. They specifically reference one where Fuwawa presumably said that she liked to wear no clothes at all, something which is not true. The twin sisters ask clippers respectfully not to mislead others so as to avoid creating any kind of misunderstandings.
 
 ## Grumpy FUWAMOCO (21:47)
 
-FUWAMOCO share one thing that makes them grumpy: cutting in line. Usually they are considerate when people ask politely to go in front of them, but otherwise the guard dogs urge people not to just cut the line, even if they do so inadvertently.
+FUWAMOCO share one thing that makes them grumpy: cutting in line. Usually, they are considerate when people ask politely to go in front of them, but otherwise the guard dogs urge people not to just cut the line, even if they do so inadvertently.
 
 ## Mococo Pup Talk (24:33)
 

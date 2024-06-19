@@ -8,7 +8,7 @@ Pero was spotted in a beautiful open field under a blue sky. He seems to enjoy t
 
 ## Council 2nd Anniversary (08:42)
 
-FUWAMOCO congratulate their senpai, Council, on their second anniversary. They reminisce about good memories and express excitement for the upcoming 3D showcases.
+FUWAMOCO congratulated their senpai, Council, on their second anniversary. They reminisce about good memories and express excitement for the upcoming 3D showcases.
 
 ## Advent Debut Merch (10:35)
 

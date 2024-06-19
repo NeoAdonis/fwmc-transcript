@@ -44,7 +44,7 @@ FUWAMOCO answers questions about their favorite moments from FUWAMOCO Morning an
 
 ## Next Stream & Schedule (53:48)
 
-FUWAMOCO announce their next stream, which will be a Jackbox Games session with Calli-senpai, and remind Ruffians to mark their calendars for two special Advent collabs happening over the weekend.
+FUWAMOCO announce their next stream, which will be a Jackbox Games session with Calli-senpai. They also remind Ruffians to mark their calendars for two special Advent collabs happening over the weekend.
 
 ## Thanks & Extra Special Ruffians (54:45)
 

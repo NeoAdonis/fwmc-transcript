@@ -18,7 +18,7 @@ Japan celebrates Dog Day ([犬の日, 'Inu no hi'](https://ja.wikipedia.org/wiki
 
 ## Confession (15:23)
 
-FUWAMOCO confess that they didn't have any candy this Halloween. The sisters warn Ruffians not to overindulge on sweets now that they might be on sale.
+FUWAMOCO confessed that they didn't have any candy this Halloween. The sisters warn Ruffians not to overindulge on sweets now that they might be on sale.
 
 ## Misunderstandings (17:45)
 

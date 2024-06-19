@@ -2,7 +2,7 @@
 
 ## Breaking News (07:10)
 
-Recently there have been reports of severe shortages of Pon-de-rings, a peculiar variety of mochi donut. This event has fueled a black market of these treats.
+Recently there have been reports of severe shortages of Pon-de-rings, a peculiar variety of mochi donut. This event has fueled an underground market of these treats.
 
 ## Report: Seasonal Allergies (08:42)
 
@@ -14,7 +14,7 @@ The famous group of Virtual TV Tubers, hololive Indonesia 3rd Generation, are ha
 
 ## Weather Forecast (11:46)
 
-Brought to you by Mr. Perocini. Even after one year, we are still having serious storm activity. No need for an umbrella; just give in yourself to the storm.
+Brought to you by Mr. Perocini. Even after one year, we are still having serious storm activity. No need for an umbrella; just give yourself to the storm.
 
 ## Reminder To Viewers (13:45)
 
@@ -26,7 +26,7 @@ Ms. Abyssgard shares with the viewers some of the health benefits of taking regu
 
 ## Dog Of Today (16:01)
 
-The usual and popular showcase of dog footage to make your day more lively.
+The usual and popular showcase of dog footage to make your day livelier.
 
 ## Farewell to Especially Selected Viewers (17:36)
 

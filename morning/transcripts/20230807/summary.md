@@ -30,7 +30,7 @@ Guided by some drawings carefully crafted by Mococo, the twins describe their ho
 
 ## Question Of The Day (28:00)
 
-[LILOLULI](https://twitter.com/LILOLULI0/status/1688384028263489536) asks Mococo for her thoughts about her nickname 'Moco' meaning 'booger' in Spanish. She only comments that it's embarrassing, and prefers to be called 'Moco-chan' rather than 'Moco' just as-is.
+[LILOLULI](https://twitter.com/LILOLULI0/status/1688384028263489536) asks Mococo for her thoughts about her nickname 'Moco' meaning 'booger' in Spanish. She only comments that it's embarrassing and prefers to be called 'Moco-chan' rather than 'Moco' just as-is.
 
 ## Next Stream & Schedule (29:44)
 

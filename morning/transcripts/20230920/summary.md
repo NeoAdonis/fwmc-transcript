@@ -34,7 +34,7 @@ Featuring today: [nikutaro1227](https://twitter.com/nikutaro1227/status/17039844
 
 ## Question Of The Day (25:49)
 
-[TsundereAdmiral](https://twitter.com/TsundereAdmiral/status/1704287044078629101) wonders if FUWAMOCO have a ritual to prepare mentally before a presentation. While they barely get nervous anymore after all their guard dog training, both a walk and stretching helps them to get rid of any anxiety they might have before a big presentation. If they need something more, they would rub each other's back. As for Mococo, laying on the floor helps her too!
+[TsundereAdmiral](https://twitter.com/TsundereAdmiral/status/1704287044078629101) wonders if FUWAMOCO have a ritual to prepare mentally before a presentation. While they barely get nervous anymore after all their guard dog training, both a walk and stretching helps them to get rid of any anxiety they might have before a big presentation. If they need something more, they rub each other's back. As for Mococo, lying on the floor helps her too!
 
 ## Next Stream & Schedule (28:28)
 

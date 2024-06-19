@@ -12,7 +12,7 @@ FUWAMOCO celebrate their cover song "Cute na Kanojo" reaching over 250k views, t
 
 ## Polka 3rd Anniversary (12:23)
 
-FUWAMOCO congratulate Polka on her 3rd anniversary and mention enjoying her 3D live performance and songs.
+FUWAMOCO congratulated Polka on her 3rd anniversary and mention enjoying her 3D live performance and songs.
 
 ## Misunderstanding (14:35)
 
@@ -40,7 +40,7 @@ FUWAMOCO's hunger for success stems from passion, past hardships, and a drive to
 
 ## Next Stream & Schedule (29:35)
 
-FUWAMOCO reveal a movie night with Nerissa, watching "Princess and the Pauper", and mention focusing on homework this weekend.
+FUWAMOCO reveal a movie night with Nerissa, watching "Princess and the Pauper". They mentioned they will focus on homework this weekend.
 
 ## Thanks & Extra Special Ruffians (32:02)
 

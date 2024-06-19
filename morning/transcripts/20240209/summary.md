@@ -16,7 +16,7 @@ FUWAMOCO had a fun GeoGuessr collab with AZKi, exploring places like Shinjuku Gy
 
 ## FWMC Scoop - Calli 1000 Videos (14:18)
 
-Calli reached 1,000 videos on her channel. FUWAMOCO congratulate her on this milestone.
+Calli reached 1,000 videos on her channel. FUWAMOCO congratulated her on this milestone.
 
 ## FWMC Garage Kit Figure (16:16)
 

@@ -14,7 +14,7 @@ As time passes, FUWAMOCO find themselves relying more on Ruffians.
 
 ## Tidying-up Space (12:19)
 
-Swamped in homework and streams, FUWAMOCO have barely got any time to clean up, so they are making a tidying-up Twitter Space to help them keep motivated. 2023-09-14T14:00Z
+Swamped in homework and streams, FUWAMOCO have barely got any time to clean up, so they are hosting a tidying-up Twitter Space to help them keep motivated. 2023-09-14T14:00Z
 
 ## Misunderstanding (16:16)
 

@@ -38,7 +38,7 @@ FUWAMOCO, with the help from their new fox friend Fubuki, [made it out of The Ba
 
 ## Next Stream & Schedule (29:49)
 
-- [The Legend Of Zelda: Ocarina Of Time #3](https://youtu.be/JXSTARay5yw) - 2023-09-22T17:00Z
+- [The Legend of Zelda: Ocarina Of Time #3](https://youtu.be/JXSTARay5yw) - 2023-09-22T17:00Z
 - [Rock n' Rawr Party](https://youtu.be/DjiGIBKoDOo) - 2023-09-23T17:00Z
 - planetarian - 2023-09-24T15:00Z
 

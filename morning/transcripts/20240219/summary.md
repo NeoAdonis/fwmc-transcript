@@ -6,7 +6,7 @@ FUWAMOCO welcomes Ruffians to the 82nd episode of FUWAMOCO Morning, aiming to br
 
 Pero was seen wrestling a giant millipede, a fascinating sight for Ruffians during their walks.
 
-## "Let me be with you" 100k (11:07)
+## "Let Me Be With You" 100k (11:07)
 
 FUWAMOCO celebrate their cover of "Let Me Be With You" from Chobits reaching 100k views and thanks Ruffians for their support.
 
@@ -24,7 +24,7 @@ Gura-senpai has a special collab with Sushiro Taiwan, featuring cute merch and G
 
 ## 80 million on RED HEART (20:00)
 
-FUWAMOCO congratulates Haachama-senpai on her song "RED HEART" reaching 8.8 million views, expressing their admiration for the emotional track.
+FUWAMOCO congratulated Haachama-senpai on her song "RED HEART" reaching 8.8 million views, expressing their admiration for the emotional track.
 
 ## Today's Challenge (22:42)
 

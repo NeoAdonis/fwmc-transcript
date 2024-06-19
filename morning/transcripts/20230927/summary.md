@@ -18,7 +18,7 @@ During the [Twin Game Show with Calliope](https://youtu.be/VoubQMAXv-A), [Fuwawa
 
 ## Confession (21:15)
 
-Did Ruffians catch something weird on [one of FUWAMOCO's latest tweets](https://twitter.com/FUWAMOCO_en/status/1706893840765034633)? It seems there was a small typo. *Also Mococo Sneeze at 22:14.*
+Did Ruffians catch something weird on [one of FUWAMOCO's latest tweets](https://twitter.com/FUWAMOCO_en/status/1706893840765034633)? It seems there was a small typo.
 
 ## Mococo Pup Talk (25:16)
 

@@ -28,7 +28,7 @@ FUWAMOCO announced their unofficial rival, Kevin Lamar, who recently released a 
 
 ## Today's Challenge (23:12)
 
-Mococo tried umeboshi, finding them not too sour and quite tasty. Fuwawa also enjoyed them and suggested Ruffians try them and share their experiences.
+Mococo tried umeboshi, finding them not too sour and quite tasty. Fuwawa also enjoyed them, and suggested Ruffians try them and share their experiences.
 
 ## Doggie of the Day (28:43)
 

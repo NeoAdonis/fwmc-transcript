@@ -8,7 +8,7 @@ Pero was sighted with an orange cat, hinting at being the root of all problems a
 
 ## New Cover "Identity" (10:03)
 
-FUWAMOCO released a cover song over of Kanaria's "Identity" over the weekend, marking their first VOCALOID song cover.
+FUWAMOCO released a cover song of Kanaria's "Identity" over the weekend, marking their first VOCALOID song cover.
 
 ## Gura "Tokyo Wabi-Sabi Lullaby" (13:42)
 
@@ -16,7 +16,7 @@ FUWAMOCO admires Gura's song "Tokyo Wabi-Sabi Lullaby" for its melancholic vibe 
 
 ## "Cute na Kanojo 400k" (15:35)
 
-FUWAMOCO celebrates reaching 400,000 listens on their cover "Cute na Kanojo," thanking the Ruffians for their support.
+FUWAMOCO celebrates reaching 400,000 plays on their cover "Cute na Kanojo," thanking the Ruffians for their support.
 
 ## FWMC Animation (17:53)
 

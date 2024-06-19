@@ -28,7 +28,7 @@ FUWAMOCO thank Ruffians for submitting jingles for their show. They appreciate t
 
 ## Doggie of the Day (25:30)
 
-Today's Doggie of the Day is Coco. FUWAMOCO share the submitted photo, celebrating Coco and encouraging more Ruffians to send in pictures of their dogs.
+Today's Doggie of the Day is Coco. FUWAMOCO shared the submitted photo while celebrating Coco and encouraging more Ruffians to send in pictures of their dogs.
 
 ## Today I Went On A Walk (27:56)
 

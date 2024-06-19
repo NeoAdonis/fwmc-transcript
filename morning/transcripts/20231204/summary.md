@@ -36,7 +36,7 @@ FUWAMOCO clarifies that the "Yei Taiga" call used during their Rock n' Rawr Part
 
 ## Today's Challenge (25:46)
 
-Mococo attempts to eat natto again but struggles with the taste and smell. FUWAMOCO encourages Ruffians to do their best everyday, like Mococo.
+Mococo attempts to eat natto again but struggles with the taste and smell. FUWAMOCO encourages Ruffians to do their best every day, like Mococo.
 
 ## Doggie of the Day (32:11)
 

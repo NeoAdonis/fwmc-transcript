@@ -4,7 +4,7 @@ FUWAMOCO Morning episode starts with a cheerful greeting from Fuwawa and Mococo 
 
 ## Pero Sighting (06:53)
 
-Pero was spotted in a Ruffian's bed with a fancy candle lit beside. He loves fresh sheets.
+Pero was spotted in a Ruffian's bed with a fancy candle lit beside it. He loves fresh sheets, it seems.
 
 ## "Gimme Chocolate" cover with Chloe (10:01)
 
@@ -26,7 +26,7 @@ Mococo reached 200 sneezes on stream within 197 days since debut. She celebrated
 
 FUWAMOCO clarified that, as demon dogs, chocolate won't hurt them, but they prefer not to eat it. Regular dogs should not eat chocolate.
 
-## "Let me be with you" cover (22:02)
+## "Let Me Be With You" cover (22:02)
 
 FUWAMOCO announced a cover of "Let Me Be With You," premiering tomorrow at 6pm PT. They are excited and hope Ruffians will enjoy it.
 

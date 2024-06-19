@@ -44,4 +44,4 @@ FUWAMOCO discuss upcoming streams and events, reminding Ruffians of the next mil
 
 ## Thanks & Extra Special Ruffians (45:00)
 
-FUWAMOCO thank the Ruffians for joining and give shoutouts to extra special Ruffians. They end the show with their signature BAU BAU.
+FUWAMOCO thank the Ruffians for joining and give shoutouts to extra special Ruffians. They ended the show with their signature BAU BAU.

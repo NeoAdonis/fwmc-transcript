@@ -18,7 +18,7 @@ During their last [Resident Evil 4 stream](https://youtu.be/nrMfq4OknXU), FUWAMO
 
 ## Secret (15:30)
 
-Mococo shares that even when the heat is up, her toes feel constantly cold and when possible she uses a foot warmer.
+Mococo shares that even when the heat is up, her toes feel constantly cold and when possible, she uses a foot warmer.
 
 ## Guerilla Stream (19:42)
 
