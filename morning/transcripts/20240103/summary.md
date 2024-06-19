@@ -12,7 +12,7 @@ FUWAMOCO discuss the New Year Outfit Reveal, initially scheduled for January 1st
 
 ## FWMC Comiket (11:20)
 
-At Comiket, Icomochi-mama showcased the first unofficial FUWAMOCO fanbook, which sold out quickly. An extra print run for online sales also sold out fast.
+At Comiket, Icomochi-mama showcased the first unofficial FUWAMOCO fan book, which sold out quickly. An extra print run for online sales also sold out fast.
 
 ## Ruffian Messages (13:21)
 

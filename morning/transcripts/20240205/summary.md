@@ -20,7 +20,7 @@ Fubuki and Suisei caught rare and legendary PAOs in Palworld. FUWAMOCO discuss t
 
 ## Valentine's Merch (18:05)
 
-New Hololive English Valentine's Day merch is available. Ruffians are encouraged to visit the Hololive official store to get into the Valentine's spirit.
+New hololive English Valentine's Day merch is available. Ruffians are encouraged to visit the hololive official store to get into the Valentine's spirit.
 
 ## Twin Day Dreams (19:15)
 

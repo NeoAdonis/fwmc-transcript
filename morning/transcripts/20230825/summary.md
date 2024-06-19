@@ -4,9 +4,9 @@
 
 Pero [criticizes] FUWAMOCO's attempt at finding him in The Backrooms, blaming Ruffians as well for making the sisters believe he was there. *Fan art by [Sobbi](https://twitter.com/Sobbi11/status/1694922137092444539).*
 
-## HoloSummer SPLASH PARTY (00:00)
+## holoSummer SPLASH PARTY (00:00)
 
-Pero shares his enjoyment of Hololive Summer, and invites Ruffians to watch SPLASH PARTY live concert along with Advent ([day 1](https://youtu.be/w5gAcmMcrGg) )).
+Pero shares his enjoyment of hololive Summer, and invites Ruffians to watch SPLASH PARTY live concert along with Advent ([day 1](https://youtu.be/w5gAcmMcrGg) )).
 
 ## Who are FUWAMOCO to Pero? (10:39)
 

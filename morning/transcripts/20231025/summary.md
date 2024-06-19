@@ -30,7 +30,7 @@ At some point during their [Phasmophobia collab with Fubuki and Polka](https://y
 
 ## Mococo Pup Talk (25:50)
 
-From the other side (of the screen) comes spooky Moco-chan, encouraging you to be brave in order to survive any jumpscare you might face this Halloween!
+From the other side (of the screen) comes spooky Moco-chan, encouraging you to be brave in order to survive any jump scare you might face this Halloween!
 
 ## Doggie of the Day (29:14)
 

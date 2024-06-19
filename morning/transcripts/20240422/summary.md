@@ -10,7 +10,7 @@ In a delightful field of fluffy flowers, Pero was spotted blending in—or not s
 
 ## holo DOROKEI (12:27)
 
-Ruffians, get ready for the Holodotal K-2024 event! FUWAMOCO will be participating, aiming to collect Yamadollies and escape the theme park without getting caught.
+Ruffians, get ready for the holo Dorokei 2024 event! FUWAMOCO will be participating, aiming to collect Yamadollies and escape the theme park without getting caught.
 
 ## FUWAMOCODE WORD (16:15)
 

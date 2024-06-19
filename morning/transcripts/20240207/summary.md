@@ -8,7 +8,7 @@ Ruffians report a sighting of Pero disguised as a cute puppy in a cardboard box.
 
 ## FWMC Scoop! - Advent's "Rebellion" 3 Million Views (09:59)
 
-Advent's first original song "Rebellion" has reached 3 million views on the official Hololive English YouTube channel. FUWAMOCO express gratitude and hope to perform it live someday.
+Advent's first original song "Rebellion" has reached 3 million views on the official hololive English YouTube channel. FUWAMOCO express gratitude and hope to perform it live someday.
 
 ## Rat King Tea Tossed (11:48)
 

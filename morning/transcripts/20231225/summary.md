@@ -8,7 +8,7 @@ Pero was spotted among beautifully wrapped Christmas presents, hinting at Moco-S
 
 ## Advent Calendar (09:04)
 
-FUWAMOCO discusses the Hololive English Advent Calendar, featuring fun videos and goodies. Despite a delay, the grand finale is anticipated soon.
+FUWAMOCO discusses the hololive English Advent Calendar, featuring fun videos and goodies. Despite a delay, the grand finale is anticipated soon.
 
 ## Promise Christmas Medley 2023 (11:17)
 

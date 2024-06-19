@@ -8,7 +8,7 @@ Ruffians spotted Pero relaxing in the water, possibly swimming. Despite looking 
 
 ## Mumei 1 Million Subscribers (10:00)
 
-FUWAMOCO congratulates Nanashi Mumei-senpai from Hololive Promise for reaching 1 million YouTube subscribers. They express their aspiration to achieve similar success.
+FUWAMOCO congratulates Nanashi Mumei-senpai from hololive Promise for reaching 1 million YouTube subscribers. They express their aspiration to achieve similar success.
 
 ## EXPO and 5th fes (11:22)
 

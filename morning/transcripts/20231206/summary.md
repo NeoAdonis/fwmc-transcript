@@ -12,7 +12,7 @@ FUWAMOCO is nominated for the "League of Their Own" category at the VTuber Award
 
 ## FWMC Scoop (12:40)
 
-FUWAMOCO requests Ruffians to share Hololive English news using the hashtag #FWMCScoop for better content on future FUWAMOCO Mornings.
+FUWAMOCO requests Ruffians to share hololive English news using the hashtag #FWMCScoop for better content on future FUWAMOCO Mornings.
 
 ## FWMC Morning Overtime (14:29)
 

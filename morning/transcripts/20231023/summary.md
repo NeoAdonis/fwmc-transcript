@@ -6,7 +6,7 @@
 
 ## "Halloween Night, Tonight!" Cover (10:00)
 
-In time for the current festivities comes ["Halloween Night, Tonight!" English Cover](https://youtu.be/FqXrBy_FIU0), sung by hololive Advent! The popular hololive JP Halloween song, translated by fellow Advent member [Nerissa Ravercroft](https://www.youtube.com/@NerissaRavencroft).
+In time for the current festivities comes ["Halloween Night, Tonight!" English Cover](https://youtu.be/FqXrBy_FIU0), sung by hololive Advent! The popular hololive JP Halloween song, translated by fellow Advent member [Nerissa Ravencroft](https://www.youtube.com/@NerissaRavencroft).
 
 ## Advent Apparel (12:47)
 
@@ -34,7 +34,7 @@ After 7 weeks of starting this enduring challenge, Mococo actually did it: [she 
 
 ## Today I Went On A Walk (34:28)
 
-[levinky?](https://twitter.com/levinky_art/status/1715713078187483457) took a walk in Japan and made a quick stop to try the so-revered Pon-de-rings. Their veredict: not as good as advertised.
+[levinky?](https://twitter.com/levinky_art/status/1715713078187483457) took a walk in Japan and made a quick stop to try the so-revered Pon-de-rings. Their verdict: not as good as advertised.
 
 ## Question Of The Day (36:06)
 

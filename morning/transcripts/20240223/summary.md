@@ -14,7 +14,7 @@ FUWAMOCO remind the Ruffians that their birthday merch is still available for pr
 
 ## Advent Brunch (14:21)
 
-FUWAMOCO talk about their recent brunch with Adventrix, sharing some of the fun and silly topics they discussed, including their dislike for cheese and sleeping preferences. They express their enjoyment and hope to share more meals together in the future.
+FUWAMOCO talk about their recent brunch with Advent, sharing some of the fun and silly topics they discussed, including their dislike for cheese and sleeping preferences. They express their enjoyment and hope to share more meals together in the future.
 
 ## Apology (17:43)
 
@@ -46,4 +46,4 @@ FUWAMOCO mention their upcoming streams, including a Rock n' Rawr PARTY and a bi
 
 ## Thanks & Extra Special Ruffians (33:19)
 
-FUWAMOCO thank the Ruffians for joining them and give shout-outs to some Extra Special Ruffians: Bermuda, Eguizabue, Tenta, Asante Star, Infernos, Ace, Ludang, Dustin King, Belphegor, and many others.
+FUWAMOCO thank the Ruffians for joining them and give shout-outs to some Extra Special Ruffians.

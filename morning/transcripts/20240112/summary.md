@@ -44,7 +44,7 @@ Since their debut, FUWAMOCO has become hungrier for success and continues to pus
 
 ## Next Stream & Schedule (30:13)
 
-FUWAMOCO announced a rock n' roll party on Saturday themed around winter songs and a superchat reading on Sunday at 1pm PT. They thanked Ruffians for their patience.
+FUWAMOCO announced a rock n' roll party on Saturday themed around winter songs and a super chat reading on Sunday at 1pm PT. They thanked Ruffians for their patience.
 
 ## Thanks & Extra Special Ruffians (32:13)
 

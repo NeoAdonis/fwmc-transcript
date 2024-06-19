@@ -8,7 +8,7 @@ Pero was spotted sleeping in a Ruffian's coat pocket, enjoying the warmth and co
 
 ## Off-Collab with Koyori (10:22)
 
-FUWAMOCO had an off-collab with Koyori-senpai, impressed by her English and enjoyed pon-de-rings with mayonaisse together.
+FUWAMOCO had an off-collab with Koyori-senpai, impressed by her English and enjoyed pon-de-rings with mayonnaise together.
 
 ## holo Dorokei 2024 (17:42)
 
@@ -32,7 +32,7 @@ Today's Doggie of the Day is Mia, a Ruffian's adorable husky. Mia has stunning e
 
 ## Today I Went On A Walk (10:10)
 
-A Ruffian shared their walking experiences, showcasing a beautiful chinese gardens and even a big fish they encountered, adding an element of surprise to their strolls.
+A Ruffian shared their walking experiences, showcasing a beautiful Chinese gardens and even a big fish they encountered, adding an element of surprise to their strolls.
 
 ## Question of the Day (23:45)
 

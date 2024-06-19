@@ -26,7 +26,7 @@ FUWAMOCO reveal their next cover: it's [syudou's "Cute na Kanojo"](https://youtu
 
 ## Halloween Memories (22:36)
 
-FUWAMOCO tell us a small memory from their childhood, when they went to watch some fireworks with their family on a Halloween day, and Fuwawa accidentally dropped the gum that she was chewing on Mamapuppy's hair.
+FUWAMOCO tell us a small memory from their childhood, when they went to watch some fireworks with their family on a Halloween day, and Fuwawa accidentally dropped the gum that she was chewing on Mama puppy's hair.
 
 ## Doggie of the Night (25:45)
 

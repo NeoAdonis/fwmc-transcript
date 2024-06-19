@@ -16,7 +16,7 @@ FUWAMOCO made their first post on the hololive Reddit, receiving a warm welcome 
 
 ## holoEN Advent Calendar (14:24)
 
-The Hololive English Advent Calendar is back. FUWAMOCO appeared in the first video, singing a song with Kiara, Calli, and Nerissa.
+The hololive English Advent Calendar is back. FUWAMOCO appeared in the first video, singing a song with Kiara, Calli, and Nerissa.
 
 ## "Connect the World" Blu-ray (17:02)
 
@@ -24,7 +24,7 @@ The "Connect the World" concert in LA will have a Blu-ray release, allowing fans
 
 ## holo no Suika Top Score (19:35)
 
-Mumei-senpai achieved over 15,000 points in the Hololive Suika game, impressing FUWAMOCO with her skills.
+Mumei-senpai achieved over 15,000 points in the hololive Suika game, impressing FUWAMOCO with her skills.
 
 ## "Identity" 200k (20:01)
 

@@ -32,7 +32,7 @@ FUWAMOCO reflects on the lack of misunderstandings recently, noting that fans mi
 
 ## Doggie of the Day (23:55)
 
-Today's Doggie of the Day is Naima, a borky nine-year-old with beautiful locks and a bit of attitude, making him a unique pup.
+Today's Doggie of the Day is Naima, a borkie nine-year-old with beautiful locks and a bit of attitude, making him a unique pup.
 
 ## Today I Went On A Walk (25:35)
 

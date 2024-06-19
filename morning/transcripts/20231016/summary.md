@@ -12,13 +12,13 @@ FUWAMOCO reached 600K subscribers on YouTube during their [endurance Suika Game 
 
 This week: Halloween party. Sunday, collab + announcement. Send ideas for costumes on Twitter using the hashtag [#DressUpFWMC](https://twitter.com/search?q=%23DressUpFWMC).
 
-## Bau Bau Byou (14:15)
+## BAU BAU BYOU (14:15)
 
 Some Ruffians have reported having some very specific [nightmares](https://youtu.be/QW_VwFyUBeU). FUWAMOCO hope that those Ruffians get well soon...
 
 ## Misunderstanding (16:39)
 
-During [last Suika game stream](https://youtu.be/3PFyuPcp-Fw?t=5321), as part of their punishment games if they didn't reach 3000 points at any round, Moco-chan had to say some embarrasing lines. One of them made her regress on her age and become a baby. Mococo clarifies that she is, in fact, not a baby.
+During [last Suika game stream](https://youtu.be/3PFyuPcp-Fw?t=5321), as part of their punishment games if they didn't reach 3000 points at any round, Moco-chan had to say some embarrassing lines. One of them made her regress on her age and become a baby. Mococo clarifies that she is, in fact, not a baby.
 
 ## Twitter Exposure (19:18)
 
@@ -26,7 +26,7 @@ They know what you do: X (formerly Twitter) is snitching to FUWAMOCO on all Ruff
 
 ## Natto Challenge (21:55)
 
-Another attempt a natto without [quite the success that everyone hoped for...](https://youtu.be/qTcTR5q0gTk?t=1602). Adding salt to the wound, [Fuwawa asserts some dominance](https://youtu.be/qTcTR5q0gTk?t=1727) by having a bite of the same natto with no issues whatsover.
+Another attempt a natto without [quite the success that everyone hoped for...](https://youtu.be/qTcTR5q0gTk?t=1602). Adding salt to the wound, [Fuwawa asserts some dominance](https://youtu.be/qTcTR5q0gTk?t=1727) by having a bite of the same natto with no issues whatsoever.
 
 ## Doggie of the Day (29:33)
 

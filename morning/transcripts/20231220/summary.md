@@ -16,15 +16,15 @@ FUWAMOCO invites Ruffians to share their favorite holiday or Christmas memories 
 
 ## Holo New Year Cup (15:30)
 
-FUWAMOCO will participate in the Hololive New Year Mario Kart Tournament on January 7th and 8th, with Fuwawa in group D and Mococo in group A.
+FUWAMOCO will participate in the hololive New Year Mario Kart Tournament on January 7th and 8th, with Fuwawa in group D and Mococo in group A.
 
 ## FWMC Comiket Debut (18:26)
 
-FUWAMOCO will debut at Comiket with a fanbook set by their artist, Icomochi-mama. They express excitement for the event and encourage Ruffians to share their creations.
+FUWAMOCO will debut at Comiket with a fan book set by their artist, Icomochi-mama. They express excitement for the event and encourage Ruffians to share their creations.
 
 ## hololive Wafers (21:08)
 
-Starting in April, FUWAMOCO and other Hololive members will appear on collectible cards included with chocolate wafers available in Japan.
+Starting in April, FUWAMOCO and other hololive members will appear on collectible cards included with chocolate wafers available in Japan.
 
 ## Misunderstanding (23:37)
 

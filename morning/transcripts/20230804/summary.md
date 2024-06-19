@@ -19,7 +19,7 @@ In what would become a recurrent corner, FUWAMOCO steps up once more to clear up
 
 ## Confession (19:31)
 
-Mococo confeses that, even if FUWAMOCO said [on their Q&A](https://youtu.be/AL3FAfr8FGc?t=6612) that all their senpai inspire them in its own way, the member she admire the most is actually [Omaru Polka](https://www.youtube.com/@OmaruPolka), and that her original song, ["SAIKYOUTICPOLKA"](https://youtu.be/0bo6MVQxY6Y), makes her cry.
+Mococo confesses that, even if FUWAMOCO said [on their Q&A](https://youtu.be/AL3FAfr8FGc?t=6612) that all their senpai inspire them in its own way, the member she admire the most is actually [Omaru Polka](https://www.youtube.com/@OmaruPolka), and that her original song, ["SAIKYOUTICPOLKA"](https://youtu.be/0bo6MVQxY6Y), makes her cry.
 
 ## Doggie of the Day (23:37)
 

@@ -43,7 +43,7 @@ Without hesitation, Mococo is able to eat natto today! Or is she?
 
 ## Next Stream & Schedule (38:13)
 
-* [Superchat Reading](https://youtu.be/cmV-CRYPosE)
+* [Super chat Reading](https://youtu.be/cmV-CRYPosE)
 ⚠️ Due to unforeseen events in Japan, currently posted schedule might be subject to changes.
 
 ## Thanks & Extra Special Ruffians (40:09)

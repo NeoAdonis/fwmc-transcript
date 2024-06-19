@@ -30,7 +30,7 @@ After [posting on Twitter](https://twitter.com/FUWAMOCO_en/status/17176108337051
 
 ## Good News (25:10)
 
-Like the hero he is, Papapuppy came by to the Abyssgard Residence and fixed the lightbulbs!
+Like the hero he is, Papa puppy came by to the Abyssgard Residence and fixed the lightbulbs!
 
 ## Doggie of the Day (27:41)
 

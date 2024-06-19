@@ -22,7 +22,7 @@ FUWAMOCO admits to another misunderstanding, this time involving an incorrect ha
 
 ## Natto Challenge (28:08)
 
-Mococo takes on the Natto Challenge, attempting to eat natto (this time coming from Northamerica rather than Tochigi) despite her distaste for it. She mixes it with ginger and manages to eat one bean before giving up.
+Mococo takes on the Natto Challenge, attempting to eat natto (this time coming from North America rather than Tochigi) despite her distaste for it. She mixes it with ginger and manages to eat one bean before giving up.
 
 ## Doggie of the Day (34:39)
 
@@ -42,4 +42,4 @@ The question of the day is about creating an "ita bag," a bag decorated with ite
 
 ## Secret Ending (44:11)
 
-The Great Peroncino, aka Pero, makes a surprise appearance at the end of the episode, addressing the viewers directly and and expressing his desire to spend more time with them.
+The Great Peroncino, aka Pero, makes a surprise appearance at the end of the episode, addressing the viewers directly and expressing his desire to spend more time with them.

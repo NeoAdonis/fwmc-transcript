@@ -12,7 +12,7 @@ FUWAMOCO's cover of "White Love" has reached 200,000 views. They thank Ruffians 
 
 ## holoMyth "ReUnion" (11:48)
 
-Holomyth released a new original song "ReUnion." FUWAMOCO encourages Ruffians to check it out for a heartwarming experience.
+hololive English -Myth- released a new original song "ReUnion." FUWAMOCO encourages Ruffians to check it out for a heartwarming experience.
 
 ## Marine 3 Million Subscribers (13:52)
 

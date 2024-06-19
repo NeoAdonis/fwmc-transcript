@@ -12,7 +12,7 @@ Mococo clarifies that she was framed during a chat about rice with Nerissa, addr
 
 ## Fuwawa Exposed (13:08)
 
-Mococo reveals that Fuwawa watches her Holo Summer Shorts repeatedly with a silly smile. Mococo playfully exposes Fuwawa's behavior to the Ruffians.
+Mococo reveals that Fuwawa watches her holoSummer Shorts repeatedly with a silly smile. Mococo playfully exposes Fuwawa's behavior to the Ruffians.
 
 ## Our Claws (17:18)
 

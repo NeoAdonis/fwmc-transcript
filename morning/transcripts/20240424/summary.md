@@ -16,7 +16,7 @@ Fuwawa shares that she has become fluffier thanks to a special bath product. Bot
 
 ## FWMC scoop (@ruppe_uncle) (22:01)
 
-Uncle Rupi reports on Pororo-oneechan making a new friend named FUGLORD, sparking a playful discussion about friendships and jealousy among hololive members.
+Uncle Rupi reports on Poruru-oneechan making a new friend named FUGLORD, sparking a playful discussion about friendships and jealousy among hololive members.
 
 ## Mococo Pup Talk (25:05)
 

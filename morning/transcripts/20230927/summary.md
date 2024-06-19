@@ -10,7 +10,7 @@ FUWAMOCO celebrate 1 month since they opened their YouTube membership! They also
 
 ## Phone Call (12:27)
 
-FUWAMOCO got a phone call. Although Fuwawa was reluctant to answer as calls scares them, she did and it turned out to be from Mamapuppy, who wanted to share a song from Japan that she heard recently that reminded her of the twin sisters: [YOASOBI's IDOL](https://youtu.be/ZRtdQ81jPUQ).
+FUWAMOCO got a phone call. Although Fuwawa was reluctant to answer as calls scares them, she did and it turned out to be from Mama puppy, who wanted to share a song from Japan that she heard recently that reminded her of the twin sisters: [YOASOBI's IDOL](https://youtu.be/ZRtdQ81jPUQ).
 
 ## Misunderstanding (16:17)
 

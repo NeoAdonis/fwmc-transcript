@@ -23,10 +23,10 @@ FUWAMOCO thank everyone for their submissions for a new jingle, and shows us a f
 * From [midijunki](https://twitter.com/midi_junki/status/1695190560741441592)
 * From [neya](https://twitter.com/bullcaniro/status/1698217614215115117), a melody reminiscent of puppies playing in the yard.
 * From [GhostToast](https://twitter.com/GhostToast2500/status/1698581289056493734), a smooth and "sexy" (Mococo's words, not mine) jazz-inspired tune.
-* From [Yunoxaa](https://twitter.com/Yunoxaa/status/1698386399483793622), a citypop.
+* From [Yunoxaa](https://twitter.com/Yunoxaa/status/1698386399483793622), a composition reminiscent of city pop.
 * From [NEIM](https://twitter.com/lesscigar/status/1698281510812725464), a cute tune that invites you to wake up like a gentle alarm.
-* From [Crevan](https://twitter.com/CrevanHelmont/status/1698069470839734745), a silly didly. BAU BAU.
-* From [Davkas](https://twitter.com/DavkasPlays/status/1694557070152872209), a silly doodle. BAU BAU.
+* From [Crevan](https://twitter.com/CrevanHelmont/status/1698069470839734745), a silly tune. BAU BAU.
+* From [Davkas](https://twitter.com/DavkasPlays/status/1694557070152872209), a silly tune. BAU BAU.
 * From [zalas](https://twitter.com/hightrancesea/status/1698175816482377995), a viral (in its own way) tune
 * Finally, the winner and new official jingle comes from [Sarina](https://twitter.com/Sarina_A_Elysia/status/1695163342699081980)!
 

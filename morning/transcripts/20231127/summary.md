@@ -20,7 +20,7 @@ FUWAMOCO celebrates reaching 400,000 listens on their cover "Cute na Kanojo," th
 
 ## FWMC Animation (17:53)
 
-2Snacks released a cute and silly animation of FUWAMOCO, capturing their joy and energy in Spooky's Jumpscare Mansion.
+2Snacks released a cute and silly animation of FUWAMOCO, capturing their joy and energy in Spooky's Jump scare Mansion.
 
 ## 100k BAU BAUs (17:08)
 

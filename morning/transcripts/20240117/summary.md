@@ -24,7 +24,7 @@ Ichijo Ririka from ReGLOSS mentioned wanting to become a sandwich with FUWAMOCO.
 
 ## Apology (21:17)
 
-Mococo apologizes for dozing off during a watchalong, explaining it was due to a busy day, not lack of interest in the content.
+Mococo apologizes for dozing off during a watch-along, explaining it was due to a busy day, not lack of interest in the content.
 
 ## Hidden Secret (25:25)
 
@@ -48,7 +48,7 @@ FUWAMOCO can't touch their toes, whistle, or open their eyes underwater. They en
 
 ## Next Stream & Schedule (36:54)
 
-The next stream is the second half of the Kanon watchalong tonight. Thursday’s stream will feature the game "Power Up" with Biboo and Shiori.
+The next stream is the second half of the Kanon watch-along tonight. Thursday’s stream will feature the game "Power Up" with Biboo and Shiori.
 
 ## Thanks & Extra Special Ruffians (38:13)
 

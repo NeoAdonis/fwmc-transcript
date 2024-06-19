@@ -20,7 +20,7 @@ Kiara-senpai's 3D Birthday Live featured guests and performances, including her 
 
 ## Tokyo Character Street Cards (13:51)
 
-Hololive's pop-up shop in Tokyo Station's Character Street is popular. FUWAMOCO advises against buying resold cards.
+hololive's pop-up shop in Tokyo Station's Character Street is popular. FUWAMOCO advises against buying resold cards.
 
 ## FWMC Scoop - BAU BAU BYOU Spreading (17:43)
 

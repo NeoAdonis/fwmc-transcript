@@ -6,7 +6,7 @@
 
 ## hololive Minecraft Sport Festival (08:34)
 
-Their training beared fruits, and FUWAMOCO along with the Red Team achieved victory in the [Minecraft Sports Festival 2023](https://youtu.be/QBMF6LN1QyU)!
+Their training bore fruits, and FUWAMOCO along with the Red Team achieved victory in the [Minecraft Sports Festival 2023](https://youtu.be/QBMF6LN1QyU)!
 
 ## Confession (10:37)
 
@@ -14,7 +14,7 @@ Even though she wasn't participating, Fuwawa was able to support Mococo by allow
 
 ## Minecraft Photo (13:06)
 
-In the end however, the twins were able to take a [picture together](https://twitter.com/FUWAMOCO_en/status/1720788581801976235/photo/1)! Papapuppy gave them a laptop that, although old, allowed Fuwawa to join Mococo in their victory celebration.
+In the end however, the twins were able to take a [picture together](https://twitter.com/FUWAMOCO_en/status/1720788581801976235/photo/1)! Papa puppy gave them a laptop that, although old, allowed Fuwawa to join Mococo in their victory celebration.
 
 ## Misunderstanding (15:12)
 
@@ -22,7 +22,7 @@ No misunderstandings today! Ruffians are shocked.
 
 ## Goodbye Daylight Time (16:27)
 
-Aligned with the U.S. and Canada, clocks in the Northwest Passage went back 1 hour, causing FUWAMOCO's stream schedule to shift as well. The sisters apologize for the incovenience this might cause to Ruffians not observing Daylight Time changes.
+Aligned with the U.S. and Canada, clocks in the Northwest Passage went back 1 hour, causing FUWAMOCO's stream schedule to shift as well. The sisters apologize for the inconvenience this might cause to Ruffians not observing Daylight Time changes.
 
 ## Haachama-senpai (18:38)
 
@@ -30,7 +30,7 @@ FUWAMOCO joined Haachama during her [call-in stream](https://youtu.be/_U--hP9-Wy
 
 ## VR Radio (20:45)
 
-FUWAMOCO's Opening Song, ["Lifetime Showtime"](https://youtu.be/-wzgy7uTuSk), was [broadcasted on on NHK's ぶいあーる！～VTuberの音楽Radio～](https://twitter.com/nhk_vtuberradio/status/1721173523614298148)!
+FUWAMOCO's Opening Song, ["Lifetime Showtime"](https://youtu.be/-wzgy7uTuSk), was [broadcasted on NHK's ぶいあーる！～VTuberの音楽Radio～](https://twitter.com/nhk_vtuberradio/status/1721173523614298148)!
 
 ## Natto Challenge (22:32)
 

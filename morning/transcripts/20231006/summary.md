@@ -6,7 +6,7 @@
 
 ## CouncilRyS 3D Collab (09:18)
 
-Tune in for a [special 3D Collab](https://twitter.com/hololive_En/status/1701430450273837276) featuring [IRyS](https://www.youtube.com/@IRyS) joined by Hololive EN -Council-. 2023-10-07T19:00Z
+Tune in for a [special 3D Collab](https://twitter.com/hololive_En/status/1701430450273837276) featuring [IRyS](https://www.youtube.com/@IRyS) joined by hololive EN -Council-. 2023-10-07T19:00Z
 
 ## Celebration: 100 live streams (10:50)
 

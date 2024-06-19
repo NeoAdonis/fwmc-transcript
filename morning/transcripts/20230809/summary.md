@@ -6,9 +6,9 @@ FUWAMOCO welcomes Ruffians to the fourth episode of FUWAMOCO Morning, a short fo
 
 Pero is missing, and FUWAMOCO asks Ruffians for help in finding him. They speculate Pero might be training, on a tropical vacation, or at a casino. Ruffians are encouraged to share sightings with the hashtag #FWMCMORNING.
 
-## Information - Superchat Reading (07:52)
+## Information - Super chat Reading (07:52)
 
-FUWAMOCO expresses gratitude for the support during their monetization celebration. They announce a new Superchat Reading segment after every stream (except FUWAMOCO Morning ones) to get to know Ruffians better.
+FUWAMOCO expresses gratitude for the support during their monetization celebration. They announce a new Super chat Reading segment after every stream (except FUWAMOCO Morning ones) to get to know Ruffians better.
 
 ## Misunderstanding - AsaMoco (09:21)
 

@@ -30,7 +30,7 @@ It's been 2 Months since FUWAMOCO debuted! To celebrate, the sisters will be doi
 
 ## Question Of The Day (22:23)
 
-[LordBrocolli](https://twitter.com/KnightofFate/status/1707524643832422772) asks FUWAMOCO for their favorite fall activities. The twins seem to like the air and smell of fall, and going for a walk. As for specific activities, they love helping Mamapuppy and Papapuppy to clean the leaves, which Mococo uses as an opportunity to jump on the leaves despite the bugs and dirt.
+[LordBrocolli](https://twitter.com/KnightofFate/status/1707524643832422772) asks FUWAMOCO for their favorite fall activities. The twins seem to like the air and smell of fall, and going for a walk. As for specific activities, they love helping Mama puppy and Papa puppy to clean the leaves, which Mococo uses as an opportunity to jump on the leaves despite the bugs and dirt.
 
 ## Next Stream & Schedule (24:58)
 

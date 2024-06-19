@@ -44,6 +44,6 @@ A Ruffian thanked Pero for live translations and asked if he will do more. FUWAM
 
 ## Next Stream & Schedule (34:31)
 
-FUWAMOCO will organize dogs, rest, and practice Touhou Fujinroku Mountain of Faith. Fuwawa will also play Hitman, aiming to show her skills.
+FUWAMOCO will organize dogs, rest, and practice Touhou Fuujinroku ~ Mountain of Faith. Fuwawa will also play Hitman, aiming to show her skills.
 
 ## Thanks & Extra Special Ruffians (36:14)

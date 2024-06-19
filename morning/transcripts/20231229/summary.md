@@ -28,7 +28,7 @@ Introducing "Powderd Pero", made from aged demon dog. This product promises to e
 
 ## Fundoshi Fashion (19:04)
 
-Mococo teases about new Hololive English Advent outfits, possibly including fundoshi. Expert F explains this traditional Japanese undergarment's cultural significance.
+Mococo teases about new hololive English Advent outfits, possibly including fundoshi. Expert F explains this traditional Japanese undergarment's cultural significance.
 
 ## Weather Report (21:02)
 

@@ -6,7 +6,7 @@ FUWAMOCO are excited for the upcoming [Nanashi Mumei's 3D Showcase](https://yout
 
 ## Bad News (08:58)
 
-Alas, the lightbulb that Papapuppy had fixed [a few days before](https://youtu.be/_aK_6Wb05hY?t=9m54s) died again...
+Alas, the lightbulb that Papa puppy had fixed [a few days before](https://youtu.be/_aK_6Wb05hY?t=9m54s) died again...
 
 ## Pero Update (10:47)
 

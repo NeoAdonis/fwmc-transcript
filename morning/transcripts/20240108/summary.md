@@ -32,7 +32,7 @@ Today's Doggie of the Day is Ralph! Ralph is unique and has been protecting his 
 
 ## Today I Went On A Walk (31:41)
 
-Ruffians share their adventures in Japan, including visits to various places and the Tokyo Cat District Hololive Store, adding a sense of community exploration.
+Ruffians share their adventures in Japan, including visits to various places and the Tokyo Cat District hololive Store, adding a sense of community exploration.
 
 ## Question of the Day (32:39)
 

@@ -18,7 +18,7 @@ FUWAMOCO introduces a new fan-made website: the global BAU BAU counter, allowing
 
 ## Gift from Mane-chan (18:12)
 
-Mane-chan gifted FUWAMOCO ten coupons for Taiyaki, a delight they're excited to explore in various flavors like custard, red bean, and chocolate.
+Mane-chan gifted FUWAMOCO ten coupons for taiyaki, a delight they're excited to explore in various flavors like custard, red bean, and chocolate.
 
 ## Doggie of the Day (@mochanekodraws) (20:49)
 

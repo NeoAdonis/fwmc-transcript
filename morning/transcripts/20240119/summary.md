@@ -8,15 +8,15 @@ Pero was spotted enjoying some ebi-yaki, a shrimp variation of takoyaki, indicat
 
 ## holoEN "Mind Craft" Cover (10:27)
 
-Hololive English's cover of "Mind Craft" premieres tomorrow at 7 PM PT on Bae Senpai's channel. FUWAMOCO encourages Ruffians to watch.
+hololive English's cover of "Mind Craft" premieres tomorrow at 7 PM PT on Bae Senpai's channel. FUWAMOCO encourages Ruffians to watch.
 
 ## POP UP PARADE Survey (11:38)
 
 Good Smile Company is conducting a survey for their POP UP PARADE series' 5th anniversary. Ruffians can suggest new figures, including FUWAMOCO.
 
-## Matsuri BAU BAU Byou (14:13)
+## Matsuri BAU BAU BYOU (14:13)
 
-Matsuri-senpai's "BAU BAU Byou" condition worsens as she expresses a desire to observe FUWAMOCO from afar without touching them.
+Matsuri-senpai's "BAU BAU BYOU" condition worsens as she expresses a desire to observe FUWAMOCO from afar without touching them.
 
 ## Sneeze Celebration (16:37)
 
@@ -40,7 +40,7 @@ FUWAMOCO hold their breath for nearly a minute, aiming to improve their lung cap
 
 ## Next Stream & Schedule (28:56)
 
-FUWAMOCO announces the Abyss Karaoke Relay and a Japanese stream playing "Make Takoyaki." Upcoming streams include Thief Simulator 2 and Touhou Fujii no Kun.
+FUWAMOCO announces the Abyss Karaoke Relay and a Japanese stream playing "Make Takoyaki." Upcoming streams include Thief Simulator 2 and Touhou Fuujinroku.
 
 ## Thanks & Extra Special Ruffians (31:41)
 

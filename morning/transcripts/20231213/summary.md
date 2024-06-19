@@ -12,7 +12,7 @@ FUWAMOCO's cover of "Cute na Kanojo" reached 500,000 views, and they thank the R
 
 ## Bijou at 500k Pebbles (09:54)
 
-Bijou from Hololive reached 500,000 subscribers. FUWAMOCO congratulates her and celebrates Advent's strong bond.
+Bijou from hololive reached 500,000 subscribers. FUWAMOCO congratulates her and celebrates Advent's strong bond.
 
 ## Nerissa "SOS" Cover (11:03)
 

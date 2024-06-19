@@ -8,7 +8,7 @@ Pero has been spotted on Mount Everest. FUWAMOCO express surprise and discuss th
 
 ## Toretaka Taisho 2023 (09:09)
 
-FUWAMOCO announce their participation in hololive's end-of-year show, Yukuhoro Kuruhoro. Ruffians can submit their favorite clips using the YouTube clip function and Twitter hashtag.
+FUWAMOCO announce their participation in hololive's end-of-year show, Yuru holo Kuru holo. Ruffians can submit their favorite clips using the YouTube clip function and Twitter hashtag.
 
 ## Kobo Birthday (10:56)
 

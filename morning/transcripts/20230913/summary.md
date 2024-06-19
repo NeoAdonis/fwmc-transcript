@@ -2,11 +2,11 @@
 
 ## Pero Sighting  (06:10)
 
-[Zogajah](https://twitter.com/zogajah/status/1697460559141343503) found Pero floating down a small steam, just spining.
+[Zogajah](https://twitter.com/zogajah/status/1697460559141343503) found Pero floating down a small steam, just spinning.
 
 ## Myth 3rd Anniversary (07:40)
 
-FUWAMOCO remind us that 3 years ago, Hololive English -Myth-, the first EN generation, made their debut, and invite us to their [celebration stream](https://youtu.be/gYEsfr1Y-CI).
+FUWAMOCO remind us that 3 years ago, hololive English -Myth-, the first EN generation, made their debut, and invite us to their [celebration stream](https://youtu.be/gYEsfr1Y-CI).
 
 ## Confession (09:50)
 
@@ -18,7 +18,7 @@ Swamped in homework and streams, FUWAMOCO have barely got any time to clean up, 
 
 ## Misunderstanding (16:16)
 
-Fuwawa clears up that, in the [Donkey Kong stream](https://youtu.be/ndNZ1ClWZ6g), she didn't meant to to say she was stuck with us, but instead wanted to warn us that we're stuck with her. *Don't forget: you're here forever.*
+Fuwawa clears up that, in the [Donkey Kong stream](https://youtu.be/ndNZ1ClWZ6g), she didn't meant to say she was stuck with us, but instead wanted to warn us that we're stuck with her. *Don't forget: you're here forever.*
 
 ## Mococo Pup Talk (19:45)
 

@@ -6,7 +6,7 @@ FUWAMOCO thank Ruffians for the 700K views on their [cover of YOASOBI's "Kaibuts
 
 ## Misunderstanding (08:40)
 
-Mococo apologizes for not knowing about [Ina's "TOMORROW!"](https://youtu.be/sMcfFmR0MmA) meme despite their high grades in the Official Hololive Knowledge Test. Also, Fuwawa thought of a different thing when asked about her posture on Takenoko vs. Kinoko.
+Mococo apologizes for not knowing about [Ina's "TOMORROW!"](https://youtu.be/sMcfFmR0MmA) meme despite their high grades in the Official hololive Knowledge Test. Also, Fuwawa thought of a different thing when asked about her posture on Takenoko vs. Kinoko.
 
 ## Advent First Thoughts (13:33)
 

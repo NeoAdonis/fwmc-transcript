@@ -12,7 +12,7 @@ During a collab with Biboo, there was a misunderstanding regarding Bijou's choco
 
 ## Happy Misunderstanding?! (11:20)
 
-Ruffians compared Mococo's voice to Marine-senpai and Tange Sakura, the legendary seiyuu behind Cardcaptor Sakura. This comparison was a huge compliment for Mococo, making her very happy.
+Ruffians compared Mococo's voice to Marine-senpai and Tange Sakura, the legendary voice actress behind Cardcaptor Sakura. This comparison was a huge compliment for Mococo, making her very happy.
 
 ## Confession (16:36)
 

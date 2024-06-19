@@ -16,7 +16,7 @@ FUWAMOCO discussed the mysterious audio issues affecting their streams. They ass
 
 ## Apology (16:00)
 
-FUWAMOCO apologized for getting too passionate during a Zatsudan stream about the taste of lettuce and breakfast foods. They promised to discuss more worthy topics in the future.
+FUWAMOCO apologized for getting too passionate during a "just chatting" stream about the taste of lettuce and breakfast foods. They promised to discuss more worthy topics in the future.
 
 ## Sync Doubts (18:50)
 
@@ -40,7 +40,7 @@ FUWAMOCO confirmed that it’s okay to touch their paw beans, but only with perm
 
 ## Next Stream & Schedule (32:28)
 
-No stream on FUWAMOCO's channel tonight, but they will join the Hololive English channel for important news about Hololive Expo and 5th fes. Bread and Fred is postponed for Palworld on Thursday, and Friday's stream with Advent is at 4 PM PT.
+No stream on FUWAMOCO's channel tonight, but they will join the hololive English channel for important news about hololive Expo and 5th fes. Bread and Fred is postponed for Palworld on Thursday, and Friday's stream with Advent is at 4 PM PT.
 
 ## Thanks & Extra Special Ruffians (34:42)
 

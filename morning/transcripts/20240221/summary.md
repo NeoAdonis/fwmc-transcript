@@ -8,11 +8,11 @@ Pero is seen making friends with Takodachi. Ruffians are encouraged to add Ruffi
 
 ## Expo 2024 (09:16)
 
-Hololive Expo 2024 and FIFTH FES will take place in Tokyo at Makuhari Messe. FUWAMOCO are excited for the event.
+hololive Expo 2024 and FIFTH FES will take place in Tokyo at Makuhari Messe. FUWAMOCO are excited for the event.
 
 ## FWMC drinks (10:00)
 
-A new FUWAMOCO-themed white soda drink is introduced for the Hololive Foods and Beverages lineup. It comes with a themed coaster and printed signature​​.
+A new FUWAMOCO-themed white soda drink is introduced for the hololive Foods and Beverages lineup. It comes with a themed coaster and printed signature​​.
 
 ## Collab with Choco (12:31)
 

@@ -8,7 +8,7 @@ Pero left a message in the snow at a playground, narrowly missing a Ruffian who 
 
 ## holoEN "Mind Craft" Cover (10:10)
 
-Hololive English released a cover of "Mind Craft," featuring all members singing together for the first time. FUWAMOCO encourages Ruffians to check it out.
+hololive English released a cover of "Mind Craft," featuring all members singing together for the first time. FUWAMOCO encourages Ruffians to check it out.
 
 ## Ao-kun's Secret Guest (11:02)
 

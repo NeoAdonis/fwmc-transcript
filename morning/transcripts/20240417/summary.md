@@ -6,7 +6,7 @@ Ruffians spotted Pero during a recent eclipse, adding a celestial mystery to the
 
 ## holo no Kyuujitsu (09:57)
 
-FUWAMOCO announce their guest appearance on hololive's Houno Kyuujitsu Show, inviting JP Ruffians to send in show ideas.
+FUWAMOCO announce their guest appearance on holo no Kyuujitsu, inviting JP Ruffians to send in show ideas.
 
 ## "Gimme Chocolate" 1 Million (12:14)
 

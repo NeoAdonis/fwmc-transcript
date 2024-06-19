@@ -10,7 +10,7 @@ hololive's captain [Houshou Marine](https://www.youtube.com/@HoushouMarine) cele
 
 ## New Song "SHINKIRO" (09:56)
 
-Marine also revealed her MV for her new original song ["SHINKIRO"](https://youtu.be/9ehwhQJ50gs), a colaboration with [Gawr Gura](https://www.youtube.com/@GawrGura) from hololive English -Myth-. A city pop song with nostalgic vibes. Check it out!
+Marine also revealed her MV for her new original song ["SHINKIRO"](https://youtu.be/9ehwhQJ50gs), a collaboration with [Gawr Gura](https://www.youtube.com/@GawrGura) from hololive English -Myth-. A city pop song with nostalgic vibes. Check it out!
 
 ## Nerissa's Birthday (11:06)
 
@@ -26,7 +26,7 @@ Also from their Fashion Dreamer stream: Mococo is concerned that Fuwawa just [CA
 
 ## Incident (19:57)
 
-Just before their [Metal Gear Solid stream](https://youtu.be/KarLzbs9N5Y), FUWAMOCO discovered that their PS2 Memory Card was incompatible with PS1 games, meaning that they wouldn't be able to save. Papapuppy brought them a PS1 Memory Card mid-stream! Alas, it was full already, and the PS2 refused to recognize it to delete save blocks and make space for new saves. Unless they find a working memory card before their next PS2 stream, they'll lose their progress.
+Just before their [Metal Gear Solid stream](https://youtu.be/KarLzbs9N5Y), FUWAMOCO discovered that their PS2 Memory Card was incompatible with PS1 games, meaning that they wouldn't be able to save. Papa puppy brought them a PS1 Memory Card mid-stream! Alas, it was full already, and the PS2 refused to recognize it to delete save blocks and make space for new saves. Unless they find a working memory card before their next PS2 stream, they'll lose their progress.
 
 ## Mococo Pup Talk (22:24)
 
@@ -38,7 +38,7 @@ Are your eyes open properly? After today's Mococo Pup Talk, they surely will!
 
 ## Today I Went On A Walk (26:32)
 
-[Harti](https://twitter.com/xalandr/status/1724061708921016711) found some cool-looking mushrooms while taking a a walk.
+[Harti](https://twitter.com/xalandr/status/1724061708921016711) found some cool-looking mushrooms while taking a walk.
 
 ## Question Of The Day (27:54)
 

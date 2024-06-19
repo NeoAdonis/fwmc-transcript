@@ -6,9 +6,9 @@ FUWAMOCO welcomes Ruffians to the 98th episode of FUWAMOCO Morning.
 
 Pero was spotted inside a hole. Fuwawa and Mococo humorously compare the hole to their own dog house.
 
-## Superchat Reading (10:58)
+## Super chat Reading (10:58)
 
-FUWAMOCO thanks Ruffians for their support and shares how they spent seven hours reading many of the Super Chats they recieved while moving to Japan.
+FUWAMOCO thanks Ruffians for their support and shares how they spent seven hours reading many of the Super Chats they received while moving to Japan.
 
 ## Fuwawa's EPIC Dream (14:01)
 

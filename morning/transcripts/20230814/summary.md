@@ -32,7 +32,7 @@ Beck, a snuggly, popcorn-loving sofa pal with a floppy face, was featured as the
 
 ## Today I Went On A Walk (23:50)
 
-A Ruffian went to Comic Market at Tokyo Big Sight, which FUWAMOCO likened to a battle rather than a walk. They expressed envy and excitement over FUWAMOCO fanworks seen there.
+A Ruffian went to Comic Market at Tokyo Big Sight, which FUWAMOCO likened to a battle rather than a walk. They expressed envy and excitement over FUWAMOCO fan works seen there.
 
 ## Question of the Day (24:59)
 

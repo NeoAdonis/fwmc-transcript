@@ -14,11 +14,11 @@ Mococo embarrassingly confesses that she's afraid of big dogs and asks Ruffians 
 
 ## Happy News (15:22)
 
-Thanks to Papapuppy, Mococo's chair has revived!
+Thanks to Papa puppy, Mococo's chair has revived!
 
 ## Misunderstanding (17:16)
 
-During their last [Holo no Suika stream](https://youtu.be/wP1T96Bwwv0), it seemed like Mococo referred to their senpai as "garbage" and "something to get rid of", but she just meant the figures on the screen with the shape of their senpai. Then Fuwawa activates some Ruffian neurons as [she refers to them as "garbage"...](https://youtu.be/WttmEXH3VWs?t=1183s) in an endearing way!
+During their last [holo no Suika stream](https://youtu.be/wP1T96Bwwv0), it seemed like Mococo referred to their senpai as "garbage" and "something to get rid of", but she just meant the figures on the screen with the shape of their senpai. Then Fuwawa activates some Ruffian neurons as [she refers to them as "garbage"...](https://youtu.be/WttmEXH3VWs?t=1183s) in an endearing way!
 
 ## FWMC likes (19:57)
 
