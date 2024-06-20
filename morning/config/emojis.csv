@@ -60,6 +60,7 @@ Pattern,Emoji
 \bcats?\b,🐱
 \bcelebration,🎉
 \bchallenge,🏆
+\bcit(y|ies)\b,🏙️
 \bclaw,🐾
 \bcold,🥶
 \bcover\b,🎤
