@@ -35,3 +35,15 @@ Pattern,Replacement
 \byobae\b,yobai
 \b(Por[io]r[ou]|Portal|Porter)[\s\-]oneechan\b,Poruru-oneechan
 \bholodoroke\b,holo Dorokei
+\bHololive\b,hololive
+\bHolostars\b,holostars
+\bhololive suikai?\b,holo no Suika
+\benglish myth\b,English -Myth-
+\benglish council\b,English -Council-
+\benglish justice\b,English -Justice-
+\bhololive myth\b,hololive -Myth-
+\bhololive advent\b,hololive -Advent-
+\bhololive justice\b,hololive -Justice-
+\bAmbergreen\b,Immergreen
+\bNao[nr]a\b,Raona
+\bGigi Marin\b,Gigi Murin
