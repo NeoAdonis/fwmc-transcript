@@ -107,3 +107,4 @@
 | 2024-06-14 | Fri | [Episode #99](https://youtu.be/8cOOCpt6HNM) | we can't believe it, the number 99 ✨ | [Summary](summaries/20240614.md) | [Transcript](transcripts/20240614/transcript.vtt) |
 | 2024-06-17 | Mon | [Episode #100](https://youtu.be/Ux-LD0uM0YQ) | it's finally here, the big triple digit day... episode 100! ✨ it's time to celebrate!! 🎂 | [Summary](summaries/20240617.md) | [Transcript](transcripts/20240617/transcript.vtt) |
 | 2024-06-19 | Wed | [Episode #101](https://youtu.be/7P-gFXya5U8) | and somehow we're here, already ✨ it's a big mystery ❓️ | [Summary](summaries/20240619.md) | [Transcript](transcripts/20240619/transcript.vtt) |
+| 2024-06-21 | Fri | [Episode #102](https://youtu.be/JxkXIozpz80) | this is it, you know what we mean ✨ | [Summary](summaries/20240621.md) | [Transcript](transcripts/20240621/transcript.vtt) |
