@@ -14,7 +14,7 @@ Fuwawa and Mococo spent the past month signing postcards for their birthdays, ad
 
 ## FUWAMOCODE WORD (17:09)
 
-Fuwawa and Mococo introduced a special 'FUWAMOCO word' for Ruffians to use in comments to show appreciation and enhance channel engagement.
+Fuwawa and Mococo introduced a special 'FUWAMOCODE WORD' for Ruffians to use in comments to show appreciation and enhance channel engagement.
 
 ## Cup Noodle Incident (20:52)
 

@@ -80,11 +80,13 @@ Pattern,Emoji
 \bdream,💤
 \bexpo\b,🎪
 \bexposed,📸
+\b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
 \bgood\b,😊
 \bgrumpy\b,😠
 \bhappy\b,😊
 \bhealth\b,❤️‍🩹
 \bhomework,📚
+\bincident,🚨
 \bintro,📺
 \bJapan\b,🇯🇵
 \bjingle,🎶
@@ -94,6 +96,7 @@ Pattern,Emoji
 \bmember,🪪
 \bmic(rophones?)?\b,🎙️
 \bmistak,❌
+\bmonitor,🖥️
 \bmusic,🎼
 \bnew\b,🆕
 \boutfit,👗
@@ -104,6 +107,7 @@ Pattern,Emoji
 \bsexy\b,🔥
 \bschool,🏫
 \bsecret,🤫
+\bsigning\b,📝
 \bsneeze,🤧
 \bspooky\b,👻
 \bSuika\b,🍉
