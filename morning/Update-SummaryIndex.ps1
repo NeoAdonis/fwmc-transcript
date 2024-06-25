@@ -11,6 +11,8 @@ $SummaryTable = @()
 $SummaryIndex += "| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |"
 $SummaryIndex += "| ------ | --- | --------- | --- | --------- | ------------ |"
 
+$QuestionSummary = @("# Daily questions", "")
+
 foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Directory)) {
     $EmojiList = Get-Content -Path './config/emojis.csv' | ConvertFrom-Csv
     $Summary = Get-Content -Path (Join-Path -Path $TranscriptSubfolder.FullName -ChildPath "summary.md")
@@ -28,10 +30,11 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
         'Illustrator' = $Metadata.illustrator
         'Link'        = $EpisodeLink
     }
+    $EpisodeQuestion = ""
     foreach ($Line in $Summary) {
         if ($Line -match '^(#+) (.*)$') {
             $HeaderLevel = $Matches[1]
-            $Header = $Matches[2]
+            $Header = $CurrentSection = $Matches[2]
             $Emoji = "🎞️"
             foreach ($EmojiEntry in $EmojiList) {
                 if ($Header -match $EmojiEntry.Pattern) {
@@ -48,15 +51,27 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
             if ($Header -match '^(.*) \((\d+):(\d+)\)$') {
                 $Timestamp = "[$($Matches[2]):$($Matches[3])]($($EpisodeLink)?t=$($Matches[2])m$($Matches[3])s)"
                 $Line = "$HeaderLevel $($Matches[1]) ($Timestamp)"
-                if ($Header -match '^(📺 )?Introduction') {
+                if ($CurrentSection -match '^Introduction') {
                     $Line = "# $EpisodeName (start: $Timestamp)"
                 }
             }
         }
+        elseif ($CurrentSection -match '^Question of the Day') {
+            $EpisodeQuestion += $Line
+        }
         $NewSummary += $Line
+    }
+    # Skip Episode #0 as no question was asked
+    if ($EpisodeQuestion -and $EpisodeName -ne "Episode #0") {
+        # Replace the author's name with a generic name
+        $EpisodeQuestion = $EpisodeQuestion.Trim() -replace '^\[[^\]]+\]\([^\)]+\)', 'A Ruffian'
+        # Remove all other links
+        $EpisodeQuestion = $EpisodeQuestion -replace '\[([^\]]+)\]\([^\)]+\)', '$1'
+        $QuestionSummary += @("## $EpisodeName", "", ($EpisodeQuestion -replace '\s+', ' ').Trim(), "")
     }
     $NewSummary | Set-Content -Path (Join-Path -Path $SummariesFolder -ChildPath "$($TranscriptSubfolder.Name).md")
 }
 
 $SummaryIndex | Set-Content -Path "index.md"
 $SummaryTable | Sort-Object -Property 'Date' | Export-Csv -Path "index.csv"
+$QuestionSummary | Set-Content -Path "questions.md"

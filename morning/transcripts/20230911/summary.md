@@ -30,7 +30,7 @@ A fluffy pupper shared by [Nikutaro](https://twitter.com/nikutaro1227/status/169
 
 ## Question Of The Day (28:52)
 
-[It's Sergio](https://twitter.com/SergioB_/status/1698246134702240026) whose question is featured today, and they wonder if FUWAMOCO have other game consoles they can play and stream from. The sisters reveal that their collection comprises of an SNES, an N64, two PS2 consoles (a US Phat and a Japanese Slim), a Wii, mama puppy's Wii U, a PS3, a PS4, a Game Boy Color, a DS Lite, and even an Atari Lynx! They wish to have eventually a PC-98.
+[Sergio](https://twitter.com/SergioB_/status/1698246134702240026) wonders if FUWAMOCO have other game consoles they can play and stream from. The sisters reveal that their collection comprises of an SNES, an N64, two PS2 consoles (a US Phat and a Japanese Slim), a Wii, mama puppy's Wii U, a PS3, a PS4, a Game Boy Color, a DS Lite, and even an Atari Lynx! They wish to have eventually a PC-98.
 
 ## Next Stream & Schedule (32:14)
 

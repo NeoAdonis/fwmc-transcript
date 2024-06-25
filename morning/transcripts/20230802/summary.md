@@ -22,7 +22,7 @@ Under a clear sky, [Genji](https://twitter.com/GenjiPriv/status/1686548641992015
 
 ## Question Of The Day (27:09)
 
-[Tatatan](https://twitter.com/tatantannotan/status/1686547887084486658) wonders if there's anything specific FUWAMOCO would like to do in Japan.
+[Tatatan](https://twitter.com/tatantannotan/status/1686547887084486658) wonders if there's anything specific FUWAMOCO would like to try in Japan. They would love to try [wanko soba](https://en.wikipedia.org/wiki/Wanko_soba) and see how many plates they can eat.
 
 ## Next Stream & Schedule (29:40)
 

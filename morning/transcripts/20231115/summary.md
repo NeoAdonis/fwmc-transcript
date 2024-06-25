@@ -42,7 +42,7 @@ Are your eyes open properly? After today's Mococo Pup Talk, they surely will!
 
 ## Question Of The Day (27:54)
 
-From [@antid0m0](https://twitter.com/antid0m0/status/1724274238029275229): do FUWAMOCO use their human ears to listen? Short answer: they're just decorative. Refer to [ep. 2](https://youtu.be/YILB_0QF-uI?t=1573) for a different take on a similar question!
+[@antid0m0](https://twitter.com/antid0m0/status/1724274238029275229) asks: do FUWAMOCO use their human ears to listen? Short answer: they're just decorative. Refer to [ep. 2](https://youtu.be/YILB_0QF-uI?t=1573) for a different take on a similar question!
 
 ## Next Stream & Schedule (29:33)
 

@@ -1,0 +1,418 @@
+# Daily questions
+
+## Episode #1
+
+A Ruffian wonders if there's anything specific FUWAMOCO would like to try in Japan. They would love to try wanko soba and see how many plates they can eat.
+
+## Episode #2
+
+A Ruffian wonders if FUWAMOCO have to remove their ears when they go to sleep. They don't: even though the ears are indeed mostly decorative, they aren't removable and have their own uses.
+
+## Episode #3
+
+A Ruffian asks Mococo for her thoughts about her nickname 'Moco' meaning 'booger' in Spanish. She only comments that it's embarrassing and prefers to be called 'Moco-chan' rather than 'Moco' just as-is.
+
+## Episode #4
+
+A Ruffian asks about challenges of sharing a channel. FUWAMOCO explains there are no arguments or challenges; they just enjoy spending time with Ruffians and playing games as a bonus.
+
+## Episode #5
+
+When feeling down, FUWAMOCO recommends identifying the cause and finding ways to feel better, like talking it out, taking a nap, or engaging in comforting activities like watching anime or taking a bath.
+
+## Episode #6
+
+FUWAMOCO answered a question about their school experiences, explaining they were sometimes in the same class and sometimes separate, which had both its conveniences and challenges.
+
+## Episode #7
+
+Asked if they like thunderstorms, FUWAMOCO admit they find the loud sounds scary but enjoy watching lightning, offering tips to cope with the noise.
+
+## Episode #8
+
+FUWAMOCO shares that they sometimes struggle with sleep. They recommend strategies like stretching, taking warm baths, drinking hot water, and using relaxing music and eye masks. They also suggest keeping phones away to improve sleep quality.
+
+## Episode #9
+
+FUWAMOCO reveal they have worn yukata but not kimono. They express interest in trying Japanese clothing and learning to make fabrics in the future.
+
+## Episode #10
+
+FUWAMOCO advises a Ruffian struggling with perfectionism to keep trying and accept that perfection is the enemy of good.
+
+## Episode #11
+
+A Ruffian wonders what Ruffians can do to protect FUWAMOCO's smiles, while Pero ponders why Ruffians should do that in the first place when it's FUWAMOCO's job as guard dogs to protect Ruffians' smiles.
+
+## Episode #12
+
+FUWAMOCO described their relationship with Ruffians as very important, likening them to friends or family, depending on the Ruffians' perspective.
+
+## Episode #13
+
+A Ruffian asks if Mococo notices she adds an 'A' at the end of her O and U ending words. Mococo responds humorously, claiming her BAU is normal and suggesting Ruffians are trying to make her self-conscious【11:0†source】.
+
+## Episode #14
+
+FUWAMOCO described their simple, nutritious diet, including Japanese and Asian cuisines, chicken, natto, cucumber, and miso soup, avoiding foods like pizza and burgers.
+
+## Episode #15
+
+A Ruffian asks how to hide their smile during serious meetings where "BAU" (business as usual) is mentioned. FUWAMOCO suggests replying with "BAU BAU" and signing documents with a paw print for fun.
+
+## Episode #16
+
+A Ruffian asks if FUWAMOCO have any experiences to share related to school trips.
+
+## Episode #17
+
+A Ruffian asks if FUWAMOCO would like to join a construction company in Minecraft. FUWAMOCO express enthusiasm but admit their beginner status, hoping for guidance from more experienced players.
+
+## Episode #18
+
+A Ruffian wonders if FUWAMOCO have other game consoles they can play and stream from. The sisters reveal that their collection comprises of an SNES, an N64, two PS2 consoles (a US Phat and a Japanese Slim), a Wii, mama puppy's Wii U, a PS3, a PS4, a Game Boy Color, a DS Lite, and even an Atari Lynx! They wish to have eventually a PC-98.
+
+## Episode #19
+
+A Ruffian puts FUWAMOCO sync skills to the test.
+
+## Episode #20
+
+A Ruffian asks FUWAMOCO-sensei for material recommendations to study Japanese. They recommended to start with the Genki textbooks, not overwhelming yourself with kanji studies just when you're starting, and being OK with making mistakes; that's just part of learning. 日本語を勉強しているラッフィアンの皆さん、頑張ってね！
+
+## Episode #21
+
+Answering Hyorp's question, FUWAMOCO share some good places to go during a trip to Japan (besides Mister Donuts, of course!). Shinjuku Gyoen, Asakusa, Nakamise Street and Skytree/Tokyo Solamachi mall are some of the highlights they shared.
+
+## Episode #22
+
+A Ruffian wonders if FUWAMOCO have a ritual to prepare mentally before a presentation. While they barely get nervous anymore after all their guard dog training, both a walk and stretching helps them to get rid of any anxiety they might have before a big presentation. If they need something more, they rub each other's back. As for Mococo, lying on the floor helps her too!
+
+## Episode #23
+
+A Ruffian asks what career FUWAMOCO would have pursued if they didn't become guard dogs. They assure us that they are very committed to being guard dogs, and it was their calling after all. That said, Fuwawa states that another option would have been getting into a business career, but the math required for that was a bit too hard for her.
+
+## Episode #24
+
+A Ruffian asks if FUWAMOCO has had bad habits, and how did they overcome them? Other than having Mococo trying to overcome her dislike for natto ~~by force~~, FUWAMOCO shares that they were perfectionists to the extreme, and that prevented them from getting things done if they were not perfect rather than just good enough. They encourage us to just do things instead! They also admit that they don't wake up at the right time every day, and they need to work on that.
+
+## Episode #25
+
+A Ruffian asks who is making the thumbnails for their videos. It seems Pero is the one who helps the sisters to make them, which is also the reason why they can be quite silly sometimes.
+
+## Episode #26
+
+A Ruffian asks FUWAMOCO for their favorite fall activities. The twins seem to like the air and smell of fall, and going for a walk. As for specific activities, they love helping Mama puppy and Papa puppy to clean the leaves, which Mococo uses as an opportunity to jump on the leaves despite the bugs and dirt.
+
+## Episode #27
+
+A Ruffian wonders if FUWAMOCO have ever fought for the controller? They say that they are pretty used to sharing, and while sometimes it's not easy to let go of the controller and share it, it's also not a big deal.
+
+## Episode #28
+
+A Ruffian wonders if FUWAMOCO have a morning routine or otherwise important things to do after waking up. They reply that their current routine involves doing stretches, having some breakfast while watching educational or Japanese TV and working on some homework. They also add that, after their evening stream and before bedtime, they like to take a bath, respond to some messages and do some more stretches. In response to another question, FUWAMOCO share that they just switched their shampoo but are thinking about changing it back as they prefer the old one.
+
+## Episode #29
+
+A Ruffian is curious about FUWAMOCO's figure collection. The sisters confess that they haven't collected new ones in a while. They recall that they were less expensive back in the day and now they take longer to arrive after they are just first announced.
+
+## Episode #30
+
+A Ruffian wonders if FUWAMOCO have ever been anxious about a test. It seems that they've been there, and specifically recall having trouble with a certain class they had during guard dog training and almost gave up, but in the end, they persevered and passed it!
+
+## Episode #31
+
+A Ruffian asks FUWAMOCO which stream was the most challenging to prepare for (other than debut), as well as their most rewarding one. The sisters share that FWMC Morning demands lots of work in the background, and they usually wake up 3 hours before the actual stream to make the final arrangements. However, they are happy to do this kind of show if it helps Ruffians to start the day on the right paw.
+
+## Episode #32
+
+A Ruffian wonders if FUWAMOCO's content would have been different if the girls would had gotten into the Japanese branch. The twins don't expect there would have been any difference in terms of content, but perhaps a bit in terms of stiffness. For instance, Mococo thinks that it would have been harder to make commentary in Japanese while playing at the same time.
+
+## Episode #33
+
+A Ruffian asks for advice on how to make a tough decision. When faced with such a decision, FUWAMOCO do a pros and cons list to help them make an informed choice.
+
+## Episode #34
+
+A Ruffian wonders how long it took to settle on "Ruffians" as their fan name. It seems that Mococo just came up with that one day as she woke up. Other candidates were "Kerfluffians", "Abyssians", "Doggy Pack" (used for their channel members instead) and "Hell Dog".
+
+## Episode #35
+
+A Ruffian wonders if Fuwawa and Mococo have each their own set of mic and headphones for the streams. The sisters confirm this and explain a bit in detail how these are hooked up so they can hear and transmit audio, and how this setup is quite different from other hololive members.
+
+## Episode #36
+
+A Ruffian asks what would FUWAMOCO do if one day they switched bodies? The twins think at first that things wouldn't probably change at all, but they also express that they would feel uncomfortable and would like to swap places back ASAP. On the other hand, Ruffians have at least a pair of reasons to think that Mococo would feel stiffness on her new shoulders if that scenario were to happen...
+
+## Episode #37
+
+A Ruffian asks if FUWAMOCO have any food that teleports them back to their childhood when they eat it.
+
+## Episode #38
+
+A Ruffian asks FUWAMOCO if there's ever been a story that made them change their outlook on life. The twin sister shared that they were influenced by many of the Visual Novels they've read, as well as by the stories and interviews from other creators. It seems that Mama puppy and Papa puppy have also been a big influence in their way of being.
+
+## Episode #39
+
+A Ruffian questions FUWAMOCO on how they allow paw holding but not ear and tail touching. Fuwawa clarifies that paw holding should only be done with those you love, but they'll allow it when they are scared.
+
+## Episode #40
+
+A Ruffian ask if FUWAMOCO have any rituals before or after a stream? On FWMC Morning days, they wake up early and get prepared (see ep. 33). They also are usually on Twitter before and after a stream.
+
+## Episode #41
+
+A Ruffian's inappropriate question involving undergarments is humorously rebuffed by FUWAMOCO. They remind viewers to keep questions suitable for a morning show and encourage submitting more appropriate ones.
+
+## Episode #42
+
+FUWAMOCO's hunger for success stems from passion, past hardships, and a drive to turn "no" into "yes".
+
+## Episode #43
+
+A Ruffian wanted to know who of the sisters was better at sports (Mococo is, it seems), as well as their favorite one (she had issues picking just one).
+
+## Episode #44
+
+A Ruffian asks: do FUWAMOCO use their human ears to listen? Short answer: they're just decorative. Refer to ep. 2 for a different take on a similar question!
+
+## Episode #45
+
+FUWAMOCO explain they enjoy singing together because their voices harmonize well, hinting at future solo projects.
+
+## Episode #46
+
+FUWAMOCO responds to a question about ear infections, advising Ruffians to clean their ears regularly and sharing personal experiences with ear health.
+
+## Episode #47
+
+FUWAMOCO's favorite winter clothing includes sweaters and long scarves that can be shared between two people.
+
+## Episode #48
+
+FUWAMOCO discussed how BAU BAU BYOU affects Ruffians differently, explaining that their colors don't affect them the same way.
+
+## Episode #49
+
+A Ruffian asks for tips on dealing with public speaking. FUWAMOCO advises practicing and having a clear image of what to say to help overcome stage fright and nervousness.
+
+## Episode #50
+
+FUWAMOCO finds that the kind words and actions of Ruffians brighten their day the most.
+
+## Episode #51
+
+Asked if they use romaji lyrics during karaoke, FUWAMOCO explain they prefer Japanese lyrics with furigana for easier reading.
+
+## Episode #52
+
+FUWAMOCO consider doing Japanese teaching streams to help English-speaking Ruffians understand them and their senpais better. They also contemplate teaching English to their JP senpais.
+
+## Episode #53
+
+A Ruffian asks about favorite smells on walks. Pero prefers the scent of a woman's perfume and tires.
+
+## Episode #54
+
+FUWAMOCO clarify they won’t transform into a form similar to Pero when they become masters.
+
+## Episode #55
+
+FUWAMOCO answer Ruffians' questions about natto, discussing its health benefits and origin. They encourage Ruffians to try it despite its strong smell.
+
+## Episode #56
+
+FUWAMOCO prefer real pine trees for Christmas due to their scent and appearance, recalling childhood memories of finding the perfect tree.
+
+## Episode #57
+
+Ruffians ask how it felt for FUWAMOCO to hear cheering in person at their first mini Rock n' Rawr Party. FUWAMOCO share their joy and note the difference from reading praise online.
+
+## Episode #58
+
+FUWAMOCO prefers ice cream cake and cheesecake for Christmas, despite disliking cheese.
+
+## Episode #59
+
+A Ruffian asks about FUWAMOCO's hair length ratio. FUWAMOCO explains that Fuwawa had short hair and Mococo had long hair when they were younger.
+
+## Episode #60
+
+FUWAMOCO describe the Ruffians' chat vibes as comfy, cozy, silly, and well-behaved, despite some rudeness about nuggets and sauce.
+
+## christmas edition
+
+FUWAMOCO discusses the many visual novels they started but never finished due to time constraints from guard dog training.
+
+## Episode #61
+
+FUWAMOCO record songs together, giving each other honest feedback and advice, making the process faster and more comfortable.
+
+## Episode #62
+
+A Ruffian wants to know FUWAMOCO's approach for playing Visual Novels.
+
+## Episode #63
+
+FUWAMOCO answer a Ruffian's question about resisting the urge to replace lyrics with "BAU BAU" during streams, acknowledging the challenge but respecting original lyrics.
+
+## Episode #64
+
+FUWAMOCO would love to do official song collabs with their senpai, especially city pop with Marine or Gura and rock with Suisei or Towa.
+
+## Episode #65
+
+A Ruffian asks Mococo about her preparation for Pup Talks. Mococo explains that she speaks from the heart without needing specific inspiration.
+
+## Episode #66
+
+FUWAMOCO discuss their wish for when they reach 1 million subscribers, aiming for something extraordinary requiring many talents.
+
+## Episode #67
+
+Since their debut, FUWAMOCO has become hungrier for success and continues to push through challenges to achieve their dreams. They aim to make amazing things happen together with Ruffians.
+
+## Episode #68
+
+Preparing an episode of FUWAMOCO Morning takes about three hours, with FUWAMOCO constantly seeking ways to make the process more sustainable.
+
+## Episode #69
+
+FUWAMOCO can't touch their toes, whistle, or open their eyes underwater. They encourage Ruffians to practice and improve on things they find difficult.
+
+## Episode #70
+
+FUWAMOCO hold their breath for nearly a minute, aiming to improve their lung capacity for better singing in the future.
+
+## Episode #71
+
+FUWAMOCO reveal they use multiple alarm clocks to maintain their streaming schedule, although Mococo tends to hit snooze.
+
+## Episode #72
+
+FUWAMOCO confirmed that it’s okay to touch their paw beans, but only with permission. They joked about enjoying a hand massage and the softness of their paw beans.
+
+## Episode #73
+
+A Ruffian asks if FUWAMOCO ever didn't get along. They respond they've always been close, valuing their strong friendship and sisterhood over the years.
+
+## Episode #74
+
+FUWAMOCO answer a question about signs that a smile is protected, emphasizing the importance of bringing smiles to them to protect.
+
+## Episode #75
+
+Asked if they ever fought over being Player 1 in games, FUWAMOCO replied they never really fought over it, and it just naturally worked out with one helping the other.
+
+## Episode #76
+
+FUWAMOCO share that their inspiration to join hololive came from seeing their talented senpai and wanting to be part of the community.
+
+## Episode #77
+
+Ruffians ask if FUWAMOCO prefers fans to pick favorites. FUWAMOCO appreciates equal love for both but understands if fans have individual preferences.
+
+## Episode #78
+
+Ruffians ask where FUWAMOCO learned the word 'yobai.' FUWAMOCO explain they learned it during their serious Demon Guardian training in a structured setting about Japanese history and culture.
+
+## Episode #79
+
+FUWAMOCO discuss what they'd bring to 3000 BC: a phone for selfies, jugs of water, and a book to learn the local language.
+
+## Episode #80
+
+Mococo started caring for succulents to combat loneliness; her favorite type is resilient and unique plants.
+
+## BAU-lentine's day
+
+FUWAMOCO discussed the traits they value in a romantic partner: silliness, adventure, understanding, and respect.
+
+## Episode #81
+
+A Ruffian asked if FUWAMOCO would add English captions to their song covers. They explained the complexity and the need for creator permissions.
+
+## Episode #82
+
+FUWAMOCO encourages Ruffians to share their ideas and assets for the show using the hashtag #FWMCMORNING.
+
+## Episode #83
+
+FUWAMOCO discuss limited time items, recalling a grape-flavored black iced tea they loved, which seemed perpetually available despite being "limited."
+
+## Episode #84
+
+FUWAMOCO answer a question about the differences between speaking English and Japanese and the unique aspects of expressing themselves in each language. They discuss how each language allows them to showcase different sides of their personalities and how they can understand each other even without words.
+
+## Episode #85
+
+The question of the day is about creating an "ita bag," a bag decorated with items featuring one's favorite virtual character. FUWAMOCO encourages viewers to use their creativity and shares their plans to release button badges soon.
+
+## Episode #86
+
+Responding to a question about their bunk beds, Fuwawa and Mococo confirm they haven't sold them; their parents are keeping all their belongings.
+
+## Episode #87
+
+In response to a query about homemade doughnut flavors, FUWAMOCO suggests trying a simple sweet glaze or matcha, emphasizing fun over perfection in the cooking process.
+
+## Episode #88
+
+A nostalgic memory brings joy to FUWAMOCO as they recall receiving an N64 hidden in a laundry pile by Mama and Papa Puppy.
+
+## Episode #89
+
+In response to Zeik89's question, FUWAMOCO discuss their favorite Japanese foods, highlighting udon and chikuwa. They also share their experiences with Indian cuisine in Japan, noting its unique taste compared to other places.
+
+## Episode #90
+
+FUWAMOCO asked Koyori-senpai if she likes them. Koyori-senpai expressed her affection for FUWAMOCO, highlighting their perseverance and how they motivate her to work hard as well.
+
+## Episode #91
+
+FUWAMOCO responded to a question about their interest in the game Bunny Garden, expressing their love for bunnies and the fun of playing Twister together.
+
+## Episode #92
+
+A Ruffian asked about FUWAMOCO's plans with their new dual-stream PC setup, to which they expressed excitement to start playing Minecraft and exploring other gaming possibilities with the community.
+
+## Episode #93
+
+FUWAMOCO discussed the benefits of learning Japanese, sparked by their love for anime and games, highlighting cultural and social enrichment.
+
+## Episode #94
+
+A Ruffian thanked Pero for live translations and asked if he will do more. FUWAMOCO explained Pero's translation skills and hope he will continue helping with translations.
+
+## Episode #95
+
+In response to a query about comfort shows, FUWAMOCO recommends "Tantei Night School," a humorous and heartfelt program airing in Osaka.
+
+## Episode #96
+
+FUWAMOCO thank Ruffians for their game suggestions and express hope to play together again in the future.
+
+## Episode #97
+
+A Ruffian asks if FUWAMOCO have draft tweets that never get posted. FUWAMOCO confirm they do, often forgetting about them or finding them silly later.
+
+## Episode #98
+
+FUWAMOCO talks about the story of Hachiko and their excitement to watch "Hachi: A Dog's Tale" with the Ruffians.
+
+## Episode #99
+
+FUWAMOCO read and respond to a Ruffian's question, engaging with their audience and sharing insights in a fun and interactive segment.
+
+## Episode #100
+
+FUWAMOCO answers questions about their favorite moments from FUWAMOCO Morning and future plans. They appreciate the ongoing support and interaction from Ruffians.
+
+## Episode #101
+
+Ruffians asked about the preferred spelling of FUWAMOCO's name. FUWAMOCO prefers "FUWAMOCO" in all caps and "FWMC" for short.
+
+## Episode #102
+
+FUWAMOCO answers a question about the first thing they ate after arriving in Japan, which was a salad bag followed by a pon-de-ring.
+
