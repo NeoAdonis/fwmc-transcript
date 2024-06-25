@@ -21,7 +21,8 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
     $EpisodeName = if ($Metadata.isSpecial) { $Metadata.episode } else { "Episode #$($Metadata.episode)" }
     $TranscriptPath = "$TranscriptsFolder/$($TranscriptSubfolder.Name)/transcript.vtt"
     $EpisodeLink = "https://youtu.be/$($Metadata.id)"
-    $SummaryIndex += "| $($Metadata.date) | $($Metadata.dayOfWeek.SubString(0, 3)) | [$EpisodeName]($EpisodeLink) | $($Metadata.description) | [Summary]($SummariesFolder/$($TranscriptSubfolder.Name).md) | [Transcript]($TranscriptPath) |"
+    $SummaryBaseName = "$($TranscriptSubfolder.Name) $($Metadata.episode)" -replace 'あさモコ', 'ASAMOCO' -replace '\s+', '_' -replace '[^a-zA-Z0-9_]', ''
+    $SummaryIndex += "| $($Metadata.date) | $($Metadata.dayOfWeek.SubString(0, 3)) | [$EpisodeName]($EpisodeLink) | $($Metadata.description) | [Summary]($SummariesFolder/$SummaryBaseName.md) | [Transcript]($TranscriptPath) |"
     $SummaryTable += [PSCustomObject]@{
         'Date'        = $Metadata.date
         'Episode'     = $EpisodeName
@@ -69,7 +70,7 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
         $EpisodeQuestion = $EpisodeQuestion -replace '\[([^\]]+)\]\([^\)]+\)', '$1'
         $QuestionSummary += @("## $EpisodeName", "", ($EpisodeQuestion -replace '\s+', ' ').Trim(), "")
     }
-    $NewSummary | Set-Content -Path (Join-Path -Path $SummariesFolder -ChildPath "$($TranscriptSubfolder.Name).md")
+    $NewSummary | Set-Content -Path (Join-Path -Path $SummariesFolder -ChildPath "$SummaryBaseName.md")
 }
 
 $SummaryIndex | Set-Content -Path "index.md"
