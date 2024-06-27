@@ -1,5 +1,7 @@
 # Daily questions
 
+Last updated: 2024-06-27 06:30 UTC
+
 ## Episode #1
 
 A Ruffian wonders if there's anything specific FUWAMOCO would like to try in Japan. They would love to try wanko soba and see how many plates they can eat.
@@ -415,4 +417,8 @@ Ruffians asked about the preferred spelling of FUWAMOCO's name. FUWAMOCO prefers
 ## Episode #102
 
 FUWAMOCO answers a question about the first thing they ate after arriving in Japan, which was a salad bag followed by a pon-de-ring.
+
+## Episode #103
+
+Ruffians ask why FUWAMOCO protect smiles instead of stealing them as demons. FUWAMOCO explain they choose to protect smiles because it's a greater good.
 

@@ -1,3 +1,7 @@
+# 🌅 FUWAMOCO Morning Episode Summaries
+
+Last updated: 2024-06-27 06:30 UTC
+
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
 | 2023-07-31 | Mon | [Episode #0](https://youtu.be/Qd7ohtlOOkQ) | pilot episodes always end up a bit different than the planned show, huh! 🐾  | [Summary](summaries/20230731_0.md) | [Transcript](transcripts/20230731/transcript.vtt) |
@@ -108,3 +112,4 @@
 | 2024-06-17 | Mon | [Episode #100](https://youtu.be/Ux-LD0uM0YQ) | it's finally here, the big triple digit day... episode 100! ✨ it's time to celebrate!! 🎂 | [Summary](summaries/20240617_100.md) | [Transcript](transcripts/20240617/transcript.vtt) |
 | 2024-06-19 | Wed | [Episode #101](https://youtu.be/7P-gFXya5U8) | and somehow we're here, already ✨ it's a big mystery ❓️ | [Summary](summaries/20240619_101.md) | [Transcript](transcripts/20240619/transcript.vtt) |
 | 2024-06-21 | Fri | [Episode #102](https://youtu.be/JxkXIozpz80) | this is it, you know what we mean ✨ | [Summary](summaries/20240621_102.md) | [Transcript](transcripts/20240621/transcript.vtt) |
+| 2024-06-26 | Wed | [Episode #103](https://youtu.be/XvznTJd0Ok8) | we're officially officially senpai now ✨ | [Summary](summaries/20240626_103.md) | [Transcript](transcripts/20240626/transcript.vtt) |

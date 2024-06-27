@@ -13,6 +13,7 @@ Pattern,Emoji
 \bLifetime Showtime\b,🎤
 \bFire N Ice\b,🎤
 \bAnime NYC\b,🗽
+\bSui(sei|[\s\-]chan)\b,☄️
 \bHaachama\b,❤️‍🔥
 \bChoco,🍫
 \bMarine\b,🏴‍☠️
@@ -28,6 +29,7 @@ Pattern,Emoji
 \bNerissa\b,🎼
 \bShiorin?\b,👁‍🗨
 \bRebellion\b,⚠️
+\bJustice\b,⚖️
 \bIcomochi\b,🍡
 \bPero\b,💜
 \bRuffian,🐾
@@ -53,6 +55,7 @@ Pattern,Emoji
 \bCup Noodle,🍜
 \b(ani)?song,🎤
 \bcover\b,🎤
+\bconcert\b,🎤
 \b(gift|present)s?\b,🎁
 \b(goods|merch)\b,📦
 \b(Twitter|tweets?)\b,🐦
