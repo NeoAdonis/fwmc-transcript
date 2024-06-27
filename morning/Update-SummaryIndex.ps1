@@ -8,10 +8,14 @@ param(
 $SummaryIndex = @()
 $SummaryTable = @()
 
+$LastUpdatedString = "Last updated: $(Get-Date -Format 'yyyy-MM-dd HH:mm' -AsUTC) UTC"
+
+$SummaryIndex += @("# 🌅 FUWAMOCO Morning Episode Summaries", "")
+$SummaryIndex += @($LastUpdatedString, "")
 $SummaryIndex += "| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |"
 $SummaryIndex += "| ------ | --- | --------- | --- | --------- | ------------ |"
 
-$QuestionSummary = @("# Daily questions", "")
+$QuestionSummary = @("# Daily questions", "", $LastUpdatedString, "")
 
 foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Directory)) {
     $EmojiList = Get-Content -Path './config/emojis.csv' | ConvertFrom-Csv
