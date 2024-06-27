@@ -6,7 +6,7 @@ param(
 )
 
 
-.\Get-VideoAudio -URL $URL -OutputFolder $OutputFolder -DownloadVideo:$DownloadVideo
+..\common\Get-VideoAudio -URL $URL -OutputFolder $OutputFolder -DownloadVideo:$DownloadVideo
 
 # Find the first time when there's a blank line after a non-blank line in the description files, then keep only the lines before that
 Get-ChildItem -Path $OutputFolder -Filter "*.description" -Recurse | ForEach-Object {
