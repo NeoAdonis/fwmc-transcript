@@ -34,12 +34,26 @@ Some of the files here are generated automatically.
 
 - [PowerShell 7+](https://learn.microsoft.com/en-us/powershell/scripting/overview)
 - [Node.js](https://nodejs.org/en)
-- [Miniconda](https://docs.anaconda.com/free/miniconda/)
+- [Miniconda with Python 3.10+](https://docs.anaconda.com/free/miniconda/)
 - [WhisperX](https://github.com/m-bain/whisperX)
 - [FFmpeg](https://ffmpeg.org/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 If using Windows, you can install all these prerequisites with [WinGet](https://learn.microsoft.com/windows/package-manager/).
+
+## Quick start
+
+### Set up Miniconda environment
+
+1. Install Miniconda.
+1. Init Miniconda for PowerShell: `conda init powershell`
+1. Create environment: `conda create --name whisperx`
+1. Init environment: `conda activate whisperx`
+1. Install requirements: `conda install pytorch==2.1.2 torchaudio==2.1.2 pytorch-cuda=11.8 -c pytorch -c nvidia`
+  - Note: these are the latest versions supported by whisperX as of version 3.1.1.
+1. Install WhisperX: `pip install git+https://github.com/m-bain/whisperx.git`
+
+You can *probably* use the latest version of `pytorch` by updating `pyannote.audio`. Up to version 3.3.1 has been tested, but your results might vary.
 
 ## ✨ Thanks
 
