@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-06-27 06:30 UTC
+Last updated: 2024-07-01 20:01 UTC
 
 ## Episode #1
 
@@ -421,4 +421,8 @@ FUWAMOCO answers a question about the first thing they ate after arriving in Jap
 ## Episode #103
 
 Ruffians ask why FUWAMOCO protect smiles instead of stealing them as demons. FUWAMOCO explain they choose to protect smiles because it's a greater good.
+
+## Episode #104
+
+FUWAMOCO reminisces about their experiences at amusement arcades with Mama Puppy, emphasizing the fun and special times they had.
 

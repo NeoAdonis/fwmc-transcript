@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-06-27 06:30 UTC
+Last updated: 2024-07-01 20:01 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -113,3 +113,4 @@ Last updated: 2024-06-27 06:30 UTC
 | 2024-06-19 | Wed | [Episode #101](https://youtu.be/7P-gFXya5U8) | and somehow we're here, already ✨ it's a big mystery ❓️ | [Summary](summaries/20240619_101.md) | [Transcript](transcripts/20240619/transcript.vtt) |
 | 2024-06-21 | Fri | [Episode #102](https://youtu.be/JxkXIozpz80) | this is it, you know what we mean ✨ | [Summary](summaries/20240621_102.md) | [Transcript](transcripts/20240621/transcript.vtt) |
 | 2024-06-26 | Wed | [Episode #103](https://youtu.be/XvznTJd0Ok8) | we're officially officially senpai now ✨ | [Summary](summaries/20240626_103.md) | [Transcript](transcripts/20240626/transcript.vtt) |
+| 2024-07-01 | Mon | [Episode #104](https://youtu.be/kuuIKlM8624) | the ticket battle commences at dinner time ✨ | [Summary](summaries/20240701_104.md) | [Transcript](transcripts/20240701/transcript.vtt) |
