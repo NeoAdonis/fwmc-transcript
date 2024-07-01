@@ -95,8 +95,25 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     # Transcript with prompt to create a more accurate transcript
     & whisperx --model $Model --device cuda --batch_size 16 -o $NewOutputFolder --output_format vtt --verbose False --language en --initial_prompt $TranscriptPrompt $Audio.FullName 
 
+    # Transcript without prompt can be used to fix potential errors when using the prompt
+    if ($IncludeNoPrompt.IsPresent) {
+        $NewOutputFolderNoPrompt = Join-Path -Path $NewOutputFolder -ChildPath 'noprompt'
+        if (-not (Test-Path -Path $NewOutputFolderNoPrompt)) {
+            New-Item -Path $NewOutputFolderNoPrompt -ItemType Directory | Out-Null
+        }
+        & whisperx --model $Model --device cuda --batch_size 16 -o $NewOutputFolderNoPrompt --output_format vtt --verbose False --language en $Audio.FullName
+    }
+
+    Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $NewBaseName } | ForEach-Object { Remove-Item -Path $_.FullName }
+    Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $FileBaseName } | ForEach-Object { Rename-Item -Path $_.FullName -NewName ($NewBaseName + $_.Extension) }
+
+    $TranscriptFile = Get-ChildItem -Path $NewOutputFolder | Where-Object { $_.BaseName -eq $NewBaseName } | Select-Object -First 1
+    if (-not $TranscriptFile) {
+        Write-Host "Transcript file not found in '$NewOutputFolder'." -ForegroundColor Red
+        continue
+    }
+
     # Fix common mistakes in the transcript
-    $TranscriptFile = Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $FileBaseName } | Select-Object -First 1
     $TranscriptContent = Get-Content -Path $TranscriptFile.FullName -Raw
     Get-Content -Path './config/replacements.csv' | ConvertFrom-Csv | ForEach-Object {
         $TranscriptContent = $TranscriptContent -replace $_.Pattern, $_.Replacement
@@ -104,6 +121,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     $TranscriptContent | Set-Content -Path $TranscriptFile.FullName -NoNewline
 
     # Detect and highlight potential mistakes that might actually be correct for manual review
+    $TranscriptContent = $TranscriptContent -split '\r?\n'
     Get-Content -Path './config/highlights.csv' | ConvertFrom-Csv | ForEach-Object {
         $Reason = $_.Reason
         $TranscriptContent | Select-String -Pattern $_.Pattern -AllMatches -Context 1 | ForEach-Object {
@@ -116,19 +134,6 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     if ($TranscriptContent -notmatch 'Hello,? hello,? BAU BAU') {
         Write-Host "$TranscriptFile - Potential missing introduction" -ForegroundColor Yellow
     }
-
-    if ($IncludeNoPrompt.IsPresent) {
-        $NewOutputFolderNoPrompt = Join-Path -Path $NewOutputFolder -ChildPath 'noprompt'
-        if (-not (Test-Path -Path $NewOutputFolderNoPrompt)) {
-            New-Item -Path $NewOutputFolderNoPrompt -ItemType Directory | Out-Null
-        }
-    
-        # Transcript without prompt can be used to fix potential errors when using the prompt
-        & whisperx --model $Model --device cuda --batch_size 16 -o $NewOutputFolderNoPrompt --output_format vtt --verbose False --language en $Audio.FullName
-    }
-
-    Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $NewBaseName } | ForEach-Object { Remove-Item -Path $_.FullName }
-    Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $FileBaseName } | ForEach-Object { Rename-Item -Path $_.FullName -NewName ($NewBaseName + $_.Extension) }
 }
 
 & conda deactivate
