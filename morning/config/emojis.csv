@@ -13,6 +13,7 @@ Pattern,Emoji
 \bLifetime Showtime\b,🎤
 \bFire N Ice\b,🎤
 \bAnime NYC\b,🗽
+\bA-chan\b,👓
 \bSui(sei|[\s\-]chan)\b,☄️
 \bHaachama\b,❤️‍🔥
 \bChoco,🍫
@@ -56,6 +57,8 @@ Pattern,Emoji
 \b(ani)?song,🎤
 \bcover\b,🎤
 \bconcert\b,🎤
+\bConnect The World\b,🎤
+\bBreaking Dimensions\b,🎤
 \b(gift|present)s?\b,🎁
 \b(goods|merch)\b,📦
 \b(Twitter|tweets?)\b,🐦
@@ -101,6 +104,7 @@ Pattern,Emoji
 \bmistak,❌
 \bmonitor,🖥️
 \bmusic,🎼
+\bnattou?\b,🫘
 \bnew\b,🆕
 \boutfit,👗
 \bpon-de-ring,🍩
@@ -120,4 +124,5 @@ Pattern,Emoji
 \bTouhou\b,🌸
 \bupdate,🆕
 \bworld\b,🌍
+\bwaterpark\b,🔫
 cake\b,🍰

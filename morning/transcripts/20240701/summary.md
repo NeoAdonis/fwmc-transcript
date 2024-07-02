@@ -4,7 +4,7 @@ FUWAMOCO welcomes Ruffians to the 104th episode of FUWAMOCO Morning!
 
 ## Pero Sighting (07:01)
 
-FUWAMOCO discusses a peculiar sighting of Pero, noting there was no "Bikini Pero" this time.
+A Ruffian spotted Pero while playing "Friday" Nights at Freddy's, noting how scaring it was. FUWAMOCO point out it wasn't a "Bikini Pero" this time at least.
 
 ## "Breaking Dimensions" Tickets (10:08)
 
@@ -18,9 +18,9 @@ A-chan announced her retirement and left hololive at the end of last month after
 
 FUWAMOCO announces a collaboration with Leofoo Village Waterpark, with tickets on sale from July 5th. Special photo areas, voice messages, merchandise, and food will be available.
 
-## FWMC Scoop - Elizabeth Bloodflame sings "Rebellion" (19:56)
+## FWMC Scoop - ERB sings "Rebellion" (19:56)
 
-Elizabeth Bloodflame sang Advent's original song, "Rebellion," during her archived Karaoke stream. FUWAMOCO was impressed by her performance.
+Elizabeth Rose Bloodflame sang Advent's original song, "Rebellion," during her archived Karaoke stream. FUWAMOCO was impressed by her performance.
 
 ## RIP Natto Corner (22:26)
 
