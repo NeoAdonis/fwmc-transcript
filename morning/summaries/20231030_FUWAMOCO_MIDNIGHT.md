@@ -16,7 +16,7 @@ Have you felt that the last 3 months have went by too quickly? FUWAMOCO give us 
 
 Mococo reveals the real reason why her mouth is shaped like a cat, and it's of course so she can fit small kittens heads easily! Although in reality, it seems that this was just a joke. *Unless...*
 
-## 🎞️ Special Day ([17:57](https://youtu.be/f6Xtez79CNs?t=17m57s))
+## 🎉 Special Day ([17:57](https://youtu.be/f6Xtez79CNs?t=17m57s))
 
 Fuwawa is concerned that Ruffians don't know that a special date for FUWAMOCO is approaching. At that moment FUWAMOCO had only found one single Ruffian who correctly guessed it.
 

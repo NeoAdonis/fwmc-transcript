@@ -5,6 +5,7 @@ Pattern,Emoji
 ^Today I Went On A Walk,🚶
 ^Walk of the Night,🚶
 ^Question,❓
+^What,❔
 ^Next Stream,📅
 \bDog(gie|gy)?,🐶
 \b(FWMC)?scoop\b,🔎
@@ -18,12 +19,17 @@ Pattern,Emoji
 \bHaachama\b,❤️‍🔥
 \bChoco,🍫
 \bMarine\b,🏴‍☠️
+\bPolka\b,🎪
 \bKoyorin?\b,🧪
+\b(Asa|Kon)Koyo\b,🧪
+\bOllie\b,🧟‍♀️
 \bAme(lia)?\b,🔎
 \bCalli\b,💀
 \bGura\b,🔱
 \bIna\b,🐙
 \bKiara\b,🐔
+\bPromise\b,🌟
+\bMumei\b,🪶
 \bAdvent(rix)?\b,⚠️
 \bsleep,😴
 \b(Bijou|Biboo)\b,🗿
@@ -51,6 +57,7 @@ Pattern,Emoji
 \bFWMC 64\b,🎮
 \b3D Showcase\b,🎥
 \bComiket\b,📚
+\bDorokei\b,💰
 \bVideos?\b,🎥
 \bAd Break\b,📺
 \bCup Noodle,🍜
@@ -65,18 +72,22 @@ Pattern,Emoji
 \bbreaking\b,‼️
 \bPlay button,▶️
 \ballerg(y|ies)\b,🤧
+\banniversar,🎊
 \bapology\b,🙇
 \bapparel\b,👗
 \baward,🏅
 \bbad\b,😢
 \bBAU\s?time\b,🕒
+\bbear,🐻
 \bberserk\b,🤯
 \bbirthday,🎂
+\bbreak\b,⏸️
 \bbunn(y|ies)\b,🐇
 \bBYOU\b,🤒
 \bcall\b,📲
 \bcats?\b,🐱
 \bcelebration,🎉
+\bchannel,📺
 \bchallenge,🏆
 \bcit(y|ies)\b,🏙️
 \bclaw,🐾
@@ -84,6 +95,7 @@ Pattern,Emoji
 \bcon(vention)?\b,🎪
 \bdonut,🍩
 \bdream,💤
+\bdrink,🍹
 \bexpo\b,🎪
 \bexposed,📸
 \b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
@@ -92,12 +104,16 @@ Pattern,Emoji
 \bhappy\b,😊
 \bhealth\b,❤️‍🩹
 \bhomework,📚
+\bhome,🏠
+\bhouse,🏠
 \bincident,🚨
 \bintro,📺
 \bJapan\b,🇯🇵
 \bjingle,🎶
 \bkaraoke\b,🎤
+\blantern,🏮
 \blike,👍
+\bluck,🍀
 \bmarshmallow\b,🍡
 \bmember,🪪
 \bmic(rophones?)?\b,🎙️
@@ -116,6 +132,7 @@ Pattern,Emoji
 \bsecret,🤫
 \bsigning\b,📝
 \bsneeze,🤧
+\bspecial\b,🎉
 \bspooky\b,👻
 \bSuika\b,🍉
 \bsurprise,🎁
@@ -125,4 +142,4 @@ Pattern,Emoji
 \bupdate,🆕
 \bworld\b,🌍
 \bwaterpark\b,🔫
-cake\b,🍰
+cakes?\b,🍰

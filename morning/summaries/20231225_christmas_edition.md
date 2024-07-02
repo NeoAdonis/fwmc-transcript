@@ -10,7 +10,7 @@ Pero was spotted among beautifully wrapped Christmas presents, hinting at Moco-S
 
 FUWAMOCO discusses the hololive English Advent Calendar, featuring fun videos and goodies. Despite a delay, the grand finale is anticipated soon.
 
-## 🎄 Promise Christmas Medley 2023 ([11:17](https://youtu.be/ddeU_2d6pjA?t=11m17s))
+## 🌟 Promise Christmas Medley 2023 ([11:17](https://youtu.be/ddeU_2d6pjA?t=11m17s))
 
 FUWAMOCO mentions a cute Christmas animation featuring hololive English -Promise- starting with "Jingle Bells" on the official YouTube channel.
 
