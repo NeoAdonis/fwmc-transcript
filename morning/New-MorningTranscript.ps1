@@ -17,7 +17,6 @@ $NewBaseName = 'transcript'
 
 if (-not (Get-Command conda -ErrorAction SilentlyContinue)) {
     Write-Host "conda not found. Please make sure that Anaconda/Miniconda is properly installed." -ForegroundColor Red
-    & conda deactivate
     throw 'conda not found'
 }
 
@@ -93,7 +92,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     Write-Host "Transcribing '$Audio'..."
 
     # Transcript with prompt to create a more accurate transcript
-    & whisperx --model $Model --device cuda --batch_size 16 -o $NewOutputFolder --output_format vtt --verbose False --language en --initial_prompt $TranscriptPrompt $Audio.FullName 
+    & whisperx --model $Model --batch_size 16 -o $NewOutputFolder --output_format vtt --verbose False --language en --initial_prompt $TranscriptPrompt $Audio.FullName 
 
     # Transcript without prompt can be used to fix potential errors when using the prompt
     if ($IncludeNoPrompt.IsPresent) {
@@ -101,7 +100,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
         if (-not (Test-Path -Path $NewOutputFolderNoPrompt)) {
             New-Item -Path $NewOutputFolderNoPrompt -ItemType Directory | Out-Null
         }
-        & whisperx --model $Model --device cuda --batch_size 16 -o $NewOutputFolderNoPrompt --output_format vtt --verbose False --language en $Audio.FullName
+        & whisperx --model $Model --batch_size 16 -o $NewOutputFolderNoPrompt --output_format vtt --verbose False --language en $Audio.FullName
     }
 
     Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $NewBaseName } | ForEach-Object { Remove-Item -Path $_.FullName }

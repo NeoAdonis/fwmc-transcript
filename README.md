@@ -32,28 +32,40 @@ Some of the files here are generated automatically.
 
 ### Prerequisites
 
-- [PowerShell 7+](https://learn.microsoft.com/en-us/powershell/scripting/overview)
-- [Node.js](https://nodejs.org/en)
-- [Miniconda with Python 3.10+](https://docs.anaconda.com/free/miniconda/)
+- [PowerShell 7.x](https://learn.microsoft.com/powershell/scripting/overview)
+- [Node.js](https://nodejs.org/)
+- [Miniconda](https://docs.anaconda.com/free/miniconda/)
 - [WhisperX](https://github.com/m-bain/whisperX)
 - [FFmpeg](https://ffmpeg.org/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- Optional: [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
 
 If using Windows, you can install all these prerequisites with [WinGet](https://learn.microsoft.com/windows/package-manager/).
 
-## Quick start
+## 🔰 Quick start
+
+### Install prerequisites in Windows
+
+[Make sure that WinGet is installed](https://learn.microsoft.com/windows/package-manager/winget/), then run the following:
+
+```
+winget install Microsoft.PowerShell
+winget install OpenJS.NodeJS
+winget install Anaconda.Miniconda3 -v py310_23.5.2-0
+winget install Gyan.FFmpeg
+winget install yt-dlp.yt-dlp
+winget install Nvidia.CUDA -v 11.8
+```
 
 ### Set up Miniconda environment
 
-1. Install Miniconda.
 1. Init Miniconda for PowerShell: `conda init powershell`
 1. Create environment: `conda create --name whisperx`
 1. Init environment: `conda activate whisperx`
 1. Install requirements: `conda install pytorch==2.1.2 torchaudio==2.1.2 pytorch-cuda=11.8 -c pytorch -c nvidia`
-  - Note: these are the latest versions supported by whisperX as of version 3.1.1.
 1. Install WhisperX: `pip install git+https://github.com/m-bain/whisperx.git`
 
-You can *probably* use the latest version of `pytorch` by updating `pyannote.audio`. Up to version 3.3.1 has been tested, but your results might vary.
+The latest supported PyTorch version in whisperX (as of version 3.1.1) is 2.1.2, which also restricts the Python version that can be installed in your Miniconda environment to 3.10. To use a newer PyTorch version, you can update `pyannote.audio`; for instance, upgrading to version 3.3.1 enables installation of PyTorch 2.3.1 and usage of Python 3.12.
 
 ## ✨ Thanks
 
