@@ -32,7 +32,7 @@ A Ruffian shares a photo of a rainbow spotted during a walk, prompting Pero to m
 
 ## Question of the Day (24:30)
 
-A Ruffian asks about favorite smells on walks. Pero prefers the scent of a woman's perfume and tires.
+A Ruffian asks about favorite smells on walks. Pero answers this time, saying that he prefers the scent of a woman's perfume and tires.
 
 ## Next Stream & Schedule (26:01)
 

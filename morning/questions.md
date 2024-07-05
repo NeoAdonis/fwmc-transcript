@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-01 20:01 UTC
+Last updated: 2024-07-05 01:10 UTC
 
 ## Episode #1
 
@@ -212,7 +212,7 @@ FUWAMOCO consider doing Japanese teaching streams to help English-speaking Ruffi
 
 ## Episode #53
 
-A Ruffian asks about favorite smells on walks. Pero prefers the scent of a woman's perfume and tires.
+A Ruffian asks about favorite smells on walks. Pero answers this time, saying that he prefers the scent of a woman's perfume and tires.
 
 ## Episode #54
 
