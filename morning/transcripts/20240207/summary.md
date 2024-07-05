@@ -1,3 +1,9 @@
+---
+episode: 78
+date: 2024-02-07
+wip: true
+---
+
 ## Introduction (05:12)
 
 Welcome to the 78th episode of FUWAMOCO Morning! Fuwawa and Mococo greet Ruffians and introduce the show format.

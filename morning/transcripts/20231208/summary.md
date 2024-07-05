@@ -1,3 +1,9 @@
+---
+episode: 54
+date: 2023-12-08
+wip: true
+---
+
 ## Introduction (04:59)
 
 Fuwawa and Mococo welcome Ruffians to the 54th episode of FUWAMOCO Morning while apologizing for last episode's takeover from Pero.

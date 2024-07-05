@@ -1,3 +1,9 @@
+---
+episode: 61
+date: 2023-12-27
+wip: true
+---
+
 ## Introduction (05:11)
 
 FUWAMOCO welcomes Ruffians to the 61st episode, the final episode of FUWAMOCO Morning for 2023.

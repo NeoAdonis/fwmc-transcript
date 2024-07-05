@@ -1,3 +1,9 @@
+---
+episode: 60
+date: 2023-12-22
+wip: true
+---
+
 ## Introduction (05:32)
 
 This is the 60th episode of FUWAMOCO Morning. Fuwawa and Mococo greet Ruffians and explain the show's format and schedule.

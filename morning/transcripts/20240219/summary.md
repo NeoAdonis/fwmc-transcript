@@ -1,3 +1,9 @@
+---
+episode: 82
+date: 2024-02-19
+wip: true
+---
+
 ## Introduction (05:08)
 
 FUWAMOCO welcomes Ruffians to the 82nd episode of FUWAMOCO Morning, aiming to bring smiles and start the day right.

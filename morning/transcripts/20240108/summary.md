@@ -1,3 +1,9 @@
+---
+episode: 65
+date: 2024-01-08
+wip: true
+---
+
 ## Introduction (05:10)
 
 FUWAMOCO greet the Ruffians and kick off the 65th episode of FUWAMOCO Morning, a short format morning show aired three times a week. They aim to bring smiles and help Ruffians start their day positively.

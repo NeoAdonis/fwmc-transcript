@@ -1,3 +1,9 @@
+---
+episode: 72
+date: 2024-01-24
+wip: true
+---
+
 ## Introduction (05:55)
 
 Welcome to the 72nd episode of FUWAMOCO Morning!

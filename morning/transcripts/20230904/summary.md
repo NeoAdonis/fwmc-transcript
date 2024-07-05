@@ -1,3 +1,9 @@
+---
+episode: 15
+date: 2023-09-04
+wip: true
+---
+
 ## Introduction (05:04)
 
 FUWAMOCO greets the Ruffians and introduces FUWAMOCO Morning.

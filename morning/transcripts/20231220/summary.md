@@ -1,3 +1,9 @@
+---
+episode: 59
+date: 2023-12-20
+wip: true
+---
+
 ## Introduction (05:12)
 
 FUWAMOCO welcomes Ruffians to the 59th episode of FUWAMOCO Morning, their short-format morning show.

@@ -1,3 +1,9 @@
+---
+episode: 8
+date: 2023-08-18
+wip: true
+---
+
 ## Introduction (05:04)
 
 FUWAMOCO welcomes Ruffians to the eighth episode of FUWAMOCO Morning, aiming to bring smiles and start the day right.

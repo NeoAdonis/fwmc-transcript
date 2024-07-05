@@ -1,3 +1,9 @@
+---
+episode: 103
+date: 2024-06-26
+wip: true
+---
+
 ## Introduction (05:00)
 
 FUWAMOCO greet Ruffians and introduce the 103rd episode of FUWAMOCO Morning.

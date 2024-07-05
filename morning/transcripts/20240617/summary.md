@@ -1,3 +1,9 @@
+---
+episode: 100
+date: 2024-06-17
+wip: true
+---
+
 ## Introduction (05:08)
 
 FUWAMOCO celebrates the 100th episode of FUWAMOCO Morning with all of Advent, including Shiori, Biboo, and Nerissa. They express their gratitude to Ruffians and Advent for joining the celebration.

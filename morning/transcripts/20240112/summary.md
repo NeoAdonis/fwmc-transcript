@@ -1,3 +1,9 @@
+---
+episode: 67
+date: 2024-01-12
+wip: true
+---
+
 ## Introduction (05:14)
 
 FUWAMOCO welcomes Ruffians to the 67th episode of FUWAMOCO Morning, aiming to bring smiles and start the day positively.

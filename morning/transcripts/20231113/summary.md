@@ -1,3 +1,9 @@
+---
+episode: 43
+date: 2023-11-13
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Pero Sighting (09:08)

@@ -1,3 +1,9 @@
+---
+episode: 64
+date: 2024-01-05
+wip: true
+---
+
 ## Introduction (05:47)
 
 Welcome to the 64th episode of FUWAMOCO Morning!

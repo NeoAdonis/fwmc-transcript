@@ -1,3 +1,9 @@
+---
+episode: 94
+date: 2024-05-06
+wip: true
+---
+
 ## Introduction (05:15)
 
 FUWAMOCO welcomes Ruffians to the 94th episode of FUWAMOCO Morning, aiming to bring smiles and a great start to the day.

@@ -1,3 +1,9 @@
+---
+episode: 48
+date: 2023-11-24
+wip: true
+---
+
 ## Introduction (05:08)
 
 FUWAMOCO welcomed Ruffians to the 48th episode, reflecting on past episodes and expressing gratitude for the support.

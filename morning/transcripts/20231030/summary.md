@@ -1,3 +1,9 @@
+---
+episode: "FUWAMOCO MIDNIGHT"
+date: 2023-10-30
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Pero Sighting (08:05)

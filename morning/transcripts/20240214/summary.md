@@ -1,3 +1,9 @@
+---
+episode: "BAU-lentine's day"
+date: 2024-02-14
+wip: true
+---
+
 ## Introduction (05:02)
 
 FUWAMOCO Morning episode starts with a cheerful greeting from Fuwawa and Mococo on Valentine's Day.

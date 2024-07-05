@@ -1,3 +1,9 @@
+---
+episode: 87
+date: 2024-04-19
+wip: true
+---
+
 ## Introduction (05:08)
 
 ## Pero Sighting (@VintageCheese) (07:06)

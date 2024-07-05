@@ -1,3 +1,9 @@
+---
+episode: 99
+date: 2024-06-14
+wip: true
+---
+
 ## Introduction (05:00)
 
 Fuwawa and Mococo welcome Ruffians to the 99th episode of FUWAMOCO Morning, expressing excitement about reaching nearly 100 episodes and encouraging participation using the hashtag #FWMCMORNING.

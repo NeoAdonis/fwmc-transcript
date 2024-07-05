@@ -1,3 +1,9 @@
+---
+episode: 58
+date: 2023-12-18
+wip: true
+---
+
 ## Introduction (05:09)
 
 FUWAMOCO introduces the 58th episode of FUWAMOCO Morning, aiming to bring smiles and start Ruffians' day off right.

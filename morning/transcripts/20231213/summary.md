@@ -1,3 +1,9 @@
+---
+episode: 56
+date: 2023-12-13
+wip: true
+---
+
 ## Introduction (05:38)
 
 Fuwawa and Mococo welcome Ruffians to the 56th episode of FUWAMOCO Morning.

@@ -1,3 +1,9 @@
+---
+episode: 47
+date: 2023-11-22
+wip: true
+---
+
 ## Introduction (05:22)
 
 FUWAMOCO welcome the Ruffians to the 47th episode of FUWAMOCO Morning.

@@ -1,3 +1,9 @@
+---
+episode: 1
+date: 2023-08-02
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## 700K Views on "Kaibutsu" (05:59)

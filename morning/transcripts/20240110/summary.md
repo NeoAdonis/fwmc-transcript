@@ -1,3 +1,9 @@
+---
+episode: 66
+date: 2024-01-10
+wip: true
+---
+
 ## Introduction (05:52)
 
 Welcome to the 66th episode of FUWAMOCO Morning! FUWAMOCO is here to brighten your day and bring a smile to your face.

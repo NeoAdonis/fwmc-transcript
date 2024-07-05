@@ -1,3 +1,9 @@
+---
+episode: 73
+date: 2024-01-26
+wip: true
+---
+
 ## Introduction (05:15)
 
 Welcome to the 73rd episode of FUWAMOCO Morning! FUWAMOCO introduces themselves and the show, aiming to bring a smile to Ruffians' faces and start the day positively.

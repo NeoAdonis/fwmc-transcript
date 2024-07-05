@@ -1,3 +1,9 @@
+---
+episode: 49
+date: 2023-11-27
+wip: true
+---
+
 ## Introduction (05:08)
 
 FUWAMOCO welcomes Ruffians to the 49th episode of FUWAMOCO Morning, expressing gratitude for the support and enjoyment over the episodes.

@@ -133,6 +133,31 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     if ($TranscriptContent -notmatch 'Hello,? hello,? BAU BAU') {
         Write-Host "$TranscriptFile - Potential missing introduction" -ForegroundColor Yellow
     }
+
+    if (Test-Path -Path (Join-Path -Path $NewOutputFolder -ChildPath "summary.md")) {
+        continue
+    }
+
+    $SummaryDraft = @(
+        "---",
+        "episode: $(if ($Metadata.isSpecial) { $Metadata.episode | ConvertTo-Json } else { $Metadata.episode })",
+        "date: $($Metadata.date)",
+        "wip: true",
+        "---",
+        "",
+        "## Sections",
+        "",
+        "- Introduction",
+        "- Pero Sighting",
+        "- Mococo Pup Talk",
+        "- Doggie Of The Day",
+        "- Today I Went On A Walk",
+        "- Question Of The Day",
+        "- Next Stream & Schedule",
+        "- Thanks & Extra Special Ruffians"
+    )
+
+    $SummaryDraft | Set-Content -Path (Join-Path -Path $NewOutputFolder -ChildPath "summary.md")
 }
 
 & conda deactivate

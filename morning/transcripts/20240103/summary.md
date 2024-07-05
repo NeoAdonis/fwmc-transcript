@@ -1,3 +1,9 @@
+---
+episode: 63
+date: 2024-01-03
+wip: true
+---
+
 ## Introduction (05:13)
 
 FUWAMOCO kick off the 63rd episode of FUWAMOCO Morning, welcoming Ruffians and explaining the show's format for new viewers.

@@ -1,3 +1,9 @@
+---
+episode: 102
+date: 2024-06-21
+wip: true
+---
+
 ## Introduction (05:00)
 
 FUWAMOCO welcomes the Ruffians to the 102nd episode of FUWAMOCO Morning!

@@ -1,3 +1,9 @@
+---
+episode: 90
+date: 2024-04-26
+wip: true
+---
+
 ## Introduction (05:13)
 
 FUWAMOCO welcomed Ruffians to the special 90th episode of FUWAMOCO Morning with guest Koyori-senpai. They expressed their excitement for this milestone and introduced Koyori-senpai as their first guest.

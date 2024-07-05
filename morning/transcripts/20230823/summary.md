@@ -1,3 +1,9 @@
+---
+episode: 10
+date: 2023-08-23
+wip: true
+---
+
 ## Introduction (05:32)
 
 FUWAMOCO celebrates the 10th episode of FUWAMOCO Morning and introduces the show, which airs every Monday, Wednesday, and Friday.

@@ -1,3 +1,9 @@
+---
+episode: 26
+date: 2023-09-29
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Pero Sighting (06:35)

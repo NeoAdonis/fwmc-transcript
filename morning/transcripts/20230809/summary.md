@@ -1,3 +1,9 @@
+---
+episode: 4
+date: 2023-08-09
+wip: true
+---
+
 ## Introduction (05:03)
 
 FUWAMOCO welcomes Ruffians to the fourth episode of FUWAMOCO Morning, a short format morning show airing every Monday, Wednesday, and Friday. They aim to bring smiles and help start the day positively.

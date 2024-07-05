@@ -1,3 +1,9 @@
+---
+episode: 89
+date: 2024-04-24
+wip: true
+---
+
 ## Introduction (05:16)
 
 Welcome to the 89th episode of FUWAMOCO Morning! Fuwawa and Mococo kick off the show with their usual lively greetings to the Ruffians.

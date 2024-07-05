@@ -1,3 +1,9 @@
+---
+episode: 81
+date: 2024-02-16
+wip: true
+---
+
 ## Introduction (05:09)
 
 FUWAMOCO greeted the Ruffians and introduced episode 81 of FUWAMOCO Morning.

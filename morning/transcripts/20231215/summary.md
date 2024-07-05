@@ -1,3 +1,9 @@
+---
+episode: 57
+date: 2023-12-15
+wip: true
+---
+
 ## Introduction (05:14)
 
 FUWAMOCO welcome Ruffians to the 57th episode of FUWAMOCO Morning.

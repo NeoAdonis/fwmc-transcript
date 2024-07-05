@@ -1,3 +1,9 @@
+---
+episode: 68
+date: 2024-01-15
+wip: true
+---
+
 ## Introduction (05:15)
 
 FUWAMOCO welcomes Ruffians to the 68th episode of FUWAMOCO Morning, aiming to bring smiles and start the day on the right paw.

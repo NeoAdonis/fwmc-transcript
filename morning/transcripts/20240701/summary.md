@@ -1,3 +1,9 @@
+---
+episode: 104
+date: 2024-07-01
+wip: true
+---
+
 ## Introduction (04:53)
 
 FUWAMOCO welcomes Ruffians to the 104th episode of FUWAMOCO Morning!

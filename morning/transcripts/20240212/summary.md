@@ -1,3 +1,9 @@
+---
+episode: 80
+date: 2024-02-12
+wip: true
+---
+
 ## Introduction (05:11)
 
 FUWAMOCO Morning hosts, Fuwawa and Mococo, greet Ruffians for the 80th episode.

@@ -1,3 +1,9 @@
+---
+episode: 50
+date: 2023-11-29
+wip: true
+---
+
 ## Introduction (05:14)
 
 FUWAMOCO welcomes Ruffians to their 50th episode.

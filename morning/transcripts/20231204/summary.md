@@ -1,3 +1,9 @@
+---
+episode: 52
+date: 2023-12-04
+wip: true
+---
+
 ## Introduction (05:40)
 
 Good morning, Ruffians! FUWAMOCO Morning's 52nd episode is here!

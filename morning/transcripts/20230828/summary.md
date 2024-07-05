@@ -1,3 +1,9 @@
+---
+episode: 12
+date: 2023-08-28
+wip: true
+---
+
 ## Introduction (05:03)
 
 FUWAMOCO welcomed Ruffians to the 12th episode of FUWAMOCO Morning, explaining the show dynamics for new viewers.

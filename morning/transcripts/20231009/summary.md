@@ -1,3 +1,9 @@
+---
+episode: 30
+date: 2023-10-09
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Pero Sighting (06:51)

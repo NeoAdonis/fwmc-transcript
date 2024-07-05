@@ -1,3 +1,9 @@
+---
+episode: 7
+date: 2023-08-16
+wip: true
+---
+
 ## Introduction (05:11)
 
 Fuwawa and Mococo welcome Ruffians to the 7th episode of FUWAMOCO Morning, explaining what it is to new Ruffians who were joining in.

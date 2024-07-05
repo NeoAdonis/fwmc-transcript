@@ -1,3 +1,9 @@
+---
+episode: 96
+date: 2024-05-10
+wip: true
+---
+
 ## Introduction (05:10)
 
 It's the 96th episode of FUWAMOCO Morning! FUWAMOCO greet new Ruffians and explain their aim of bringing smiles and starting the day right.

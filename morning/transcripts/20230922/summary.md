@@ -1,3 +1,9 @@
+---
+episode: 23
+date: 2023-09-22
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Mumei 3D Showcase (07:28)

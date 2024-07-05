@@ -1,3 +1,9 @@
+---
+episode: "christmas edition"
+date: 2023-12-25
+wip: true
+---
+
 ## Introduction (05:13)
 
 FUWAMOCO welcomes Ruffians to a special Christmas episode of FUWAMOCO Morning, aiming to bring smiles and festive cheer.

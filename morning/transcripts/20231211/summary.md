@@ -1,3 +1,9 @@
+---
+episode: 55
+date: 2023-12-11
+wip: true
+---
+
 ## Introduction (05:15)
 
 FUWAMOCO welcome Ruffians to the 55th episode of FUWAMOCO Morning, hosted by Fuwawa and Mococo.

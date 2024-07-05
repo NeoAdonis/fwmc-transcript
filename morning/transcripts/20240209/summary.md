@@ -1,3 +1,9 @@
+---
+episode: 79
+date: 2024-02-09
+wip: true
+---
+
 ## Introduction (05:13)
 
 FUWAMOCO greet the Ruffians and celebrate the 79th episode of FUWAMOCO Morning.

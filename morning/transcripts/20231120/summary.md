@@ -1,3 +1,9 @@
+---
+episode: 46
+date: 2023-11-20
+wip: true
+---
+
 ## Introduction (05:00)
 
 FUWAMOCO welcomes Ruffians to the 46th episode of FUWAMOCO Morning.

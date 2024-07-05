@@ -1,3 +1,9 @@
+---
+episode: 2
+date: 2023-08-04
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## 400K Ruffians (06:27)

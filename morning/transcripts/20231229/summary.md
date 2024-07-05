@@ -1,3 +1,9 @@
+---
+episode: "#あさモコLIVE"
+date: 2023-12-29
+wip: true
+---
+
 ## Introduction (00:03)
 
 Good morning, motherfluffers! Mococo wakes everyone up with energetic BAUs and gets ready for another exciting AsaMoco Live.

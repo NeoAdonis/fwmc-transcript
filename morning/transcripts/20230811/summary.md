@@ -1,3 +1,9 @@
+---
+episode: 5
+date: 2023-08-11
+wip: true
+---
+
 ## Introduction (04:52)
 
 FUWAMOCO welcomes Ruffians to the fifth episode of FUWAMOCO Morning, a short format that aims to bring smiles and start the day on the right paw.

@@ -1,3 +1,9 @@
+---
+episode: 9
+date: 2023-08-21
+wip: true
+---
+
 ## Introduction (05:22)
 
 FUWAMOCO greet Ruffians and introduce the 9th episode of FUWAMOCO Morning, aiming to bring smiles and start the day right.

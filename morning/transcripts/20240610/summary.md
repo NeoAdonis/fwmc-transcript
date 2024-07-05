@@ -1,3 +1,9 @@
+---
+episode: 97
+date: 2024-06-10
+wip: true
+---
+
 ## Introduction (05:05)
 
 FUWAMOCO greet Ruffians and introduce the 97th episode of FUWAMOCO Morning, explaining the show's format and aim to bring smiles.

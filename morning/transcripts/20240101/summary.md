@@ -1,3 +1,9 @@
+---
+episode: 62
+date: 2024-01-01
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Pero Sighting (07:41)

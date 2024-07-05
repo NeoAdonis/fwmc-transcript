@@ -1,3 +1,9 @@
+---
+episode: 75
+date: 2024-01-31
+wip: true
+---
+
 ## Introduction (05:12)
 
 Episode 75 of FUWAMOCO Morning starts with FUWAMOCO greeting the Ruffians and celebrating their 75th episode and six months anniversary.

@@ -1,3 +1,9 @@
+---
+episode: 70
+date: 2024-01-19
+wip: true
+---
+
 ## Introduction (05:12)
 
 FUWAMOCO welcomes Ruffians to the 70th episode of FUWAMOCO Morning, celebrating their 70th anniversary and reflecting on the journey so far.

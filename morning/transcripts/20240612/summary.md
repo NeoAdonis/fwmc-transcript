@@ -1,3 +1,9 @@
+---
+episode: 98
+date: 2024-06-12
+wip: true
+---
+
 ## Introduction (05:06)
 
 FUWAMOCO welcomes Ruffians to the 98th episode of FUWAMOCO Morning.

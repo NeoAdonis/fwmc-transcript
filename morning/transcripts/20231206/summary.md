@@ -1,3 +1,9 @@
+---
+episode: 53
+date: 2023-12-06
+wip: true
+---
+
 ## Introduction (05:13)
 
 Pero hijacks the 53rd episode of FUWAMOCO Morning, introducing himself and expressing surprise at seeing the Ruffians.

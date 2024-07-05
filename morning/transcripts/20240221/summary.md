@@ -1,3 +1,9 @@
+---
+episode: 83
+date: 2024-02-21
+wip: true
+---
+
 ## Introduction (05:04)
 
 FUWAMOCO welcomes Ruffians to the 83rd episode of FUWAMOCO Morning and introduce the show.

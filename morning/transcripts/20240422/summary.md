@@ -1,3 +1,9 @@
+---
+episode: 88
+date: 2024-04-22
+wip: true
+---
+
 ## Introduction (05:09)
 
 ## Pero Sighting (@Brandermau) (07:30)

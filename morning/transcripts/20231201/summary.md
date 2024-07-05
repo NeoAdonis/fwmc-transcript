@@ -1,3 +1,9 @@
+---
+episode: 51
+date: 2023-12-01
+wip: true
+---
+
 ## Introduction (05:06)
 
 FUWAMOCO celebrate their 51st episode, the first one of the last month of 2023, welcoming Ruffians to the show.

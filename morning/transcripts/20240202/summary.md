@@ -1,3 +1,9 @@
+---
+episode: 76
+date: 2024-02-02
+wip: true
+---
+
 ## Introduction (05:12)
 
 Fuwawa and Mococo welcome Ruffians to the 76th episode of FUWAMOCO Morning, celebrating their birthday.

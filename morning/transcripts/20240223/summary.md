@@ -1,3 +1,9 @@
+---
+episode: 84
+date: 2024-02-23
+wip: true
+---
+
 ## Introduction (05:04)
 
 ## Pero Sighting (07:10)

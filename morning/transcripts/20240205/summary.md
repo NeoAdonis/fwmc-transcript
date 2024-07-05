@@ -1,3 +1,9 @@
+---
+episode: 77
+date: 2024-02-05
+wip: true
+---
+
 ## Introduction (05:59)
 
 FUWAMOCO welcomes Ruffians to the 77th episode of FUWAMOCO Morning, a show that aims to bring smiles and positive energy.

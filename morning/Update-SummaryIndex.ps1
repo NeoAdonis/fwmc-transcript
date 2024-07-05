@@ -36,7 +36,18 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
         'Link'        = $EpisodeLink
     }
     $EpisodeQuestion = ""
+    $SkipFrontMatter = $false
     foreach ($Line in $Summary) {
+        if ($SkipFrontMatter) {
+            if ($Line -match '^---$') {
+                $SkipFrontMatter = $false
+            }
+            continue
+        }
+        elseif ($Line -match '^---$') {
+            $SkipFrontMatter = $true
+            continue
+        }
         if ($Line -match '^(#+) (.*)$') {
             $HeaderLevel = $Matches[1]
             $Header = $CurrentSection = $Matches[2]
@@ -74,6 +85,11 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
         $EpisodeQuestion = $EpisodeQuestion -replace '\[([^\]]+)\]\([^\)]+\)', '$1'
         $QuestionSummary += @("## $EpisodeName", "", ($EpisodeQuestion -replace '\s+', ' ').Trim(), "")
     }
+    # Remove all empty lines at the beginning of the summary
+    while ($NewSummary[0] -match '^\s*$') {
+        $NewSummary = $NewSummary[1..$NewSummary.Count]
+    }
+    # Save the summary
     $NewSummary | Set-Content -Path (Join-Path -Path $SummariesFolder -ChildPath "$SummaryBaseName.md")
 }
 

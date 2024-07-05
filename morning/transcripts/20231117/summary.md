@@ -1,3 +1,9 @@
+---
+episode: 45
+date: 2023-11-17
+wip: true
+---
+
 ## Introduction (05:09)
 
 Fuwawa and Mococo welcome Ruffians to the 45th episode of FUWAMOCO Morning.

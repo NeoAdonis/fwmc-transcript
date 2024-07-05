@@ -1,3 +1,9 @@
+---
+episode: 34
+date: 2023-10-20
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Pero Sighting (06:55)

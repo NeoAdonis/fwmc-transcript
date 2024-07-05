@@ -1,3 +1,9 @@
+---
+episode: 71
+date: 2024-01-22
+wip: true
+---
+
 ## Introduction (05:15)
 
 Fuwawa and Mococo introduce FUWAMOCO Morning, welcoming Ruffians to the 71st episode and explaining the show's format.

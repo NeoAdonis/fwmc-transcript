@@ -1,3 +1,9 @@
+---
+episode: 41
+date: 2023-11-08
+wip: true
+---
+
 ## Introduction (05:20)
 
 FUWAMOCO welcomes Ruffians to the 41st episode of FUWAMOCO Morning, marking their 101st stream. They remind everyone that the show airs every Monday, Wednesday, and Friday.

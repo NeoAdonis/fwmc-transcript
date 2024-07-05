@@ -1,3 +1,9 @@
+---
+episode: 69
+date: 2024-01-17
+wip: true
+---
+
 ## Introduction (05:10)
 
 FUWAMOCO welcomes Ruffians to the 69th episode of FUWAMOCO Morning.

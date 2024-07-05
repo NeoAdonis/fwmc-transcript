@@ -1,3 +1,9 @@
+---
+episode: 74
+date: 2024-01-29
+wip: true
+---
+
 ## Introduction (05:08)
 
 FUWAMOCO welcome Ruffians to the 74th episode of FUWAMOCO Morning, introducing the show's format and goals.

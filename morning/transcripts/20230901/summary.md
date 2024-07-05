@@ -1,3 +1,9 @@
+---
+episode: 14
+date: 2023-09-01
+wip: true
+---
+
 ## Introduction (04:50)
 
 FUWAMOCO kicks off their 14th episode, welcoming Ruffians and celebrating a "Fluffy and Fuzzy Friday."

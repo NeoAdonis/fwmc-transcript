@@ -1,3 +1,9 @@
+---
+episode: 6
+date: 2023-08-14
+wip: true
+---
+
 ## Introduction (05:06)
 
 FUWAMOCO welcomes Ruffians to the 6th episode of FUWAMOCO Morning. They aim to bring smiles and help start the day right, reminding everyone to tweet their thoughts using #FWMCMorning.

@@ -1,3 +1,9 @@
+---
+episode: 101
+date: 2024-06-19
+wip: true
+---
+
 ## Introduction (05:06)
 
 FUWAMOCO welcomed Ruffians to the 101st episode of FUWAMOCO Morning, even though they missed their trampoline, which is an essential part of their morning routine.

@@ -1,3 +1,9 @@
+---
+episode: 42
+date: 2023-11-10
+wip: true
+---
+
 ## Introduction (05:11)
 
 FUWAMOCO welcome Ruffians to the 42nd episode of FUWAMOCO Morning, expressing gratitude to new and old viewers.

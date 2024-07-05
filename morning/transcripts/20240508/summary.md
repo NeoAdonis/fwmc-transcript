@@ -1,3 +1,9 @@
+---
+episode: 95
+date: 2024-05-08
+wip: true
+---
+
 ## Introduction (05:12)
 
 ## Pero Sighting (08:18)

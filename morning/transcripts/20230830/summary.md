@@ -1,3 +1,9 @@
+---
+episode: 13
+date: 2023-08-30
+wip: true
+---
+
 ## Introduction (05:27)
 
 Fuwawa and Mococo introduce the 13th episode of FUWAMOCO Morning, welcoming Ruffians and explaining the show's goal to bring smiles and start the day positively.

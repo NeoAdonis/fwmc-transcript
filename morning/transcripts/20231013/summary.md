@@ -1,3 +1,9 @@
+---
+episode: "friday the 13th"
+date: 2023-10-13
+wip: true
+---
+
 ## Introduction (05:00)
 
 ## Breaking News (07:10)
