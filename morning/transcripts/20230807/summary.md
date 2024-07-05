@@ -19,7 +19,7 @@ FUWAMOCO thank all the Ruffians who have bought [Fuwawa](https://shop.hololivepr
 
 As disappointing as it is (for FUWAMOCO anyways), they have to clear up another set of misunderstandings:
 
-* 13:01: Mococo [mentioned](https://www.youtube.com/live/A2e3ljDAxmQ?si=3rbM8YZgLquHObCm&t=6108) that [sukumizu](https://en.wiktionary.org/wiki/sukumizu) + scarf was the best combo for an outfit, but she missed a crucial item in that statement: glasses! [Fubuki would be proud of that statement!](https://youtu.be/lWVt0YnSYEY)
+* 13:01: Mococo [mentioned](https://youtu.be/A2e3ljDAxmQ?t=6108) that [sukumizu](https://en.wiktionary.org/wiki/sukumizu) + scarf was the best combo for an outfit, but she missed a crucial item in that statement: glasses! [Fubuki would be proud of that statement!](https://youtu.be/lWVt0YnSYEY)
 * 14:13: Meanwhile, Fuwawa feels she needs to clarify that, rather than sukumizu + socks alone, a bandage on top of those makes for a great outfit; even better if there's a green bangle on the wrist, too!
 * 14:57: The biggest of all misunderstandings today would be however when Fuwawa said they'd put "the dog into the monkey" for their 'Donkey Kong' stream, as she meant to say it in a similar fashion to say "putting the X into 'Xbox'". Hopefully that clears up everything (?).
 

@@ -49,7 +49,7 @@ From the other side (of the screen) comes spooky Moco-chan, encouraging you to b
 
 ## Question Of The Day (32:20)
 
-[Sobbi](https://twitter.com/Sobbi11/status/1706205209586790554) asks what would FUWAMOCO do if one day they switched bodies? The twins think at first that things wouldn't probably change at all, but they also express that they would feel uncomfortable and would like to swap places back ASAP. On the other hand, Ruffians have at least a pair of reasons to think that Mococo would feel stiffness on her new shoulders if that scenario were to happen...
+[Sobbi](https://twitter.com/Sobbi11/status/1706205209586790554) asks what would FUWAMOCO do if one day they switched bodies? The twins think at first that things wouldn't probably change at all, but they also express that they would feel uncomfortable and would like to swap places back ASAP. On the other hand, Ruffians have at least a pair of reasons to think that Mococo would feel stiffness on her new shoulders if that scenario were to happen…
 
 ## Next Stream & Schedule (35:43)
 

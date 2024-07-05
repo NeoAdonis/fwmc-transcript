@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-05 17:54 UTC
+Last updated: 2024-07-05 23:44 UTC
 
 ## Episode #1
 
@@ -144,7 +144,7 @@ A Ruffian wonders if Fuwawa and Mococo have each their own set of mic and headph
 
 ## Episode #36
 
-A Ruffian asks what would FUWAMOCO do if one day they switched bodies? The twins think at first that things wouldn't probably change at all, but they also express that they would feel uncomfortable and would like to swap places back ASAP. On the other hand, Ruffians have at least a pair of reasons to think that Mococo would feel stiffness on her new shoulders if that scenario were to happen...
+A Ruffian asks what would FUWAMOCO do if one day they switched bodies? The twins think at first that things wouldn't probably change at all, but they also express that they would feel uncomfortable and would like to swap places back ASAP. On the other hand, Ruffians have at least a pair of reasons to think that Mococo would feel stiffness on her new shoulders if that scenario were to happen…
 
 ## Episode #37
 

@@ -17,7 +17,7 @@ The twin sisters announce the release of their first [cover of YOASOBI's "Kaibut
 
 ## Misunderstanding (17:24)
 
-Fuwawa attempts to clear a misunderstanding in terms of [an F-bomb she didn't drop](https://youtu.be/7gTl1TW3j0A). Hopefully there won't be any more of those... *right?*
+Fuwawa attempts to clear a misunderstanding in terms of [an F-bomb she didn't drop](https://youtu.be/7gTl1TW3j0A). Hopefully there won't be any more of those… *right?*
 
 ## Debut Goods (19:52)
 

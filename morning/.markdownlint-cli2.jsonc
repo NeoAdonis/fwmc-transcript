@@ -212,16 +212,50 @@
         "search-replace": {
             "rules": [
                 {
-                    "message": "Timestamp not enclosed in parentheses",
+                    "name": "ellipsis",
+                    "message": "Use ellipsis instead of three dots '...'",
+                    "search": "...",
+                    "replace": "…",
+                    "searchScope": "text"
+                },
+                {
+                    "name": "curly-double-quotes",
+                    "message": "Use straight double quotes instead of curly double quotes",
+                    "searchPattern": "/“|”/g",
+                    "replace": "\""
+                },
+                {
                     "name": "heading-timestamp-parentheses",
+                    "message": "Timestamp not enclosed in parentheses",
                     "replace": "$1 $2 ($3)",
                     "searchPattern": "/^(#+)\\s*(.*)\\s+(\\d+:\\d+)$/gm",
                     "searchScope": "text"
                 },
                 {
-                    "message": "No timestamp at end of heading",
                     "name": "no-missing-heading-timestamp",
+                    "message": "No timestamp at end of heading",
                     "searchPattern": "/^#+(.(?!\\((\\d+:\\d+|n\\/a)\\)))*$/gm", // look for a string in format m:ss or the string "n/a"
+                    "searchScope": "text"
+                },
+                {
+                    "name": "no-youtube-full-links-live",
+                    "message": "Use youtu.be short links instead of full YouTube links",
+                    "replace": "https://youtu.be/$1?",
+                    "searchPattern": "/(?:https?:\\/\\/)?(?:www\\.)?youtube\\.com\\/live/([\\w\\-]+)\\?(si=[\\w\\-]+&?)?/gm",
+                    "searchScope": "text"
+                },
+                {
+                    "name": "no-youtube-full-links-watch-params",
+                    "message": "Use youtu.be short links instead of full YouTube links",
+                    "replace": "https://youtu.be/$1?$2",
+                    "searchPattern": "/(?:https?:\\/\\/)?(?:www\\.)?youtube\\.com\\/watch\\?v=([\\w\\-]+)&([\\w\\-@:%\\+.~#&]*)/gm",
+                    "searchScope": "text"
+                },
+                {
+                    "name": "no-youtube-full-links-watch-no-params",
+                    "message": "Use youtu.be short links instead of full YouTube links",
+                    "replace": "https://youtu.be/$1",
+                    "searchPattern": "/(?:https?:\\/\\/)?(?:www\\.)?youtube\\.com\\/watch\\?v=([\\w\\-]+)(?:[\\w\\-@:%\\+.~#]*)/gm",
                     "searchScope": "text"
                 }
             ]

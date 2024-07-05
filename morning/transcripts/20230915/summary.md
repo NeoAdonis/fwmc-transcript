@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:44)
 
-[Ginko](https://twitter.com/Ginko_02/status/1700227442798195182) found Pero sitting on a bench, just to disappear shortly afterwards. FUWAMOCO don't seem very concerned about that...
+[Ginko](https://twitter.com/Ginko_02/status/1700227442798195182) found Pero sitting on a bench, just to disappear shortly afterwards. FUWAMOCO don't seem very concerned about that…
 
 ## Council 3D Showcase (08:55)
 
@@ -21,7 +21,7 @@ There was a tragedy during their last tidy-up Twitter Space, and FUWAMOCO's agin
 
 ## Misunderstanding (12:51)
 
-Mococo is bewildered that [her drawing of Ina](https://www.youtube.com/live/8w8utBUJwEY?&t=479) was misunderstood as something else, blaming Ruffians for not using their eyes and brain...
+Mococo is bewildered that [her drawing of Ina](https://youtu.be/8w8utBUJwEY?&t=479) was misunderstood as something else, blaming Ruffians for not using their eyes and brain…
 
 ## FWMC and Punctuality (17:39)
 
@@ -33,7 +33,7 @@ Today's doggie is [Lucaan](https://twitter.com/Lucaan0102/status/170202657952470
 
 ## Today I Went On A Walk (25:05)
 
-While taking a walk, [Zhoxn Q](https://twitter.com/ZhoxnQ/status/1701311965409276033) found an interesting pair of bananas that reminded them to some certain twin sisters and [their latest adventures in the jungle](https://youtu.be/ndNZ1ClWZ6g)...
+While taking a walk, [Zhoxn Q](https://twitter.com/ZhoxnQ/status/1701311965409276033) found an interesting pair of bananas that reminded them to some certain twin sisters and [their latest adventures in the jungle](https://youtu.be/ndNZ1ClWZ6g)…
 
 ## Question Of The Day (27:18)
 

@@ -28,40 +28,15 @@ Get-ChildItem -Path $TranscriptPath -Recurse | Where-Object { $_.Name -eq "summa
     $length = (Get-Content $_.FullName | Measure-Object -Character).Characters
     $relativePath = [System.IO.Path]::GetRelativePath((Get-Location), $_.FullName)
     if ($length -gt 4000) {
-        Write-Host "$($relativePath) - File too long ($length characters)."
+        Write-Host "$($relativePath) - File too long ($length characters)"
     }
     $content = Get-Content $_.FullName
     $newContent = ''
-    $contentChanged = $false
     $titles = @()
     $i = 0
     foreach ($line in $content) {
         $i++
-
-        $errorYouTubeLinkUnshortened = $false
-        foreach ($match in [regex]::Matches($line, '\bhttps:\/\/(?:www\.)youtube\.com\/watch\?([^\b]+)\b')) {
-            $errorYouTubeLinkUnshortened = $true
-            $newLink = ''
-            foreach ($param in $match.Groups[1].Value.Split('&')) {
-                switch -regex ($param) {
-                    '^v=' {
-                        $newLink = "https://youtu.be/$($param.Substring(2))" + $newLink
-                        continue
-                    }
-                    '^t=' {
-                        $newLink += "?$param"
-                        continue
-                    }
-                    # Ignore other parameters
-                }
-            }
-            $line = $line.Replace($match.Value, $newLink)
-        }
-        if ($errorYouTubeLinkUnshortened) {
-            $contentChanged = $true
-            Write-Host "$($_.Name):$i YouTube links should be shortened; fixed."
-        }
-
+        # Check for duplicate titles
         if ($line -match '^## ') {
             $line -match '^## (.*) \(' | Out-Null
             $title = $Matches[1]
@@ -78,13 +53,9 @@ Get-ChildItem -Path $TranscriptPath -Recurse | Where-Object { $_.Name -eq "summa
         $newContent += $line + "`n"
     }
 
+    # Check for missing introduction
     if ($titles -notcontains 'Introduction') {
         $newContent = "## Introduction (5:00)`n`n" + $newContent
-        $contentChanged = $true
-        Write-Host "$($relativePath) Missing Introduction; attempted to fix."
-    }
-
-    if ($contentChanged) {
-        # $newContent | Set-Content $_.FullName -NoNewline
+        Write-Host "$($relativePath) Missing introduction"
     }
 }

@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:43)
 
-[ItchyKneeSan](https://twitter.com/IchiNiSan_123_/status/1702514303625257433) found out that Pero is... actually a mother?! Fortunately for FUWAMOCO, it seems that this was just a dream...
+[ItchyKneeSan](https://twitter.com/IchiNiSan_123_/status/1702514303625257433) found out that Pero is… actually a mother?! Fortunately for FUWAMOCO, it seems that this was just a dream…
 
 ## Sad News (09:18)
 
@@ -21,7 +21,7 @@ FUWAMOCO congratulated their fellow holo-canine [Hakui Koyori](https://www.youtu
 
 ## Misunderstanding (14:22)
 
-There was a part during [Mumei's 3D showcase](https://youtu.be/HTgzc9_uAaY) where [Polka gave Mumei a hug](https://youtu.be/HTgzc9_uAaY?t=3354). FUWAMOCO's "That hug......" comment might have given a wrong impression to Ruffians about their feelings, but they just cleared up that the moment caught them by surprise, and they were actually happy for Mumei. No misunderstanding, right?
+There was a part during [Mumei's 3D showcase](https://youtu.be/HTgzc9_uAaY) where [Polka gave Mumei a hug](https://youtu.be/HTgzc9_uAaY?t=3354). FUWAMOCO's "That hug……" comment might have given a wrong impression to Ruffians about their feelings, but they just cleared up that the moment caught them by surprise, and they were actually happy for Mumei. No misunderstanding, right?
 
 ## Confession (17:09)
 
@@ -29,7 +29,7 @@ Fuwawa found an especially fluffy pupper and, out of instinct, she BAU BAU'd bac
 
 ## Today's Challenge (20:05)
 
-Unfortunately for Mococo, another Monday means she has to give natto another go. Three beans this time, no soy sauce. [It went as expected...](https://youtu.be/0mS9yvp-SbM?t=1748)
+Unfortunately for Mococo, another Monday means she has to give natto another go. Three beans this time, no soy sauce. [It went as expected…](https://youtu.be/0mS9yvp-SbM?t=1748)
 
 ## Doggie of the Day (30:38)
 

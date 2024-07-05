@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:55)
 
-[Yumial](https://twitter.com/Yumial_/status/1689299318535294977) found Pero... in The Backrooms again?! FUWAMOCO to the rescue once more! And this time they won't be by themselves: Fubuki-senpai will go with them!
+[Yumial](https://twitter.com/Yumial_/status/1689299318535294977) found Pero… in The Backrooms again?! FUWAMOCO to the rescue once more! And this time they won't be by themselves: Fubuki-senpai will go with them!
 
 ## Good News (09:55)
 
@@ -17,11 +17,11 @@ Papa puppy (who FUWAMOCO have barely seen since debut) saves the day by fixing a
 
 ## Misunderstanding (12:00)
 
-To nobody's surprise, today's misunderstanding was brought to you by [Advent's Gartic Phone collab](https://youtu.be/srTTcF_qgFw), as Mococo didn't mean to [make anyone think about Biboo giving birth to Moai statues](https://www.youtube.com/live/srTTcF_qgFw?si=qm3Jgb94hRftTUim?t=2945).
+To nobody's surprise, today's misunderstanding was brought to you by [Advent's Gartic Phone collab](https://youtu.be/srTTcF_qgFw), as Mococo didn't mean to [make anyone think about Biboo giving birth to Moai statues](https://youtu.be/srTTcF_qgFw??t=2945).
 
 ## Apology (14:34)
 
-Fuwawa apologizes that things got a bit heated up during their Cookie & Cream stream, and [said some things she didn't mean](https://www.youtube.com/live/FDxOHaixvQw?si=zn78XXHw1VXe1A7e&t=15081), like the D-word: dude.
+Fuwawa apologizes that things got a bit heated up during their Cookie & Cream stream, and [said some things she didn't mean](https://youtu.be/FDxOHaixvQw?t=15081), like the D-word: dude.
 
 ## Surprise (17:41)
 

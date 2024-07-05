@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (09:08)
 
-It seems that Pero was nowhere to be found this weekend. Definitely it's not that sleepyhead Fuwawa didn't prepare this section or something...
+It seems that Pero was nowhere to be found this weekend. Definitely it's not that sleepyhead Fuwawa didn't prepare this section or something…
 
 ## Short Video Upload (10:32)
 
@@ -21,7 +21,7 @@ The sisters had a Twitter Space where they cleaned as much fluff and fuzz as the
 
 ## Misunderstanding (13:24)
 
-No misunderstandings today! At least, not one that sleepy FUWAMOCO can think of anyways...
+No misunderstandings today! At least, not one that sleepy FUWAMOCO can think of anyways…
 
 ## Anime NYC (14:48)
 

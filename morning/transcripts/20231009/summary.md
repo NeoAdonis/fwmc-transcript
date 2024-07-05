@@ -25,7 +25,7 @@ FUWAMOCO's fellow member [Nanashi Mumei](https://www.youtube.com/@NanashiMumei) 
 
 ## Misunderstanding (14:26)
 
-Fuwawa swears that, during [last Rock 'n Rawr party](https://youtu.be/9e8Wnx-FRQk?t=3238), she didn't ask Ruffians if they would want some of her 'puppies', but rather 'copies' of her "Bararaika" albums. Oddly enough, Mococo thought that Fuwawa actually said the former because it was [*somehow*](https://youtu.be/QEOdcdct0wM?t=1m03s) related to that song...
+Fuwawa swears that, during [last Rock 'n Rawr party](https://youtu.be/9e8Wnx-FRQk?t=3238), she didn't ask Ruffians if they would want some of her 'puppies', but rather 'copies' of her "Bararaika" albums. Oddly enough, Mococo thought that Fuwawa actually said the former because it was [*somehow*](https://youtu.be/QEOdcdct0wM?t=1m03s) related to that song…
 
 ## Apology (18:06)
 
@@ -37,7 +37,7 @@ Mondays are for ~~suffering~~ conquering new challenges, and Mococo takes again 
 
 ## Doggie of the Day (32:53)
 
-From [NarwhalsCantSimp](https://twitter.com/NarwhalsCant/status/1710779669325193405), today we have the lovely half-siblings Sampson and Sassafras. It reminded FUWAMOCO of a different pair of twin sister puppies...
+From [NarwhalsCantSimp](https://twitter.com/NarwhalsCant/status/1710779669325193405), today we have the lovely half-siblings Sampson and Sassafras. It reminded FUWAMOCO of a different pair of twin sister puppies…
 
 ## Today I Went On a walk (35:20)
 

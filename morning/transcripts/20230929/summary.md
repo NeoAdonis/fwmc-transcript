@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:35)
 
-[Akiwave](https://twitter.com/Rassver/status/1707402515640185020) found Pero relaxing near a pool that looks kind of familiar...
+[Akiwave](https://twitter.com/Rassver/status/1707402515640185020) found Pero relaxing near a pool that looks kind of familiar…
 
 ## Baelz 3D Showcase (08:47)
 

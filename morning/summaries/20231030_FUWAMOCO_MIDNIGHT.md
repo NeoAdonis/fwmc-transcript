@@ -14,7 +14,7 @@ Have you felt that the last 3 months have went by too quickly? FUWAMOCO give us 
 
 ## 🙊 Confession ([15:02](https://youtu.be/f6Xtez79CNs?t=15m02s))
 
-Mococo reveals the real reason why her mouth is shaped like a cat, and it's of course so she can fit small kittens heads easily! Although in reality, it seems that this was just a joke. *Unless...*
+Mococo reveals the real reason why her mouth is shaped like a cat, and it's of course so she can fit small kittens heads easily! Although in reality, it seems that this was just a joke. *Unless…*
 
 ## 🎉 Special Day ([17:57](https://youtu.be/f6Xtez79CNs?t=17m57s))
 

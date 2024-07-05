@@ -29,7 +29,7 @@ Fuwawa shares that she has a Gura shirt that she wears for luck.
 
 ## FWMC Scoop: Clothes for Advent (21:05)
 
-* 21:05: During the Kiara + Ina "Clothes for Advent Collab", Shiori calls in to call Mococo "shameless" for showing some belly on her outfit. Mococo, of course, isn't glad about that comment... Scoop by [@darealhanz](https://twitter.com/darealhanz/status/1741230559702000029).
+* 21:05: During the Kiara + Ina "Clothes for Advent Collab", Shiori calls in to call Mococo "shameless" for showing some belly on her outfit. Mococo, of course, isn't glad about that comment… Scoop by [@darealhanz](https://twitter.com/darealhanz/status/1741230559702000029).
 * (24:12): Usada Pekora wins big on her bet in the Arima Kinen horse race! Scoop by [@darealhanz](https://twitter.com/darealhanz/status/1739090457047523570).
 
 ## Natto Challenge (26:22)

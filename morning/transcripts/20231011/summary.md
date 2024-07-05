@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:39)
 
-[Sky](https://twitter.com/Skylanderspizza/status/1703504111600115713) found Pero while mowing the lawn, but he noticed that the white blob was just in front of the mower a bit too late... Only a pair of broken bones seemed to remain... FUWAMOCO laughs at what they think is a Halloween joke. *But is it?*
+[Sky](https://twitter.com/Skylanderspizza/status/1703504111600115713) found Pero while mowing the lawn, but he noticed that the white blob was just in front of the mower a bit too late… Only a pair of broken bones seemed to remain… FUWAMOCO laughs at what they think is a Halloween joke. *But is it?*
 
 ## Confession (08:52)
 

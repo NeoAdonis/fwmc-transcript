@@ -22,7 +22,7 @@ In what would become a recurrent corner, FUWAMOCO steps up once more to clear up
 * Mococo apologizes (relunctantly) for the strong words she uttered during Typing of the Dead.
 * They clear up that, unlike the picture Crunchyroll put in [their interview about their top 11 anime](https://www.crunchyroll.com/news/interviews/2023/8/3/hololives-FUWAMOCO-list-their-favorite-anime), they only watched the first Kemono Friends series, ~~perplexing a few Ruffians as it seems that a second series doesn't exist at all~~.
 * Most importantly, the reason Fuwawa finds the word [*yobai* (夜這い)](https://en.wikipedia.org/wiki/Yobai) interesting might be more innocent than what people think.
-* They announce there'll be no more misunderstandings from now on. *Surely there won't...*
+* They announce there'll be no more misunderstandings from now on. *Surely there won't…*
 
 ## Confession (19:31)
 

@@ -21,7 +21,7 @@ Marine also revealed her MV for her new original song ["SHINKIRO"](https://youtu
 
 ## Nerissa's Birthday (11:06)
 
-[Nerissa Ravencroft](https://www.youtube.com/@NerissaRavencroft) from hololive English -Advent- is celebrating her birthday on November 21st! Mococo seems adamant about the idea of sharing her tummy with her (or Fuwawa) as a gift...
+[Nerissa Ravencroft](https://www.youtube.com/@NerissaRavencroft) from hololive English -Advent- is celebrating her birthday on November 21st! Mococo seems adamant about the idea of sharing her tummy with her (or Fuwawa) as a gift…
 
 ## Misunderstanding (14:09)
 

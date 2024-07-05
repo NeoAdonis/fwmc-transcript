@@ -13,15 +13,15 @@ FUWAMOCO are excited for the upcoming [Nanashi Mumei's 3D Showcase](https://yout
 
 ## Bad News (08:58)
 
-Alas, the lightbulb that Papa puppy had fixed [a few days before](https://youtu.be/_aK_6Wb05hY?t=9m54s) died again...
+Alas, the lightbulb that Papa puppy had fixed [a few days before](https://youtu.be/_aK_6Wb05hY?t=9m54s) died again…
 
 ## Pero Update (10:47)
 
-FUWAMOCO, with the help from their new fox friend Fubuki, [made it out of The Backrooms](https://youtu.be/WInHbCEsP8o)! To their surprise however, Pero was nowhere to be found there...
+FUWAMOCO, with the help from their new fox friend Fubuki, [made it out of The Backrooms](https://youtu.be/WInHbCEsP8o)! To their surprise however, Pero was nowhere to be found there…
 
 ## Pero Sighting (14:05)
 
-[ittikorn](https://twitter.com/ittikorn_th/status/1702711089652527217) reports that, instead of The Backrooms, Pero was roaming around the surface of Mars. FUWAMOCO wonders if that's a good place for him to be...
+[ittikorn](https://twitter.com/ittikorn_th/status/1702711089652527217) reports that, instead of The Backrooms, Pero was roaming around the surface of Mars. FUWAMOCO wonders if that's a good place for him to be…
 
 ## Misunderstanding (16:28)
 
@@ -33,7 +33,7 @@ FUWAMOCO, with the help from their new fox friend Fubuki, [made it out of The Ba
 
 ## Doggie of the Day (22:25)
 
-[/V40](https://twitter.com/n_motoburger/status/1703795808972484932) shares a picture of a cute pupper having a nap (hopefully not just after FWMC Morning). With no name attached to the picture, FUWAMOCO along with the Ruffians suggest Nemu or Nemusuke. Mococo can't avoid getting a bit sleepy and [snoring](https://youtu.be/RDlng6GMJno?t=1448) with the image...
+[/V40](https://twitter.com/n_motoburger/status/1703795808972484932) shares a picture of a cute pupper having a nap (hopefully not just after FWMC Morning). With no name attached to the picture, FUWAMOCO along with the Ruffians suggest Nemu or Nemusuke. Mococo can't avoid getting a bit sleepy and [snoring](https://youtu.be/RDlng6GMJno?t=1448) with the image…
 
 ## Today I Went On A Walk (25:12)
 

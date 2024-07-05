@@ -29,7 +29,7 @@ FUWAMOCO confessed that they didn't have any candy this Halloween. The sisters w
 
 ## Misunderstandings (17:45)
 
-No misunderstandings to start the month on the right paw! FUWAMOCO aim to have a "No Misunderstandings November"; Ruffians are doubtful about that...
+No misunderstandings to start the month on the right paw! FUWAMOCO aim to have a "No Misunderstandings November"; Ruffians are doubtful about that…
 
 ## Rawr n' Response (19:10)
 

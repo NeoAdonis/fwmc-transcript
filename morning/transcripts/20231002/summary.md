@@ -33,7 +33,7 @@ In line with Tofu Day celebrations, Mococo gives natto another go, again with no
 
 ## Doggie of the Day (32:55)
 
-[Max Power](https://twitter.com/MaxPowe65865644/status/1707163920425705773) shows us a picture of Skye "enjoying" their dog. It seems that their reaction is the same as Mococo after eating natto...
+[Max Power](https://twitter.com/MaxPowe65865644/status/1707163920425705773) shows us a picture of Skye "enjoying" their dog. It seems that their reaction is the same as Mococo after eating natto…
 
 ## Today I Went On A Walk (34:54)
 

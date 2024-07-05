@@ -21,7 +21,7 @@ This week: Halloween party. Sunday, collab + announcement. Send ideas for costum
 
 ## BAU BAU BYOU (14:15)
 
-Some Ruffians have reported having some very specific [nightmares](https://youtu.be/QW_VwFyUBeU). FUWAMOCO hope that those Ruffians get well soon...
+Some Ruffians have reported having some very specific [nightmares](https://youtu.be/QW_VwFyUBeU). FUWAMOCO hope that those Ruffians get well soon…
 
 ## Misunderstanding (16:39)
 
@@ -29,11 +29,11 @@ During [last Suika game stream](https://youtu.be/3PFyuPcp-Fw?t=5321), as part of
 
 ## Twitter Exposure (19:18)
 
-They know what you do: X (formerly Twitter) is snitching to FUWAMOCO on all Ruffians' activities: from what other Ruffians are saying about them and how they interact with each other, to suspicious likes. ...and even some dubious sound bite compilations... The sisters ask Ruffians to keep doing what they're most passionate with on Twitter without caring too much about being watched.
+They know what you do: X (formerly Twitter) is snitching to FUWAMOCO on all Ruffians' activities: from what other Ruffians are saying about them and how they interact with each other, to suspicious likes. …and even some dubious sound bite compilations… The sisters ask Ruffians to keep doing what they're most passionate with on Twitter without caring too much about being watched.
 
 ## Natto Challenge (21:55)
 
-Another attempt a natto without [quite the success that everyone hoped for...](https://youtu.be/qTcTR5q0gTk?t=1602). Adding salt to the wound, [Fuwawa asserts some dominance](https://youtu.be/qTcTR5q0gTk?t=1727) by having a bite of the same natto with no issues whatsoever.
+Another attempt a natto without [quite the success that everyone hoped for…](https://youtu.be/qTcTR5q0gTk?t=1602). Adding salt to the wound, [Fuwawa asserts some dominance](https://youtu.be/qTcTR5q0gTk?t=1727) by having a bite of the same natto with no issues whatsoever.
 
 ## Doggie of the Day (29:33)
 
@@ -41,7 +41,7 @@ Another attempt a natto without [quite the success that everyone hoped for...](h
 
 ## Today I Went On A Walk (32:04)
 
-[SkyCat](https://twitter.com/SkyCat46/status/1712131846144753694) spotted a white splash on a road. For some reason, Ruffians started to get worried about Pero...
+[SkyCat](https://twitter.com/SkyCat46/status/1712131846144753694) spotted a white splash on a road. For some reason, Ruffians started to get worried about Pero…
 
 ## Question Of The Day (33:16)
 

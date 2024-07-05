@@ -21,7 +21,7 @@ None! FUWAMOCO try to start October on the right paw with no misunderstandings.
 
 ## Confession (14:17)
 
-Mococo confesses taking a look at a few Ruffians' Twitter profiles every now and then and judging their likes. [She's watching...](https://twitter.com/FUWAMOCO_en/status/1709506881713328271)
+Mococo confesses taking a look at a few Ruffians' Twitter profiles every now and then and judging their likes. [She's watching…](https://twitter.com/FUWAMOCO_en/status/1709506881713328271)
 
 ## Special Ruffians Strategies (17:52)
 

@@ -38,7 +38,7 @@ As we reach once more the middle of the week, Moco-chan pushes us again to keep 
 
 ## Today I Went On A Walk (24:20)
 
-[katsu](https://twitter.com/katsupantsu/status/1699085182396162443) went on an inspiring walk on the beach. FUWAMOCO look for a way to turn the photo into something a bit more motivational...
+[katsu](https://twitter.com/katsupantsu/status/1699085182396162443) went on an inspiring walk on the beach. FUWAMOCO look for a way to turn the photo into something a bit more motivational…
 
 ## Question Of The Day (26:19)
 
