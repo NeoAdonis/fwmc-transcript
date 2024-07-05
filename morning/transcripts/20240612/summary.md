@@ -1,6 +1,7 @@
 ---
 episode: 98
 date: 2024-06-12
+link: "https://youtu.be/5qFX0nlnHIQ"
 wip: true
 ---
 

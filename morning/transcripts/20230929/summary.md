@@ -1,6 +1,7 @@
 ---
 episode: 26
 date: 2023-09-29
+link: "https://youtu.be/A844xQnE97A"
 wip: true
 ---
 

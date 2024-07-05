@@ -1,6 +1,7 @@
 ---
 episode: 101
 date: 2024-06-19
+link: "https://youtu.be/7P-gFXya5U8"
 wip: true
 ---
 

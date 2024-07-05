@@ -1,6 +1,7 @@
 ---
 episode: 51
 date: 2023-12-01
+link: "https://youtu.be/v6lsxvh3qNs"
 wip: true
 ---
 

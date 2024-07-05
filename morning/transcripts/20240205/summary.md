@@ -1,6 +1,7 @@
 ---
 episode: 77
 date: 2024-02-05
+link: "https://youtu.be/gunjt6dWp_Y"
 wip: true
 ---
 

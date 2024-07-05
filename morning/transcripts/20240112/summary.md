@@ -1,6 +1,7 @@
 ---
 episode: 67
 date: 2024-01-12
+link: "https://youtu.be/JJR8hAEbECA"
 wip: true
 ---
 

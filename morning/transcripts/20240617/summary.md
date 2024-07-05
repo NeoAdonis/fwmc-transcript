@@ -1,6 +1,7 @@
 ---
 episode: 100
 date: 2024-06-17
+link: "https://youtu.be/Ux-LD0uM0YQ"
 wip: true
 ---
 

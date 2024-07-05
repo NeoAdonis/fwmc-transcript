@@ -1,6 +1,7 @@
 ---
 episode: 52
 date: 2023-12-04
+link: "https://youtu.be/Iq0PC1B8HCM"
 wip: true
 ---
 

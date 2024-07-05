@@ -1,6 +1,7 @@
 ---
 episode: 71
 date: 2024-01-22
+link: "https://youtu.be/MR38tWe0r38"
 wip: true
 ---
 

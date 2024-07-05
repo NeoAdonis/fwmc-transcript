@@ -1,6 +1,7 @@
 ---
 episode: 88
 date: 2024-04-22
+link: "https://youtu.be/XK4HLRuDAaU"
 wip: true
 ---
 

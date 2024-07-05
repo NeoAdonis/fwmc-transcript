@@ -1,6 +1,7 @@
 ---
 episode: 6
 date: 2023-08-14
+link: "https://youtu.be/VdRKCMgF-Ug"
 wip: true
 ---
 

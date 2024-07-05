@@ -1,6 +1,7 @@
 ---
 episode: 53
 date: 2023-12-06
+link: "https://youtu.be/c5y7fR88Ngo"
 wip: true
 ---
 

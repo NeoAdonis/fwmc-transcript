@@ -1,6 +1,7 @@
 ---
 episode: 96
 date: 2024-05-10
+link: "https://youtu.be/b7e9XNZe9c0"
 wip: true
 ---
 

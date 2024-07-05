@@ -1,6 +1,7 @@
 ---
 episode: 10
 date: 2023-08-23
+link: "https://youtu.be/Vi46JBb2aY4"
 wip: true
 ---
 

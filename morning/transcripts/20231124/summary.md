@@ -1,6 +1,7 @@
 ---
 episode: 48
 date: 2023-11-24
+link: "https://youtu.be/fRytzbbNoCo"
 wip: true
 ---
 

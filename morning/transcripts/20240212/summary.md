@@ -1,6 +1,7 @@
 ---
 episode: 80
 date: 2024-02-12
+link: "https://youtu.be/m-kuDdF_iLc"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 30
 date: 2023-10-09
+link: "https://youtu.be/4ljeCZkA2mc"
 wip: true
 ---
 

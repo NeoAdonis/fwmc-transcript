@@ -1,6 +1,7 @@
 ---
 episode: 76
 date: 2024-02-02
+link: "https://youtu.be/dc8RmlvhM9k"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 4
 date: 2023-08-09
+link: "https://youtu.be/cS_4XGXUOeg"
 wip: true
 ---
 

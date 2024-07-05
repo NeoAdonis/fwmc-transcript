@@ -1,6 +1,7 @@
 ---
 episode: 41
 date: 2023-11-08
+link: "https://youtu.be/8w37u9FOvpk"
 wip: true
 ---
 

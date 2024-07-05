@@ -1,6 +1,7 @@
 ---
 episode: 54
 date: 2023-12-08
+link: "https://youtu.be/91NURP2SgC8"
 wip: true
 ---
 

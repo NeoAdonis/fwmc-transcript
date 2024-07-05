@@ -1,6 +1,7 @@
 ---
 episode: 73
 date: 2024-01-26
+link: "https://youtu.be/Kg3z19krjxc"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 29
 date: 2023-10-06
+link: "https://youtu.be/Tu6QNPp9d3c"
 wip: true
 ---
 

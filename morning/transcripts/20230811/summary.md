@@ -1,6 +1,7 @@
 ---
 episode: 5
 date: 2023-08-11
+link: "https://youtu.be/v5U0pUY24xs"
 wip: true
 ---
 

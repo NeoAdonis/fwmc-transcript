@@ -1,6 +1,7 @@
 ---
 episode: 20
 date: 2023-09-15
+link: "https://youtu.be/U1pBlHt7jD8"
 wip: true
 ---
 

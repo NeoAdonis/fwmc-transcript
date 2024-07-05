@@ -1,6 +1,7 @@
 ---
 episode: 12
 date: 2023-08-28
+link: "https://youtu.be/wz04zoH_THU"
 wip: true
 ---
 

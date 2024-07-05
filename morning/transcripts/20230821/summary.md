@@ -1,6 +1,7 @@
 ---
 episode: 9
 date: 2023-08-21
+link: "https://youtu.be/4IX46S1AiJk"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 50
 date: 2023-11-29
+link: "https://youtu.be/fPFDx54Y1tI"
 wip: true
 ---
 

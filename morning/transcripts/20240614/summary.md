@@ -1,6 +1,7 @@
 ---
 episode: 99
 date: 2024-06-14
+link: "https://youtu.be/8cOOCpt6HNM"
 wip: true
 ---
 

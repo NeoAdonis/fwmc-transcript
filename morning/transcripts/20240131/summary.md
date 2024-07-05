@@ -1,6 +1,7 @@
 ---
 episode: 75
 date: 2024-01-31
+link: "https://youtu.be/gxZYeXU5Dek"
 wip: true
 ---
 

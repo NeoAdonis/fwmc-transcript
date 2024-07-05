@@ -1,6 +1,7 @@
 ---
 episode: 92
 date: 2024-05-01
+link: "https://youtu.be/1pNasjVO0mk"
 wip: true
 ---
 

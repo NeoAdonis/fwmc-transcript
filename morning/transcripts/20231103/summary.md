@@ -1,6 +1,7 @@
 ---
 episode: 39
 date: 2023-11-03
+link: "https://youtu.be/3Ddj-qG98nU"
 wip: true
 ---
 

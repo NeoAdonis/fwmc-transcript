@@ -1,6 +1,7 @@
 ---
 episode: 42
 date: 2023-11-10
+link: "https://youtu.be/pMVUiczAd74"
 wip: true
 ---
 

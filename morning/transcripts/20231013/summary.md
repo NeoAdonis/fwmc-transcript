@@ -1,6 +1,7 @@
 ---
 episode: "friday the 13th"
 date: 2023-10-13
+link: "https://youtu.be/QW_VwFyUBeU"
 wip: true
 ---
 

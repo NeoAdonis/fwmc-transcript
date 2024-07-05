@@ -1,6 +1,7 @@
 ---
 episode: 43
 date: 2023-11-13
+link: "https://youtu.be/TJbJTq8DD-U"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 25
 date: 2023-09-27
+link: "https://youtu.be/VzT1MBdQsWE"
 wip: true
 ---
 

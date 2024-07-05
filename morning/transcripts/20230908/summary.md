@@ -1,6 +1,7 @@
 ---
 episode: 17
 date: 2023-09-08
+link: "https://youtu.be/HRSKx7qshyQ"
 wip: true
 ---
 

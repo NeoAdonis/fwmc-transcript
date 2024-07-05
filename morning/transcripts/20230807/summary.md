@@ -1,6 +1,7 @@
 ---
 episode: 3
 date: 2023-08-07
+link: "https://youtu.be/Nph4ogfhuBE"
 wip: true
 ---
 

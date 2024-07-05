@@ -1,6 +1,7 @@
 ---
 episode: 11
 date: 2023-08-25
+link: "https://youtu.be/dZwzqM4UOME"
 wip: true
 ---
 

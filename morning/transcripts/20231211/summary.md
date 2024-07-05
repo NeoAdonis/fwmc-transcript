@@ -1,6 +1,7 @@
 ---
 episode: 55
 date: 2023-12-11
+link: "https://youtu.be/j1vp5W3pYpA"
 wip: true
 ---
 

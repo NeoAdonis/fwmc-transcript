@@ -1,6 +1,7 @@
 ---
 episode: 23
 date: 2023-09-22
+link: "https://youtu.be/RDlng6GMJno"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 94
 date: 2024-05-06
+link: "https://youtu.be/5uQ0WNOn6Eg"
 wip: true
 ---
 

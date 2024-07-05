@@ -1,6 +1,7 @@
 ---
 episode: 59
 date: 2023-12-20
+link: "https://youtu.be/7TWeHToWRyU"
 wip: true
 ---
 

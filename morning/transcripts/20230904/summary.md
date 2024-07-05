@@ -1,6 +1,7 @@
 ---
 episode: 15
 date: 2023-09-04
+link: "https://youtu.be/5Qc-PJ_ewGU"
 wip: true
 ---
 

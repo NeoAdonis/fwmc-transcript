@@ -1,6 +1,7 @@
 ---
 episode: "BAU-lentine's day"
 date: 2024-02-14
+link: "https://youtu.be/nMl8WQ1Iuls"
 wip: true
 ---
 

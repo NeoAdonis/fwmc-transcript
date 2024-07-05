@@ -1,6 +1,7 @@
 ---
 episode: 85
 date: 2024-04-15
+link: "https://youtu.be/3vjDKAjuN90"
 wip: true
 ---
 

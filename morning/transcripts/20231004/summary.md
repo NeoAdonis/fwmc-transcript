@@ -1,6 +1,7 @@
 ---
 episode: 28
 date: 2023-10-04
+link: "https://youtu.be/gwjuPSwi2Ho"
 wip: true
 ---
 

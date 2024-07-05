@@ -1,6 +1,7 @@
 ---
 episode: 49
 date: 2023-11-27
+link: "https://youtu.be/6wfIKjnYxwQ"
 wip: true
 ---
 

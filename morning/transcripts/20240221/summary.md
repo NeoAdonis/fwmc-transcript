@@ -1,6 +1,7 @@
 ---
 episode: 83
 date: 2024-02-21
+link: "https://youtu.be/8b9vrCNeXfI"
 wip: true
 ---
 

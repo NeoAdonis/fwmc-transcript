@@ -1,6 +1,7 @@
 ---
 episode: 21
 date: 2023-09-18
+link: "https://youtu.be/ySxu81riSGY"
 wip: true
 ---
 

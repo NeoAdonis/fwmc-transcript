@@ -1,6 +1,7 @@
 ---
 episode: 37
 date: 2023-10-27
+link: "https://youtu.be/JGuhonVvvoE"
 wip: true
 ---
 

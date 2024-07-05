@@ -1,6 +1,7 @@
 ---
 episode: 72
 date: 2024-01-24
+link: "https://youtu.be/fTaj_UzI3rs"
 wip: true
 ---
 

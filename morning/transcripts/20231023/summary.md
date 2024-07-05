@@ -1,6 +1,7 @@
 ---
 episode: 35
 date: 2023-10-23
+link: "https://youtu.be/VV4H3SFTb8k"
 wip: true
 ---
 

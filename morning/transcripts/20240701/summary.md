@@ -1,6 +1,7 @@
 ---
 episode: 104
 date: 2024-07-01
+link: "https://youtu.be/kuuIKlM8624"
 wip: true
 ---
 

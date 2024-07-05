@@ -1,6 +1,7 @@
 ---
 episode: 24
 date: 2023-09-25
+link: "https://youtu.be/0mS9yvp-SbM"
 wip: true
 ---
 

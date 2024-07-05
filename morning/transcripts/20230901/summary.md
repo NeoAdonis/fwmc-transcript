@@ -1,6 +1,7 @@
 ---
 episode: 14
 date: 2023-09-01
+link: "https://youtu.be/ydD-l-36UHk"
 wip: true
 ---
 

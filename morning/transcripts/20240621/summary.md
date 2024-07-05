@@ -1,6 +1,7 @@
 ---
 episode: 102
 date: 2024-06-21
+link: "https://youtu.be/JxkXIozpz80"
 wip: true
 ---
 

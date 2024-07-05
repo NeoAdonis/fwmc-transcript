@@ -1,6 +1,7 @@
 ---
 episode: 16
 date: 2023-09-06
+link: "https://youtu.be/Z3C4pzDIeEo"
 wip: true
 ---
 

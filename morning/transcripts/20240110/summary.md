@@ -1,6 +1,7 @@
 ---
 episode: 66
 date: 2024-01-10
+link: "https://youtu.be/js_Z9bB1Sog"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 38
 date: 2023-11-01
+link: "https://youtu.be/X4Anzun9bKk"
 wip: true
 ---
 

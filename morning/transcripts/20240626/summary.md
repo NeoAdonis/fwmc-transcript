@@ -1,6 +1,7 @@
 ---
 episode: 103
 date: 2024-06-26
+link: "https://youtu.be/XvznTJd0Ok8"
 wip: true
 ---
 

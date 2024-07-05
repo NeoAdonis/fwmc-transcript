@@ -1,6 +1,7 @@
 ---
 episode: 105
 date: 2024-07-05
+link: "https://youtu.be/gzVC7mqG-kY"
 wip: true
 ---
 

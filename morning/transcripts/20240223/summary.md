@@ -1,6 +1,7 @@
 ---
 episode: 84
 date: 2024-02-23
+link: "https://youtu.be/6-XcGLUSYFE"
 wip: true
 ---
 

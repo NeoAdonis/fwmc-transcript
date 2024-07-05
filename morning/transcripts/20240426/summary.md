@@ -1,6 +1,7 @@
 ---
 episode: 90
 date: 2024-04-26
+link: "https://youtu.be/gCYXKgYcFmk"
 wip: true
 ---
 

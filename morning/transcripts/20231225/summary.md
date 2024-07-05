@@ -1,6 +1,7 @@
 ---
 episode: "christmas edition"
 date: 2023-12-25
+link: "https://youtu.be/ddeU_2d6pjA"
 wip: true
 ---
 

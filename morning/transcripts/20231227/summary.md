@@ -1,6 +1,7 @@
 ---
 episode: 61
 date: 2023-12-27
+link: "https://youtu.be/N-x6_8v4nnw"
 wip: true
 ---
 

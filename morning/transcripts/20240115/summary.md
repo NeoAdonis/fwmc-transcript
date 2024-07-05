@@ -1,6 +1,7 @@
 ---
 episode: 68
 date: 2024-01-15
+link: "https://youtu.be/Cedlvs7ur7k"
 wip: true
 ---
 

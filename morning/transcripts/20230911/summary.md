@@ -1,6 +1,7 @@
 ---
 episode: 18
 date: 2023-09-11
+link: "https://youtu.be/_scYvetrFEo"
 wip: true
 ---
 

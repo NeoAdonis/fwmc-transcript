@@ -1,6 +1,7 @@
 ---
 episode: 44
 date: 2023-11-15
+link: "https://youtu.be/SFB8O55DTNw"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 33
 date: 2023-10-18
+link: "https://youtu.be/1C4TFSqt_nk"
 wip: true
 ---
 

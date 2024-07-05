@@ -1,6 +1,7 @@
 ---
 episode: 79
 date: 2024-02-09
+link: "https://youtu.be/8TbaxoOgHhQ"
 wip: true
 ---
 

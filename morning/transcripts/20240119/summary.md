@@ -1,6 +1,7 @@
 ---
 episode: 70
 date: 2024-01-19
+link: "https://youtu.be/E_hsZFDEKPs"
 wip: true
 ---
 

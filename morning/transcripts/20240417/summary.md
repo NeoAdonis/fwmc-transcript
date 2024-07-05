@@ -1,6 +1,7 @@
 ---
 episode: 86
 date: 2024-04-17
+link: "https://youtu.be/ktznm6I4N40"
 wip: true
 ---
 

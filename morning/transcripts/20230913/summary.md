@@ -1,6 +1,7 @@
 ---
 episode: 19
 date: 2023-09-13
+link: "https://youtu.be/8w8utBUJwEY"
 wip: true
 ---
 

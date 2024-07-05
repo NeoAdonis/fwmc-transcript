@@ -1,6 +1,7 @@
 ---
 episode: 40
 date: 2023-11-06
+link: "https://youtu.be/V5v4Na0j9Ro"
 wip: true
 ---
 

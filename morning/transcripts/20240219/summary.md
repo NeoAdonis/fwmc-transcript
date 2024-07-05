@@ -1,6 +1,7 @@
 ---
 episode: 82
 date: 2024-02-19
+link: "https://youtu.be/BW7yzCaqTII"
 wip: true
 ---
 

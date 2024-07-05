@@ -1,6 +1,7 @@
 ---
 episode: 13
 date: 2023-08-30
+link: "https://youtu.be/rD_ZE3DrWlY"
 wip: true
 ---
 

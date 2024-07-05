@@ -1,6 +1,7 @@
 ---
 episode: 93
 date: 2024-05-03
+link: "https://youtu.be/g74KvmrYo0M"
 wip: true
 ---
 

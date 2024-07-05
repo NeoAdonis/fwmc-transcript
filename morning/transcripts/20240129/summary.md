@@ -1,6 +1,7 @@
 ---
 episode: 74
 date: 2024-01-29
+link: "https://youtu.be/rShDkBgyol4"
 wip: true
 ---
 

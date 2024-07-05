@@ -1,6 +1,7 @@
 ---
 episode: 36
 date: 2023-10-25
+link: "https://youtu.be/NRnMHn7bBHI"
 wip: true
 ---
 

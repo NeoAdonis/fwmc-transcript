@@ -1,6 +1,7 @@
 ---
 episode: 47
 date: 2023-11-22
+link: "https://youtu.be/duICxeTSRJo"
 wip: true
 ---
 

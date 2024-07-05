@@ -1,6 +1,7 @@
 ---
 episode: 58
 date: 2023-12-18
+link: "https://youtu.be/VwnzT5CkWds"
 wip: true
 ---
 

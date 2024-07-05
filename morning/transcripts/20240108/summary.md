@@ -1,6 +1,7 @@
 ---
 episode: 65
 date: 2024-01-08
+link: "https://youtu.be/Q8pQaiEmNAQ"
 wip: true
 ---
 

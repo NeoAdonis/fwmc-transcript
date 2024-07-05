@@ -1,6 +1,7 @@
 ---
 episode: 69
 date: 2024-01-17
+link: "https://youtu.be/r-bJNL11ah4"
 wip: true
 ---
 

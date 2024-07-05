@@ -1,6 +1,7 @@
 ---
 episode: 32
 date: 2023-10-16
+link: "https://youtu.be/qTcTR5q0gTk"
 wip: true
 ---
 

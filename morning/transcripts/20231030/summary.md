@@ -1,6 +1,7 @@
 ---
 episode: "FUWAMOCO MIDNIGHT"
 date: 2023-10-30
+link: "https://youtu.be/f6Xtez79CNs"
 wip: true
 ---
 

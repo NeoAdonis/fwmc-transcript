@@ -1,6 +1,7 @@
 ---
 episode: 78
 date: 2024-02-07
+link: "https://youtu.be/Q63GpUbKjjw"
 wip: true
 ---
 

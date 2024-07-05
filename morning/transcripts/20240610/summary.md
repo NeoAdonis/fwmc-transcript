@@ -1,6 +1,7 @@
 ---
 episode: 97
 date: 2024-06-10
+link: "https://youtu.be/oKVNiM-NuJU"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 7
 date: 2023-08-16
+link: "https://youtu.be/sUJVYegLEN4"
 wip: true
 ---
 

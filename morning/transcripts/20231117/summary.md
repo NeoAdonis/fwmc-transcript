@@ -1,6 +1,7 @@
 ---
 episode: 45
 date: 2023-11-17
+link: "https://youtu.be/O8HEew0UC7A"
 wip: true
 ---
 

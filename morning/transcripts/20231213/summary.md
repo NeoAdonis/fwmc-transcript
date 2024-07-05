@@ -1,6 +1,7 @@
 ---
 episode: 56
 date: 2023-12-13
+link: "https://youtu.be/OSGvHVy1wn0"
 wip: true
 ---
 

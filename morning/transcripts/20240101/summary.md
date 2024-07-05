@@ -1,6 +1,7 @@
 ---
 episode: 62
 date: 2024-01-01
+link: "https://youtu.be/YxkjfewtHpE"
 wip: true
 ---
 

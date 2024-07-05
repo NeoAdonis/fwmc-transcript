@@ -1,6 +1,7 @@
 ---
 episode: 81
 date: 2024-02-16
+link: "https://youtu.be/QotQYM6nqGQ"
 wip: true
 ---
 

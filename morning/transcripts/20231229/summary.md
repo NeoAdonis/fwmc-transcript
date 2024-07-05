@@ -1,6 +1,7 @@
 ---
 episode: "#あさモコLIVE"
 date: 2023-12-29
+link: "https://youtu.be/2LBUGKmvebc"
 wip: true
 ---
 

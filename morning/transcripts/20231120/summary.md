@@ -1,6 +1,7 @@
 ---
 episode: 46
 date: 2023-11-20
+link: "https://youtu.be/8mI5oiPOYm4"
 wip: true
 ---
 

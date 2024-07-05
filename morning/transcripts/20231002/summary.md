@@ -1,6 +1,7 @@
 ---
 episode: 27
 date: 2023-10-02
+link: "https://youtu.be/PkKdHUz89jY"
 wip: true
 ---
 

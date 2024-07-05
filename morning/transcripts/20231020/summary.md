@@ -1,6 +1,7 @@
 ---
 episode: 34
 date: 2023-10-20
+link: "https://youtu.be/WttmEXH3VWs"
 wip: true
 ---
 

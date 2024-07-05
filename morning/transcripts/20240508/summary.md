@@ -1,6 +1,7 @@
 ---
 episode: 95
 date: 2024-05-08
+link: "https://youtu.be/jxsLZqPS--M"
 wip: true
 ---
 

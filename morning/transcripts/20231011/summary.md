@@ -1,6 +1,7 @@
 ---
 episode: 31
 date: 2023-10-11
+link: "https://youtu.be/f270ObaKNZw"
 wip: true
 ---
 

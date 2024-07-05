@@ -1,6 +1,7 @@
 ---
 episode: 89
 date: 2024-04-24
+link: "https://youtu.be/_uAalFIWtqM"
 wip: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 episode: 0
 date: 2023-07-31
+link: "https://youtu.be/Qd7ohtlOOkQ"
 wip: true
 ---
 

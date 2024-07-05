@@ -1,6 +1,7 @@
 ---
 episode: 87
 date: 2024-04-19
+link: "https://youtu.be/Ddkp6C2xKnc"
 wip: true
 ---
 

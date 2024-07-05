@@ -1,6 +1,7 @@
 ---
 episode: 60
 date: 2023-12-22
+link: "https://youtu.be/zu3kYXC8GYs"
 wip: true
 ---
 

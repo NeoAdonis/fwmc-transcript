@@ -1,6 +1,7 @@
 ---
 episode: 8
 date: 2023-08-18
+link: "https://youtu.be/-UBdZ4tykfI"
 wip: true
 ---
 
