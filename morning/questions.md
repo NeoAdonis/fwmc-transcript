@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-05 01:10 UTC
+Last updated: 2024-07-05 17:54 UTC
 
 ## Episode #1
 
@@ -425,4 +425,8 @@ Ruffians ask why FUWAMOCO protect smiles instead of stealing them as demons. FUW
 ## Episode #104
 
 FUWAMOCO reminisces about their experiences at amusement arcades with Mama Puppy, emphasizing the fun and special times they had.
+
+## Episode #105
+
+FUWAMOCO would love to see Multi from ToHeart become a figure someday.
 
