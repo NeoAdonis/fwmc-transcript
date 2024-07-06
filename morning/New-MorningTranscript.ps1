@@ -125,7 +125,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
         $Reason = $_.Reason
         $TranscriptContent | Select-String -Pattern $_.Pattern -AllMatches -Context 1 | ForEach-Object {
             $LineNumber = $_.LineNumber
-            Write-Host "$TranscriptFile@$LineNumber - $Reason" -ForegroundColor Yellow
+            Write-Host "${TranscriptFile}:$LineNumber - $Reason" -ForegroundColor Yellow
             Write-Host $_.ToEmphasizedString('')
         }
     }

@@ -4,58 +4,35 @@ param(
 )
 
 
+# Basic metadata checks
 Get-ChildItem -Path $TranscriptPath -Recurse | Where-Object { $_.Name -eq "metadata.json" } | ForEach-Object {
     $Metadata = Get-Content $_.FullName | ConvertFrom-Json
+    $relativePath = [System.IO.Path]::GetRelativePath((Get-Location), $_.FullName)
     if ($Metadata.episode -eq '???') {
-        Write-Host "$($_.FullName) Episode name/number not set" -ForegroundColor Red
+        Write-Host "$($relativePath) - Episode name/number not set" -ForegroundColor Red
     }
     if ($Metadata.episode -match '^\d+$' -and $Metadata.isSpecial) {
-        Write-Host "$($_.FullName) Numbered episode marked as special" -ForegroundColor Red
+        Write-Host "$($relativePath) - Numbered episode marked as special" -ForegroundColor Red
     }
 }
 
+# Check for missing summary files
 Get-ChildItem -Path $TranscriptPath -Directory | ForEach-Object {
     $summaryPath = Join-Path -Path $_.FullName -ChildPath "summary.md"
+    $relativePath = [System.IO.Path]::GetRelativePath((Get-Location), $summaryPath)
     if (-not (Test-Path -Path $summaryPath)) {
-        Write-Host "$($_.FullName) No summary file found" -ForegroundColor Red
+        Write-Host "$($relativePath) - No summary file found" -ForegroundColor Red
     }
 }
 
+# Check summaries formatting
 & npm run lint-summaries
 
-# TODO: Replace with markdownlint custom rules
+# Check for long summaries
 Get-ChildItem -Path $TranscriptPath -Recurse | Where-Object { $_.Name -eq "summary.md" } | ForEach-Object {
     $length = (Get-Content $_.FullName | Measure-Object -Character).Characters
     $relativePath = [System.IO.Path]::GetRelativePath((Get-Location), $_.FullName)
     if ($length -gt 4000) {
-        Write-Host "$($relativePath) - File too long ($length characters)"
-    }
-    $content = Get-Content $_.FullName
-    $newContent = ''
-    $titles = @()
-    $i = 0
-    foreach ($line in $content) {
-        $i++
-        # Check for duplicate titles
-        if ($line -match '^## ') {
-            $line -match '^## (.*) \(' | Out-Null
-            $title = $Matches[1]
-            if ($title) {
-                if ($titles -contains $title) {
-                    Write-Host "$($relativePath):$i Duplicate title: $title"
-                }
-                else {
-                    $titles += $title
-                }
-            }
-        }
-
-        $newContent += $line + "`n"
-    }
-
-    # Check for missing introduction
-    if ($titles -notcontains 'Introduction') {
-        $newContent = "## Introduction (5:00)`n`n" + $newContent
-        Write-Host "$($relativePath) Missing introduction"
+        Write-Host "$($relativePath) - File too long ($length characters)" -ForegroundColor Yellow
     }
 }
