@@ -21,9 +21,9 @@ FUWAMOCO shared that they were down for three days due to food poisoning from a 
 
 FUWAMOCO performed at Anime Expo's hololive booth, singing fan favorites like Crazy Frog. They will also be special guests, alongside YAGOO, at Good Smile Company's panel on Saturday at 2 PM PT, joining his founder Takanori Aki. There will be an online livestream for those who can't attend in person.
 
-## "Zero Talking" Advent Cover (20:49)
+## "Zero Talking" Shiori Cover (20:49)
 
-Shiori and Bijou from Advent will release a cover of "ZERO TALKING" by Harumaki Gohan. FUWAMOCO had a sneak peek and loved it.
+Shiori will release a cover of "Zero Talking" by Harumaki Gohan. FUWAMOCO had a sneak peek and loved it.
 
 ## Homework focus break (22:21)
 
