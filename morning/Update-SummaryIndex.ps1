@@ -93,6 +93,22 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
     $NewSummary | Set-Content -Path (Join-Path -Path $SummariesFolder -ChildPath "$SummaryBaseName.md")
 }
 
-$SummaryIndex | Set-Content -Path "index.md"
-$SummaryTable | Sort-Object -Property 'Date' | Export-Csv -Path "index.csv"
-$QuestionSummary | Set-Content -Path "questions.md"
+$CurrentIndex = Get-Content -Path "index.md"
+$CurrentIndex = $CurrentIndex -replace '^Last updated: .*$', $LastUpdatedString
+if ($CurrentIndex.ToString() -ne $SummaryIndex.ToString()) {
+    $SummaryIndex | Set-Content -Path "index.md"
+    $SummaryTable | Sort-Object -Property 'Date' | Export-Csv -Path "index.csv"
+    Write-Host "Index updated"
+}
+else {
+    Write-Host "No changes to index"
+}
+
+$CurrentQuestions = (Get-Content -Path "questions.md") -replace 'Last updated: .*$', $LastUpdatedString
+if ($CurrentQuestions.ToString() -ne $QuestionSummary.ToString()) {
+    $QuestionSummary | Set-Content -Path "questions.md"
+    Write-Host "Questions summary updated"
+}
+else {
+    Write-Host "No changes to questions summary"
+}
