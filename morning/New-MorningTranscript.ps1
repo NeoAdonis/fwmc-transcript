@@ -142,6 +142,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
         "---",
         "episode: $(if ($Metadata.isSpecial) { $Metadata.episode | ConvertTo-Json } else { $Metadata.episode })",
         "date: $($Metadata.date)",
+        "link: `"https://youtu.be/$($Metadata.id)`"",
         "wip: true",
         "---",
         "",

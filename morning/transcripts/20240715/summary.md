@@ -1,7 +1,7 @@
 ---
 episode: 106
 date: 2024-07-15
-link: https://youtu.be/8cRhc2Oenas
+link: "https://youtu.be/8cRhc2Oenas"
 wip: true
 ---
 
@@ -48,4 +48,3 @@ FUWAMOCO highlighted their upcoming streams, including a cozy super chat reading
 ## Thanks & Extra Special Ruffians (39:35)
 
 FUWAMOCO thanked all Ruffians for their support and gave special shoutouts to some in the chat, ending with warm regards.
-
