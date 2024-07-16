@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-05 23:44 UTC
+Last updated: 2024-07-16 01:23 UTC
 
 ## Episode #1
 
@@ -429,4 +429,8 @@ FUWAMOCO reminisces about their experiences at amusement arcades with Mama Puppy
 ## Episode #105
 
 FUWAMOCO would love to see Multi from ToHeart become a figure someday.
+
+## Episode #106
+
+FUWAMOCO reminisced about lighting issues in their old doghouse, confirming the current one has good lighting and no ladder.
 
