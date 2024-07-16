@@ -433,4 +433,3 @@ FUWAMOCO would love to see Multi from ToHeart become a figure someday.
 ## Episode #106
 
 FUWAMOCO reminisced about lighting issues in their old doghouse, confirming the current one has good lighting and no ladder.
-

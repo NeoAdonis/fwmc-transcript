@@ -106,7 +106,7 @@ else {
 
 $CurrentQuestions = (Get-Content -Path "questions.md") -replace 'Last updated: .*$', $LastUpdatedString
 if (($CurrentQuestions -join "`n") -ne ($QuestionSummary -join "`n")) {
-    $QuestionSummary | Set-Content -Path "questions.md"
+    $QuestionSummary | Set-Content -Path "questions.md" -NoNewline
     Write-Host "Questions summary updated"
 }
 else {
