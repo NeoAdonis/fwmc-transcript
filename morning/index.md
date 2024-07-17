@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-07-16 01:23 UTC
+Last updated: 2024-07-17 17:42 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -116,3 +116,4 @@ Last updated: 2024-07-16 01:23 UTC
 | 2024-07-01 | Mon | [Episode #104](https://youtu.be/kuuIKlM8624) | the ticket battle commences at dinner time ✨ | [Summary](summaries/20240701_104.md) | [Transcript](transcripts/20240701/transcript.vtt) |
 | 2024-07-05 | Fri | [Episode #105](https://youtu.be/gzVC7mqG-kY) | finally feeling better for a crazy fun weekend ✨ | [Summary](summaries/20240705_105.md) | [Transcript](transcripts/20240705/transcript.vtt) |
 | 2024-07-15 | Mon | [Episode #106](https://youtu.be/8cRhc2Oenas) | back to morning together ✨ | [Summary](summaries/20240715_106.md) | [Transcript](transcripts/20240715/transcript.vtt) |
+| 2024-07-17 | Wed | [Episode #107](https://youtu.be/R2FYRYUA9Hk) | comfy mornings are the best ✨ | [Summary](summaries/20240717_107.md) | [Transcript](transcripts/20240717/transcript.vtt) |

@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-16 01:23 UTC
+Last updated: 2024-07-17 17:47 UTC
 
 ## Episode #1
 
@@ -433,3 +433,7 @@ FUWAMOCO would love to see Multi from ToHeart become a figure someday.
 ## Episode #106
 
 FUWAMOCO reminisced about lighting issues in their old doghouse, confirming the current one has good lighting and no ladder.
+
+## Episode #107
+
+How do you communicate to cats? FUWAMOCO suggests calling them with sounds and gentle gestures.

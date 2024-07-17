@@ -7,6 +7,7 @@ Pattern,Emoji
 ^Question,❓
 ^What,❔
 ^Next Stream,📅
+\bDo[cg]tor,🧑‍⚕️
 \bDog(gie|gy)?,🐶
 \b(FWMC)?scoop\b,🔎
 \bRawr n' Response\b,📩
@@ -129,6 +130,7 @@ Pattern,Emoji
 \bradio\b,📻
 \bsad\b,😢
 \bschool,🏫
+\bskat(e|ing),🛹
 \bsecret,🤫
 \bsexy\b,🔥
 \bsigning\b,📝

@@ -15,7 +15,7 @@ $SummaryIndex += @($LastUpdatedString, "")
 $SummaryIndex += "| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |"
 $SummaryIndex += "| ------ | --- | --------- | --- | --------- | ------------ |"
 
-$QuestionSummary = @("# Daily questions", "", $LastUpdatedString, "")
+$QuestionSummary = @("# Daily questions", "", $LastUpdatedString)
 
 foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Directory)) {
     $EmojiList = Get-Content -Path './config/emojis.csv' | ConvertFrom-Csv
@@ -83,7 +83,7 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
         $EpisodeQuestion = $EpisodeQuestion.Trim() -replace '^\[[^\]]+\]\([^\)]+\)', 'A Ruffian'
         # Remove all other links
         $EpisodeQuestion = $EpisodeQuestion -replace '\[([^\]]+)\]\([^\)]+\)', '$1'
-        $QuestionSummary += @("## $EpisodeName", "", ($EpisodeQuestion -replace '\s+', ' ').Trim(), "")
+        $QuestionSummary += @("", "## $EpisodeName", "", ($EpisodeQuestion -replace '\s+', ' ').Trim())
     }
     # Remove all empty lines at the beginning of the summary
     while ($NewSummary[0] -match '^\s*$') {
@@ -106,7 +106,7 @@ else {
 
 $CurrentQuestions = (Get-Content -Path "questions.md") -replace 'Last updated: .*$', $LastUpdatedString
 if (($CurrentQuestions -join "`n") -ne ($QuestionSummary -join "`n")) {
-    $QuestionSummary | Set-Content -Path "questions.md" -NoNewline
+    $QuestionSummary | Set-Content -Path "questions.md"
     Write-Host "Questions summary updated"
 }
 else {
