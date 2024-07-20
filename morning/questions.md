@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-17 17:47 UTC
+Last updated: 2024-07-20 00:25 UTC
 
 ## Episode #1
 
@@ -437,3 +437,7 @@ FUWAMOCO reminisced about lighting issues in their old doghouse, confirming the 
 ## Episode #107
 
 How do you communicate to cats? FUWAMOCO suggests calling them with sounds and gentle gestures.
+
+## Episode #108
+
+FUWAMOCO confirm that working and playing together in hololive has not changed their relationship significantly; they remain very close and handle their time together well.
