@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-20 00:25 UTC
+Last updated: 2024-07-23 04:44 UTC
 
 ## Episode #1
 
@@ -441,3 +441,7 @@ How do you communicate to cats? FUWAMOCO suggests calling them with sounds and g
 ## Episode #108
 
 FUWAMOCO confirm that working and playing together in hololive has not changed their relationship significantly; they remain very close and handle their time together well.
+
+## Episode #109
+
+A Ruffian asks how FUWAMOCO cool down on hot summer days. They enjoy taxis at night, salty lychee drinks, shaved ice, and places with 24-7 air conditioning.
