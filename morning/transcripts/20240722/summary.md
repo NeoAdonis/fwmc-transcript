@@ -11,7 +11,7 @@ FUWAMOCO kick off the 109th episode with their signature "BAU BAU!" and welcome 
 
 ## Pero Sighting (07:12)
 
-Pero was sighted again, prompting FUWAMOCO to speculate on avoiding future encounters.
+Pero was sighted again by a Ruffian who found him in the horizon in place of the Sun, prompting FUWAMOCO to speculate on avoiding future encounters.
 
 ## Icomochi Exhibit (09:11)
 
@@ -19,7 +19,7 @@ Icomochi-mama's solo exhibition, showcasing her works, including FUWAMOCO illust
 
 ## Joypolis Adventure (11:07)
 
-FUWAMOCO, along with Shiori and Nerissa, visit Joypolis in Odaiba. They experience various attractions, including a roller coaster combined with a rhythm game, the Halfpipe Tokyo, and the House of the Dead game. FUWAMOCO mention their screams on the roller coaster and their excitement over beating high scores. They also explore the Fortune Forest for personality-based fortunes and enjoy special Dippin' Dots flavors in collaboration with their senpai. The adventure ends with Fuwawa winning a crane game keychain thanks to Shiori.
+FUWAMOCO, along with Shiori and Nerissa, visited Joypolis in Odaiba while a collaboration with hololive was taking place. They experienced various attractions, including a roller coaster combined with a rhythm game, the Halfpipe Tokyo, and a House of the Dead game. FUWAMOCO mention their screams on the roller coaster and their excitement over beating high scores. They also explored the Fortune Forest for personality-based fortunes and enjoy special Dippin' Dots flavors in collaboration with their senpai. The adventure ends with Fuwawa winning a crane game keychain thanks to Shiori.
 
 ## FWMC Vacation (36:06)
 
