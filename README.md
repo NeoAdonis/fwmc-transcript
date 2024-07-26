@@ -33,7 +33,7 @@ Some of the files here are generated automatically.
 ### Prerequisites
 
 - [PowerShell 7.x](https://learn.microsoft.com/powershell/scripting/overview)
-- [Node.js](https://nodejs.org/)
+- [Bun](https://bun.sh/) or [Node.js](https://nodejs.org/)
 - [Miniconda](https://docs.anaconda.com/free/miniconda/)
 - [WhisperX](https://github.com/m-bain/whisperX)
 - [FFmpeg](https://ffmpeg.org/)
@@ -50,7 +50,7 @@ If using Windows, you can install all these prerequisites with [WinGet](https://
 
 ```
 winget install Microsoft.PowerShell
-winget install OpenJS.NodeJS
+winget install Oven-sh.Bun
 winget install Anaconda.Miniconda3 -v py310_23.5.2-0
 winget install Gyan.FFmpeg
 winget install yt-dlp.yt-dlp

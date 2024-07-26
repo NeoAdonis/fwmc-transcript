@@ -26,7 +26,8 @@ Get-ChildItem -Path $TranscriptPath -Directory | ForEach-Object {
 }
 
 # Check summaries formatting
-& npm run lint-summaries
+$npmCommand = if (Get-Command bun -ErrorAction SilentlyContinue) { "bun" } else { "npm" }
+& $npmCommand run lint-summaries
 
 # Check for long summaries
 Get-ChildItem -Path $TranscriptPath -Recurse | Where-Object { $_.Name -eq "summary.md" } | ForEach-Object {
