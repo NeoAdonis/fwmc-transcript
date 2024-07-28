@@ -120,6 +120,9 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     $TranscriptContent | Set-Content -Path $TranscriptFile.FullName -NoNewline
 
     # Detect and highlight potential mistakes that might actually be correct for manual review
+    if ($TranscriptContent -notmatch 'Hello,? hello,? BAU BAU') {
+        Write-Host "$TranscriptFile - Potential missing introduction" -ForegroundColor Yellow
+    }
     $TranscriptContent = $TranscriptContent -split '\r?\n'
     Get-Content -Path './config/highlights.csv' | ConvertFrom-Csv | ForEach-Object {
         $Reason = $_.Reason
@@ -128,10 +131,6 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
             Write-Host "${TranscriptFile}:$LineNumber - $Reason" -ForegroundColor Yellow
             Write-Host $_.ToEmphasizedString('')
         }
-    }
-
-    if ($TranscriptContent -notmatch 'Hello,? hello,? BAU BAU') {
-        Write-Host "$TranscriptFile - Potential missing introduction" -ForegroundColor Yellow
     }
 
     if (Test-Path -Path (Join-Path -Path $NewOutputFolder -ChildPath "summary.md")) {
