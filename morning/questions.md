@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-23 04:44 UTC
+Last updated: 2024-07-28 09:36 UTC
 
 ## Episode #1
 
@@ -445,3 +445,7 @@ FUWAMOCO confirm that working and playing together in hololive has not changed t
 ## Episode #109
 
 A Ruffian asks how FUWAMOCO cool down on hot summer days. They enjoy taxis at night, salty lychee drinks, shaved ice, and places with 24-7 air conditioning.
+
+## Episode #110
+
+Ruffians asked about Pero. FUWAMOCO explained that despite his nastiness, they still love him and won't stop treating him as he deserves.

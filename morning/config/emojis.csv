@@ -124,6 +124,7 @@ Pattern,Emoji
 \bmusic,🎼
 \bnattou?\b,🫘
 \bnew\b,🆕
+\bonsen,♨️
 \boutfit,👗
 \bpon-de-ring,🍩
 \bpoison,☠️
@@ -145,6 +146,7 @@ Pattern,Emoji
 \btofu\b,⬜
 \bTouhou\b,🌸
 \bupdate,🆕
-\bworld\b,🌍
 \bwaterpark\b,🔫
+\bWonFes\b,🎨
+\bworld\b,🌍
 cakes?\b,🍰
