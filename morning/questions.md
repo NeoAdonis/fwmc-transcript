@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-28 09:36 UTC
+Last updated: 2024-07-30 02:28 UTC
 
 ## Episode #1
 
@@ -449,3 +449,7 @@ A Ruffian asks how FUWAMOCO cool down on hot summer days. They enjoy taxis at ni
 ## Episode #110
 
 Ruffians asked about Pero. FUWAMOCO explained that despite his nastiness, they still love him and won't stop treating him as he deserves.
+
+## Episode #111
+
+Q: What does Shiori say in repetition like FUWAMOCO's "BAU BAU"? A: Shiori often says "there, there." FUWAMOCO joke about her other catchphrases.
