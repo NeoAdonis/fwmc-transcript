@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-30 02:28 UTC
+Last updated: 2024-07-31 21:33 UTC
 
 ## Episode #1
 
@@ -453,3 +453,7 @@ Ruffians asked about Pero. FUWAMOCO explained that despite his nastiness, they s
 ## Episode #111
 
 Q: What does Shiori say in repetition like FUWAMOCO's "BAU BAU"? A: Shiori often says "there, there." FUWAMOCO joke about her other catchphrases.
+
+## Episode #112
+
+A Ruffian asks if FUWAMOCO thinks they've done a good job protecting smiles and if they can do even better. FUWAMOCO believes they've done well and will use their experiences to keep improving in their second year.

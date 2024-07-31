@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-07-30 02:28 UTC
+Last updated: 2024-07-31 21:33 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -121,3 +121,4 @@ Last updated: 2024-07-30 02:28 UTC
 | 2024-07-22 | Mon | [Episode #109](https://youtu.be/s7Kr21O49Vg) | new week new FWMC ✨ | [Summary](summaries/20240722_109.md) | [Transcript](transcripts/20240722/transcript.vtt) |
 | 2024-07-26 | Fri | [Episode #110](https://youtu.be/5273X0y2R_Q) | restful vacation? ✨ | [Summary](summaries/20240726_110.md) | [Transcript](transcripts/20240726/transcript.vtt) |
 | 2024-07-29 | Mon | [Episode #111](https://youtu.be/tstC1pnY44o) | the start of a big week ✨ | [Summary](summaries/20240729_111.md) | [Transcript](transcripts/20240729/transcript.vtt) |
+| 2024-07-31 | Wed | [Episode #112](https://youtu.be/haSK5yd1AoQ) | it's been one year of FWMC MORNING already, huh ✨ | [Summary](summaries/20240731_112.md) | [Transcript](transcripts/20240731/transcript.vtt) |
