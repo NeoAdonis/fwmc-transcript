@@ -14,7 +14,7 @@
 ## 🔊 Available on
 
 - 🎞️ YouTube Video: https://www.youtube.com/watch?v=aThUfmKQgaY
-- Amazon Music:https://music.amazon.com/albums/B0DBTH78BM
+- Amazon Music: https://music.amazon.com/albums/B0DBTH78BM
 - Apple Music: https://music.apple.com/jp/album/1760329765
 - Spotify: https://open.spotify.com/album/529fYPLIcA74c2k2CHyuC0
 - YouTube Music: https://music.youtube.com/playlist?list=OLAK5uy_k0LMyMgS9wHxzWVO1uZ4JEtqoFUEEMu3I
