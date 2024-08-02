@@ -67,6 +67,12 @@ winget install Nvidia.CUDA -v 11.8
 
 The latest supported PyTorch version in whisperX (as of version 3.1.1) is 2.1.2, which also restricts the Python version that can be installed in your Miniconda environment to 3.10. To use a newer PyTorch version, you can update `pyannote.audio`; for instance, upgrading to version 3.3.1 enables installation of PyTorch 2.3.1 and usage of Python 3.12.
 
+## 🎶 FUWAMOCO songs
+
+A compilation of lyrics, fanchants & other content related to their songs.
+
+- Born to be "BAU"DOL☆★ (🎼 [lyrics: `songs/baudol.md`](./songs/baudol.md))
+
 ## ✨ Thanks
 
 - Cover Corp.: For hololive and for giving FUWAMOCO a chance to shine through.
