@@ -22,7 +22,7 @@
 
 ## 🎼 Lyrics
 
-### Japanese (original)
+### Japanese 【日本語】 (original)
 
 ふわふわ もこもこ  
 魔界乃番犬シスターズ☆★  
@@ -119,9 +119,9 @@ kono sekai ni bakutan *“BAU”DOL* desu
 BAUBAU!!  
 
 Fuwawa (Fuwawa!!) Mococo (Mococo!!)  
-FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)  
+FUWA *plus* MOCO wa FUWAMOCO (FUWAMOCO!!)  
 Fuwawa (Fuwawa!!) Mococo (Mococo!!)  
-FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)  
+FUWA *plus* MOCO wa FUWAMOCO (FUWAMOCO!!)  
 BAUBAU~!!  
 
 *Wake up* shitara kimi ni *Morning*  
@@ -146,9 +146,9 @@ kimi no zettai mikata *“BAU”DOL* desu
 BAUBAU!!  
 
 Fuwawa (Fuwawa!!) Mococo (Mococo!!)  
-FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)  
+FUWA *plus* MOCO wa FUWAMOCO (FUWAMOCO!!)  
 Fuwawa (Fuwawa!!) Mococo (Mococo!!)  
-FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)  
+FUWA *plus* MOCO wa FUWAMOCO (FUWAMOCO!!)  
 BAUBAU~!!  
 
 hitori janai yo *We’re together*  
@@ -195,9 +195,9 @@ kono sekai ni bakutan *“BAU”DOL* desu
 BAUBAU!!  
 
 Fuwawa (Fuwawa!!) Mococo (Mococo!!)  
-FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)  
+FUWA *plus* MOCO wa FUWAMOCO (FUWAMOCO!!)  
 Fuwawa (Fuwawa!!) Mococo (Mococo!!)  
-FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)  
+FUWA *plus* MOCO wa FUWAMOCO (FUWAMOCO!!)  
 BAUBAU~!!  
 
 ### English
