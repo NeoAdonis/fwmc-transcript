@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-07-31 21:33 UTC
+Last updated: 2024-08-02 17:50 UTC
 
 ## Episode #1
 
@@ -457,3 +457,7 @@ Q: What does Shiori say in repetition like FUWAMOCO's "BAU BAU"? A: Shiori often
 ## Episode #112
 
 A Ruffian asks if FUWAMOCO thinks they've done a good job protecting smiles and if they can do even better. FUWAMOCO believes they've done well and will use their experiences to keep improving in their second year.
+
+## Episode #113
+
+Mococo likes Mango Jam (the condiment), although she emphasizes the importance of calling her by her correct name.
