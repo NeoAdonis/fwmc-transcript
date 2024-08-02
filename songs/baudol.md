@@ -2,16 +2,18 @@
 
 ## ℹ️ Information
 
+🐾＼＼Let’s shout “BAU”!!／／🐾  
+🩵 FUWAMOCO **1st original song** 🩷
+
 - Vocals: FUWAMOCO
 - Song & Lyrics: PandaBoY ([@PandaBoY_dot](https://x.com/PandaBoY_dot))
 - Art: ささき ([@glass1138](https://x.com/glass1138))
 - Movie & 3D Animation: SAWTOWNE ([@SAWTOWNE](https://x.com/SAWTOWNE))
 - Translation: fts, FUWAMOCO
-- Captions: T-chan
 
 ## 🔊 Available on
 
-- ▶️ YouTube Video: https://www.youtube.com/watch?v=aThUfmKQgaY
+- 🎞️ YouTube Video: https://www.youtube.com/watch?v=aThUfmKQgaY
 - Amazon Music:https://music.amazon.com/albums/B0DBTH78BM
 - Apple Music: https://music.apple.com/jp/album/1760329765
 - Spotify: https://open.spotify.com/album/529fYPLIcA74c2k2CHyuC0
@@ -197,6 +199,103 @@ FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)
 Fuwawa (Fuwawa!!) Mococo (Mococo!!)  
 FUWA + MOCO = FUWAMOCO (FUWAMOCO!!)  
 BAUBAU~!!  
+
+### English
+
+Fuwa Fuwa, Moco Moco  
+We're the twin demon guard dog sisters!  
+"BAU"DOLs taking this world by storm  
+BAU BAU!  
+
+Fuwawa (Fuwawa!) Mococo (Mococo!!)  
+FUWA ＋ MOCO ＝ FUWAMOCO (FUWAMOCO!!)  
+Fuwawa (Fuwawa!) Mococo (Mococo!!)  
+FUWA ＋ MOCO ＝ FUWAMOCO (FUWAMOCO!!)  
+BAU BAU!  
+
+Wake up and we're off to  
+tell you good morning  
+Sniffers on the search for new encounters  
+Doki doki doggy  
+BAU BAU BAU'ing everywhere,  
+left and right!  
+No matter our worries,  
+here comes the future  
+Time to take a step on the path before us  
+Happy Lucky Puppy  
+Let's go on this journey together  
+
+The inside of each donut is  
+Surely, surely  
+Packed with hopes and dreams!  
+
+Fuwa Fuwa (Wa!! Foo!!), Moco Moco (Come on!!)  
+We're the twin demon guard dog sisters!  
+If we're together, it's a RAWRing party  
+More and more (Motto!!), hallo hallo (BAUBAU!!)  
+No second thoughts, let's go my way  
+We'll always be on your side,  
+your "BAU"DOLs  
+BAU BAU!  
+
+Fuwawa (Fuwawa!) Mococo (Mococo!!)  
+FUWA ＋ MOCO ＝ FUWAMOCO (FUWAMOCO!!)  
+Fuwawa (Fuwawa!) Mococo (Mococo!!)  
+FUWA ＋ MOCO ＝ FUWAMOCO (FUWAMOCO!!)  
+BAU BAU!  
+
+You're not alone, we're together  
+Our hearts are as one when we chat  
+Fluffy Fuzzy Yappy  
+Sing together with us  
+
+Beyond each donut is  
+Surely, surely  
+You who is waiting for us!  
+
+Fuwa Fuwa (Wa!! Foo!!), Moco Moco (Come on!!)  
+We're the twin demon guard dog sisters!  
+If we're together, we can't be stopped  
+Our ears (Ear!!) and tails (BunBun!!)  
+They're both off limits  
+We're your "BAU"DOLs,  
+bringing you RAWRing thrills  
+BAU BAU!  
+
+Hey!! RUFFIANS!!  
+Kept you waiting, huh  
+Can I get a heck yeah!  
+Letʼs shout “BAU”!!  
+BAU!! BAU!! BAU!! BAU!!  
+BAU!! BAU!! BAU!! BAU!!  
+Now, hear the howling of my soul!!  
+Are you ready?!  
+
+Moco-chan!  
+I told you to keep things cute!  
+bau bau  
+Okay, let's take it from the bridge...  
+One, two!  
+
+As we make a pledge on our donut rings  
+Furr-ever and ever  
+We're going to protect your smile!  
+
+Fuwa Fuwa (Wa!! Foo!!), Moco Moco (Come on!!)  
+We're the twin demon guard dog sisters!  
+If we're together, it's a RAWRing party  
+More and more (Motto!!), hallo hallo (BAUBAU!!)  
+No second thoughts, let's go my way  
+We'll always be on your side,  
+your "BAU"DOLs  
+"BAU"DOLs taking this world by storm  
+BAU BAU!  
+
+Fuwawa (Fuwawa!) Mococo (Mococo!!)  
+FUWA ＋ MOCO ＝ FUWAMOCO (FUWAMOCO!!)  
+Fuwawa (Fuwawa!) Mococo (Mococo!!)  
+FUWA ＋ MOCO ＝ FUWAMOCO (FUWAMOCO!!)  
+BAU BAU!  
 
 ## 📣 Call-and-response
 
