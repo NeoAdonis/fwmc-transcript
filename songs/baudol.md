@@ -133,7 +133,7 @@ mazu wa me no mae no michi *Step* shite
 *Happy Lucky Puppy*  
 issho ni arukou yo  
 
-Donatsu no ana no naka ni wa  
+doonatsu no ana no naka ni wa  
 kitto kitto  
 yume ga tsumatteru kara  
 
@@ -156,7 +156,7 @@ hitori janai yo *We’re together*
 *Fluffy Fuzzy Yappy*  
 issho ni utaou yo  
 
-Donatsu no ana no mukou e  
+doonatsu no ana no mukou e  
 kitto kitto  
 kimi ga matteru kara  
 
@@ -181,7 +181,7 @@ kono kyoku wa kawaiku utaou ne tte itta desho!!
 bau bau⤵︎⤵︎  
 jaa *B Melo* kara... se-no!  
 
-Donatsu ringu ni chikatte  
+doonatsu ringu ni chikatte  
 zutto zutto  
 egao wo mamoru kara  
 
@@ -306,20 +306,18 @@ BAU BAU!
 
 ### English/Romaji
 
-\[Intro\]  
 fuwa fuwa moko moko  
 makai no banken *SISTERS*☆★  
 kono sekai ni bakutan “BAU”DOL desu  
 **BAUBAU!!**  
 
-\[Refrain\]  
 Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
+FUWA *plus* MOCO wa FUWAMOCO **(FUWAMOCO!!)**  
 Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
+FUWA *plus* MOCO wa FUWAMOCO **(FUWAMOCO!!)**  
 **BAUBAU~!!**  
 
-[Verse 1] ***[clapping on backbeat]***  
+***[clapping on backbeat]***  
 *Wake up* shitara kimi ni *Morning*  
 *New* na deai hana kikase *Search* shite  
 **doki doki Doggy**  
@@ -329,51 +327,45 @@ mazu wa me no mae no michi *Step* shite
 **Happy Lucky Puppy**  
 issho ni arukou yo  
 
-[Pre-chorus 1]  
-donatsu no ana no naka ni wa ***(\[simultaneously\] Oo-oo-oh~! x4)***  
+doo\*natsu no ana no naka ni wa ***\* (Oo-oo-oh~! x4)***  
 kitto kitto  
-yume ga tsumatteru kara ***([from downbeat] Yeah~! Yeah~! Yeah Tiger!)***  
+yume ga tsumatteru kara ***(Yeah~! Yeah~! Yeah Tiger!)***  
 
-[Chorus 1]  
 fuwa fuwa **(Wa!!Foo!!)** moko moko **(Come on!!)**  
-makai no banken SISTERS☆★ ***([from downbeat] Fuwa fuwa fuwa fuwa!)***  
-nihiki ga soroe ba mou oosawagi ***([on the same bar as "oosawagi", from downbeat] Hai~! Hai~! Hai hai hai hai!)***  
+makai no banken SISTERS☆★ ***(Fuwa fuwa fuwa fuwa!)***  
+nihiki ga soroe ba mou \* oosawagi ***\* (Hai~! Hai~! Hai hai hai hai!)***  
 moa moa **(Motto!!)** haro haro **(BAUBAU!!)**  
 mayowazu ni Go my way  
 kimi no zettai mikata “BAU”DOL desu  
 **BAUBAU!!**  
 
-\[Refrain\]  
 Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
+FUWA *plus* MOCO wa FUWAMOCO **(FUWAMOCO!!)**  
 Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
+FUWA *plus* MOCO wa FUWAMOCO **(FUWAMOCO!!)**  
 **BAUBAU~!!**  
 
-[Verse 2] ***[clapping on backbeat]***  
+***[clapping on backbeat]***  
 hitori janai yo *We’re together*  
 *Heart* tsunagatteru kimi to *Chat* shite  
 **Fluffy Fuzzy Yappy**  
 issho ni utaou yo  
 
-[Pre-chorus 2]  
-donatsu no ana no mukou e ***(\[simultaneously\] Oo-oo-oh~! x4)***  
+doo\*natsu no ana no mukou e ***\* (Oo-oo-oh~! x4)***  
 kitto kitto  
-kimi ga matteru kara ***([from downbeat] Yeah~! Yeah~! Yeah Tiger!)***  
+kimi ga matteru kara ***(Yeah~! Yeah~! Yeah Tiger!)***  
 
-[Chorus 2]  
 fuwa fuwa **(Wa!!Foo!!)** moko moko **(Come on!!)**  
-makai no banken SISTERS☆★ ***([from downbeat] Fuwa! Fuwa! Fuwa! Fuwa!)***  
-nihiki ga soroe ba mou tomaranai ***([on the same bar as "tomaranai", from downbeat] Hai~! Hai~! Hai hai hai hai!)***  
+makai no banken SISTERS☆★ ***(Fuwa! Fuwa! Fuwa! Fuwa!)***  
+nihiki ga soroe ba mou \* tomaranai ***\* (Hai~! Hai~! Hai hai hai hai!)***  
 o mimi mo **(Ear!!)** shippo mo **(BunBun!!)**  
 osawari wa genkin ××  
 suriru manten bakudan “BAU”DOL desu  
 **BAUBAU!!**  
 
-\[Bridge\]  
 *Hey!! RUFFIANS!!*  
 *Kept you waiting, huh?*  
-*Can I get a heck yeah!?* ***(Heck yeah!)***  
+*Can I get a heck yeah!?* ***(Yeah!)***  
 *Let’s shout “BAU”!!*  
 **BAU!! BAU!! BAU!! BAU!!**  
 **BAU!! BAU!! BAU!! BAU!!** ***[then keep BAUing in the background]***  
@@ -387,26 +379,24 @@ kono kyoku wa kawaiku utaou ne tte itta desho!!
 bau bau⤵︎⤵︎  
 jaa B-melo kara... se-no!  
 
-[Pre-chorus 3] ***[⚠️ no calls until "Yeah Tiger"]***  
-donatsu ringu ni chikatte  
+***[⚠️ no calls until "Yeah Tiger"]***  
+doonatsu ringu ni chikatte  
 zutto zutto  
-egao wo mamoru kara ***([from downbeat] Yeah~! Yeah~! Yeah Tiger!)***  
+egao wo mamoru kara ***(Yeah~! Yeah~! Yeah Tiger!)***  
 
-[Chorus 3]  
 fuwa fuwa **(Wa!!Foo!!)** moko moko **(Come on!!)**  
-makai no banken SISTERS☆★  ***([from downbeat] Fuwa! Fuwa! Fuwa! Fuwa!)***  
-nihiki ga soroe ba mou oosawagi ***([on the same bar as "oosawagi", from downbeat] Hai~! Hai~! Hai hai hai hai!)***  
+makai no banken SISTERS☆★  ***(Fuwa! Fuwa! Fuwa! Fuwa!)***  
+nihiki ga soroe ba mou \* oosawagi ***\* (Hai~! Hai~! Hai hai hai hai!)***  
 moa moa **(Motto!!)** haro haro **(BAUBAU!!)**  
 mayowazu ni *Go my way*  
 kimi no zettai mikata “BAU”DOL desu  
 kono sekai ni bakutan “BAU”DOL desu  
 **BAUBAU!!**  
 
-\[Refrain\]  
 Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
+FUWA *plus* MOCO wa FUWAMOCO **(FUWAMOCO!!)**  
 Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
+FUWA *plus* MOCO wa FUWAMOCO **(FUWAMOCO!!)**  
 **BAUBAU~!!**  
 
 ### Japanese 【日本語】
@@ -416,20 +406,18 @@ FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**
 - 【かっこ内の部分】：指示
 - 新しい返事については、1拍につき1音節と仮定し、ビートに従ってください。`～`＝長音節（２拍）
 
-【イントロ】  
 ふわふわ もこもこ  
 魔界乃番犬シスターズ☆★   
 この世界に爆誕“BAU”DOLです  
 **BAUBAU!!**  
 
-【リフレイン】  
 フワワ **(Fuwawa!!)** モココ **(Mococo!!)**  
 FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
 フワワ **(Fuwawa!!)** モココ **(Mococo!!)**  
 FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
 **BAUBAU~!!**  
 
-【Aメロ 1】***【裏拍】***  
+***【裏拍】***  
 Wake upしたら君にMorning  
 Newな出会い 鼻利かせSearchして  
 **ドキドキDoggy**  
@@ -439,50 +427,44 @@ Newな出会い 鼻利かせSearchして
 **Happy Lucky Puppy**  
 一緒に 歩こうよ  
 
-【Bメロ 1】  
-ドーナツの穴の中には ***（【同時】オーー！ x4）***  
+ドー\*ナツの穴の中には ***\*（オーー！ x4）***  
 きっと きっと  
-夢が詰まってるから ***（【ダウンビートから】イエー～！イエー～！イエータイガー！）***  
+夢が詰まってるから ***（イエー～！イエー～！イエッタイガー！）***  
 
-【サビ 1】  
 ふわふわ **(Wa!!Foo!!)** もこもこ **(Come on!!)**  
-魔界乃番犬シスターズ☆★ ***（【ダウンビートから\】FuwaFuwaFuwaFuwa!）***  
-2匹が揃えば もう大騒ぎ  ***（【「大騒ぎ」と同じバーで, ダウンビートから】はい～！はい～！はいはいはいはい！）***  
+魔界乃番犬シスターズ☆★ ***（FuwaFuwaFuwaFuwa!）***  
+2匹が揃えば もう \* 大騒ぎ  ***\*（はい～！はい～！はいはいはいはい！）***  
 もあもあ **(Motto!!)** ハロハロ **(BAUBAU!!)**  
 迷わずに Go my way  
 君の絶対味方“BAU”DOLです  
 **BAUBAU!!**  
 
-【リフレイン】  
 フワワ **(Fuwawa!!)** モココ **(Mococo!!)**  
 FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
 フワワ **(Fuwawa!!)** モココ **(Mococo!!)**  
 FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
 **BAUBAU~!!**  
 
-【Aメロ 2】***【裏拍】***  
+***【裏拍】***  
 ひとりじゃないよ Weʼre together  
 Heart繋がってる 君とChatして  
 **Fluffy Fuzzy Yappy**  
 一緒に歌おうよ  
 
-【Bメロ 2】  
-ドーナツの穴の向こうへ ***（【同時】オーー！ x4）***  
+ドー\*ナツの穴の向こうへ ***\*（オーー！ x4）***  
 きっと きっと  
-君が待っているから ***（【ダウンビートから】イエー～！イエー～！イエータイガー！）***  
+君が待っているから ***（【ダウンビートから】イエー～！イエー～！イエッタイガー！）***  
 
-【サビ 2】  
 ふわふわ **(Wa!!Foo!!)** もこもこ **(Come on!!)**  
-魔界乃番犬シスターズ☆★ ***（【ダウンビートから\】FuwaFuwaFuwaFuwa!）***  
-2匹が揃えば もう止まらない ***（【「止まらない」と同じバーで, ダウンビートから】はい～！はい～！はいはいはいはい！）***  
+魔界乃番犬シスターズ☆★ ***（FuwaFuwaFuwaFuwa!）***  
+2匹が揃えば もう \* 止まらない ***\*（はい～！はい～！はいはいはいはい！）***  
 お耳も **(Ear!!)** 尻尾も **(BunBun!!)**  
 お触りは厳禁××  
 スリル満点爆弾“BAU”DOLです  
 **BAUBAU!!**  
 
-【Cメロ】  
-Hey!! RUFFIANS!! ***{は？}***  
-Kept you waiting, huh?  ***{うん！}***  
+Hey!! RUFFIANS!!  
+Kept you waiting, huh?  
 Can I get a heck yeah!?  ***(Yeah!)***  
 Letʼs shout “BAU”!!  
 **BAU!! BAU!! BAU!! BAU!!**  
@@ -497,131 +479,22 @@ Moco-chan!!
 bau bau⤵︎⤵︎  
 じゃあBメロから...せーの!  
 
-【Bメロ 3】***【⚠️「イエータイガー」までコールなし】***  
+***【⚠️「イエッタイガー」までコールなし】***  
 ドーナツリングに誓って  
 ずっと ずっと  
-笑顔を守るから ***（【ダウンビートから】イエー～！イエー～！イエータイガー！）***  
+笑顔を守るから ***（イエー～！イエー～！イエッタイガー！）***  
 
-【サビ 3】  
 ふわふわ **(Wa!!Foo!!)** もこもこ  **(Come on!!)**  
-魔界乃番犬シスターズ☆★  ***([from downbeat] FuwaFuwaFuwaFuwa!)***  
-2匹が揃えば もう大騒ぎ ***（【「大騒ぎ」と同じバーで, ダウンビートから】はい～！はい～！はいはいはいはい！）***  
+魔界乃番犬シスターズ☆★ ***(FuwaFuwaFuwaFuwa!)***  
+2匹が揃えば もう \* 大騒ぎ ***\*（はい～！はい～！はいはいはいはい！）***  
 もあもあ **(Motto!!)** ハロハロ **(BAUBAU!!)**  
 迷わずに Go my way  
 君の絶対味方“BAU”DOLです  
 この世界に爆誕“BAU”DOLです  
 **BAUBAU!!**  
 
-【リフレイン】  
 フワワ **(Fuwawa!!)** モココ **(Mococo!!)**  
 FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
 フワワ **(Fuwawa!!)** モココ **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
-**BAUBAU~!!**  
-
-### English/Romaji with more responses
-
-- Parts in {curly brackets}: Proposals.
-
-\[Intro\]  
-fuwa fuwa ***{half-beat clap x2}*** moko moko ***{half-beat clap x2}***  
-makai no banken *SISTERS*☆★  
-kono sekai ni bakutan “BAU”DOL desu  ***{[from downbeat] Oo-oo-oo-oo-oh!}***  
-**BAUBAU!!**  
-
-\[Refrain\]  
-Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
-Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
-**BAUBAU~!!**  
-
-[Verse 1] ***[clapping on backbeat]***  
-*Wake up* shitara kimi ni *Morning*  
-*New* na deai hana kikase *Search* shite  
-**doki doki Doggy**  
-migi ni hidari **BAU BAU BAU**  
-nayande ite mo kichau *Future* ***{Hai!}***  
-mazu wa me no mae no michi *Step* shite  
-**Happy Lucky Puppy**  
-issho ni arukou yo ***{\[simultaneously\] Se-eh-no-oh! Hai! Let's go!}***  
-
-[Pre-chorus 1]  
-donatsu no ana no naka ni wa ***(\[simultaneously\] Oo-oo-oh~! x4)***  
-kitto kitto  
-yume ga tsumatteru kara ***([from downbeat] Yeah~! Yeah~! Yeah Tiger!)***  
-
-[Chorus 1]  
-fuwa fuwa **(Wa!!Foo!!)** moko moko **(Come on!!)**  
-makai no banken SISTERS☆★ ***([from downbeat] Fuwa fuwa fuwa fuwa!)***  
-nihiki ga soroe ba mou oosawagi ***([on the same bar as "oosawagi", from downbeat] Hai~! Hai~! Hai hai hai hai!)***  
-moa moa **(Motto!!)** haro haro **(BAUBAU!!)**  
-mayowazu ni Go my way ***{[from beat 2] Foo!}***  
-kimi no zettai mikata “BAU”DOL desu  ***{[from beat 2] Always with you!}***  
-**BAUBAU!!**  
-
-\[Refrain\]  
-Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
-Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
-**BAUBAU~!!**  
-
-[Verse 2] ***[clapping on backbeat]***  
-hitori janai yo *We’re together* ***{Yeah!}***  
-*Heart* tsunagatteru kimi to *Chat* shite  
-**Fluffy Fuzzy Yappy**  
-issho ni utaou yo  ***{\[simultaneously\] Se~no~! Hai! Let's sing!}***  
-
-[Pre-chorus 2]  
-donatsu no ana no mukou e ***(\[simultaneously\] Oo-oo-oh~! x4)***  
-kitto kitto  
-kimi ga matteru kara ***([from downbeat] Yeah~! Yeah~! Yeah Tiger!)***  
-
-[Chorus 2]  
-fuwa fuwa **(Wa!!Foo!!)** moko moko **(Come on!!)**  
-makai no banken SISTERS☆★ ***([from downbeat] Fuwa! Fuwa! Fuwa! Fuwa!)***  
-nihiki ga soroe ba mou tomaranai ***([on the same bar as "tomaranai", from downbeat] Hai~! Hai~! Hai hai hai hai!)***  
-o mimi mo **(Ear!!)** shippo mo **(BunBun!!)**  
-osawari wa genkin ×× ***{[after verse, from beat 2] Hands off!}***  
-suriru manten bakudan “BAU”DOL desu ***{[after verse, from beat 2] Let's have a blast!}***  
-**BAUBAU!!**  
-
-\[Bridge\]  
-*Hey!! RUFFIANS!!* ***{Eh?}***  
-*Kept you waiting, huh?* ***{Un!}***  
-*Can I get a heck yeah!?* ***(Heck yeah!)***  
-*Let’s shout “BAU”!!*  
-**BAU!! BAU!! BAU!! BAU!!**  
-**BAU!! BAU!! BAU!! BAU!!** ***[then keep BAUing in the background]***  
-*Now, hear the howling of my soul!!*  
-*Are You Ready!?* ***{Yeah!}***  
-
-[Instrumental break, then interruption] ***\[pause\]***  
-
-Moco-chan!!  
-kono kyoku wa kawaiku utaou ne tte itta desho!!  
-bau bau⤵︎⤵︎  
-jaa B-melo kara... se-no!  
-
-[Pre-chorus 3] ***[⚠️ no calls until "Yeah Tiger"]***  
-donatsu ringu ni chikatte  
-zutto zutto  
-egao wo mamoru kara ***([from downbeat] Yeah~! Yeah~! Yeah Tiger!)***  
-
-[Chorus 3]  
-fuwa fuwa **(Wa!!Foo!!)** moko moko **(Come on!!)**  
-makai no banken SISTERS☆★  ***([from downbeat] Fuwa! Fuwa! Fuwa! Fuwa!)***  
-nihiki ga soroe ba mou oosawagi ***([on the same bar as "oosawagi", from downbeat] Hai~! Hai~! Hai hai hai hai!)***  
-moa moa **(Motto!!)** haro haro **(BAUBAU!!)**  
-mayowazu ni *Go my way*  ***{[simultaneously on backbeat] Hai! Hai! [then from beat 2, on beat] Let's go!}***  
-kimi no zettai mikata “BAU”DOL desu  
-kono sekai ni bakutan “BAU”DOL desu  ***{[after verse, from beat 2] Oo-oh! Se-no!}***  
-**BAUBAU!!**  
-
-\[Refrain\]  
-Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
-FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
-Fuwawa **(Fuwawa!!)** Mococo **(Mococo!!)**  
 FUWA + MOCO = FUWAMOCO **(FUWAMOCO!!)**  
 **BAUBAU~!!**  
