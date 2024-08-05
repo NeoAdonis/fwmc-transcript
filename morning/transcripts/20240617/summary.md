@@ -11,7 +11,7 @@ FUWAMOCO celebrates the 100th episode of FUWAMOCO Morning with all of Advent, in
 
 ## Pero Sighting (08:48)
 
-There's been another Pero sighting, even on the 100th episode! Pero appears, introducing himself as "The Great Peroncino," and celebrates FUWAMOCO Morning's milestone, urging Ruffians to keep spotting him.
+There's been another Pero sighting, even on the 100th episode! Pero appears, introducing himself as "The Great Perroccino," and celebrates FUWAMOCO Morning's milestone, urging Ruffians to keep spotting him.
 
 ## New Emotes (13:02)
 

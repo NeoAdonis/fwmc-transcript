@@ -49,4 +49,4 @@ The question of the day is about creating an "ita bag," a bag decorated with ite
 
 ## Secret Ending (44:11)
 
-The Great Peroncino, aka Pero, makes a surprise appearance at the end of the episode, addressing the viewers directly and expressing his desire to spend more time with them.
+The Great Perroccino, aka Pero, makes a surprise appearance at the end of the episode, addressing the viewers directly and expressing his desire to spend more time with them.

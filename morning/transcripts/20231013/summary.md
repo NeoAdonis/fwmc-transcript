@@ -21,7 +21,7 @@ The famous group of Virtual TV Tubers, hololive Indonesia 3rd Generation, are ha
 
 ## Weather Forecast (11:46)
 
-Brought to you by Mr. Perocini. Even after one year, we are still having serious storm activity. No need for an umbrella; just give yourself to the storm.
+Brought to you by Mr. Perroccino. Even after one year, we are still having serious storm activity. No need for an umbrella; just give yourself to the storm.
 
 ## Reminder To Viewers (13:45)
 

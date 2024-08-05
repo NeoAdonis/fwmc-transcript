@@ -35,7 +35,7 @@ Mococo apologizes for dozing off during a watch-along, explaining it was due to 
 
 ## Hidden Secret (25:25)
 
-FUWAMOCO reveals that their greeting "Hello, hello, BAU BAU!" has an unintended air horn sound, apologizing for any disturbance.
+FUWAMOCO reveals that their greeting "Hallo hallo BAU BAU!" has an unintended air horn sound, apologizing for any disturbance.
 
 ## Mococo Pup Talk (29:23)
 
