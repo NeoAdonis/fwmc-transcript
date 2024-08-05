@@ -6,7 +6,7 @@ Pattern,Replacement
 \bdogg(y|ie) of the day\b,Doggie of the Day
 \bquestion of the day\b,Question of the Day
 \bextra special ruffian,Extra Special Ruffian
-\bborn to be (Bau\s?do|bottle)\b,"Born to be ""BAU""DOL☆★"
+\bBorn to be (Bau\s?do|Bottle|Boundless)\b,"Born to be ""BAU""DOL☆★"
 \b(Na|No|Mo|Lo)riss?ai?\b,Nerissa
 \bNerissa Raven\s?\w+,Nerissa Ravencroft
 \bBijuu?\b,Bijou

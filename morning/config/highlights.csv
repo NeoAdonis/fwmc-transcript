@@ -5,7 +5,9 @@ Pattern,Reason
 \bKoei\b,'Chloe'
 \bHajime\b,'Haachama'
 \bMococo[\s\-]chan,'Moco-chan'
-\benglish promise\b,English -Promise-
+\bPanda Boy\b,'PandaBoY'
+\benglish promise\b,'English -Promise-'
 \benglish advent\b,'English -Advent-'
+\benglish justice\b,'English -Justice-'
 \bhololive council\b,'hololive -Council-'
 \bYago\b,'YAGOO'

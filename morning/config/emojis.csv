@@ -33,6 +33,7 @@ Pattern,Emoji
 \bMumei\b,🪶
 \bAdvent(rix)?\b,⚠️
 \bsleep,😴
+\bShiorin? & (Bijou|Biboo)\b,👁‍🗨🗿
 \b(Bijou|Biboo)\b,🗿
 \bNerissa\b,🎼
 \bShiorin?\b,👁‍🗨
@@ -97,6 +98,7 @@ Pattern,Emoji
 \bcold,🥶
 \bcon(vention)?\b,🎪
 \bdonut,🍩
+\bpon-de-ring,🍩
 \bdream,💤
 \bdrink,🍹
 \bexpo\b,🎪
@@ -128,10 +130,10 @@ Pattern,Emoji
 \bnew\b,🆕
 \bonsen,♨️
 \boutfit,👗
-\bpon-de-ring,🍩
 \bpoison,☠️
 \bpunctual,🕒
 \bradio\b,📻
+\breplace,🔄
 \bsad\b,😢
 \bschool,🏫
 \bskat(e|ing),🛹

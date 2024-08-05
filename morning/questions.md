@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-02 17:50 UTC
+Last updated: 2024-08-05 20:41 UTC
 
 ## Episode #1
 
@@ -461,3 +461,7 @@ A Ruffian asks if FUWAMOCO thinks they've done a good job protecting smiles and 
 ## Episode #113
 
 Mococo likes Mango Jam (the condiment), although she emphasizes the importance of calling her by her correct name.
+
+## Episode #114
+
+FUWAMOCO discusses their feelings on receiving fan-made doujinshi, emphasizing their preference for accurate portrayals.
