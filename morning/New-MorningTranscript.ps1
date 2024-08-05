@@ -120,7 +120,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
     $TranscriptContent | Set-Content -Path $TranscriptFile.FullName -NoNewline
 
     # Detect and highlight potential mistakes that might actually be correct for manual review
-    if ($TranscriptContent -notmatch 'Hello,? hello,? BAU BAU') {
+    if ($TranscriptContent -notmatch 'Hallo hallo BAU BAU') {
         Write-Host "$TranscriptFile - Potential missing introduction" -ForegroundColor Yellow
     }
     $TranscriptContent = $TranscriptContent -split '\r?\n'
