@@ -7,7 +7,7 @@ wip: true
 
 ## Introduction (05:17)
 
-FUWAMOCO welcomes Ruffians to the 114th episode, noting it's a special 3D week. 
+FUWAMOCO welcomes Ruffians to the 114th episode, noting it's a special 3D week.
 
 ## Pero Sighting (07:40)
 
