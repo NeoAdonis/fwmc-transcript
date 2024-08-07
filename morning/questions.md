@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-05 20:41 UTC
+Last updated: 2024-08-07 19:33 UTC
 
 ## Episode #1
 
@@ -465,3 +465,7 @@ Mococo likes Mango Jam (the condiment), although she emphasizes the importance o
 ## Episode #114
 
 FUWAMOCO discusses their feelings on receiving fan-made doujinshi, emphasizing their preference for accurate portrayals.
+
+## Episode #115
+
+Ruffians ask what to get Pero for his birthday. FUWAMOCO suggests clothing or accessories, emphasizing the thought behind the gift.
