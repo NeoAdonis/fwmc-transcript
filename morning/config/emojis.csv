@@ -30,7 +30,7 @@ Pattern,Emoji
 \bGura\b,🔱
 \bIna\b,🐙
 \bKiara\b,🐔
-\bPromise\b,🌟
+\b(Promise|Council(RyS)?)\b,🌟
 \bMumei\b,🪶
 \bAdvent(rix)?\b,⚠️
 \bsleep,😴
@@ -153,5 +153,7 @@ Pattern,Emoji
 \bupdate,🆕
 \bwaterpark\b,🔫
 \bWonFes\b,🎨
+\bwrestling\b,🤼
 \bworld\b,🌍
+\b3D\b,🎥
 cakes?\b,🍰

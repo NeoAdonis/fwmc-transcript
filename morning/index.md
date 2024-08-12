@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-08-07 19:33 UTC
+Last updated: 2024-08-12 17:58 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -125,3 +125,5 @@ Last updated: 2024-08-07 19:33 UTC
 | 2024-08-02 | Fri | [Episode #113](https://youtu.be/hgdJTIuZLTU) | gonna be the top BAUdol ✨ | [Summary](summaries/20240802_113.md) | [Transcript](transcripts/20240802/transcript.vtt) |
 | 2024-08-05 | Mon | [Episode #114](https://youtu.be/fCp204vSBUw) | start of FWMC 3D week ✨ | [Summary](summaries/20240805_114.md) | [Transcript](transcripts/20240805/transcript.vtt) |
 | 2024-08-07 | Wed | [Episode #115](https://youtu.be/wsY1yP7PwKc) | what is holosummer bingo ✨ | [Summary](summaries/20240807_115.md) | [Transcript](transcripts/20240807/transcript.vtt) |
+| 2024-08-09 | Fri | [Episode #116](https://youtu.be/D7-CRqOzp4A) | final FWMC MORNING before 3D us ✨ | [Summary](summaries/20240809_116.md) | [Transcript](transcripts/20240809/transcript.vtt) |
+| 2024-08-12 | Mon | [Episode #117](https://youtu.be/_AO1pLt3pU4) | another celebration of continuing on our fwmc journey ✨ | [Summary](summaries/20240812_117.md) | [Transcript](transcripts/20240812/transcript.vtt) |

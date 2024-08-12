@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-07 19:33 UTC
+Last updated: 2024-08-12 17:58 UTC
 
 ## Episode #1
 
@@ -469,3 +469,11 @@ FUWAMOCO discusses their feelings on receiving fan-made doujinshi, emphasizing t
 ## Episode #115
 
 Ruffians ask what to get Pero for his birthday. FUWAMOCO suggests clothing or accessories, emphasizing the thought behind the gift.
+
+## Episode #116
+
+Ruffians ask if they should take screenshots during the 3D showcase or focus on enjoying the performance. FUWAMOCO encourage Ruffians to do whatever makes them happiest, including commenting, live-tweeting, or making memes.
+
+## Episode #117
+
+A Ruffian asks if FUWAMOCO ever had rebellious phases as twins. They confirm they were always well-behaved, with no significant sibling disputes.

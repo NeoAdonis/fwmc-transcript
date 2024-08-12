@@ -1,5 +1,6 @@
 Pattern,Replacement
 "H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU
+"Aloha BAU BAU",Hallo hallo BAU BAU
 \bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU
 \bruffian,Ruffian
 \bmama\s?p[ao]p(py|i)\b,Mama Puppy
