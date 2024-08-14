@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-08-12 17:58 UTC
+Last updated: 2024-08-14 18:25 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -127,3 +127,4 @@ Last updated: 2024-08-12 17:58 UTC
 | 2024-08-07 | Wed | [Episode #115](https://youtu.be/wsY1yP7PwKc) | what is holosummer bingo ✨ | [Summary](summaries/20240807_115.md) | [Transcript](transcripts/20240807/transcript.vtt) |
 | 2024-08-09 | Fri | [Episode #116](https://youtu.be/D7-CRqOzp4A) | final FWMC MORNING before 3D us ✨ | [Summary](summaries/20240809_116.md) | [Transcript](transcripts/20240809/transcript.vtt) |
 | 2024-08-12 | Mon | [Episode #117](https://youtu.be/_AO1pLt3pU4) | another celebration of continuing on our fwmc journey ✨ | [Summary](summaries/20240812_117.md) | [Transcript](transcripts/20240812/transcript.vtt) |
+| 2024-08-14 | Wed | [Episode #118](https://youtu.be/iItfyykkRdc) | crazy things can happen ✨ | [Summary](summaries/20240814_118.md) | [Transcript](transcripts/20240814/transcript.vtt) |

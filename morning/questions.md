@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-12 17:58 UTC
+Last updated: 2024-08-14 18:25 UTC
 
 ## Episode #1
 
@@ -477,3 +477,7 @@ Ruffians ask if they should take screenshots during the 3D showcase or focus on 
 ## Episode #117
 
 A Ruffian asks if FUWAMOCO ever had rebellious phases as twins. They confirm they were always well-behaved, with no significant sibling disputes.
+
+## Episode #118
+
+A Ruffian asks if FUWAMOCO are more introverted or extroverted. They respond that they are introverted but do their best to appear extroverted, similar to other members of Advent.

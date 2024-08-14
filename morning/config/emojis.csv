@@ -61,6 +61,7 @@ Pattern,Emoji
 \b3D Showcase\b,🎥
 \bComiket\b,📚
 \bDorokei\b,💰
+\bShorts?\b,🎥
 \bVideos?\b,🎥
 \bAd Break\b,📺
 \bCup Noodle,🍜
@@ -97,7 +98,7 @@ Pattern,Emoji
 \bcit(y|ies)\b,🏙️
 \bclaw,🐾
 \bcold,🥶
-\bcon(vention)?\b,🎪
+\b(pop)?con(vention)?\b,🎪
 \bdonut,🍩
 \bpon-de-ring,🍩
 \bdream,💤
@@ -132,6 +133,7 @@ Pattern,Emoji
 \bonsen,♨️
 \boutfit,👗
 \bpoison,☠️
+\bpower,🔋
 \bpunctual,🕒
 \bradio\b,📻
 \breplace,🔄
