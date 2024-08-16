@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-14 18:25 UTC
+Last updated: 2024-08-16 18:02 UTC
 
 ## Episode #1
 
@@ -481,3 +481,7 @@ A Ruffian asks if FUWAMOCO ever had rebellious phases as twins. They confirm the
 ## Episode #118
 
 A Ruffian asks if FUWAMOCO are more introverted or extroverted. They respond that they are introverted but do their best to appear extroverted, similar to other members of Advent.
+
+## Episode #119
+
+Prompted by a Ruffian's question, FUWAMOCO share how their special memories of them going to idol concerts are related to unexpected moments and the excitement during them.

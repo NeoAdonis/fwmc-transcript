@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-08-14 18:25 UTC
+Last updated: 2024-08-16 18:02 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -128,3 +128,4 @@ Last updated: 2024-08-14 18:25 UTC
 | 2024-08-09 | Fri | [Episode #116](https://youtu.be/D7-CRqOzp4A) | final FWMC MORNING before 3D us ✨ | [Summary](summaries/20240809_116.md) | [Transcript](transcripts/20240809/transcript.vtt) |
 | 2024-08-12 | Mon | [Episode #117](https://youtu.be/_AO1pLt3pU4) | another celebration of continuing on our fwmc journey ✨ | [Summary](summaries/20240812_117.md) | [Transcript](transcripts/20240812/transcript.vtt) |
 | 2024-08-14 | Wed | [Episode #118](https://youtu.be/iItfyykkRdc) | crazy things can happen ✨ | [Summary](summaries/20240814_118.md) | [Transcript](transcripts/20240814/transcript.vtt) |
+| 2024-08-16 | Fri | [Episode #119](https://youtu.be/VdhRyg_9tiw) | we have streams today don't we huh (YES MOCO-CHAN YES) ✨ | [Summary](summaries/20240816_119.md) | [Transcript](transcripts/20240816/transcript.vtt) |

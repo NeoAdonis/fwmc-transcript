@@ -15,10 +15,11 @@ Pattern,Emoji
 \bLifetime Showtime\b,🎤
 \bFire N Ice\b,🎤
 \bAnime NYC\b,🗽
+\bBugs with\b,🦗
 \bA-chan\b,👓
 \bSui(sei|[\s\-]chan)\b,☄️
 \bHaachama\b,❤️‍🔥
-\bAqua\b,⚓
+\bAqua(rium)?\b,⚓
 \bChoco,🍫
 \bMarine\b,🏴‍☠️
 \bPolka\b,🎪
@@ -134,6 +135,7 @@ Pattern,Emoji
 \boutfit,👗
 \bpoison,☠️
 \bpower,🔋
+\bprank,🤭
 \bpunctual,🕒
 \bradio\b,📻
 \breplace,🔄

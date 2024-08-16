@@ -24,6 +24,8 @@ Pattern,Replacement
 \bEi-chan\b,A-chan
 \bA[sz]uki[\s\-](san|chan|senpai),AZKi-$1
 \bRoboco-san\b,Robocosan
+\bHachima[\s\-](san|chan|senpai),Haachama-$1
+\bHajime[\s\-]senpai,Haachama-senpai
 \bPecora\b,Pekora
 \bSenjou?\b,Senchou
 \bToa\b,Towa
