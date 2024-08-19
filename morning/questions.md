@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-16 18:02 UTC
+Last updated: 2024-08-19 20:04 UTC
 
 ## Episode #1
 
@@ -485,3 +485,7 @@ A Ruffian asks if FUWAMOCO are more introverted or extroverted. They respond tha
 ## Episode #119
 
 Prompted by a Ruffian's question, FUWAMOCO share how their special memories of them going to idol concerts are related to unexpected moments and the excitement during them.
+
+## Episode #120
+
+A Ruffian asks if FUWAMOCO have a Japanese language certification. They reveal that they have the JLPT N2, though they obtained it a long time ago and haven’t studied for the higher level yet.
