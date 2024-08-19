@@ -28,7 +28,10 @@ if (-not (Get-Command whisperx -ErrorAction SilentlyContinue)) {
     throw 'whisperx not found'
 }
 
-foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav" -Recurse)) {
+foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.*" -Recurse)) {
+    if ($Audio.Extension -in @('.wave', '.wav')) {
+        continue
+    }
     $ParentFolderName = $Audio.Directory.Name
     $NewOutputFolder = Join-Path -Path $OutputFolder -ChildPath $ParentFolderName
 
@@ -91,8 +94,12 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
 
     Write-Host "Transcribing '$Audio'..."
 
+    # Convert audio files for easier transcription
+    ..\common\ConvertTo-Wav.ps1 -Path $Audio.FullName -NewBaseName 'audio_converted'
+    $AudioPath = Join-Path -Path $Audio.Directory.FullName -ChildPath ('audio_converted.wav')
+
     # Transcript with prompt to create a more accurate transcript
-    & whisperx --model $Model --batch_size 16 -o $NewOutputFolder --output_format vtt --verbose False --language en --initial_prompt $TranscriptPrompt $Audio.FullName 
+    & whisperx --model $Model --batch_size 16 -o $NewOutputFolder --output_format vtt --verbose False --language en --initial_prompt $TranscriptPrompt $AudioPath
 
     # Transcript without prompt can be used to fix potential errors when using the prompt
     if ($IncludeNoPrompt.IsPresent) {
@@ -100,8 +107,10 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.wav
         if (-not (Test-Path -Path $NewOutputFolderNoPrompt)) {
             New-Item -Path $NewOutputFolderNoPrompt -ItemType Directory | Out-Null
         }
-        & whisperx --model $Model --batch_size 16 -o $NewOutputFolderNoPrompt --output_format vtt --verbose False --language en $Audio.FullName
+        & whisperx --model $Model --batch_size 16 -o $NewOutputFolderNoPrompt --output_format vtt --verbose False --language en $AudioPath
     }
+
+    Remove-Item -Path $AudioPath
 
     Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $NewBaseName } | ForEach-Object { Remove-Item -Path $_.FullName }
     Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $FileBaseName } | ForEach-Object { Rename-Item -Path $_.FullName -NewName ($NewBaseName + $_.Extension) }

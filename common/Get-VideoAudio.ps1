@@ -32,16 +32,6 @@ Remove-Item -Path (Join-Path -Path $OutputFolder -ChildPath "NA") -Recurse -Forc
 # yt-dlp appends new info to title files if it exists already; keep only the latest info
 Get-ChildItem -Path $OutputFolder -Filter "*.title" -Recurse | ForEach-Object { Get-Content -Path $_.FullName | Select-Object -Last 2 | Set-Content -Path $_.FullName }
 
-# Convert new audio files for easier transcription
-Get-ChildItem -Path $OutputFolder -Filter "audio.*" -Recurse | ForEach-Object {
-    $OutputAudio = $_.FullName
-    $ParentFolder = Split-Path -Path $OutputAudio -Parent
-    $ConvertedAudio = Join-Path $ParentFolder 'audio.wav'
-    if (-not (Test-Path -Path $ConvertedAudio)) {
-        & ffmpeg -v warning -i $OutputAudio -vn -acodec pcm_s16le -ar 44100 -ac 2 $ConvertedAudio
-    }
-}
-
 # If specified, download smallest video with at least 480p resolution for reference
 if ($DownloadVideo) {
     & yt-dlp -q --progress -f 'bv*[height>=480]+ba/b[height>=480]/bv*+ba/b' -S '+size,+br,+res,+fps' -P $OutputFolder -o "%(release_date)s/video.%(ext)s" -N 3 $URL
