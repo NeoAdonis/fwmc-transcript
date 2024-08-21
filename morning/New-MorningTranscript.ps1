@@ -13,6 +13,7 @@ param(
 $TranscriptPrompt = Get-Content -Path $PromptPath -Raw
 
 $FileBaseName = 'audio'
+$ConvertBaseName = 'audio_converted'
 $NewBaseName = 'transcript'
 
 if (-not (Get-Command conda -ErrorAction SilentlyContinue)) {
@@ -95,8 +96,8 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.*" 
     Write-Host "Transcribing '$Audio'..."
 
     # Convert audio files for easier transcription
-    ..\common\ConvertTo-Wav.ps1 -Path $Audio.FullName -NewBaseName 'audio_converted'
-    $AudioPath = Join-Path -Path $Audio.Directory.FullName -ChildPath ('audio_converted.wav')
+    ..\common\ConvertTo-Wav.ps1 -Path $Audio.FullName -NewBaseName $ConvertBaseName
+    $AudioPath = Join-Path -Path $Audio.Directory.FullName -ChildPath ($ConvertBaseName + '.wav')
 
     # Transcript with prompt to create a more accurate transcript
     & whisperx --model $Model --batch_size 16 -o $NewOutputFolder --output_format vtt --verbose False --language en --initial_prompt $TranscriptPrompt $AudioPath
@@ -113,7 +114,7 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.*" 
     Remove-Item -Path $AudioPath
 
     Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $NewBaseName } | ForEach-Object { Remove-Item -Path $_.FullName }
-    Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $FileBaseName } | ForEach-Object { Rename-Item -Path $_.FullName -NewName ($NewBaseName + $_.Extension) }
+    Get-ChildItem -Path $NewOutputFolder -Recurse | Where-Object { $_.BaseName -eq $ConvertBaseName } | ForEach-Object { Rename-Item -Path $_.FullName -NewName ($NewBaseName + $_.Extension) }
 
     $TranscriptFile = Get-ChildItem -Path $NewOutputFolder | Where-Object { $_.BaseName -eq $NewBaseName } | Select-Object -First 1
     if (-not $TranscriptFile) {
