@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-19 20:04 UTC
+Last updated: 2024-08-21 18:46 UTC
 
 ## Episode #1
 
@@ -489,3 +489,7 @@ Prompted by a Ruffian's question, FUWAMOCO share how their special memories of t
 ## Episode #120
 
 A Ruffian asks if FUWAMOCO have a Japanese language certification. They reveal that they have the JLPT N2, though they obtained it a long time ago and haven’t studied for the higher level yet.
+
+## Episode #121
+
+FUWAMOCO advises Ruffians to enjoy "Breaking Dimensions" however they prefer—whether that's sitting comfortably with snacks or dancing around with penlights. The important thing is to have fun.

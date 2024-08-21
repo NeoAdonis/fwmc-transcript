@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-08-19 20:04 UTC
+Last updated: 2024-08-21 18:46 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -130,3 +130,4 @@ Last updated: 2024-08-19 20:04 UTC
 | 2024-08-14 | Wed | [Episode #118](https://youtu.be/iItfyykkRdc) | crazy things can happen ✨ | [Summary](summaries/20240814_118.md) | [Transcript](transcripts/20240814/transcript.vtt) |
 | 2024-08-16 | Fri | [Episode #119](https://youtu.be/VdhRyg_9tiw) | we have streams today don't we huh (YES MOCO-CHAN YES) ✨ | [Summary](summaries/20240816_119.md) | [Transcript](transcripts/20240816/transcript.vtt) |
 | 2024-08-19 | Mon | [Episode #120](https://youtu.be/jIQnQA7ICrk) | will our other stream end before this one starts...? ✨ | [Summary](summaries/20240819_120.md) | [Transcript](transcripts/20240819/transcript.vtt) |
+| 2024-08-21 | Wed | [Episode #121](https://youtu.be/urrqUm6vAHs) | we're making our way to the next dimension ✨ | [Summary](summaries/20240821_121.md) | [Transcript](transcripts/20240821/transcript.vtt) |
