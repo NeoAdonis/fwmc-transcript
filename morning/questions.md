@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-08-21 18:46 UTC
+Last updated: 2024-09-04 19:48 UTC
 
 ## Episode #1
 
@@ -493,3 +493,7 @@ A Ruffian asks if FUWAMOCO have a Japanese language certification. They reveal t
 ## Episode #121
 
 FUWAMOCO advises Ruffians to enjoy "Breaking Dimensions" however they prefer—whether that's sitting comfortably with snacks or dancing around with penlights. The important thing is to have fun.
+
+## Episode #122
+
+The question asks about a playful moment in *Born to be "BAU"DOL*. Mococo reveals she changed a part of the song unexpectedly, leading to some mischievous fun that Ruffians enjoyed.
