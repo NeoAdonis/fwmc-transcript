@@ -25,7 +25,7 @@ No misunderstandings today! At least, not one that sleepy FUWAMOCO can think of 
 
 ## Anime NYC (14:48)
 
-hololive English Advent will make an appearance at Anime NYC! And while their group panel will be on-site only, the members will have other small events there that will be also [broadcasted on VRChat](https://twitter.com/hololive_En/status/1724433458657710129) for free! Get ready for a Rock 'n Party mini, and a FWMC Q&A panel!
+hololive English -Advent- will make an appearance at Anime NYC! And while their group panel will be on-site only, the members will have other small events there that will be also [broadcasted on VRChat](https://twitter.com/hololive_En/status/1724433458657710129) for free! Get ready for a Rock 'n Party mini, and a FWMC Q&A panel!
 
 ## Homework (17:44)
 

@@ -23,7 +23,7 @@ FUWAMOCO made their first post on the hololive Reddit, receiving a warm welcome 
 
 ## holoEN Advent Calendar (14:24)
 
-The hololive English Advent Calendar is back. FUWAMOCO appeared in the first video, singing a song with Kiara, Calli, and Nerissa.
+The hololive English -Advent- Calendar is back. FUWAMOCO appeared in the first video, singing a song with Kiara, Calli, and Nerissa.
 
 ## "Connect the World" Blu-ray (17:02)
 
