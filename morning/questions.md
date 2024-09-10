@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-09-04 19:48 UTC
+Last updated: 2024-09-10 21:47 UTC
 
 ## Episode #1
 
@@ -497,3 +497,11 @@ FUWAMOCO advises Ruffians to enjoy "Breaking Dimensions" however they prefer—w
 ## Episode #122
 
 The question asks about a playful moment in *Born to be "BAU"DOL*. Mococo reveals she changed a part of the song unexpectedly, leading to some mischievous fun that Ruffians enjoyed.
+
+## Episode #123
+
+FUWAMOCO spends their pre-stream time preparing, grabbing tea, and making final adjustments, with no time for naps.
+
+## Episode #124
+
+A Ruffian asked about FUWAMOCO's decision to include a yandere voice pack. FUWAMOCO explains that both tsundere and yandere traits can be fun to explore.

@@ -15,6 +15,7 @@ Pattern,Emoji
 \bLifetime Showtime\b,🎤
 \bFire N Ice\b,🎤
 \bAnime NYC\b,🗽
+\bRound\s?1\b,🎳
 \bBugs with\b,🦗
 \bENigmatic Recollection,📖
 \bA-chan\b,👓
@@ -42,6 +43,7 @@ Pattern,Emoji
 \bShiorin?\b,👁‍🗨
 \bRebellion\b,⚠️
 \bJustice\b,⚖️
+\bRaora\b,🐱
 \bIcomochi\b,🍡
 \bPero\b,💜
 \bRuffian,🐾
@@ -82,6 +84,7 @@ Pattern,Emoji
 \banniversar,🎊
 \bapology\b,🙇
 \bapparel\b,👗
+\basset,🖼️
 \baward,🏅
 \bbad\b,😢
 \bBAU\s?time\b,🕒
@@ -160,6 +163,7 @@ Pattern,Emoji
 \bwaterpark\b,🔫
 \bWonFes\b,🎨
 \bwrestling\b,🤼
+\bwork\b,💪
 \bworld\b,🌍
 \b3D\b,🎥
 cakes?\b,🍰
