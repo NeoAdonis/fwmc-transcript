@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-09-10 21:47 UTC
+Last updated: 2024-09-11 18:03 UTC
 
 ## Episode #1
 
@@ -505,3 +505,7 @@ FUWAMOCO spends their pre-stream time preparing, grabbing tea, and making final 
 ## Episode #124
 
 A Ruffian asked about FUWAMOCO's decision to include a yandere voice pack. FUWAMOCO explains that both tsundere and yandere traits can be fun to explore.
+
+## Episode #125
+
+FUWAMOCO shared their love for fall delicacies, especially sweet potatoes, and recalled a previous episode where a bone got stuck in their throat.

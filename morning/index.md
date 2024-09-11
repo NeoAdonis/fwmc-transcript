@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-09-10 21:47 UTC
+Last updated: 2024-09-11 18:03 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -134,3 +134,4 @@ Last updated: 2024-09-10 21:47 UTC
 | 2024-09-04 | Wed | [Episode #122](https://youtu.be/XTu3GChsEfM) | we're back to mornings together ✨ | [Summary](summaries/20240904_122.md) | [Transcript](transcripts/20240904/transcript.vtt) |
 | 2024-09-06 | Fri | [Episode #123](https://youtu.be/vyjEEi6XFZg) | whirlwind FWMC ✨ | [Summary](summaries/20240906_123.md) | [Transcript](transcripts/20240906/transcript.vtt) |
 | 2024-09-09 | Mon | [Episode #124](https://youtu.be/mhXx1WvFVgQ) | back to our regular (?) wonderful programming ✨ | [Summary](summaries/20240909_124.md) | [Transcript](transcripts/20240909/transcript.vtt) |
+| 2024-09-11 | Wed | [Episode #125](https://youtu.be/uIS9BStaJ_U) | middle of the week oasis ✨ | [Summary](summaries/20240911_125.md) | [Transcript](transcripts/20240911/transcript.vtt) |
