@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-09-11 18:03 UTC
+Last updated: 2024-09-26 21:08 UTC
 
 ## Episode #1
 
@@ -509,3 +509,11 @@ A Ruffian asked about FUWAMOCO's decision to include a yandere voice pack. FUWAM
 ## Episode #125
 
 FUWAMOCO shared their love for fall delicacies, especially sweet potatoes, and recalled a previous episode where a bone got stuck in their throat.
+
+## Episode #126
+
+FUWAMOCO advise Ruffians on becoming stronger by staying determined and believing in themselves, while admitting they have tough times too.
+
+## Episode #127
+
+Ruffians ask FUWAMOCO about their favorite Sanrio characters and Pokémon. Fuwawa’s favorite is Pompompurin, while Mococo likes Little Twin Stars. For Pokémon, Fuwawa chooses Vaporeon, and Mococo picks Alolan Raichu.
