@@ -12,6 +12,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bquestion of the day\b,Question of the Day
 \bextra special ruffian,Extra Special Ruffian
 \bBorn to be (Bau\s?do|Bottle|Boundless|Vodou)\b,"Born to be ""BAU""DOL☆★"
+\bMani-chan,Mane-chan
 \b(Na|No|Mo|Lo)riss?ai?\b,Nerissa
 \bNerissa Raven\s?\w+,Nerissa Ravencroft
 \bBijuu?\b,Bijou
@@ -30,6 +31,8 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bHachima[\s\-](san|chan|senpai),Haachama-$1
 \bHajime[\s\-]senpai,Haachama-senpai
 \bPecora\b,Pekora
+\bMorning[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai
+\bMarisa and Jo-senpai ,Marine-senchou-senpai
 \bSenjou?\b,Senchou
 \bToa\b,Towa
 \bHolox\b,holoX

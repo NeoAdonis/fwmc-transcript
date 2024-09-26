@@ -18,6 +18,7 @@ Pattern,Emoji
 \bRound\s?1\b,🎳
 \bBugs with\b,🦗
 \bENigmatic Recollection,📖
+\b(holo)?GTA\b,🚗
 \bA-chan\b,👓
 \bSui(sei|[\s\-]chan)\b,☄️
 \bHaachama\b,❤️‍🔥
@@ -48,6 +49,7 @@ Pattern,Emoji
 \bPero\b,💜
 \bRuffian,🐾
 \bAnim(e|ations?)\b,📺
+\bholo(Gra| no Graffiti)\b,📺
 \bvoice (pack|drama),📢
 (k|M(illon)?) View,▶️
 \bvacation,🏖️
