@@ -16,6 +16,7 @@ Pattern,Emoji
 \bFire N Ice\b,🎤
 \bAnime NYC\b,🗽
 \bRound\s?1\b,🎳
+\bTiniest Ruffian,🍼
 \bBugs with\b,🦗
 \bENigmatic Recollection,📖
 \b(holo)?GTA\b,🚗
@@ -36,6 +37,7 @@ Pattern,Emoji
 \bKiara\b,🐔
 \b(Promise|Council(RyS)?)\b,🌟
 \bMumei\b,🪶
+\bKronii\b,⏳
 \bAdvent(rix)?\b,⚠️
 \bsleep,😴
 \bShiorin? & (Bijou|Biboo)\b,👁‍🗨🗿

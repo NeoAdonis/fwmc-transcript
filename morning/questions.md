@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-09-26 21:08 UTC
+Last updated: 2024-09-27 20:08 UTC
 
 ## Episode #1
 
@@ -517,3 +517,7 @@ FUWAMOCO advise Ruffians on becoming stronger by staying determined and believin
 ## Episode #127
 
 Ruffians ask FUWAMOCO about their favorite Sanrio characters and Pokémon. Fuwawa’s favorite is Pompompurin, while Mococo likes Little Twin Stars. For Pokémon, Fuwawa chooses Vaporeon, and Mococo picks Alolan Raichu.
+
+## Episode #128
+
+FUWAMOCO enjoys their 3D models, especially moving their ears and tails, and look forward to more 3D activities.
