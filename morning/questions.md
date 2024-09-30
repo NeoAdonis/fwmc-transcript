@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-09-27 20:08 UTC
+Last updated: 2024-09-30 18:22 UTC
 
 ## Episode #1
 
@@ -521,3 +521,7 @@ Ruffians ask FUWAMOCO about their favorite Sanrio characters and Pokémon. Fuwaw
 ## Episode #128
 
 FUWAMOCO enjoys their 3D models, especially moving their ears and tails, and look forward to more 3D activities.
+
+## Episode #129
+
+Asked about their favorite voice pack, FUWAMOCO mention the Yandere pack as an intense challenge and the Mischievous Preschool pack for its unique recording experience.
