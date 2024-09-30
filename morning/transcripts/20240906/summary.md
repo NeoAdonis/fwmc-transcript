@@ -21,9 +21,9 @@ FUWAMOCO announces new voice packs: a back-to-school pack and a special "Four Ty
 
 They thank Ruffians for ordering the anniversary merch and remind them that 3D debut merch is still available for pre-order until September 24.
 
-## hololive ✕ Round 1 (22:02)
+## hololive ✕ Round1 (22:02)
 
-FUWAMOCO announces their participation in the hololive ✕ Round 1 event starting October, taking place in the US and Japan, featuring cute collaboration items.
+FUWAMOCO announces their participation in the hololive ✕ Round1 event starting October, taking place in the US and Japan, featuring cute collaboration items.
 
 ## holoSummer Bingo (25:01)
 
