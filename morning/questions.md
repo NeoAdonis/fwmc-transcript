@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-09-30 18:22 UTC
+Last updated: 2024-10-02 17:51 UTC
 
 ## Episode #1
 
@@ -525,3 +525,7 @@ FUWAMOCO enjoys their 3D models, especially moving their ears and tails, and loo
 ## Episode #129
 
 Asked about their favorite voice pack, FUWAMOCO mention the Yandere pack as an intense challenge and the Mischievous Preschool pack for its unique recording experience.
+
+## Episode #130
+
+A Ruffian asks what FUWAMOCO love about each Advent member. They express admiration for each member's unique traits, emphasizing Shiori’s creativity, Biboo’s gaming skills, and Nerissa’s kindness and musical talent.
