@@ -84,7 +84,7 @@ A Ruffian asks FUWAMOCO-sensei for material recommendations to study Japanese. T
 
 ## Episode #21
 
-Answering Hyorp's question, FUWAMOCO share some good places to go during a trip to Japan (besides Mister Donuts, of course!). Shinjuku Gyoen, Asakusa, Nakamise Street and Skytree/Tokyo Solamachi mall are some of the highlights they shared.
+Answering Hyorp's question, FUWAMOCO share some good places to go during a trip to Japan (besides Mister Donut, of course!). Shinjuku Gyoen, Asakusa, Nakamise Street and Skytree/Tokyo Solamachi mall are some of the highlights they shared.
 
 ## Episode #22
 

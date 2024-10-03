@@ -41,7 +41,7 @@ Today's doggie is [FriendlyPunk](https://twitter.com/FriendlyPunk56/status/17013
 
 ## Question Of The Day (33:20)
 
-Answering [Hyorp](https://twitter.com/CascadeHope/status/1703261733601907046)'s question, FUWAMOCO share some good places to go during a trip to Japan (besides Mister Donuts, of course!). Shinjuku Gyoen, Asakusa, Nakamise Street and Skytree/Tokyo Solamachi mall are some of the highlights they shared.
+Answering [Hyorp](https://twitter.com/CascadeHope/status/1703261733601907046)'s question, FUWAMOCO share some good places to go during a trip to Japan (besides Mister Donut, of course!). Shinjuku Gyoen, Asakusa, Nakamise Street and Skytree/Tokyo Solamachi mall are some of the highlights they shared.
 
 ## Next Stream & Schedule (37:46)
 

@@ -26,10 +26,11 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \b(Kali|Callie)\b,Calli
 \bOli\b,Ollie
 \bEi-chan\b,A-chan
-\bA[sz]uki[\s\-](san|chan|senpai),AZKi-$1
+\bAi?[sz]uki[\s\-](san|chan|senpai),AZKi-$1
 \bRoboco-san\b,Robocosan
 \bHachima[\s\-](san|chan|senpai),Haachama-$1
 \bHajime[\s\-]senpai,Haachama-senpai
+\bAqours[\s\-]senpai,Aqua-senpai
 \bPecora\b,Pekora
 \bMorning[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai
 \bMarisa and Jo-senpai ,Marine-senchou-senpai
@@ -43,10 +44,12 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bKyoto no Kano(jo|[\s\-]chan)\b,Cute na Kanojo
 \bDoggy Kong\b,Donkey Kong
 \bjoy sound\b,Joysound
-\bMr\. Donut,Mister Donut
+\b(Mr\.|Mister) Donuts?\b,Mister Donut
 \byobae\b,yobai
 \b(Por[io]r[ou]|Portal|Porter)[\s\-]oneechan\b,Poruru-oneechan
 \bEnigmatic Recollection,ENigmatic Recollection
+\bEnreko\b,ENreco
+\bNRECCO\b,ENreco
 \bholodoroke\b,holo Dorokei
 \bHololive\b,hololive
 \bHolostars\b,holostars
