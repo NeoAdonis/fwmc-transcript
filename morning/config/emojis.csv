@@ -25,6 +25,7 @@ Pattern,Emoji
 \b(holo)?GTA\b,🚗
 \bA-chan\b,👓
 \bSui(sei|[\s\-]chan)\b,☄️
+\bMiko(chi)?\b,🌸
 \bHaachama\b,❤️‍🔥
 \bAqua(rium)?\b,⚓
 \bChoco,🍫

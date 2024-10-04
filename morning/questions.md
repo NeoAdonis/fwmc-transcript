@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-10-02 17:51 UTC
+Last updated: 2024-10-04 19:30 UTC
 
 ## Episode #1
 
@@ -529,3 +529,7 @@ Asked about their favorite voice pack, FUWAMOCO mention the Yandere pack as an i
 ## Episode #130
 
 A Ruffian asks what FUWAMOCO love about each Advent member. They express admiration for each member's unique traits, emphasizing Shiori’s creativity, Biboo’s gaming skills, and Nerissa’s kindness and musical talent.
+
+## Episode #131
+
+A Ruffian asks why FUWAMOCO don’t swear. They explain it’s just not their nature, preferring fluffy and positive language.
