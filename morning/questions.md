@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-10-04 19:30 UTC
+Last updated: 2024-10-07 23:46 UTC
 
 ## Episode #1
 
@@ -533,3 +533,7 @@ A Ruffian asks what FUWAMOCO love about each Advent member. They express admirat
 ## Episode #131
 
 A Ruffian asks why FUWAMOCO don’t swear. They explain it’s just not their nature, preferring fluffy and positive language.
+
+## Episode #132
+
+A Ruffian asks why FUWAMOCO keeps Pero as a pet despite his nastiness. They explain that Pero is a friend of Papa Puppy and occasionally helps, though he's mostly a pain.
