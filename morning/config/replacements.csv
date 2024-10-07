@@ -15,7 +15,8 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bMani-chan,Mane-chan
 \b(Na|No|Mo|Lo)riss?ai?\b,Nerissa
 \bNerissa Raven\s?\w+,Nerissa Ravencroft
-\bBijuu?\b,Bijou
+\bKou?seki\b,Koseki
+\bBi[jz]uu?\b,Bijou
 \bCrony\b,Kronii
 \bBay[\s\-]senpai,Bae-senpai
 \bCorny-senpai,Kronii-senpai
