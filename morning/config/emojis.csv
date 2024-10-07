@@ -23,6 +23,7 @@ Pattern,Emoji
 \bBugs with\b,🦗
 \bENigmatic Recollection,📖
 \b(holo)?GTA\b,🚗
+\bPatra\b,🦀❤️
 \bA-chan\b,👓
 \bSui(sei|[\s\-]chan)\b,☄️
 \bMiko(chi)?\b,🌸
@@ -90,6 +91,7 @@ Pattern,Emoji
 \badventure,🏞️
 \ballerg(y|ies)\b,🤧
 \banniversar,🎊
+\bannounce,📢
 \bapology\b,🙇
 \bapparel\b,👗
 \basset,🖼️
