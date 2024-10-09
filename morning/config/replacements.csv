@@ -33,7 +33,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bHajime[\s\-]senpai,Haachama-senpai
 \bAqours[\s\-]senpai,Aqua-senpai
 \bPecora\b,Pekora
-\bMorning[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai
+\bM(i|or)ning([\s\-]of)?[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai
 \bMarisa and Jo-senpai ,Marine-senchou-senpai
 \bSenjou?\b,Senchou
 \bToa\b,Towa

@@ -1,6 +1,6 @@
 # Daily questions
 
-Last updated: 2024-10-07 23:46 UTC
+Last updated: 2024-10-09 18:23 UTC
 
 ## Episode #1
 
@@ -537,3 +537,7 @@ A Ruffian asks why FUWAMOCO don’t swear. They explain it’s just not their na
 ## Episode #132
 
 A Ruffian asks why FUWAMOCO keeps Pero as a pet despite his nastiness. They explain that Pero is a friend of Papa Puppy and occasionally helps, though he's mostly a pain.
+
+## Episode #133
+
+A Ruffian asked about anime tropes disappearing over time. FUWAMOCO mentioned missing robots and boy-meets-girl stories, noting a decline in these themes.

@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-10-07 23:46 UTC
+Last updated: 2024-10-09 18:23 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -142,3 +142,4 @@ Last updated: 2024-10-07 23:46 UTC
 | 2024-10-02 | Wed | [Episode #130](https://youtu.be/VvGx3gzD8Ds) | spooky month is upon us ✨ | [Summary](summaries/20241002_130.md) | [Transcript](transcripts/20241002/transcript.vtt) |
 | 2024-10-04 | Fri | [Episode #131](https://youtu.be/AZyQUBh1hsA) | silly puppies can't be stopped ✨ | [Summary](summaries/20241004_131.md) | [Transcript](transcripts/20241004/transcript.vtt) |
 | 2024-10-07 | Mon | [Episode #132](https://youtu.be/s3QVHpFfDlg) | spooky week starting soon ✨ | [Summary](summaries/20241007_132.md) | [Transcript](transcripts/20241007/transcript.vtt) |
+| 2024-10-09 | Wed | [Episode #133](https://youtu.be/MIni0DREu5I) | working hard through the week wednesday ✨ | [Summary](summaries/20241009_133.md) | [Transcript](transcripts/20241009/transcript.vtt) |
