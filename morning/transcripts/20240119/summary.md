@@ -31,7 +31,7 @@ Mococo nears 200 on-stream sneezes, questioning if Ruffians still appreciate her
 
 ## Hajimete no Otsukai (19:47)
 
-FUWAMOCO discusses the heartwarming Japanese TV show "Hajimete no Otsukai," where young children complete errands alone, which made them emotional.
+FUWAMOCO discusses the heartwarming Japanese TV show "Hajimete no Otsukai" (aka ["Old Enough!"](https://www.ntv.co.jp/english/pc/2011/02/old-enough.html)), where young children complete errands alone, which made them emotional.
 
 ## Doggie of the Day (22:55)
 

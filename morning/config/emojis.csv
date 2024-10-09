@@ -3,9 +3,9 @@ Pattern,Emoji
 ^Confession,🙊
 ^Misunderstanding,❌
 ^Today I Went On A Walk,🚶
-^Walk of the Night,🚶
+^Walk of the,🚶
 ^Question,❓
-^What,❔
+^(What|Why),❔
 ^Next Stream,📅
 \bDo[cg]tor,🧑‍⚕️
 \bDog(gie|gy)?,🐶
@@ -17,20 +17,25 @@ Pattern,Emoji
 \bAnime NYC\b,🗽
 \bAFA\b,🏟️
 \bEnd\b,🫡
+\b(Hajimete no Otsukai|Old enough)\b,🛒
 \bHOLOCTOBER\b,🎨
+\bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
 \bRound\s?1\b,🎳
 \bTiniest Ruffian,🍼
 \bBugs with\b,🦗
 \bENigmatic Recollection,📖
+\bGeoGuessr,🌍
 \b(holo)?GTA\b,🚗
 \bPatra\b,🦀❤️
+\bAqua(rium)?\b,⚓
 \bA-chan\b,👓
+\bAZKi\b,⚒️
 \bSui(sei|[\s\-]chan)\b,☄️
 \bMiko(chi)?\b,🌸
 \bHaachama\b,❤️‍🔥
-\bAqua(rium)?\b,⚓
 \bChoco,🍫
 \bMarine\b,🏴‍☠️
+\bWatame\b,🐑
 \bPolka\b,🎪
 \bKoyorin?\b,🧪
 \b(Asa|Kon)Koyo\b,🧪
@@ -64,6 +69,9 @@ Pattern,Emoji
 \b(Val|BAU\-?l)entine\b,💘
 \bHalloween\b,🎃
 \bThanksgiving\b,🦃
+\bdecember\b,☃️
+\bwinter\b,☃️
+\bsnow,☃️
 \b(Christ|X\-)mas\b,🎄
 \bholidays?\b,🎄
 \bSanta\b,🎅
@@ -115,14 +123,15 @@ Pattern,Emoji
 \bcold,🥶
 \b(pop)?con(vention)?\b,🎪
 \bcosplay,👘
-\bdonut,🍩
-\bpon-de-ring,🍩
+\bcount(\b|down|er|ing),🔢
+\b(donut|pon-de-ring),🍩
 \bdream,💤
 \bdrink,🍹
 \bexpo\b,🎪
 \bexposed,📸
-\bfigure,🪆
+\b(figure|nendo|pop up parade\b),🪆
 \b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
+\b(goal|milestone),🏁
 \bgood\b,😊
 \bgrumpy\b,😠
 \bhappy\b,😊
@@ -149,6 +158,7 @@ Pattern,Emoji
 \bnew\b,🆕
 \bonsen,♨️
 \boutfit,👗
+\b(petition|survey),📝
 \bpoison,☠️
 \bpower,🔋
 \bprank,🤭
@@ -157,14 +167,15 @@ Pattern,Emoji
 \breplace,🔄
 \bsad\b,😢
 \bschool,🏫
-\bskat(e|ing),🛹
 \bsecret,🤫
 \bsexy\b,🔥
+\bskat(e|ing),🛹
 \bsigning\b,📝
 \bsneeze,🤧
 \bsore\b,🩹
 \bspecial\b,🎉
 \bspooky\b,👻
+\bstream,📺
 \bSuika\b,🍉
 \bsurprise,🎁
 \btea\b,🍵
@@ -178,3 +189,4 @@ Pattern,Emoji
 \bworld\b,🌍
 \b3D\b,🎥
 cakes?\b,🍰
+\bRIP\b,🪦
