@@ -2,7 +2,7 @@ Pattern,Replacement
 "H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU
 Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bHelpFUWAMOCO\b,helpFWMC
-"\b(H|h)ashtag,? hashtag,? helpFWMC\b",$1ashtag #helpFWMC
+"\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2
 \bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU
 \bruffian,Ruffian
 \bmama\s?p[ao]p(py|i)\b,Mama Puppy
@@ -34,7 +34,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bAqours[\s\-]senpai,Aqua-senpai
 \bPecora\b,Pekora
 \bM(i|or)ning([\s\-]of)?[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai
-\bMarisa and Jo-senpai ,Marine-senchou-senpai
+\bMarisa and Jo-senpai,Marine-senchou-senpai
 \bSenjou?\b,Senchou
 \bToa\b,Towa
 \bHolox\b,holoX
