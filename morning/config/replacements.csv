@@ -17,6 +17,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bNerissa Raven\s?\w+,Nerissa Ravencroft
 \bKou?seki\b,Koseki
 \bBi[jz]uu?\b,Bijou
+\bKura[\s\-]senpai,Gura-senpai
 \bCrony\b,Kronii
 \bBay[\s\-]senpai,Bae-senpai
 \bCorny-senpai,Kronii-senpai
@@ -25,7 +26,11 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bIris[\s\-]senpai,IRyS-senpai
 \b(Ch|K)ia[rn]a\b,Kiara
 \b(Kali|Callie)\b,Calli
+\bAmbergreen\b,Immergreen
+\bNao[nr]a\b,Raora
+\bGigi Marin\b,Gigi Murin
 \bOli\b,Ollie
+\bKai[lr]a[\s\-]senpai,Kaela-senpai
 \bEi-chan\b,A-chan
 \bAi?[sz]uki[\s\-](san|chan|senpai),AZKi-$1
 \bRoboco-san\b,Robocosan
@@ -43,6 +48,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \b[rw]eg[lr]oss\b,ReGLOSS
 \bTwoS[nt]acks\b,2Snacks
 \bKyoto no Kano(jo|[\s\-]chan)\b,Cute na Kanojo
+\bPrison no Maho,Prism no Maho
 \bDoggy Kong\b,Donkey Kong
 \bjoy sound\b,Joysound
 \b(Mr\.|Mister) Donuts?\b,Mister Donut
@@ -63,6 +69,3 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bhololive justice\b,hololive -Justice-
 \bhololive english advent\b,hololive English -Advent-
 \b(Abbott|Alvin)\b,Advent
-\bAmbergreen\b,Immergreen
-\bNao[nr]a\b,Raora
-\bGigi Marin\b,Gigi Murin
