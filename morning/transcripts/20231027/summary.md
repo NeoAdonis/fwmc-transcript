@@ -45,11 +45,11 @@ From [Soma](https://twitter.com/SomaTheTatsoko/status/1717713612721053936) comes
 
 ## Today I Went On A Walk (29:25)
 
-[That One Guitarist](https://twitter.com/that1guitar343/status/1717573660444139564) went on a walk in the nature preserve across the street, which looks beautiful at this time of the year.
+[A Ruffian](https://twitter.com/that1guitar343/status/1717573660444139564) went on a walk in the nature preserve across the street, which looks beautiful at this time of the year.
 
 ## Question of the Day (31:05)
 
-[deedee](https://twitter.com/dedendp1/status/1717287823634505744) asks if FUWAMOCO have any food that teleports them back to their childhood when they eat it.
+[A Ruffian](https://twitter.com/dedendp1/status/1717287823634505744) asks if FUWAMOCO have any food that teleports them back to their childhood when they eat it.
 
 ## Next Stream & Schedule (35:11)
 

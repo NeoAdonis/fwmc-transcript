@@ -41,11 +41,11 @@ From the other side (of the screen) comes spooky Moco-chan, encouraging you to b
 
 ## Doggie of the Day (29:14)
 
-[chumbeque](https://twitter.com/chumbeque_3/status/1716538766574190864) shared a photo of Canela cosplaying. She's no longer with us but you can see that she was a good girl with a great sense of fashion.
+[A Ruffian](https://twitter.com/chumbeque_3/status/1716538766574190864) shared a photo of Canela cosplaying. She's no longer with us but you can see that she was a good girl with a great sense of fashion.
 
 ## Today I Went On A Walk (31:17)
 
-[Joel Hein](https://twitter.com/OtakuJoe1/status/1702083880625557583) shares some pictures of their walk back home after work.
+[A Ruffian](https://twitter.com/OtakuJoe1/status/1702083880625557583) shares some pictures of their walk back home after work.
 
 ## Question Of The Day (32:20)
 

@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:52)
 
-[Kei-ki](https://twitter.com/kei_ki/status/1694435692896469225) founds Pero exploring Teotihuacan.
+[A Ruffian](https://twitter.com/kei_ki/status/1694435692896469225) founds Pero exploring Teotihuacan.
 
 ## Celebration: 600K Ruffians (09:13)
 
@@ -37,15 +37,15 @@ Another attempt a natto without [quite the success that everyone hoped for…](h
 
 ## Doggie of the Day (29:33)
 
-[Don (2theMAX) Miller](https://twitter.com/2theMAXStairFax/status/1712834437103116612)'s Chica. They like to make noises, just like Mococo!
+[A Ruffian](https://twitter.com/2theMAXStairFax/status/1712834437103116612)'s Chica. They like to make noises, just like Mococo!
 
 ## Today I Went On A Walk (32:04)
 
-[SkyCat](https://twitter.com/SkyCat46/status/1712131846144753694) spotted a white splash on a road. For some reason, Ruffians started to get worried about Pero…
+[A Ruffian](https://twitter.com/SkyCat46/status/1712131846144753694) spotted a white splash on a road. For some reason, Ruffians started to get worried about Pero…
 
 ## Question Of The Day (33:16)
 
-[Pannysama](https://twitter.com/Pannysama/status/1713500769536946180) wonders if FUWAMOCO's content would have been different if the girls would had gotten into the Japanese branch. The twins don't expect there would have been any difference in terms of content, but perhaps a bit in terms of stiffness. For instance, Mococo thinks that it would have been harder to make commentary in Japanese while playing at the same time.
+[A Ruffian](https://twitter.com/Pannysama/status/1713500769536946180) wonders if FUWAMOCO's content would have been different if the girls would had gotten into the Japanese branch. The twins don't expect there would have been any difference in terms of content, but perhaps a bit in terms of stiffness. For instance, Mococo thinks that it would have been harder to make commentary in Japanese while playing at the same time.
 
 ## Next Stream & Schedule (35:55)
 

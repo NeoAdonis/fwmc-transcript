@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (07:07)
 
-[Claxle](https://twitter.com/Claxle/status/1702478051966087468) found Pero while tidying up their DVDs.
+[A Ruffian](https://twitter.com/Claxle/status/1702478051966087468) found Pero while tidying up their DVDs.
 
 ## CouncilRyS 3D Collab (09:18)
 
@@ -33,15 +33,15 @@ It seems that one Suika Game stream wasn't enough for the twins, so they'll be h
 
 ## Doggie of the Day (21:57)
 
-[Loudas](https://twitter.com/loudas1999/status/1709884778588037384) shows Ruffians a pic of their fluffy companion. With no name given, FUWAMOCO decide to name it Florença, then Foofa.
+[A Ruffian](https://twitter.com/loudas1999/status/1709884778588037384) shows Ruffians a pic of their fluffy companion. With no name given, FUWAMOCO decide to name it Florença, then Foofa.
 
 ## Today I Went On A Walk (24:47)
 
-[@splinteredpizza](https://twitter.com/splinteredpizza/status/1709665980157133278) takes a walk up late in the evening. FUWAMOCO seem concerned about this Ruffian's safety.
+[A Ruffian](https://twitter.com/splinteredpizza/status/1709665980157133278) takes a walk up late in the evening. FUWAMOCO seem concerned about this Ruffian's safety.
 
 ## Question Of The Day (26:29)
 
-[Wushsuh](https://twitter.com/WuhsuhBen/status/1709635468134871321) is curious about FUWAMOCO's figure collection. The sisters confess that they haven't collected new ones in a while. They recall that they were less expensive back in the day and now they take longer to arrive after they are just first announced.
+[A Ruffian](https://twitter.com/WuhsuhBen/status/1709635468134871321) is curious about FUWAMOCO's figure collection. The sisters confess that they haven't collected new ones in a while. They recall that they were less expensive back in the day and now they take longer to arrive after they are just first announced.
 
 ## Next Stream & Schedule (31:40)
 

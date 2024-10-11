@@ -29,15 +29,15 @@ Guided by some drawings carefully crafted by Mococo, the twins describe their ho
 
 ## Doggie of the Day (25:29)
 
-[@Eruick047_](https://twitter.com/Eruick047_/status/1687611284139769856) shares a pic of Cupcake, the *goodest* girl ever!
+[A Ruffian](https://twitter.com/Eruick047_/status/1687611284139769856) shares a pic of Cupcake, the *goodest* girl ever!
 
 ## Today I Went On A Walk (26:56)
 
-[@3nen2kumi](https://twitter.com/3nen2kumi/status/1687490262325669888) finds a little kitten while taking a break during a trip they did.
+[A Ruffian](https://twitter.com/3nen2kumi/status/1687490262325669888) finds a little kitten while taking a break during a trip they did.
 
 ## Question Of The Day (28:00)
 
-[LILOLULI](https://twitter.com/LILOLULI0/status/1688384028263489536) asks Mococo for her thoughts about her nickname 'Moco' meaning 'booger' in Spanish. She only comments that it's embarrassing and prefers to be called 'Moco-chan' rather than 'Moco' just as-is.
+[A Ruffian](https://twitter.com/LILOLULI0/status/1688384028263489536) asks Mococo for her thoughts about her nickname 'Moco' meaning 'booger' in Spanish. She only comments that it's embarrassing and prefers to be called 'Moco-chan' rather than 'Moco' just as-is.
 
 ## Next Stream & Schedule (29:44)
 

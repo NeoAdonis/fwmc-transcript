@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:55)
 
-[FaithCafe](https://twitter.com/FaithCafe563/status/1715142112273158582) found Pero near their plants. Gotta need to deploy LA CHANCLA.
+[A Ruffian](https://twitter.com/FaithCafe563/status/1715142112273158582) found Pero near their plants. Gotta need to deploy LA CHANCLA.
 
 ## Advent Halloween Party (09:26)
 
@@ -33,15 +33,15 @@ Raspberries + Milk + Some time in the fridge = Yummy raspberry ice cream!
 
 ## Doggie of the Day (22:10)
 
-[Ricky T](https://twitter.com/theRickT713/status/1708883677139161351) shares a pic of their cranky girl Hazel.
+[A Ruffian](https://twitter.com/theRickT713/status/1708883677139161351) shares a pic of their cranky girl Hazel.
 
 ## Today I Went On A Walk (23:46)
 
-[James Wargull](https://twitter.com/JamesWargull/status/1715083670824825053) took a photo of a very picturesque fall scenery!
+[A Ruffian](https://twitter.com/JamesWargull/status/1715083670824825053) took a photo of a very picturesque fall scenery!
 
 ## Question Of The Day (24:51)
 
-[Zannie](https://twitter.com/FWMC_Fan/status/1705475407590674459) wonders how long it took to settle on "Ruffians" as their fan name. It seems that Mococo just came up with that one day as she woke up. Other candidates were "Kerfluffians", "Abyssians", "Doggy Pack" (used for their channel members instead) and "Hell Dog".
+[A Ruffian](https://twitter.com/FWMC_Fan/status/1705475407590674459) wonders how long it took to settle on "Ruffians" as their fan name. It seems that Mococo just came up with that one day as she woke up. Other candidates were "Kerfluffians", "Abyssians", "Doggy Pack" (used for their channel members instead) and "Hell Dog".
 
 ## Next Stream & Schedule (27:05)
 

@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (07:00)
 
-[F4](https://twitter.com/ThiemkeAndreas/status/1707068904848162865) found Pero inside a chew toy. FUWAMOCO wonder if those toys actually taste good.
+[A Ruffian](https://twitter.com/ThiemkeAndreas/status/1707068904848162865) found Pero inside a chew toy. FUWAMOCO wonder if those toys actually taste good.
 
 ## Today's Dream (09:57)
 
@@ -37,15 +37,15 @@ You can tackle the middle of the week, and hopefully today's pep talk from Moco-
 
 ## Doggie of the Day (27:38)
 
-[Daniel Spratt](https://twitter.com/Sprattacus115/status/1701062999111299503) shows us a picture of Griffin, a small dog with a big bark.
+[A Ruffian](https://twitter.com/Sprattacus115/status/1701062999111299503) shows us a picture of Griffin, a small dog with a big bark.
 
 ## Today I Went On A Walk (29:57)
 
-[TeraVita](https://twitter.com/TeraEtVita/status/1703828403017716177) took a walk near a river with a good fishing spot which is now extra wet thanks to [Mococo's sneeze](https://youtu.be/gwjuPSwi2Ho?t=1816).
+[A Ruffian](https://twitter.com/TeraEtVita/status/1703828403017716177) took a walk near a river with a good fishing spot which is now extra wet thanks to [Mococo's sneeze](https://youtu.be/gwjuPSwi2Ho?t=1816).
 
 ## Question Of The Day (31:16)
 
-[debord](https://twitter.com/debordble/status/1705714338550669601) wonders if FUWAMOCO have a morning routine or otherwise important things to do after waking up. They reply that their current routine involves doing stretches, having some breakfast while watching educational or Japanese TV and working on some homework. They also add that, after their evening stream and before bedtime, they like to take a bath, respond to some messages and do some more stretches. In response to another question, FUWAMOCO share that they just switched their shampoo but are thinking about changing it back as they prefer the old one.
+[A Ruffian](https://twitter.com/debordble/status/1705714338550669601) wonders if FUWAMOCO have a morning routine or otherwise important things to do after waking up. They reply that their current routine involves doing stretches, having some breakfast while watching educational or Japanese TV and working on some homework. They also add that, after their evening stream and before bedtime, they like to take a bath, respond to some messages and do some more stretches. In response to another question, FUWAMOCO share that they just switched their shampoo but are thinking about changing it back as they prefer the old one.
 
 ## Next Stream & Schedule (34:54)
 

@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (08:12)
 
-[CPTTANKERJOE](https://twitter.com/CPTTANKERJOEv2/status/1702487834135851171) found Pero working hard at a steel shop.
+[A Ruffian](https://twitter.com/CPTTANKERJOEv2/status/1702487834135851171) found Pero working hard at a steel shop.
 
 ## "Halloween Night, Tonight!" Cover (10:00)
 
@@ -37,15 +37,15 @@ After 7 weeks of starting this enduring challenge, Mococo actually did it: [she 
 
 ## Doggie of the Day (32:20)
 
-[ScalieDino](https://twitter.com/DinoScalie/status/1707295227411824889) shows us a pic of Dodo the husky.
+[A Ruffian](https://twitter.com/DinoScalie/status/1707295227411824889) shows us a pic of Dodo the husky.
 
 ## Today I Went On A Walk (34:28)
 
-[levinky?](https://twitter.com/levinky_art/status/1715713078187483457) took a walk in Japan and made a quick stop to try the so-revered Pon-de-rings. Their verdict: not as good as advertised.
+[A Ruffian](https://twitter.com/levinky_art/status/1715713078187483457) took a walk in Japan and made a quick stop to try the so-revered Pon-de-rings. Their verdict: not as good as advertised.
 
 ## Question Of The Day (36:06)
 
-[Miyako](https://twitter.com/MoeMoeMiyako/status/1713476110871384572) wonders if Fuwawa and Mococo have each their own set of mic and headphones for the streams. The sisters confirm this and explain a bit in detail how these are hooked up so they can hear and transmit audio, and how this setup is quite different from other hololive members.
+[A Ruffian](https://twitter.com/MoeMoeMiyako/status/1713476110871384572) wonders if Fuwawa and Mococo have each their own set of mic and headphones for the streams. The sisters confirm this and explain a bit in detail how these are hooked up so they can hear and transmit audio, and how this setup is quite different from other hololive members.
 
 ## Next Stream & Schedule (38:35)
 

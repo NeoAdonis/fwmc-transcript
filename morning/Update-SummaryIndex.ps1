@@ -79,9 +79,7 @@ foreach ($TranscriptSubfolder in (Get-ChildItem -Path $TranscriptsFolder -Direct
     }
     # Skip Episode #0 as no question was asked
     if ($EpisodeQuestion -and $EpisodeName -ne "Episode #0") {
-        # Replace the author's name with a generic name
-        $EpisodeQuestion = $EpisodeQuestion.Trim() -replace '^\[[^\]]+\]\([^\)]+\)', 'A Ruffian'
-        # Remove all other links
+        # Remove all links to minimize file size
         $EpisodeQuestion = $EpisodeQuestion -replace '\[([^\]]+)\]\([^\)]+\)', '$1'
         $QuestionSummary += @("", "## $EpisodeName", "", ($EpisodeQuestion -replace '\s+', ' ').Trim())
     }

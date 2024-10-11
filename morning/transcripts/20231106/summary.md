@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:56)
 
-[LoneBushido](https://twitter.com/FlameBushidoNo1/status/1719017559758889107) found Pero while trying out their new FUWAMOCO bowling ball.
+[A Ruffian](https://twitter.com/FlameBushidoNo1/status/1719017559758889107) found Pero while trying out their new FUWAMOCO bowling ball.
 
 ## hololive Minecraft Sport Festival (08:34)
 
@@ -45,7 +45,7 @@ To change things up, Mococo tried dry natto for today's challenge. [It doesn't m
 
 ## Doggie of the Day (29:41)
 
-[rad shiva](https://twitter.com/temenel/status/1715703687241162770) shares a pic of eight-year-old Kira!
+[A Ruffian](https://twitter.com/temenel/status/1715703687241162770) shares a pic of eight-year-old Kira!
 
 ## Today I Went On A Walk (31:34)
 
@@ -53,7 +53,7 @@ While listening ["mumei"](https://youtu.be/oA0CpI0vCK4) on their way back home, 
 
 ## Question Of The Day (32:33)
 
-[@rotflolmaomgeez](https://twitter.com/rotflolmaomgeez/status/1719874170618589195) ask if FUWAMOCO have any rituals before or after a stream? On FWMC Morning days, they wake up early and get prepared (see [ep. 33](https://youtu.be/f270ObaKNZw?t=1834)). They also are usually on Twitter before and after a stream.
+[A Ruffian](https://twitter.com/rotflolmaomgeez/status/1719874170618589195) ask if FUWAMOCO have any rituals before or after a stream? On FWMC Morning days, they wake up early and get prepared (see [ep. 33](https://youtu.be/f270ObaKNZw?t=1834)). They also are usually on Twitter before and after a stream.
 
 ## Next Stream & Schedule (36:24)
 

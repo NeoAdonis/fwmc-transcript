@@ -2,7 +2,7 @@
 
 ## 👀 Pero Sighting ([08:05](https://youtu.be/f6Xtez79CNs?t=08m05s))
 
-[@TdesuJ](https://twitter.com/TdesuJ/status/1717024018371432637) was visited by Pero who was demanding candy. After he ran off, this Ruffian carved his face in a pumpkin so as to not forget it.
+[A Ruffian](https://twitter.com/TdesuJ/status/1717024018371432637) was visited by Pero who was demanding candy. After he ran off, this Ruffian carved his face in a pumpkin so as to not forget it.
 
 ## 🗿 Biboo's "Loveit?" Cover ([10:08](https://youtu.be/f6Xtez79CNs?t=10m08s))
 
@@ -34,11 +34,11 @@ From [hololulz](https://twitter.com/hololulz/status/1709663409103401263) we have
 
 ## 🚶 Walk of the Night ([28:19](https://youtu.be/f6Xtez79CNs?t=28m19s))
 
-[bardiche](https://twitter.com/katxts/status/1718664352444698747) visited the famous Castle Bran, a.k.a. Dracula's Castle. This Ruffian shared some photos of the event that was hosted there last weekend.
+[A Ruffian](https://twitter.com/katxts/status/1718664352444698747) visited the famous Castle Bran, a.k.a. Dracula's Castle. This Ruffian shared some photos of the event that was hosted there last weekend.
 
 ## ❓ Question of the Night ([29:38](https://youtu.be/f6Xtez79CNs?t=29m38s))
 
-[Blazecake](https://twitter.com/Blazecake20/status/1706887023783563752) asks if there are types of "BAU BAU" other than "BAU BAU⤴︎⤴︎" and "bau bau⤵︎⤵︎". It seems that there are more sets of "BAU BAU" that can be used to convey other feelings! However, these might be also harder to understand for humans.
+[A Ruffian](https://twitter.com/Blazecake20/status/1706887023783563752) asks if there are types of "BAU BAU" other than "BAU BAU⤴︎⤴︎" and "bau bau⤵︎⤵︎". It seems that there are more sets of "BAU BAU" that can be used to convey other feelings! However, these might be also harder to understand for humans.
 
 ## 📅 Next Stream & Schedule ([31:57](https://youtu.be/f6Xtez79CNs?t=31m57s))
 

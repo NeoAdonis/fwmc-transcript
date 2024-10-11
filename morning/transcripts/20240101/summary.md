@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (07:41)
 
-[@darealhanz](https://twitter.com/darealhanz/status/1741352918631035075) made some [mitarashi dango](https://en.wikipedia.org/wiki/Mitarashi_dango) to have as snack, and Pero was used as an ingredient.
+[A Ruffian](https://twitter.com/darealhanz/status/1741352918631035075) made some [mitarashi dango](https://en.wikipedia.org/wiki/Mitarashi_dango) to have as snack, and Pero was used as an ingredient.
 
 ## New Year's Voice Packs (10:42)
 
@@ -38,15 +38,15 @@ Without hesitation, Mococo is able to eat natto today! Or is she?
 
 ## Doggie of the Day (32:14)
 
-[@RemasterZero](https://twitter.com/Remasterzero/status/1740762941161648565) shows us Gutierrez while being annoyed by some fireworks.
+[A Ruffian](https://twitter.com/Remasterzero/status/1740762941161648565) shows us Gutierrez while being annoyed by some fireworks.
 
 ## Today I Went On A Walk (34:24)
 
-[@54Hiropa_891](https://twitter.com/54Hiropa_891/status/1741466475603300397) attended Winter Comiket, scoring some fan-made merch by no other than FUWAMOCO's character designer [Icomochi-sensei](https://twitter.com/rswxx)!
+[A Ruffian](https://twitter.com/54Hiropa_891/status/1741466475603300397) attended Winter Comiket, scoring some fan-made merch by no other than FUWAMOCO's character designer [Icomochi-sensei](https://twitter.com/rswxx)!
 
 ## Question Of The Day (35:11)
 
-[@DylanMend](https://twitter.com/DylanMend/status/1740953598924632168) wants to know FUWAMOCO's approach for playing Visual Novels.
+[A Ruffian](https://twitter.com/DylanMend/status/1740953598924632168) wants to know FUWAMOCO's approach for playing Visual Novels.
 
 ## Next Stream & Schedule (38:13)
 

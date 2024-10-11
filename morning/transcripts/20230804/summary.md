@@ -30,15 +30,15 @@ Mococo confesses that, even if FUWAMOCO said [on their Q&A](https://youtu.be/AL3
 
 ## Doggie of the Day (23:37)
 
-[YoeUi](https://twitter.com/yoe_ui/status/1686779452108558336) shows us a pic of brave Paco.
+[A Ruffian](https://twitter.com/yoe_ui/status/1686779452108558336) shows us a pic of brave Paco.
 
 ## Today I Went On A Walk (25:08)
 
-[JF Ellie](https://twitter.com/Zeralyos/status/1686887330873749505) took a walk on what it seems a steep yet pleasant trail.
+[A Ruffian](https://twitter.com/Zeralyos/status/1686887330873749505) took a walk on what it seems a steep yet pleasant trail.
 
 ## Question Of The Day (26:13)
 
-[DramaticFailure4U](https://twitter.com/DramaticFail/status/1686579900197556224) wonders if FUWAMOCO have to remove their ears when they go to sleep. They don't: even though the ears are indeed mostly decorative, they aren't removable and have their own uses.
+[A Ruffian](https://twitter.com/DramaticFail/status/1686579900197556224) wonders if FUWAMOCO have to remove their ears when they go to sleep. They don't: even though the ears are indeed mostly decorative, they aren't removable and have their own uses.
 
 ## Next Stream & Schedule (28:15)
 

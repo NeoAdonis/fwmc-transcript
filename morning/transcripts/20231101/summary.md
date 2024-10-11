@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:39)
 
-[@Ztynz1](https://twitter.com/Ztynz1/status/1719572335747797367) found Pero in the gym and it seems that he does, in fact, lift. FUWAMOCO encourage Ruffians not to wait until next year and make November a month for getting in good shape!
+[A Ruffian](https://twitter.com/Ztynz1/status/1719572335747797367) found Pero in the gym and it seems that he does, in fact, lift. FUWAMOCO encourage Ruffians not to wait until next year and make November a month for getting in good shape!
 
 ## "Cute na Kanojo" Song Release (08:45)
 
@@ -49,7 +49,7 @@ Just in time for Dog Day, [@3nen2kumi](https://twitter.com/3nen2kumi/status/1719
 
 ## Question Of The Day (27:40)
 
-[Nae Yurimiya](https://twitter.com/yurimiyanae/status/1716191380580839841) asks FUWAMOCO if there's ever been a story that made them change their outlook on life. The twin sister shared that they were influenced by many of the Visual Novels they've read, as well as by the stories and interviews from other creators. It seems that Mama puppy and Papa puppy have also been a big influence in their way of being.
+[A Ruffian](https://twitter.com/yurimiyanae/status/1716191380580839841) asks FUWAMOCO if there's ever been a story that made them change their outlook on life. The twin sister shared that they were influenced by many of the Visual Novels they've read, as well as by the stories and interviews from other creators. It seems that Mama puppy and Papa puppy have also been a big influence in their way of being.
 
 ## Next Stream & Schedule (30:55)
 

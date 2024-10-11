@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting  (06:10)
 
-[Zogajah](https://twitter.com/zogajah/status/1697460559141343503) found Pero floating down a small steam, just spinning.
+[A Ruffian](https://twitter.com/zogajah/status/1697460559141343503) found Pero floating down a small steam, just spinning.
 
 ## Myth 3rd Anniversary (07:40)
 
@@ -34,15 +34,15 @@ As we reach once more the middle of the week, Moco-chan pushes us again to keep 
 
 ## Doggie of the Day (20:02)
 
-[Groundpounded Shrimp](https://twitter.com/Loc_Panda/status/1691828105336483884) shares with us a cute pic of their pupper, Apricot. Mococo tries to assert winking dominance, followed soon by Fuwawa.
+[A Ruffian](https://twitter.com/Loc_Panda/status/1691828105336483884) shares with us a cute pic of their pupper, Apricot. Mococo tries to assert winking dominance, followed soon by Fuwawa.
 
 ## Today I Went On A Walk (24:20)
 
-[katsu](https://twitter.com/katsupantsu/status/1699085182396162443) went on an inspiring walk on the beach. FUWAMOCO look for a way to turn the photo into something a bit more motivational…
+[A Ruffian](https://twitter.com/katsupantsu/status/1699085182396162443) went on an inspiring walk on the beach. FUWAMOCO look for a way to turn the photo into something a bit more motivational…
 
 ## Question Of The Day (26:19)
 
-[humorboy](https://vxtwitter.com/2humorboy/status/1694187446320418898) puts FUWAMOCO sync skills to the test.
+[A Ruffian](https://vxtwitter.com/2humorboy/status/1694187446320418898) puts FUWAMOCO sync skills to the test.
 
 ## Next Stream & Schedule (28:15)
 

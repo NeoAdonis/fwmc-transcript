@@ -33,15 +33,15 @@ Pero dreams of fluffy pudding.
 
 ## Doggie of the Day (23:59)
 
-[Seiso Dratz](https://twitter.com/Dratini95/status/1694496993370886453) shares a pic of fluffy shiba Yui. Pero gets jealous of not getting a treat like her.
+[A Ruffian](https://twitter.com/Dratini95/status/1694496993370886453) shares a pic of fluffy shiba Yui. Pero gets jealous of not getting a treat like her.
 
 ## Today I Went On A Walk (25:41)
 
-[Update Guy](https://twitter.com/UpdateGuyofm/status/1689429481256112128) finds a fair while taking a walk. Yet again, Pero uses this as a weapon to talk smack about Mococo.
+[A Ruffian](https://twitter.com/UpdateGuyofm/status/1689429481256112128) finds a fair while taking a walk. Yet again, Pero uses this as a weapon to talk smack about Mococo.
 
 ## Question Of The Day (27:18)
 
-[DoublePLayer](https://twitter.com/DoublePLayerSA/status/1693509481026506811) wonders what Ruffians can do to protect FUWAMOCO's smiles, while Pero ponders why Ruffians should do that in the first place when it's FUWAMOCO's job as guard dogs to protect Ruffians' smiles.
+[A Ruffian](https://twitter.com/DoublePLayerSA/status/1693509481026506811) wonders what Ruffians can do to protect FUWAMOCO's smiles, while Pero ponders why Ruffians should do that in the first place when it's FUWAMOCO's job as guard dogs to protect Ruffians' smiles.
 
 ## Next Stream & Schedule (30:24)
 

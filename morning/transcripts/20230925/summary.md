@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:43)
 
-[ItchyKneeSan](https://twitter.com/IchiNiSan_123_/status/1702514303625257433) found out that Pero is… actually a mother?! Fortunately for FUWAMOCO, it seems that this was just a dream…
+[A Ruffian](https://twitter.com/IchiNiSan_123_/status/1702514303625257433) found out that Pero is… actually a mother?! Fortunately for FUWAMOCO, it seems that this was just a dream…
 
 ## Sad News (09:18)
 
@@ -37,11 +37,11 @@ Unfortunately for Mococo, another Monday means she has to give natto another go.
 
 ## Today I Went On A Walk (32:45)
 
-[ZidanetX](https://twitter.com/ZidanetX/status/1706051534503751845) takes a pleasant autumn walk. FUWAMOCO are surprised that summer has ended already.
+[A Ruffian](https://twitter.com/ZidanetX/status/1706051534503751845) takes a pleasant autumn walk. FUWAMOCO are surprised that summer has ended already.
 
 ## Question Of The Day (33:46)
 
-[debord](https://twitter.com/debordble/status/1705717380041855067) asks if FUWAMOCO has had bad habits, and how did they overcome them? Other than having Mococo trying to overcome her dislike for natto ~~by force~~, FUWAMOCO shares that they were perfectionists to the extreme, and that prevented them from getting things done if they were not perfect rather than just good enough. They encourage us to just do things instead! They also admit that they don't wake up at the right time every day, and they need to work on that.
+[A Ruffian](https://twitter.com/debordble/status/1705717380041855067) asks if FUWAMOCO has had bad habits, and how did they overcome them? Other than having Mococo trying to overcome her dislike for natto ~~by force~~, FUWAMOCO shares that they were perfectionists to the extreme, and that prevented them from getting things done if they were not perfect rather than just good enough. They encourage us to just do things instead! They also admit that they don't wake up at the right time every day, and they need to work on that.
 
 ## Next Stream & Schedule (37:52)
 

@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:52)
 
-[ArcticFoxx6](twitter_link)'s brother brought Pero to their home. Where's the brother?
+[A Ruffian](twitter_link)'s brother brought Pero to their home. Where's the brother?
 
 ## Membership (09:47)
 
@@ -39,15 +39,15 @@ FUWAMOCO thank everyone for their submissions for a new jingle and shows us a fe
 
 ## Doggie of the Day (35:41)
 
-[User](baaarbs__)'s doggie, Boss, is celebrated for his assertive character and adorable appearance, matching his name.
+[A Ruffian](baaarbs__)'s doggie, Boss, is celebrated for his assertive character and adorable appearance, matching his name.
 
 ## Today I Went On A Walk (37:29)
 
-[User](_porkshack) went on a walk around their office & a beautiful fountain.
+[A Ruffian](_porkshack) went on a walk around their office & a beautiful fountain.
 
 ## Question Of The Day (39:08)
 
-[Ortrus](https://twitter.com/Ortrus_O/status/1699605555130573061) asks if FUWAMOCO would like to join a construction company in Minecraft. FUWAMOCO express enthusiasm but admit their beginner status, hoping for guidance from more experienced players.
+[A Ruffian](https://twitter.com/Ortrus_O/status/1699605555130573061) asks if FUWAMOCO would like to join a construction company in Minecraft. FUWAMOCO express enthusiasm but admit their beginner status, hoping for guidance from more experienced players.
 
 ## Next Stream & Schedule (42:03)
 

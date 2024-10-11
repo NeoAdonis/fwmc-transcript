@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (07:08)
 
-[art_k__](https://twitter.com/art_k__/status/1711098409594347787) found Pero while cleaning some leaves.
+[A Ruffian](https://twitter.com/art_k__/status/1711098409594347787) found Pero while cleaning some leaves.
 
 ## Kaela 3D Showcase (09:19)
 
@@ -41,7 +41,7 @@ Mococo shares a few exercises and words of encouragement to start the day with m
 
 ## Doggie of the Day (26:21)
 
-[meiday](https://twitter.com/meiday666/status/1713575685199953954) shares a pic of Steven enjoying the [solar eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/).
+[A Ruffian](https://twitter.com/meiday666/status/1713575685199953954) shares a pic of Steven enjoying the [solar eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2023/).
 
 ## Today I Went On A Walk (28:47)
 
@@ -49,7 +49,7 @@ Inspired by the autumn scenery, [Sevens](https://twitter.com/SevensAte9/status/1
 
 ## Question Of The Day (29:48)
 
-[Jeff](https://twitter.com/infjeff/status/1714116272957358445) asks for advice on how to make a tough decision. When faced with such a decision, FUWAMOCO do a pros and cons list to help them make an informed choice.
+[A Ruffian](https://twitter.com/infjeff/status/1714116272957358445) asks for advice on how to make a tough decision. When faced with such a decision, FUWAMOCO do a pros and cons list to help them make an informed choice.
 
 ## Next Stream & Schedule (32:33)
 

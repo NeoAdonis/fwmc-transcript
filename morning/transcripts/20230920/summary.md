@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:55)
 
-[Yumial](https://twitter.com/Yumial_/status/1689299318535294977) found Pero… in The Backrooms again?! FUWAMOCO to the rescue once more! And this time they won't be by themselves: Fubuki-senpai will go with them!
+[A Ruffian](https://twitter.com/Yumial_/status/1689299318535294977) found Pero… in The Backrooms again?! FUWAMOCO to the rescue once more! And this time they won't be by themselves: Fubuki-senpai will go with them!
 
 ## Good News (09:55)
 
@@ -37,11 +37,11 @@ Featuring today: [nikutaro1227](https://twitter.com/nikutaro1227/status/17039844
 
 ## Today I Went On A Walk (24:18)
 
-[InquisitiveRaven](https://twitter.com/InquisitiveRav/status/1703079765240877497) went on a walk to an apple orchard and picked lots of apples!
+[A Ruffian](https://twitter.com/InquisitiveRav/status/1703079765240877497) went on a walk to an apple orchard and picked lots of apples!
 
 ## Question Of The Day (25:49)
 
-[TsundereAdmiral](https://twitter.com/TsundereAdmiral/status/1704287044078629101) wonders if FUWAMOCO have a ritual to prepare mentally before a presentation. While they barely get nervous anymore after all their guard dog training, both a walk and stretching helps them to get rid of any anxiety they might have before a big presentation. If they need something more, they rub each other's back. As for Mococo, lying on the floor helps her too!
+[A Ruffian](https://twitter.com/TsundereAdmiral/status/1704287044078629101) wonders if FUWAMOCO have a ritual to prepare mentally before a presentation. While they barely get nervous anymore after all their guard dog training, both a walk and stretching helps them to get rid of any anxiety they might have before a big presentation. If they need something more, they rub each other's back. As for Mococo, lying on the floor helps her too!
 
 ## Next Stream & Schedule (28:28)
 

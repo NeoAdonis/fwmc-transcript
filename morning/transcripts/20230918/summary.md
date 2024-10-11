@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:32)
 
-[@rengoku_White](https://twitter.com/rengoku_White/status/1702960335039467607) went to the rice fields, where they found Pero pulling some crops.
+[A Ruffian](https://twitter.com/rengoku_White/status/1702960335039467607) went to the rice fields, where they found Pero pulling some crops.
 
 ## 2M views for "Kaibutsu" (09:23)
 
@@ -37,7 +37,7 @@ Today's doggie is [FriendlyPunk](https://twitter.com/FriendlyPunk56/status/17013
 
 ## Today I Went On A Walk (31:40)
 
-[@Yggy87](https://twitter.com/Yggy87/status/1703169377795735608) (Windjammer) went on a walk down the block party they had on their street! Lots of fun for kids (and adults too?) to be had.
+[A Ruffian](https://twitter.com/Yggy87/status/1703169377795735608) (Windjammer) went on a walk down the block party they had on their street! Lots of fun for kids (and adults too?) to be had.
 
 ## Question Of The Day (33:20)
 

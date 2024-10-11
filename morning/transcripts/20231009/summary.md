@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:51)
 
-[DLan](https://twitter.com/DylanMend/status/1698633380928102867) found some Pero tokens in what seems a 'shady' arcade.
+[A Ruffian](https://twitter.com/DylanMend/status/1698633380928102867) found some Pero tokens in what seems a 'shady' arcade.
 
 ## holoEN "Promise" (09:07)
 
@@ -45,7 +45,7 @@ Despite the weather getting colder, [OraNav](https://twitter.com/Nepgyaaaaaaa/st
 
 ## Question of the day (36:50)
 
-[Claire](https://twitter.com/ExistingClaire/status/1710657549304053829) wonders if FUWAMOCO have ever been anxious about a test. It seems that they've been there, and specifically recall having trouble with a certain class they had during guard dog training and almost gave up, but in the end, they persevered and passed it!
+[A Ruffian](https://twitter.com/ExistingClaire/status/1710657549304053829) wonders if FUWAMOCO have ever been anxious about a test. It seems that they've been there, and specifically recall having trouble with a certain class they had during guard dog training and almost gave up, but in the end, they persevered and passed it!
 
 ## Next Stream & Schedule (40:00)
 

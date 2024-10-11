@@ -41,15 +41,15 @@ Are your eyes open properly? After today's Mococo Pup Talk, they surely will!
 
 ## Doggie of the Day (24:39)
 
-[Red Azteroid](https://twitter.com/RAzteroid/status/1723968530675278240) found FUWAMOCO themselves while on a hike! Or at least some cute dogs reminiscent of our demon guard dogs.
+[A Ruffian](https://twitter.com/RAzteroid/status/1723968530675278240) found FUWAMOCO themselves while on a hike! Or at least some cute dogs reminiscent of our demon guard dogs.
 
 ## Today I Went On A Walk (26:32)
 
-[Harti](https://twitter.com/xalandr/status/1724061708921016711) found some cool-looking mushrooms while taking a walk.
+[A Ruffian](https://twitter.com/xalandr/status/1724061708921016711) found some cool-looking mushrooms while taking a walk.
 
 ## Question Of The Day (27:54)
 
-[@antid0m0](https://twitter.com/antid0m0/status/1724274238029275229) asks: do FUWAMOCO use their human ears to listen? Short answer: they're just decorative. Refer to [ep. 2](https://youtu.be/YILB_0QF-uI?t=1573) for a different take on a similar question!
+[A Ruffian](https://twitter.com/antid0m0/status/1724274238029275229) asks: do FUWAMOCO use their human ears to listen? Short answer: they're just decorative. Refer to [ep. 2](https://youtu.be/YILB_0QF-uI?t=1573) for a different take on a similar question!
 
 ## Next Stream & Schedule (29:33)
 

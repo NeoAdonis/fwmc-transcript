@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:44)
 
-[Ginko](https://twitter.com/Ginko_02/status/1700227442798195182) found Pero sitting on a bench, just to disappear shortly afterwards. FUWAMOCO don't seem very concerned about that…
+[A Ruffian](https://twitter.com/Ginko_02/status/1700227442798195182) found Pero sitting on a bench, just to disappear shortly afterwards. FUWAMOCO don't seem very concerned about that…
 
 ## Council 3D Showcase (08:55)
 
@@ -37,7 +37,7 @@ While taking a walk, [Zhoxn Q](https://twitter.com/ZhoxnQ/status/170131196540927
 
 ## Question Of The Day (27:18)
 
-[ArcLL_Maru](https://twitter.com/ArcLL_Maru/status/1700995081074057220) asks FUWAMOCO-sensei for material recommendations to study Japanese. They recommended to start with the [Genki textbooks](https://genki3.japantimes.co.jp/en/intro/), not overwhelming yourself with kanji studies just when you're starting, and being OK with making mistakes; that's just part of learning. 日本語を勉強しているラッフィアンの皆さん、頑張ってね！
+[A Ruffian](https://twitter.com/ArcLL_Maru/status/1700995081074057220) asks FUWAMOCO-sensei for material recommendations to study Japanese. They recommended to start with the [Genki textbooks](https://genki3.japantimes.co.jp/en/intro/), not overwhelming yourself with kanji studies just when you're starting, and being OK with making mistakes; that's just part of learning. 日本語を勉強しているラッフィアンの皆さん、頑張ってね！
 
 ## Next Stream & Schedule (30:10)
 

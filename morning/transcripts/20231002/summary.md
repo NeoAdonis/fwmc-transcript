@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:36)
 
-[Itta](https://twitter.com/Itta12065/status/1707447872021790981) found Pero at their local cat cafe trying to blend with the other felines. While Ruffians want Pero kicked out, FUWAMOCO intervene by saying that he doesn't deserve that.
+[A Ruffian](https://twitter.com/Itta12065/status/1707447872021790981) found Pero at their local cat cafe trying to blend with the other felines. While Ruffians want Pero kicked out, FUWAMOCO intervene by saying that he doesn't deserve that.
 
 ## New Month, New Hope (09:25)
 
@@ -33,15 +33,15 @@ In line with Tofu Day celebrations, Mococo gives natto another go, again with no
 
 ## Doggie of the Day (32:55)
 
-[Max Power](https://twitter.com/MaxPowe65865644/status/1707163920425705773) shows us a picture of Skye "enjoying" their dog. It seems that their reaction is the same as Mococo after eating natto…
+[A Ruffian](https://twitter.com/MaxPowe65865644/status/1707163920425705773) shows us a picture of Skye "enjoying" their dog. It seems that their reaction is the same as Mococo after eating natto…
 
 ## Today I Went On A Walk (34:54)
 
-[otm](https://twitter.com/otm_ch_/status/1707413401948114989) just came back from a trip to Japan and shares with us a picturesque and quite romantic photo of Manseibashi bridge near Akihabara, which is otherwise known as the mecca of Otaku culture.
+[A Ruffian](https://twitter.com/otm_ch_/status/1707413401948114989) just came back from a trip to Japan and shares with us a picturesque and quite romantic photo of Manseibashi bridge near Akihabara, which is otherwise known as the mecca of Otaku culture.
 
 ## Question Of The Day (36:04)
 
-[Million OSS](https://twitter.com/MillionOss/status/1707624052406546845) wonders if FUWAMOCO have ever fought for the controller? They say that they are pretty used to sharing, and while sometimes it's not easy to let go of the controller and share it, it's also not a big deal.
+[A Ruffian](https://twitter.com/MillionOss/status/1707624052406546845) wonders if FUWAMOCO have ever fought for the controller? They say that they are pretty used to sharing, and while sometimes it's not easy to let go of the controller and share it, it's also not a big deal.
 
 ## Next Stream & Schedule (38:48)
 

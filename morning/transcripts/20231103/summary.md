@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:58)
 
-[DLan](https://twitter.com/DylanMend/status/1695043836777566696) found Pero roaming in the desert.
+[A Ruffian](https://twitter.com/DylanMend/status/1695043836777566696) found Pero roaming in the desert.
 
 ## hololive Minecraft Sports Festival (09:16)
 
@@ -37,15 +37,15 @@ FUWAMOCO tried a new cinnamon-orange tea; it seems that they really liked it!
 
 ## Doggie of the Day (28:46)
 
-[@quesadilla](https://twitter.com/quesadilla/status/1719916670381400531) shared a pic of Mugi. Both dog and owner watch FWMC Morning while they eat breakfast.
+[A Ruffian](https://twitter.com/quesadilla/status/1719916670381400531) shared a pic of Mugi. Both dog and owner watch FWMC Morning while they eat breakfast.
 
 ## Today I Went On A Walk (30:28)
 
-[@Chrysalis2065](https://twitter.com/Chrysalis2065/status/1719776029315641695) shared a photo of a peculiar spot in the woods that helped them clear their mind.
+[A Ruffian](https://twitter.com/Chrysalis2065/status/1719776029315641695) shared a photo of a peculiar spot in the woods that helped them clear their mind.
 
 ## Question Of The Day (31:38)
 
-[@JunkEmail12065](https://twitter.com/JunkEmail12065/status/1715406283187134819) questions FUWAMOCO on how they allow paw holding but not ear and tail touching. Fuwawa clarifies that paw holding should only be done with those you love, but they'll allow it when they are scared.
+[A Ruffian](https://twitter.com/JunkEmail12065/status/1715406283187134819) questions FUWAMOCO on how they allow paw holding but not ear and tail touching. Fuwawa clarifies that paw holding should only be done with those you love, but they'll allow it when they are scared.
 
 ## Next Stream & Schedule (33:03)
 

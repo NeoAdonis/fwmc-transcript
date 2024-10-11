@@ -33,15 +33,15 @@ Did Ruffians catch something weird on [one of FUWAMOCO's latest tweets](https://
 
 ## Doggie of the Day (27:09)
 
-[cjlim2007](https://twitter.com/cjlim168/status/1705024424607715619) shares with Ruffians a picture of their doggies Snickers and Brownie. It seems that they both joined FUWAMOCO on their [planetarian stream](https://youtu.be/zODW5RqQ6Z0).
+[A Ruffian](https://twitter.com/cjlim168/status/1705024424607715619) shares with Ruffians a picture of their doggies Snickers and Brownie. It seems that they both joined FUWAMOCO on their [planetarian stream](https://youtu.be/zODW5RqQ6Z0).
 
 ## Today I Went On A Walk (29:29)
 
-[@Ztynz1](https://twitter.com/Ztynz1/status/1706631320854487483) takes a walk alongside the *Arc de Triomphe* accompanied by Dino-Gura.
+[A Ruffian](https://twitter.com/Ztynz1/status/1706631320854487483) takes a walk alongside the *Arc de Triomphe* accompanied by Dino-Gura.
 
 ## Question Of The Day (30:32)
 
-[Deyz](https://twitter.com/warchris2/status/1706148829517566286) asks who is making the thumbnails for their videos. It seems Pero is the one who helps the sisters to make them, which is also the reason why they can be quite silly sometimes.
+[A Ruffian](https://twitter.com/warchris2/status/1706148829517566286) asks who is making the thumbnails for their videos. It seems Pero is the one who helps the sisters to make them, which is also the reason why they can be quite silly sometimes.
 
 ## Next Stream & Schedule (32:05)
 

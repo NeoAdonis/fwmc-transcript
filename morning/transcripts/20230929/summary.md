@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:35)
 
-[Akiwave](https://twitter.com/Rassver/status/1707402515640185020) found Pero relaxing near a pool that looks kind of familiar…
+[A Ruffian](https://twitter.com/Rassver/status/1707402515640185020) found Pero relaxing near a pool that looks kind of familiar…
 
 ## Baelz 3D Showcase (08:47)
 
@@ -29,15 +29,15 @@ It's been 2 Months since FUWAMOCO debuted! To celebrate, the sisters will be doi
 
 ## Doggie of the Day (18:34)
 
-[Patrick Wilborn](https://twitter.com/PatrickWilborn/status/1699515994769670192) shares a picture of Mishka having some fun while playing.
+[A Ruffian](https://twitter.com/PatrickWilborn/status/1699515994769670192) shares a picture of Mishka having some fun while playing.
 
 ## Today I Went On A Walk (20:51)
 
-[narumiya](https://twitter.com/narumi_Luminous/status/1707443935533269316) shares a picture of the Moon taken during a night walk and explain FUWAMOCO how Japanese people use the word "yoimachizuki" (宵待月) to express the feeling of eagerness for a full moon night as it approaches.
+[A Ruffian](https://twitter.com/narumi_Luminous/status/1707443935533269316) shares a picture of the Moon taken during a night walk and explain FUWAMOCO how Japanese people use the word "yoimachizuki" (宵待月) to express the feeling of eagerness for a full moon night as it approaches.
 
 ## Question Of The Day (22:23)
 
-[LordBrocolli](https://twitter.com/KnightofFate/status/1707524643832422772) asks FUWAMOCO for their favorite fall activities. The twins seem to like the air and smell of fall, and going for a walk. As for specific activities, they love helping Mama puppy and Papa puppy to clean the leaves, which Mococo uses as an opportunity to jump on the leaves despite the bugs and dirt.
+[A Ruffian](https://twitter.com/KnightofFate/status/1707524643832422772) asks FUWAMOCO for their favorite fall activities. The twins seem to like the air and smell of fall, and going for a walk. As for specific activities, they love helping Mama puppy and Papa puppy to clean the leaves, which Mococo uses as an opportunity to jump on the leaves despite the bugs and dirt.
 
 ## Next Stream & Schedule (24:58)
 

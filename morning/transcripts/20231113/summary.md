@@ -37,7 +37,7 @@ A sleepy Fuwawa ate the last pack of natto that morning, so for today's challeng
 
 ## Doggie of the Day (22:55)
 
-[Riki Tavatiki](https://twitter.com/RTavatiki/status/1722696513707712660) shows us a pic of Akah being protective about his food.
+[A Ruffian](https://twitter.com/RTavatiki/status/1722696513707712660) shows us a pic of Akah being protective about his food.
 
 ## Today I Went On A Walk (25:16)
 
@@ -45,7 +45,7 @@ Winter is coming, and so is darkness and snow as shown by [Skåogin](https://twi
 
 ## Question Of The Day (26:23)
 
-[BooNeko](https://twitter.com/IyqZs/status/1722553207325614367) wanted to know who of the sisters was better at sports (Mococo is, it seems), as well as their favorite one (she had issues picking just one).
+[A Ruffian](https://twitter.com/IyqZs/status/1722553207325614367) wanted to know who of the sisters was better at sports (Mococo is, it seems), as well as their favorite one (she had issues picking just one).
 
 ## Next Stream & Schedule (28:36)
 

@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:30)
 
-[Trifful](https://twitter.com/Trifful/status/1699321925691183444) spotted Pero inside a claw machine.
+[A Ruffian](https://twitter.com/Trifful/status/1699321925691183444) spotted Pero inside a claw machine.
 
 ## Happy news (09:20)
 
@@ -33,11 +33,11 @@ A fluffy pupper shared by [Nikutaro](https://twitter.com/nikutaro1227/status/169
 
 ## Today I Went On A Walk (27:51)
 
-[User](twitter_link) went on a walk in a nearby park.
+[A Ruffian](twitter_link) went on a walk in a nearby park.
 
 ## Question Of The Day (28:52)
 
-[Sergio](https://twitter.com/SergioB_/status/1698246134702240026) wonders if FUWAMOCO have other game consoles they can play and stream from. The sisters reveal that their collection comprises of an SNES, an N64, two PS2 consoles (a US Phat and a Japanese Slim), a Wii, mama puppy's Wii U, a PS3, a PS4, a Game Boy Color, a DS Lite, and even an Atari Lynx! They wish to have eventually a PC-98.
+[A Ruffian](https://twitter.com/SergioB_/status/1698246134702240026) wonders if FUWAMOCO have other game consoles they can play and stream from. The sisters reveal that their collection comprises of an SNES, an N64, two PS2 consoles (a US Phat and a Japanese Slim), a Wii, mama puppy's Wii U, a PS3, a PS4, a Game Boy Color, a DS Lite, and even an Atari Lynx! They wish to have eventually a PC-98.
 
 ## Next Stream & Schedule (32:14)
 

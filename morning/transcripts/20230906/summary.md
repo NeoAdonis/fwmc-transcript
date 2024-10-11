@@ -39,15 +39,15 @@ Yet again we're in the middle of the week, and Mococo has another important spee
 
 ## Doggie of the Day (27:34)
 
-[Evan Bregnsdal](https://twitter.com/EvanBregnsdal/status/1698918072634298804) shows us their German Shepherd. Juju seems so happy to be in that pic!
+[A Ruffian](https://twitter.com/EvanBregnsdal/status/1698918072634298804) shows us their German Shepherd. Juju seems so happy to be in that pic!
 
 ## Today I Went On A Walk (30:18)
 
-[Dog Strings](https://twitter.com/Dog_Strings/status/1698967826181259484) went on a hike, making a friend along the road.
+[A Ruffian](https://twitter.com/Dog_Strings/status/1698967826181259484) went on a hike, making a friend along the road.
 
 ## Question Of The Day (32:30)
 
-[Minazuki](https://twitter.com/minazukifwmc/status/1698213603676148214) asks if FUWAMOCO have any experiences to share related to school trips.
+[A Ruffian](https://twitter.com/minazukifwmc/status/1698213603676148214) asks if FUWAMOCO have any experiences to share related to school trips.
 
 ## Next Stream & Schedule (36:05)
 

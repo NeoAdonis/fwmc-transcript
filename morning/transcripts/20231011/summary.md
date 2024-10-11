@@ -9,7 +9,7 @@ wip: true
 
 ## Pero Sighting (06:39)
 
-[Sky](https://twitter.com/Skylanderspizza/status/1703504111600115713) found Pero while mowing the lawn, but he noticed that the white blob was just in front of the mower a bit too late… Only a pair of broken bones seemed to remain… FUWAMOCO laughs at what they think is a Halloween joke. *But is it?*
+[A Ruffian](https://twitter.com/Skylanderspizza/status/1703504111600115713) found Pero while mowing the lawn, but he noticed that the white blob was just in front of the mower a bit too late… Only a pair of broken bones seemed to remain… FUWAMOCO laughs at what they think is a Halloween joke. *But is it?*
 
 ## Confession (08:52)
 
@@ -39,15 +39,15 @@ Mococo seems to have noticed that Ruffians might have been working hard, so she 
 
 ## Doggie of the Day (27:05)
 
-[Sean Overton](https://twitter.com/FangorrLoL/status/1709607950698889295) shares a pic of chunky boy Reggie taking a nap.
+[A Ruffian](https://twitter.com/FangorrLoL/status/1709607950698889295) shares a pic of chunky boy Reggie taking a nap.
 
 ## Today I Went On A Walk (28:46)
 
-[Globits](https://twitter.com/Globitstg/status/1711653093488619625) finds a huge dragonfly while taking a walk through a local wetlands reserve.
+[A Ruffian](https://twitter.com/Globitstg/status/1711653093488619625) finds a huge dragonfly while taking a walk through a local wetlands reserve.
 
 ## Question Of The Day (30:34)
 
-[@platanostupido](https://twitter.com/platanostupido/status/1708833832580042988) asks FUWAMOCO which stream was the most challenging to prepare for (other than debut), as well as their most rewarding one. The sisters share that FWMC Morning demands lots of work in the background, and they usually wake up 3 hours before the actual stream to make the final arrangements. However, they are happy to do this kind of show if it helps Ruffians to start the day on the right paw.
+[A Ruffian](https://twitter.com/platanostupido/status/1708833832580042988) asks FUWAMOCO which stream was the most challenging to prepare for (other than debut), as well as their most rewarding one. The sisters share that FWMC Morning demands lots of work in the background, and they usually wake up 3 hours before the actual stream to make the final arrangements. However, they are happy to do this kind of show if it helps Ruffians to start the day on the right paw.
 
 ## Next Stream & Schedule (32:59)
 
