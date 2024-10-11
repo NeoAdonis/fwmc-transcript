@@ -1,10 +1,10 @@
 # Daily questions
 
-Last updated: 2024-10-09 18:23 UTC
+Last updated: 2024-10-11 05:55 UTC
 
 ## Episode #1
 
-A Ruffian wonders if there's anything specific FUWAMOCO would like to try in Japan. They would love to try wanko soba and see how many plates they can eat.
+Asked about Japan, FUWAMOCO express interest in trying *Wanko Soba*, a fast-paced soba-eating challenge, though they admit nervousness about being watched while eating.
 
 ## Episode #2
 
@@ -144,7 +144,7 @@ A Ruffian wonders if Fuwawa and Mococo have each their own set of mic and headph
 
 ## Episode #36
 
-A Ruffian asks what would FUWAMOCO do if one day they switched bodies? The twins think at first that things wouldn't probably change at all, but they also express that they would feel uncomfortable and would like to swap places back ASAP. On the other hand, Ruffians have at least a pair of reasons to think that Mococo would feel stiffness on her new shoulders if that scenario were to happen…
+Sobbi asks what would FUWAMOCO do if one day they switched bodies? The twins think at first that things wouldn't probably change at all, but they also express that they would feel uncomfortable and would like to swap places back ASAP. On the other hand, Ruffians have at least a pair of reasons to think that Mococo would feel stiffness on her new shoulders if that scenario were to happen…
 
 ## Episode #37
 
