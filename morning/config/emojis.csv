@@ -13,6 +13,7 @@ Pattern,Emoji
 \bRawr n' Response\b,📩
 \bSpecial Ruffians\b,✨
 \bLifetime Showtime\b,🎤
+"\b""?BAU""?DOL",🎤
 \bFire N Ice\b,🎤
 \bAnime NYC\b,🗽
 \bAFA\b,🏟️
@@ -91,6 +92,7 @@ Pattern,Emoji
 \bconcert\b,🎤
 \bConnect The World\b,🎤
 \bBreaking Dimensions\b,🎤
+\bpon-de-ring,🍩
 \b(gift|present)s?\b,🎁
 \b(goods|merch)\b,📦
 \b(Twitter|tweets?)\b,🐦
@@ -125,7 +127,7 @@ Pattern,Emoji
 \b(pop)?con(vention)?\b,🎪
 \bcosplay,👘
 \bcount(\b|down|er|ing),🔢
-\b(donut|pon-de-ring),🍩
+\bdonut,🍩
 \bdream,💤
 \bdrink,🍹
 \bexpo\b,🎪
@@ -182,6 +184,7 @@ Pattern,Emoji
 \btea\b,🍵
 \btofu\b,⬜
 \bTouhou\b,🌸
+\btravel,🧳
 \bupdate,🆕
 \bwaterpark\b,🔫
 \bWonFes\b,🎨
