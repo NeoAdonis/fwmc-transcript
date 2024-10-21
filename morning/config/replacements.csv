@@ -51,7 +51,10 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU
 \bPrison no Maho,Prism no Maho
 \bDoggy Kong\b,Donkey Kong
 \bjoy sound\b,Joysound
+\b(Akihabara|Akiba) Min?[sz]udon?\b,$1 MisDo
 \b(Mr\.|Mister) Donuts?\b,Mister Donut
+\b[fp]on d[eu] rin?g,pon-de-ring
+\bfond[eu]rin?g,pon-de-ring
 \byobae\b,yobai
 \b(Por[io]r[ou]|Portal|Porter)[\s\-]oneechan\b,Poruru-oneechan
 \bEnigmatic Recollection,ENigmatic Recollection
