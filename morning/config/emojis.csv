@@ -15,8 +15,9 @@ Pattern,Emoji
 \bLifetime Showtime\b,🎤
 "\b""?BAU""?DOL",🎤
 \bFire N Ice\b,🎤
-\bAnime NYC\b,🗽
 \bAFA\b,🏟️
+\bAnime Frontier\b,🤠
+\bAnime NYC\b,🗽
 \bEnd\b,🫡
 \b(Hajimete no Otsukai|Old enough)\b,🛒
 \bHOLOCTOBER\b,🎨
@@ -94,7 +95,8 @@ Pattern,Emoji
 \bBreaking Dimensions\b,🎤
 \bpon-de-ring,🍩
 \b(gift|present)s?\b,🎁
-\b(goods|merch)\b,📦
+\b(holo)?(goods|merch)\b,📦
+\bnot so\b,🚫
 \b(Twitter|tweets?)\b,🐦
 \bbreaking\b,‼️
 \bPlay button,▶️
@@ -108,6 +110,7 @@ Pattern,Emoji
 \bASMR\b,🎙️
 \baward,🏅
 \bbad\b,😢
+\bbattle,⚔️
 \bBAU\s?time\b,🕒
 \bbear,🐻
 \bbee,🐝
@@ -148,6 +151,7 @@ Pattern,Emoji
 \bJapan\b,🇯🇵
 \bjingle,🎶
 \bkaraoke\b,🎤
+\bkou?shien\b,⚾
 \blantern,🏮
 \blike,👍
 \bluck,🍀
