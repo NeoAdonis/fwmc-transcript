@@ -43,7 +43,7 @@ Pattern,Emoji
 \b(Asa|Kon)Koyo\b,🧪
 \bOllie\b,🧟‍♀️
 \bAme(lia)?\b,🔎
-\bCalli\b,💀
+\bCalli(ope)?\b,💀
 \bGura\b,🔱
 \bIna\b,🐙
 \bKiara\b,🐔
@@ -51,7 +51,7 @@ Pattern,Emoji
 \bMumei\b,🪶
 \bKronii\b,⏳
 \bAdvent(rix)?\b,⚠️
-\bsleep,😴
+\b(hibernat|sleep),😴
 \bShiorin? & (Bijou|Biboo)\b,👁‍🗨🗿
 \b(Bijou|Biboo)\b,🗿
 \bNerissa\b,🎼
@@ -133,6 +133,7 @@ Pattern,Emoji
 \bdonut,🍩
 \bdream,💤
 \bdrink,🍹
+\beurobeat,🚗
 \bexpo\b,🎪
 \bexposed,📸
 \b(figure|nendo|pop up parade\b),🪆
@@ -166,6 +167,7 @@ Pattern,Emoji
 \bonsen,♨️
 \boutfit,👗
 \b(petition|survey),📝
+\bplush,🧸
 \bpoison,☠️
 \bpower,🔋
 \bprank,🤭

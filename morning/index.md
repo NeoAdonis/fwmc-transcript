@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-10-23 17:08 UTC
+Last updated: 2024-10-25 17:12 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -146,3 +146,4 @@ Last updated: 2024-10-23 17:08 UTC
 | 2024-10-18 | Fri | [Episode #134](https://youtu.be/kpPDxXuCAzI) | tails-a-waggin' ✨ | [Summary](summaries/20241018_134.md) | [Transcript](transcripts/20241018/transcript.vtt) |
 | 2024-10-21 | Mon | [Episode #135](https://youtu.be/YRyo5vL6XsI) | start of a spooky week ✨ | [Summary](summaries/20241021_135.md) | [Transcript](transcripts/20241021/transcript.vtt) |
 | 2024-10-23 | Wed | [Episode #136](https://youtu.be/THyeEc7LfNo) | what could the week hold for us ✨ | [Summary](summaries/20241023_136.md) | [Transcript](transcripts/20241023/transcript.vtt) |
+| 2024-10-25 | Fri | [Episode #137](https://youtu.be/maZpz3JOJvc) | this is it, friday ✨ | [Summary](summaries/20241025_137.md) | [Transcript](transcripts/20241025/transcript.vtt) |
