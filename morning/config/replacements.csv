@@ -1,74 +1,76 @@
-Pattern,Replacement
-"H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU
-Aloha (no )?BAU BAU,Hallo hallo BAU BAU
-\bHelpFUWAMOCO\b,helpFWMC
-"\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2
-\bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU
-\bruffian,Ruffian
-\bmama\s?p[ao]p(py|i)\b,Mama Puppy
-\bp[ao]p[ao]\s?p[ao]p(py|i)\b,Papa Puppy
-\bperr?o sighting,Pero Sighting
-\bdogg(y|ie) of the day\b,Doggie of the Day
-\bquestion of the day\b,Question of the Day
-\bextra special ruffian,Extra Special Ruffian
-\bBorn to be (Bau\s?do|Bottle|Boundless|Vodou)\b,"Born to be ""BAU""DOL☆★"
-\bMan[io]-chan,Mane-chan
-\b(Na|No|Mo|Lo)riss?ai?\b,Nerissa
-\bNerissa Raven\s?\w+,Nerissa Ravencroft
-\bKou?seki\b,Koseki
-\bBi[jz]uu?\b,Bijou
-\bKura[\s\-]senpai,Gura-senpai
-\bCrony\b,Kronii
-\bBay[\s\-]senpai,Bae-senpai
-\bCorny-senpai,Kronii-senpai
-\bFawna\b,Fauna
-\bMume\b,Mumei
-\bIris[\s\-]senpai,IRyS-senpai
-\b(Ch|K)ia[rn]a\b,Kiara
-\b(Kali|Callie)\b,Calli
-\bAmbergreen\b,Immergreen
-\bNao[nr]a\b,Raora
-\bGigi Marin\b,Gigi Murin
-\bOli\b,Ollie
-\bKai[lr]a[\s\-]senpai,Kaela-senpai
-\bEi-chan\b,A-chan
-\bAi?[sz]uki[\s\-](san|chan|senpai),AZKi-$1
-\bRoboco-san\b,Robocosan
-\bHachima[\s\-](san|chan|senpai),Haachama-$1
-\bHajime[\s\-]senpai,Haachama-senpai
-\bAqours[\s\-]senpai,Aqua-senpai
-\bPecora\b,Pekora
-\bM(i|or)ning([\s\-]of)?[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai
-\bMarisa and Jo-senpai,Marine-senchou-senpai
-\bSenjou?\b,Senchou
-\bToa\b,Towa
-\bHolox\b,holoX
-\bKoei[\s\-]senpai,Chloe-senpai
-\bLaplace[\s\-]senpai,La+-senpai
-\b[rw]eg[lr]oss\b,ReGLOSS
-\bTwoS[nt]acks\b,2Snacks
-\bKyoto no Kano(jo|[\s\-]chan)\b,Cute na Kanojo
-\bPrison no Maho,Prism no Maho
-\bDoggy Kong\b,Donkey Kong
-\bjoy sound\b,Joysound
-\b(Akihabara|Akiba) Min?[sz]udon?\b,$1 MisDo
-\b(Mr\.|Mister) Donuts?\b,Mister Donut
-\b[fp]on d[eu] rin?g,pon-de-ring
-\bfond[eu]rin?g,pon-de-ring
-\byobae\b,yobai
-\b(Por[io]r[ou]|Portal|Porter)[\s\-]oneechan\b,Poruru-oneechan
-\bEnigmatic Recollection,ENigmatic Recollection
-\bEnreko\b,ENreco
-\bNRECCO\b,ENreco
-\bholodoroke\b,holo Dorokei
-\bHololive\b,hololive
-\bHolostars\b,holostars
-\bhololive suikai?\b,holo no Suika
-\benglish myth\b,English -Myth-
-\benglish council\b,English -Council-
-\benglish justice\b,English -Justice-
-\bhololive myth\b,hololive -Myth-
-\bhololive advent\b,hololive -Advent-
-\bhololive justice\b,hololive -Justice-
-\bhololive english advent\b,hololive English -Advent-
-\b(Abbott|Alvin)\b,Advent
+Pattern,Replacement,Warning
+"H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU,N
+Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
+\bHelpFUWAMOCO\b,helpFWMC,N
+"\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2,N
+\bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU,N
+\bruffian,Ruffian,N
+\bmama\s?p[ao]p(py|i)\b,Mama Puppy,N
+\bp[ao]p[ao]\s?p[ao]p(py|i)\b,Papa Puppy,N
+\bperr?o sighting,Pero Sighting,N
+\bPerro\b,Pero,Y
+\bdogg(y|ie) of the day\b,Doggie of the Day,N
+\bquestion of the day\b,Question of the Day,N
+\bextra special ruffian,Extra Special Ruffian,N
+\bBorn to be (Bau\s?do|Bottle|Boundless|Vodou)\b,"Born to be ""BAU""DOL☆★",N
+\bMan[io]-chan,Mane-chan,N
+\bMococo-chan,Moco-chan,N
+\b(Na|No|Mo|Lo)riss?ai?\b,Nerissa,N
+\bNerissa Raven\s?\w+,Nerissa Ravencroft,N
+\bKou?seki\b,Koseki,N
+\bBi[jz]uu?\b,Bijou,N
+\bKura[\s\-]senpai,Gura-senpai,N
+\bCrony\b,Kronii,N
+\bBay[\s\-]senpai,Bae-senpai,N
+\bCorny-senpai,Kronii-senpai,N
+\bFawna\b,Fauna,N
+\bMume\b,Mumei,N
+\bIris[\s\-]senpai,IRyS-senpai,N
+\b(Ch|K)ia[rn]a\b,Kiara,N
+\b(Kali|Callie)\b,Calli,N
+\bAmbergreen\b,Immergreen,N
+\bNao[nr]a\b,Raora,N
+\bGigi Marin\b,Gigi Murin,N
+\bOli\b,Ollie,N
+\bKai[lr]a[\s\-]senpai,Kaela-senpai,N
+\bEi-chan\b,A-chan,N
+\bAi?[sz]uki[\s\-](san|chan|senpai),AZKi-$1,N
+\bRoboco-san\b,Robocosan,N
+\bHachima[\s\-](san|chan|senpai),Haachama-$1,N
+\bHajime[\s\-]senpai,Haachama-senpai,N
+\bAqours[\s\-]senpai,Aqua-senpai,N
+\bPecora\b,Pekora,N
+\bM(i|or)ning([\s\-]of)?[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai,N
+\bMarisa and Jo-senpai,Marine-senchou-senpai,N
+\bSenjou?\b,Senchou,N
+\bToa\b,Towa,N
+\bHolox\b,holoX,N
+\bKoei[\s\-]senpai,Chloe-senpai,N
+\bLaplace[\s\-]senpai,La+-senpai,N
+\b[rw]eg[lr]oss\b,ReGLOSS,N
+\bTwoS[nt]acks\b,2Snacks,N
+\bKyoto no Kano(jo|[\s\-]chan)\b,Cute na Kanojo,N
+\bPrison no Maho,Prism no Maho,N
+\bDoggy Kong\b,Donkey Kong,N
+\bjoy sound\b,Joysound,N
+\b(Akihabara|Akiba) Min?[sz]udon?\b,$1 MisDo,N
+\b(Mr\.|Mister) Donuts?\b,Mister Donut,N
+\b[fp]on d[eu] rin?g,pon-de-ring,N
+\bfond[eu]rin?g,pon-de-ring,N
+\byobae\b,yobai,N
+\b(Por[io]r[ou]|Portal|Porter)[\s\-]oneechan\b,Poruru-oneechan,N
+\bEnigmatic Recollection,ENigmatic Recollection,N
+\bEnreko\b,ENreco,N
+\bNRECCO\b,ENreco,N
+\bholodoroke\b,holo Dorokei,N
+\bHololive\b,hololive,N
+\bHolostars\b,holostars,N
+\bhololive suikai?\b,holo no Suika,N
+\benglish myth\b,English -Myth-,N
+\benglish council\b,English -Council-,N
+\benglish justice\b,English -Justice-,N
+\bhololive myth\b,hololive -Myth-,N
+\bhololive advent\b,hololive -Advent-,N
+\bhololive justice\b,hololive -Justice-,N
+\bhololive english advent\b,hololive English -Advent-,N
+\b(Abbott|Alvin)\b,Advent,N

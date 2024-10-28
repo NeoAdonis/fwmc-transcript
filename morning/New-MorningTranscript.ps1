@@ -124,7 +124,15 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.*" 
 
     # Fix common mistakes in the transcript
     $TranscriptContent = Get-Content -Path $TranscriptFile.FullName -Raw
+    $TranscriptLines = $TranscriptContent -split '\r?\n'
     Get-Content -Path './config/replacements.csv' | ConvertFrom-Csv | ForEach-Object {
+        if ($_.Warning -eq "Y") {
+            $Pattern = $_.Pattern
+            $TranscriptLines | Select-String -Pattern $Pattern -AllMatches -Context 1 | ForEach-Object {
+                Write-Host "${TranscriptFile}:$($_.LineNumber) - Replaced with `"$Pattern`"" -ForegroundColor Yellow
+                Write-Host $_.ToEmphasizedString('')
+            }
+        }
         $TranscriptContent = $TranscriptContent -replace $_.Pattern, $_.Replacement
     }
     $TranscriptContent | Set-Content -Path $TranscriptFile.FullName -NoNewline
@@ -133,12 +141,11 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.*" 
     if ($TranscriptContent -notmatch 'Hallo hallo BAU BAU') {
         Write-Host "$TranscriptFile - Potential missing introduction" -ForegroundColor Yellow
     }
-    $TranscriptContent = $TranscriptContent -split '\r?\n'
+
     Get-Content -Path './config/highlights.csv' | ConvertFrom-Csv | ForEach-Object {
         $Reason = $_.Reason
-        $TranscriptContent | Select-String -Pattern $_.Pattern -AllMatches -Context 1 | ForEach-Object {
-            $LineNumber = $_.LineNumber
-            Write-Host "${TranscriptFile}:$LineNumber - $Reason" -ForegroundColor Yellow
+        $TranscriptLines | Select-String -Pattern $_.Pattern -AllMatches -Context 1 | ForEach-Object {
+            Write-Host "${TranscriptFile}:$($_.LineNumber) - $Reason" -ForegroundColor Yellow
             Write-Host $_.ToEmphasizedString('')
         }
     }
