@@ -27,7 +27,7 @@ In a recent collab with AZKi and Iroha, FUWAMOCO competed in a cookie battle fea
 
 ## Icomochi Exhibition & Goods (26:00)
 
-FUWAMOCO’s artist, Icomochi-mama, has a Candy Blossom exhibition at the Ilus Gallery in Umeda, featuring fairy-tale artwork and a new illustration book. The exhibition concludes tomorrow, and she’ll also participate in a hololive doujinshi event on November 10.
+FUWAMOCO’s artist, Icomochi-mama, has an exhibition, "Candy Blue," at the ILLUST GALLERY TOLALA in Osaka, featuring fairy-tale artwork and a new illustration book. The exhibition concludes on October 29. She’ll also participate in a hololive doujinshi event on November 10.
 
 ## Elizabeth "Blackbird" Cover (29:07)
 
@@ -39,7 +39,7 @@ Justice invites Ruffians to a Halloween Haunted Mansion VRChat event with FUWAMO
 
 ## Doggie Of The Day (33:08)
 
-Today’s Doggie of the Day is Lily, an older Chihuahua who embodies cheer and resilience. FUWAMOCO admire her spirit and wish her plenty of comfy naps.
+Today’s Doggie of the Day is Lilli, an older Chihuahua who embodies cheer and resilience. FUWAMOCO admire her spirit and wish her plenty of comfy naps.
 
 ## Today I Went On A Walk (34:41)
 
