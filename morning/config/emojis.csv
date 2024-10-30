@@ -120,6 +120,7 @@ Pattern,Emoji
 \bbreak\b,⏸️
 \bbunn(y|ies)\b,🐇
 \bBYOU\b,🤒
+\bcards? game,🃏
 \bcall\b,📲
 \bcats?\b,🐱
 \bcelebration,🎉
@@ -137,6 +138,7 @@ Pattern,Emoji
 \beurobeat,🚗
 \bexpo\b,🎪
 \bexposed,📸
+\bfan art\b,🎨
 \b(figure|nendo|pop up parade\b),🪆
 \b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
 \b(goal|milestone),🏁
@@ -193,6 +195,7 @@ Pattern,Emoji
 \bTouhou\b,🌸
 \btravel,🧳
 \bupdate,🆕
+\bwalk,🚶‍➡️
 \bwaterpark\b,🔫
 \bWonFes\b,🎨
 \bwrestling\b,🤼
