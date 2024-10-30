@@ -128,8 +128,9 @@ foreach ($Audio in (Get-ChildItem -Path $SourceFolder -Filter "$FileBaseName.*" 
     Get-Content -Path './config/replacements.csv' | ConvertFrom-Csv | ForEach-Object {
         if ($_.Warning -eq "Y") {
             $Pattern = $_.Pattern
+            $Replacement = $_.Replacement
             $TranscriptLines | Select-String -Pattern $Pattern -AllMatches -Context 1 | ForEach-Object {
-                Write-Host "${TranscriptFile}:$($_.LineNumber) - Replaced with `"$Pattern`"" -ForegroundColor Yellow
+                Write-Host "${TranscriptFile}:$($_.LineNumber) - Replaced with `"$Replacement`"" -ForegroundColor Yellow
                 Write-Host $_.ToEmphasizedString('')
             }
         }
