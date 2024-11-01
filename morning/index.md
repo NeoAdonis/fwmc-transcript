@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-10-30 20:35 UTC
+Last updated: 2024-11-01 21:56 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -149,3 +149,4 @@ Last updated: 2024-10-30 20:35 UTC
 | 2024-10-25 | Fri | [Episode #137](https://youtu.be/maZpz3JOJvc) | this is it, friday ✨ | [Summary](summaries/20241025_137.md) | [Transcript](transcripts/20241025/transcript.vtt) |
 | 2024-10-28 | Mon | [Episode #138](https://youtu.be/Fp8TD1E0vsA) | a few more days until hibernation ✨ | [Summary](summaries/20241028_138.md) | [Transcript](transcripts/20241028/transcript.vtt) |
 | 2024-10-30 | Wed | [Episode #139](https://youtu.be/JTU_8FFdMH8) | last pup talk until 2025?! ✨ | [Summary](summaries/20241030_139.md) | [Transcript](transcripts/20241030/transcript.vtt) |
+| 2024-11-01 | Fri | [Episode #140](https://youtu.be/nGCNOxSxUlM) | we'll all be waiting with wagging tails ✨ we'll see you again for 8am PT on March 10th 2025!! | [Summary](summaries/20241101_140.md) | [Transcript](transcripts/20241101/transcript.vtt) |
