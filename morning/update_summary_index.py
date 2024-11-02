@@ -58,10 +58,10 @@ for transcript_subfolder in os.listdir(transcripts_folder):
             re.sub(
                 r"\s+",
                 "_",
-                re.sub(
+                str.replace(
+                    f"{transcript_subfolder} {metadata['episode']}",
                     "あさモコ",
                     "ASAMOCO",
-                    f"{transcript_subfolder} {metadata['episode']}",
                 ),
             ),
         )
@@ -81,20 +81,23 @@ for transcript_subfolder in os.listdir(transcripts_folder):
             }
         )
 
+        header_regex = re.compile(r"(#+) (.*)\n")
+        timestamp_regex = re.compile(r"(.*) \((\d+):(\d+)\)")
+
         episode_question = ""
         skip_front_matter = False
         current_section = ""
 
         for line in summary:
             if skip_front_matter:
-                if re.match(r"^---$", line):
+                if line == "---\n":
                     skip_front_matter = False
                 continue
-            elif re.match(r"^---$", line):
+            elif line == "---\n":
                 skip_front_matter = True
                 continue
 
-            header_match = re.match(r"^(#+) (.*)$", line)
+            header_match = header_regex.fullmatch(line)
             if header_match:
                 header_level = header_match.group(1)
                 header = current_section = header_match.group(2)
@@ -107,13 +110,13 @@ for transcript_subfolder in os.listdir(transcripts_folder):
                 if header_level != "###" and episode_name != "friday the 13th":
                     header = f"{emoji} {header}"
 
-                timestamp_match = re.match(r"^(.*) \((\d+):(\d+)\)$", header)
+                timestamp_match = timestamp_regex.fullmatch(header)
                 if timestamp_match:
                     timestamp = f"[{timestamp_match.group(2)}:{timestamp_match.group(3)}]({episode_link}?t={timestamp_match.group(2)}m{timestamp_match.group(3)}s)"
                     line = f"{header_level} {timestamp_match.group(1)} ({timestamp})\n"
-                    if re.match(r"^Introduction", current_section):
+                    if current_section.lower().startswith("introduction"):
                         line = f"# {episode_name} (start: {timestamp})\n"
-            elif re.match(r"^Question of the Day", current_section, re.IGNORECASE):
+            elif current_section.lower().startswith("question of the day"):
                 episode_question += line
 
             new_summary.append(line)
@@ -136,7 +139,7 @@ for transcript_subfolder in os.listdir(transcripts_folder):
             )
 
         # Remove all empty lines at the beginning of the summary
-        while new_summary and re.match(r"^\s*$", new_summary[0]):
+        while new_summary and new_summary[0].isspace():
             new_summary.pop(0)
 
         with open(
