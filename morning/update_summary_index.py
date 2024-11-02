@@ -162,9 +162,7 @@ if "\n".join(current_index) != "\n".join(summary_index):
 
     with open("index.csv", "w") as csvfile:
         fieldnames = ["Date", "Episode", "Title", "Description", "Illustrator", "Link"]
-        writer = csv.DictWriter(
-            csvfile, fieldnames=fieldnames, lineterminator="\n", quoting=csv.QUOTE_ALL
-        )
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         for row in sorted(summary_table, key=lambda x: x["Date"]):
             writer.writerow(row)
