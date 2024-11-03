@@ -6,6 +6,9 @@ import json
 import subprocess
 import shutil
 
+# Define constants
+SUMMARY_MAX_LENGTH = 4000
+
 # Parse command line arguments
 parser = argparse.ArgumentParser(
     description="Validate the structure and content of the transcripts and metadata files."
@@ -54,5 +57,5 @@ for root, dirs, files in os.walk(transcripts_folder):
                 content = f.read()
             length = len(content)
             relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
-            if length > 4000:
+            if length > SUMMARY_MAX_LENGTH:
                 print(f"{relative_path} - File too long ({length} characters)")

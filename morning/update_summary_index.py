@@ -3,11 +3,15 @@
 import argparse
 import csv
 import json
-import re
 import os
+import re
 from datetime import datetime
 from datetime import timezone as datetime_timezone
 
+# Define constants
+NO_EMOJI_EPISODES = ["friday the 13th"]
+CURRENT_TIME_STRING = datetime.now(datetime_timezone.utc).strftime("%Y-%m-%d %H:%M")
+LAST_UPDATED_STRING = f"Last updated: {CURRENT_TIME_STRING} UTC"
 
 # Parse command line arguments
 parser = argparse.ArgumentParser(
@@ -30,20 +34,17 @@ args = parser.parse_args()
 transcripts_folder = args.transcripts_folder
 summaries_folder = args.summaries_folder
 
-summary_index = []
+
+summary_index = [
+    "# 🌅 FUWAMOCO Morning Episode Summaries",
+    "",
+    LAST_UPDATED_STRING,
+    "",
+    "| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |",
+    "| ------ | --- | --------- | --- | --------- | ------------ |",
+]
 summary_table = []
-
-current_time_string = datetime.now(datetime_timezone.utc).strftime("%Y-%m-%d %H:%M")
-last_updated_string = f"Last updated: {current_time_string} UTC"
-
-summary_index.append("# 🌅 FUWAMOCO Morning Episode Summaries")
-summary_index.append("")
-summary_index.append(last_updated_string)
-summary_index.append("")
-summary_index.append("| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |")
-summary_index.append("| ------ | --- | --------- | --- | --------- | ------------ |")
-
-question_summary = ["FUWAMOCO Morning Questions of the Day", "", last_updated_string]
+question_summary = ["FUWAMOCO Morning Questions of the Day", "", LAST_UPDATED_STRING]
 
 for transcript_subfolder in os.listdir(transcripts_folder):
     subfolder_path = os.path.join(transcripts_folder, transcript_subfolder)
@@ -124,13 +125,15 @@ for transcript_subfolder in os.listdir(transcripts_folder):
             if header_match:
                 header_level = header_match.group(1)
                 header = current_section = header_match.group(2)
-                emoji = "🎞️"
-                for emoji_entry in emoji_list:
-                    if re.search(emoji_entry["Pattern"], header, re.IGNORECASE):
-                        emoji = emoji_entry["Emoji"]
-                        break
-                # TODO: Make this configurable if needed
-                if header_level != "###" and episode_name != "friday the 13th":
+                if (
+                    header_level != "###"
+                    and episode_name.lower() not in NO_EMOJI_EPISODES
+                ):
+                    emoji = "🎞️"
+                    for emoji_entry in emoji_list:
+                        if re.search(emoji_entry["Pattern"], header, re.IGNORECASE):
+                            emoji = emoji_entry["Emoji"]
+                            break
                     header = f"{emoji} {header}"
 
                 timestamp_match = timestamp_regex.fullmatch(header)
@@ -182,7 +185,7 @@ with open("index.md", "r", encoding="utf-8") as f:
     current_index = f.readlines()
 
 current_index = [
-    re.sub(r"^Last updated: .*$", last_updated_string, line) for line in current_index
+    re.sub(r"^Last updated: .*$", LAST_UPDATED_STRING, line) for line in current_index
 ]
 
 if "\n".join(current_index) != "\n".join(summary_index):
@@ -205,7 +208,7 @@ with open("questions.txt", "r", encoding="utf-8") as f:
     current_questions = f.readlines()
 
 current_questions = [
-    re.sub(r"Last updated: .*$", last_updated_string, line)
+    re.sub(r"Last updated: .*$", LAST_UPDATED_STRING, line)
     for line in current_questions
 ]
 
