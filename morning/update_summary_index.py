@@ -1,4 +1,6 @@
-import builtins
+"""Update the index.md file with the latest episode summaries and questions of the day"""
+
+import argparse
 import csv
 import json
 import re
@@ -7,20 +9,32 @@ from datetime import datetime
 from datetime import timezone as datetime_timezone
 
 
-def open_with_default_encoding(file, mode="r", encoding="utf-8", **kwargs):
-    return builtins._open(file, mode, encoding=encoding, **kwargs)
+# Parse command line arguments
+parser = argparse.ArgumentParser(
+    description="Validate the structure and content of the transcripts and metadata files."
+)
+parser.add_argument(
+    "--transcripts_folder",
+    type=str,
+    default="transcripts",
+    help="Path to the transcripts directory",
+)
+parser.add_argument(
+    "--summaries_folder",
+    type=str,
+    default="transcripts",
+    help="Path to the transcripts directory",
+)
+args = parser.parse_args()
 
-
-builtins._open = builtins.open
-builtins.open = open_with_default_encoding
-
-transcripts_folder = "transcripts"
-summaries_folder = "summaries"
+transcripts_folder = args.transcripts_folder
+summaries_folder = args.summaries_folder
 
 summary_index = []
 summary_table = []
 
-last_updated_string = f"Last updated: {datetime.now(datetime_timezone.utc).strftime('%Y-%m-%d %H:%M')} UTC"
+current_time_string = datetime.now(datetime_timezone.utc).strftime("%Y-%m-%d %H:%M")
+last_updated_string = f"Last updated: {current_time_string} UTC"
 
 summary_index.append("# 🌅 FUWAMOCO Morning Episode Summaries")
 summary_index.append("")
@@ -34,15 +48,19 @@ question_summary = ["FUWAMOCO Morning Questions of the Day", "", last_updated_st
 for transcript_subfolder in os.listdir(transcripts_folder):
     subfolder_path = os.path.join(transcripts_folder, transcript_subfolder)
     if os.path.isdir(subfolder_path):
-        with open("config/emojis.csv", "r") as csvfile:
+        with open("config/emojis.csv", "r", encoding="utf-8") as csvfile:
             emoji_list = list(csv.DictReader(csvfile))
 
-        with open(os.path.join(subfolder_path, "summary.md"), "r") as f:
+        with open(
+            os.path.join(subfolder_path, "summary.md"), "r", encoding="utf-8"
+        ) as f:
             summary = f.readlines()
 
         new_summary = []
 
-        with open(os.path.join(subfolder_path, "metadata.json"), "r") as f:
+        with open(
+            os.path.join(subfolder_path, "metadata.json"), "r", encoding="utf-8"
+        ) as f:
             metadata = json.load(f)
 
         episode_name = (
@@ -67,7 +85,12 @@ for transcript_subfolder in os.listdir(transcripts_folder):
         )
 
         summary_index.append(
-            f"| {metadata['date']} | {metadata['dayOfWeek'][:3]} | [{episode_name}]({episode_link}) | {metadata['description']} | [Summary]({summaries_folder}/{summary_base_name}.md) | [Transcript]({transcript_path}) |"
+            f"| {metadata['date']} | "
+            + f"{metadata['dayOfWeek'][:3]} | "
+            + f"[{episode_name}]({episode_link}) | "
+            + f"{metadata['description']} | "
+            + f"[Summary]({summaries_folder}/{summary_base_name}.md) | "
+            + f"[Transcript]({transcript_path}) |"
         )
 
         summary_table.append(
@@ -112,7 +135,12 @@ for transcript_subfolder in os.listdir(transcripts_folder):
 
                 timestamp_match = timestamp_regex.fullmatch(header)
                 if timestamp_match:
-                    timestamp = f"[{timestamp_match.group(2)}:{timestamp_match.group(3)}]({episode_link}?t={timestamp_match.group(2)}m{timestamp_match.group(3)}s)"
+                    ts_text = f"{timestamp_match.group(2)}:{timestamp_match.group(3)}"
+                    ts_link = (
+                        f"{episode_link}?"
+                        + f"t={timestamp_match.group(2)}m{timestamp_match.group(3)}s"
+                    )
+                    timestamp = f"[{ts_text}]({ts_link})"
                     line = f"{header_level} {timestamp_match.group(1)} ({timestamp})\n"
                     if current_section.lower().startswith("introduction"):
                         line = f"# {episode_name} (start: {timestamp})\n"
@@ -145,11 +173,12 @@ for transcript_subfolder in os.listdir(transcripts_folder):
         with open(
             os.path.join(summaries_folder, f"{summary_base_name}.md"),
             "w",
+            encoding="utf-8",
         ) as f:
             f.writelines(new_summary)
 
 current_index = []
-with open("index.md", "r") as f:
+with open("index.md", "r", encoding="utf-8") as f:
     current_index = f.readlines()
 
 current_index = [
@@ -157,10 +186,10 @@ current_index = [
 ]
 
 if "\n".join(current_index) != "\n".join(summary_index):
-    with open("index.md", "w") as f:
+    with open("index.md", "w", encoding="utf-8") as f:
         f.writelines(f"{line}\n" for line in summary_index)
 
-    with open("index.csv", "w") as csvfile:
+    with open("index.csv", "w", encoding="utf-8") as csvfile:
         fieldnames = ["Date", "Episode", "Title", "Description", "Illustrator", "Link"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -172,7 +201,7 @@ else:
     print("No changes to index")
 
 current_questions = []
-with open("questions.txt", "r") as f:
+with open("questions.txt", "r", encoding="utf-8") as f:
     current_questions = f.readlines()
 
 current_questions = [
@@ -181,7 +210,7 @@ current_questions = [
 ]
 
 if "\n".join(current_questions) != "\n".join(question_summary):
-    with open("questions.txt", "w") as f:
+    with open("questions.txt", "w", encoding="utf-8") as f:
         f.writelines(f"{line}\n" for line in question_summary)
     print("Questions summary updated")
 else:

@@ -1,11 +1,37 @@
+"""Common script to download audio from a YouTube playlist using yt-dlp."""
+
+import argparse
 import os
 import subprocess
 import shutil
 
-# Define variables
-url = "https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS"
-output_folder = "audio"
-download_video = False
+# Parse command line arguments
+parser = argparse.ArgumentParser(
+    description="Validate the structure and content of the transcripts and metadata files."
+)
+parser.add_argument(
+    "--url",
+    type=str,
+    default="https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
+    help="URL of the YouTube playlist or video",
+)
+parser.add_argument(
+    "--output_folder",
+    type=str,
+    default="audio",
+    help="Path to the output directory",
+)
+parser.add_argument(
+    "--download_video",
+    type=bool,
+    default=False,
+    help="True if the video should be downloaded instead of audio only, False otherwise",
+)
+args = parser.parse_args()
+
+url = args.url
+output_folder = args.output_folder
+download_video = args.download_video
 
 # Check if the output folder exists, and create it if it doesn't
 if not os.path.exists(output_folder):
@@ -20,7 +46,7 @@ if not shutil.which("ffmpeg"):
     print("ffmpeg not found. Please make sure that ffmpeg is installed.")
     dependencies_met = False
 if not dependencies_met:
-    raise Exception("Dependencies not met")
+    raise RuntimeError("Dependencies not met")
 
 # Download best source audio for better transcription and save some metadata
 subprocess.run(
@@ -53,7 +79,8 @@ subprocess.run(
         "-N",
         "3",
         url,
-    ]
+    ],
+    check=True,
 )
 
 # Remove the "NA" folder if it exists
@@ -89,5 +116,6 @@ if download_video:
             "-N",
             "3",
             url,
-        ]
+        ],
+        check=True,
     )

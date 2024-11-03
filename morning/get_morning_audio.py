@@ -1,13 +1,40 @@
+"""Download the audio and descriptions of the FUWAMOCO morning playlist."""
+
+import argparse
 import os
 
-# Define variables
-url = "https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS"
-output_folder = "audio"
-download_video = False
+# Parse command line arguments
+parser = argparse.ArgumentParser(
+    description="Validate the structure and content of the transcripts and metadata files."
+)
+parser.add_argument(
+    "--url",
+    type=str,
+    default="https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
+    help="URL of the YouTube playlist or video",
+)
+parser.add_argument(
+    "--output_folder",
+    type=str,
+    default="audio",
+    help="Path to the output directory",
+)
+parser.add_argument(
+    "--download_video",
+    type=bool,
+    default=False,
+    help="True if the video should be downloaded instead of audio only, False otherwise",
+)
+args = parser.parse_args()
+
+url = args.url
+output_folder = args.output_folder
+download_video = args.download_video
 
 exec(open("../common/get_video_audio.py").read())
 
-# Find the first time when there's a blank line after a non-blank line in the description files, then keep only the lines before that
+# Find the first time when there's a blank line after a non-blank line in the description files,
+# then keep only the lines before that
 for root, dirs, files in os.walk(output_folder):
     for file in files:
         if file.endswith(".description"):
