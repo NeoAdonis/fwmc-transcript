@@ -47,7 +47,10 @@ for root, dirs, files in os.walk(transcripts_folder):
 npm_command = shutil.which("bun")
 if not npm_command:
     npm_command = shutil.which("npm")
-subprocess.run([npm_command, "run", "lint-summaries"], check=True)
+if npm_command is None:
+    print("npm or bun command not found. Skipping linting of summaries.")
+else:
+    subprocess.run([npm_command, "run", "lint-summaries"], check=True)
 
 # Check for long summaries
 for root, dirs, files in os.walk(transcripts_folder):
