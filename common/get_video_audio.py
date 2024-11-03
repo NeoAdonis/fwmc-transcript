@@ -38,20 +38,15 @@ if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
 # Check if the required dependencies are installed
-dependencies_met = True
-if not shutil.which("yt-dlp"):
+YT_DLP_PATH = shutil.which("yt-dlp")
+if YT_DLP_PATH is None:
     print("yt-dlp not found. Please make sure that yt-dlp is installed.")
-    dependencies_met = False
-if not shutil.which("ffmpeg"):
-    print("ffmpeg not found. Please make sure that ffmpeg is installed.")
-    dependencies_met = False
-if not dependencies_met:
     raise RuntimeError("Dependencies not met")
 
 # Download best source audio for better transcription and save some metadata
 subprocess.run(
     [
-        shutil.which("yt-dlp"),
+        YT_DLP_PATH,
         "-q",
         "--progress",
         "-f",
@@ -102,7 +97,7 @@ for root, dirs, files in os.walk(output_folder):
 if download_video:
     subprocess.run(
         [
-            shutil.which("yt-dlp"),
+            YT_DLP_PATH,
             "-q",
             "--progress",
             "-f",

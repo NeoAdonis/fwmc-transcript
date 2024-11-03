@@ -2,6 +2,7 @@
 
 import argparse
 import os
+import shutil
 import subprocess
 
 # Parse command line arguments
@@ -25,6 +26,12 @@ args = parser.parse_args()
 path = args.path
 new_base_name = args.new_base_name
 
+# Check if the required dependencies are installed
+FFMPEG_PATH = shutil.which("ffmpeg")
+if FFMPEG_PATH is None:
+    print("ffmpeg not found. Please make sure that ffmpeg is installed.")
+    raise RuntimeError("Dependencies not met")
+
 # Determine the parent folder of the given path
 parent_folder = os.path.dirname(path)
 
@@ -36,7 +43,7 @@ if not os.path.exists(converted_audio):
     # Use ffmpeg to convert the audio file
     subprocess.run(
         [
-            "ffmpeg",
+            FFMPEG_PATH,
             "-v",
             "warning",
             "-i",
