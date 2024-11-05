@@ -4,9 +4,10 @@ import argparse
 import json
 import os
 import re
-import subprocess
 from datetime import datetime
 from termcolor import colored
+import torch
+import whisperx  # type: ignore[import-untyped]
 from common.convert_to_wav import convert_to_wav
 
 # Define constants
@@ -24,6 +25,8 @@ DEFAULT_SECTION_NAMES = [
     "- Next Stream & Schedule",
     "- Thanks & Extra Special Ruffians",
 ]
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+BATCH_SIZE = 16
 
 # Parse command line arguments
 parser = argparse.ArgumentParser(
@@ -72,6 +75,20 @@ include_no_prompt = args.include_no_prompt
 # Read the transcript prompt from the specified file
 with open(prompt_path, "r", encoding="utf-8") as f:
     transcript_prompt = f.read()
+
+# Load transcription models
+model = whisperx.load_model(
+    model,
+    DEVICE,
+    asr_options={
+        "initial_prompt": transcript_prompt,
+    },
+)
+align_model, align_metadata = whisperx.load_align_model(
+    language_code="en", device=DEVICE
+)
+if include_no_prompt:
+    model_no_prompt = whisperx.load_model(model, DEVICE)
 
 # Iterate through the audio files in the source folder
 for root, dirs, files in os.walk(source_folder):
@@ -150,29 +167,21 @@ for root, dirs, files in os.walk(source_folder):
             convert_to_wav(audio_path, CONVERT_BASE_NAME)
             audio_path = os.path.join(root, f"{CONVERT_BASE_NAME}.wav")
 
-            # TODO: Use whisperx module instead of running the command directly
             # Transcript with prompt to create a more accurate transcript
-            subprocess.run(
-                [
-                    "whisperx",
-                    "--model",
-                    model,
-                    "--batch_size",
-                    "16",
-                    "-o",
-                    new_output_folder,
-                    "--output_format",
-                    "vtt",
-                    "--verbose",
-                    "False",
-                    "--language",
-                    "en",
-                    "--initial_prompt",
-                    transcript_prompt,
-                    audio_path,
-                ],
-                check=True,
+            audio = whisperx.load_audio(audio_path)
+
+            result = model.transcribe(audio, BATCH_SIZE, language="en")
+            result = whisperx.align(
+                result["segments"],
+                align_model,
+                align_metadata,
+                audio,
+                DEVICE,
+                return_char_alignments=False,
             )
+
+            writer = whisperx.utils.get_writer("vtt", new_output_folder)
+            writer(result, audio_path)
 
             # Transcript without prompt can be used to fix potential errors when using the prompt
             if include_no_prompt:
@@ -181,25 +190,19 @@ for root, dirs, files in os.walk(source_folder):
                 )
                 if not os.path.exists(new_output_folder_no_prompt):
                     os.makedirs(new_output_folder_no_prompt)
-                subprocess.run(
-                    [
-                        "whisperx",
-                        "--model",
-                        model,
-                        "--batch_size",
-                        "16",
-                        "-o",
-                        new_output_folder_no_prompt,
-                        "--output_format",
-                        "vtt",
-                        "--verbose",
-                        "False",
-                        "--language",
-                        "en",
-                        audio_path,
-                    ],
-                    check=True,
+
+                result = model_no_prompt.transcribe(audio, BATCH_SIZE, language="en")
+                result = whisperx.align(
+                    result["segments"],
+                    align_model,
+                    align_metadata,
+                    audio,
+                    DEVICE,
+                    return_char_alignments=False,
                 )
+
+                writer = whisperx.utils.get_writer("vtt", new_output_folder_no_prompt)
+                writer(result, audio_path)
 
             os.remove(audio_path)
 
