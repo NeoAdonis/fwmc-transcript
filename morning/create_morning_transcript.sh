@@ -27,5 +27,4 @@ if ! command -v whisperx &> /dev/null; then
     exit 1
 fi
 
-# Run the Python script
-python create_morning_transcript.py
+python create_morning_transcript.py "${@:2}"

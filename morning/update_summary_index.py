@@ -18,21 +18,21 @@ parser = argparse.ArgumentParser(
     description="Validate the structure and content of the transcripts and metadata files."
 )
 parser.add_argument(
-    "--transcripts_folder",
+    "--transcripts_dir",
     type=str,
     default="transcripts",
     help="Path to the transcripts directory",
 )
 parser.add_argument(
-    "--summaries_folder",
+    "--summaries_dir",
     type=str,
     default="transcripts",
     help="Path to the transcripts directory",
 )
 args = parser.parse_args()
 
-transcripts_folder = args.transcripts_folder
-summaries_folder = args.summaries_folder
+transcripts_dir = args.transcripts_dir
+summaries_dir = args.summaries_dir
 
 
 summary_index = [
@@ -46,8 +46,8 @@ summary_index = [
 summary_table = []
 question_summary = ["FUWAMOCO Morning Questions of the Day", "", LAST_UPDATED_STRING]
 
-for transcript_subfolder in os.listdir(transcripts_folder):
-    subfolder_path = os.path.join(transcripts_folder, transcript_subfolder)
+for transcript_subdir in os.listdir(transcripts_dir):
+    subfolder_path = os.path.join(transcripts_dir, transcript_subdir)
     if os.path.isdir(subfolder_path):
         with open("config/emojis.csv", "r", encoding="utf-8") as csvfile:
             emoji_list = list(csv.DictReader(csvfile))
@@ -69,7 +69,7 @@ for transcript_subfolder in os.listdir(transcripts_folder):
             if metadata.get("isSpecial")
             else f"Episode #{metadata['episode']}"
         )
-        transcript_path = f"{transcripts_folder}/{transcript_subfolder}/transcript.vtt"
+        transcript_path = f"{transcripts_dir}/{transcript_subdir}/transcript.vtt"
         episode_link = f"https://youtu.be/{metadata['id']}"
         summary_base_name = re.sub(
             r"[^a-zA-Z0-9_]",
@@ -78,7 +78,7 @@ for transcript_subfolder in os.listdir(transcripts_folder):
                 r"\s+",
                 "_",
                 str.replace(
-                    f"{transcript_subfolder} {metadata['episode']}",
+                    f"{transcript_subdir} {metadata['episode']}",
                     "あさモコ",
                     "ASAMOCO",
                 ),
@@ -90,7 +90,7 @@ for transcript_subfolder in os.listdir(transcripts_folder):
             + f"{metadata['dayOfWeek'][:3]} | "
             + f"[{episode_name}]({episode_link}) | "
             + f"{metadata['description']} | "
-            + f"[Summary]({summaries_folder}/{summary_base_name}.md) | "
+            + f"[Summary]({summaries_dir}/{summary_base_name}.md) | "
             + f"[Transcript]({transcript_path}) |"
         )
 
@@ -174,7 +174,7 @@ for transcript_subfolder in os.listdir(transcripts_folder):
             new_summary.pop(0)
 
         with open(
-            os.path.join(summaries_folder, f"{summary_base_name}.md"),
+            os.path.join(summaries_dir, f"{summary_base_name}.md"),
             "w",
             encoding="utf-8",
         ) as f:

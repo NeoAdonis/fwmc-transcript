@@ -15,6 +15,7 @@ INTRODUCTION_PATTERN = "Hallo hallo BAU BAU"
 FILE_BASE_NAME = "audio"
 CONVERT_BASE_NAME = "audio_converted"
 NEW_BASE_NAME = "transcript"
+PROMPT_FILE = "config/transcript-prompt.txt"
 DEFAULT_SECTION_NAMES = [
     "- Introduction",
     "- Pero Sighting",
@@ -33,16 +34,16 @@ parser = argparse.ArgumentParser(
     description="Validate the structure and content of the transcripts and metadata files."
 )
 parser.add_argument(
-    "--source_folder",
+    "--audio_dir",
     type=str,
     default="audio",
-    help="Path to the source directory",
+    help="Path to the directory containing the audio files",
 )
 parser.add_argument(
-    "--output_folder",
+    "--output_dir",
     type=str,
     default="transcripts",
-    help="Path to the output directory",
+    help="Path to the directory to save the transcripts",
 )
 parser.add_argument(
     "--model",
@@ -53,12 +54,6 @@ parser.add_argument(
     help="Whisper model to use for transcription",
 )
 parser.add_argument(
-    "--prompt_path",
-    type=str,
-    default="config/transcript-prompt.txt",
-    help="Path to the transcript prompt file",
-)
-parser.add_argument(
     "--include_no_prompt",
     type=bool,
     default=False,
@@ -66,14 +61,13 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-source_folder = args.source_folder
-output_folder = args.output_folder
+audio_dir = args.audio_dir
+output_dir = args.output_dir
 model = args.model
-prompt_path = args.prompt_path
 include_no_prompt = args.include_no_prompt
 
 # Read the transcript prompt from the specified file
-with open(prompt_path, "r", encoding="utf-8") as f:
+with open(PROMPT_FILE, "r", encoding="utf-8") as f:
     transcript_prompt = f.read()
 
 # Load transcription models
@@ -91,14 +85,14 @@ if include_no_prompt:
     model_no_prompt = whisperx.load_model(model, DEVICE)
 
 # Iterate through the audio files in the source folder
-for root, dirs, files in os.walk(source_folder):
+for root, dirs, files in os.walk(audio_dir):
     for file in files:
         if file.startswith(FILE_BASE_NAME):
             audio_path = os.path.join(root, file)
             if audio_path.endswith((".wave", ".wav")):
                 continue
             parent_folder_name = os.path.basename(os.path.dirname(audio_path))
-            new_output_folder = os.path.join(output_folder, parent_folder_name)
+            new_output_dir = os.path.join(output_dir, parent_folder_name)
 
             title_file_path = os.path.join(root, f"{parent_folder_name}.title")
             description_file_path = os.path.join(
@@ -150,15 +144,15 @@ for root, dirs, files in os.walk(source_folder):
                     )
                 )
 
-            if not os.path.exists(new_output_folder):
-                os.makedirs(new_output_folder)
+            if not os.path.exists(new_output_dir):
+                os.makedirs(new_output_dir)
 
             with open(
-                os.path.join(new_output_folder, "metadata.json"), "w", encoding="utf-8"
+                os.path.join(new_output_dir, "metadata.json"), "w", encoding="utf-8"
             ) as f:
                 json.dump(metadata, f, indent=4)
 
-            if os.path.exists(os.path.join(new_output_folder, f"{NEW_BASE_NAME}.vtt")):
+            if os.path.exists(os.path.join(new_output_dir, f"{NEW_BASE_NAME}.vtt")):
                 continue
 
             print(f"Transcribing '{audio_path}'...")
@@ -180,16 +174,16 @@ for root, dirs, files in os.walk(source_folder):
                 return_char_alignments=False,
             )
 
-            writer = whisperx.utils.get_writer("vtt", new_output_folder)
+            writer = whisperx.utils.get_writer("vtt", new_output_dir)
             writer(result, audio_path)
 
             # Transcript without prompt can be used to fix potential errors when using the prompt
             if include_no_prompt:
-                new_output_folder_no_prompt = os.path.join(
-                    new_output_folder, "noprompt"
+                new_output_dir_no_prompt = os.path.join(
+                    new_output_dir, "noprompt"
                 )
-                if not os.path.exists(new_output_folder_no_prompt):
-                    os.makedirs(new_output_folder_no_prompt)
+                if not os.path.exists(new_output_dir_no_prompt):
+                    os.makedirs(new_output_dir_no_prompt)
 
                 result = model_no_prompt.transcribe(audio, BATCH_SIZE, language="en")
                 result = whisperx.align(
@@ -201,19 +195,19 @@ for root, dirs, files in os.walk(source_folder):
                     return_char_alignments=False,
                 )
 
-                writer = whisperx.utils.get_writer("vtt", new_output_folder_no_prompt)
+                writer = whisperx.utils.get_writer("vtt", new_output_dir_no_prompt)
                 writer(result, audio_path)
 
             os.remove(audio_path)
 
-            for file in os.listdir(new_output_folder):
+            for file in os.listdir(new_output_dir):
                 if file.startswith(NEW_BASE_NAME):
-                    os.remove(os.path.join(new_output_folder, file))
+                    os.remove(os.path.join(new_output_dir, file))
                 elif file.startswith(CONVERT_BASE_NAME):
                     os.rename(
-                        os.path.join(new_output_folder, file),
+                        os.path.join(new_output_dir, file),
                         os.path.join(
-                            new_output_folder,
+                            new_output_dir,
                             f"{NEW_BASE_NAME}{os.path.splitext(file)[1]}",
                         ),
                     )
@@ -221,7 +215,7 @@ for root, dirs, files in os.walk(source_folder):
             transcript_file = next(
                 (
                     f
-                    for f in os.listdir(new_output_folder)
+                    for f in os.listdir(new_output_dir)
                     if f.startswith(NEW_BASE_NAME)
                 ),
                 None,
@@ -229,14 +223,14 @@ for root, dirs, files in os.walk(source_folder):
             if not transcript_file:
                 print(
                     colored(
-                        f"Transcript file not found in '{new_output_folder}'.", "red"
+                        f"Transcript file not found in '{new_output_dir}'.", "red"
                     )
                 )
                 continue
 
             # Fix common mistakes in the transcript
             with open(
-                os.path.join(new_output_folder, transcript_file), "r", encoding="utf-8"
+                os.path.join(new_output_dir, transcript_file), "r", encoding="utf-8"
             ) as f:
                 transcript_content = f.read()
             transcript_lines = transcript_content.splitlines()
@@ -263,7 +257,7 @@ for root, dirs, files in os.walk(source_folder):
                     pattern, replacement, transcript_content, flags=re.IGNORECASE
                 )
             with open(
-                os.path.join(new_output_folder, transcript_file), "w", encoding="utf-8"
+                os.path.join(new_output_dir, transcript_file), "w", encoding="utf-8"
             ) as f:
                 f.write(transcript_content)
 
@@ -290,7 +284,7 @@ for root, dirs, files in os.walk(source_folder):
                             )
                         )
 
-            if os.path.exists(os.path.join(new_output_folder, "summary.md")):
+            if os.path.exists(os.path.join(new_output_dir, "summary.md")):
                 continue
 
             episode_name = (
@@ -314,6 +308,6 @@ for root, dirs, files in os.walk(source_folder):
                 summary_draft.append(section_name)
 
             with open(
-                os.path.join(new_output_folder, "summary.md"), "w", encoding="utf-8"
+                os.path.join(new_output_dir, "summary.md"), "w", encoding="utf-8"
             ) as f:
                 f.write("\n".join(summary_draft))

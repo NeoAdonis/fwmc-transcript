@@ -6,11 +6,11 @@ import subprocess
 import shutil
 
 
-def get_video_audio(url, output_folder, download_video: bool = False):
+def get_video_audio(url, output_dir, download_video: bool = False):
     """Download the audio and descriptions of the YouTube playlist or video using yt-dlp."""
     # Check if the output folder exists, and create it if it doesn't
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
     # Check if the required dependencies are installed
     YT_DLP_PATH = shutil.which("yt-dlp")
@@ -27,9 +27,9 @@ def get_video_audio(url, output_folder, download_video: bool = False):
             "-f",
             "ba/b",
             "-P",
-            output_folder,
+            output_dir,
             "--download-archive",
-            os.path.join(output_folder, "archive.txt"),
+            os.path.join(output_dir, "archive.txt"),
             "--match-filter",
             "!is_live & live_status!=is_upcoming & availability=public",
             "--print-to-file",
@@ -54,12 +54,12 @@ def get_video_audio(url, output_folder, download_video: bool = False):
     )
 
     # Remove the "NA" folder if it exists
-    na_folder = os.path.join(output_folder, "NA")
+    na_folder = os.path.join(output_dir, "NA")
     if os.path.exists(na_folder):
         shutil.rmtree(na_folder)
 
     # yt-dlp appends new info to title files if it exists already; keep only the latest info
-    for root, _, files in os.walk(output_folder):
+    for root, _, files in os.walk(output_dir):
         for file in files:
             if file.endswith(".title"):
                 title_path = os.path.join(root, file)
@@ -80,7 +80,7 @@ def get_video_audio(url, output_folder, download_video: bool = False):
                 "-S",
                 "+size,+br,+res,+fps",
                 "-P",
-                output_folder,
+                output_dir,
                 "-o",
                 "%(release_date)s/video.%(ext)s",
                 "-N",
@@ -102,7 +102,7 @@ parser.add_argument(
     help="URL of the YouTube playlist or video",
 )
 parser.add_argument(
-    "--output_folder",
+    "--output_dir",
     type=str,
     default="audio",
     help="Path to the output directory",
@@ -115,4 +115,4 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-get_video_audio(args.url, args.output_folder, args.download_video)
+get_video_audio(args.url, args.output_dir, args.download_video)

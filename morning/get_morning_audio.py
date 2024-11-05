@@ -34,7 +34,7 @@ get_video_audio(args.url, output_folder, args.download_video)
 
 # Find the first time when there's a blank line after a non-blank line in the description files,
 # then keep only the lines before that
-for root, dirs, files in os.walk(output_folder):
+for root, _, files in os.walk(output_folder):
     for file in files:
         if file.endswith(".description"):
             description_path = os.path.join(root, file)

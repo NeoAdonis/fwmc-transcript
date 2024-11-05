@@ -1,6 +1,10 @@
 [CmdletBinding()]
 param(
-    [string]$CondaEnvironment = 'whisperx'
+    [string]$CondaEnvironment = 'whisperx',
+    [string]$AudioDirectory = 'audio',
+    [string]$OutputDirectory = 'transcripts',
+    [string]$Model = 'whisperx',
+    [switch]$IncludeNoPrompt = $false
 )
 
 if (-not (Get-Command conda -ErrorAction SilentlyContinue)) {
@@ -22,4 +26,4 @@ if (-not (Get-Command whisperx -ErrorAction SilentlyContinue)) {
     throw 'whisperx not found'
 }
 
-& python create_morning_transcript.py
+& python create_morning_transcript.py --audio_dir $AudioDirectory --output_dir --model $Model --include_no_prompt $IncludeNoPrompt

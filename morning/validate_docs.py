@@ -14,17 +14,19 @@ parser = argparse.ArgumentParser(
     description="Validate the structure and content of the transcripts and metadata files."
 )
 parser.add_argument(
-    "--transcripts_folder",
+    "--transcripts_dir",
     type=str,
     default="transcripts",
     help="Path to the transcripts directory",
 )
 args = parser.parse_args()
 
-transcripts_folder = args.transcripts_folder
+transcripts_dir = args.transcripts_dir
 
-# Basic metadata checks
-for root, dirs, files in os.walk(transcripts_folder):
+transcripts_dir_walker = os.walk(transcripts_dir)
+
+for root, dirs, files in transcripts_dir_walker:
+    # Basic metadata checks
     for file in files:
         if file == "metadata.json":
             with open(os.path.join(root, file), "r", encoding="utf-8") as f:
@@ -35,8 +37,7 @@ for root, dirs, files in os.walk(transcripts_folder):
             if isinstance(metadata.get("episode"), int) and metadata.get("isSpecial"):
                 print(f"{relative_path} - Numbered episode marked as special")
 
-# Check for missing summary files
-for root, dirs, files in os.walk(transcripts_folder):
+    # Check for missing summary files
     for directory in dirs:
         summary_path = os.path.join(root, directory, "summary.md")
         relative_path = os.path.relpath(summary_path, os.getcwd())
@@ -53,7 +54,8 @@ else:
     subprocess.run([npm_command, "run", "lint-summaries"], check=True)
 
 # Check for long summaries
-for root, dirs, files in os.walk(transcripts_folder):
+# This is done after linting as the linting process may have changed the summaries
+for root, _, files in transcripts_dir_walker:
     for file in files:
         if file == "summary.md":
             with open(os.path.join(root, file), "r", encoding="utf-8") as f:
@@ -61,4 +63,7 @@ for root, dirs, files in os.walk(transcripts_folder):
             length = len(content)
             relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
             if length > SUMMARY_MAX_LENGTH:
-                print(f"{relative_path} - File too long ({length} characters)")
+                print(
+                    f"{relative_path} - File too long "
+                    + f"({length} characters, max {SUMMARY_MAX_LENGTH})"
+                )
