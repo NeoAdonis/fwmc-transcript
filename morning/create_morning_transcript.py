@@ -252,7 +252,7 @@ for root, dirs, files in os.walk(source_folder):
                             print(
                                 re.sub(
                                     pattern,
-                                    lambda m: colored(m.group(), attrs=["bold"]),
+                                    lambda m: colored(str(m.group()), attrs=["bold"]),
                                     line,
                                 )
                             )
@@ -282,7 +282,7 @@ for root, dirs, files in os.walk(source_folder):
                         print(
                             re.sub(
                                 pattern,
-                                lambda m: colored(m.group(), attrs=["bold"]),
+                                lambda m: colored(str(m.group()), attrs=["bold"]),
                                 line,
                             )
                         )
