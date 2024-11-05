@@ -7,6 +7,7 @@ import re
 import subprocess
 from datetime import datetime
 from termcolor import colored
+from common.convert_to_wav import convert_to_wav
 
 # Define constants
 INTRODUCTION_PATTERN = "Hallo hallo BAU BAU"
@@ -146,7 +147,7 @@ for root, dirs, files in os.walk(source_folder):
             print(f"Transcribing '{audio_path}'...")
 
             # Convert audio files for easier transcription
-            exec(open("../common/get_video_audio.py").read())
+            convert_to_wav(audio_path, CONVERT_BASE_NAME)
             audio_path = os.path.join(root, f"{CONVERT_BASE_NAME}.wav")
 
             # TODO: Use whisperx module instead of running the command directly

@@ -2,6 +2,7 @@
 
 import argparse
 import os
+from common.get_video_audio import get_video_audio
 
 # Parse command line arguments
 parser = argparse.ArgumentParser(
@@ -27,11 +28,9 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-url = args.url
 output_folder = args.output_folder
-download_video = args.download_video
 
-exec(open("../common/get_video_audio.py").read())
+get_video_audio(args.url, output_folder, args.download_video)
 
 # Find the first time when there's a blank line after a non-blank line in the description files,
 # then keep only the lines before that
