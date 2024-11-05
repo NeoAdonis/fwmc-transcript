@@ -7,7 +7,7 @@ import re
 from datetime import datetime
 from termcolor import colored
 import torch
-import whisperx  # type: ignore[import-untyped]
+import whisperx
 from common.convert_to_wav import convert_to_wav
 
 # Define constants
