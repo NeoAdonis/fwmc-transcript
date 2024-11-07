@@ -10,6 +10,8 @@ import shutil
 SUMMARY_MAX_LENGTH = 4000
 
 if __name__ == "__main__":
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
     # Parse command line arguments
     parser = argparse.ArgumentParser(
         description="Validate the structure and content of the transcripts and metadata files."

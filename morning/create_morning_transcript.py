@@ -50,7 +50,7 @@ def parse_args():
     )
     parser.add_argument(
         "--model",
-        type=bool,
+        type=str,
         default=(
             "large-v2"  # This model *seems* to work better than "large-v3" for FUWAMOCO Morning
         ),
@@ -223,6 +223,8 @@ def create_summary_draft(metadata, new_output_dir):
 
 def main():
     """Create transcripts for FUWAMOCO Morning episodes."""
+
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
     args = parse_args()
 

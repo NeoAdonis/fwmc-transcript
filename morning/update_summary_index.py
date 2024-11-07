@@ -197,6 +197,9 @@ def refresh_questions_file(question_summary):
 
 def main():
     """Update the index.md file with the latest episode summaries and questions of the day."""
+
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
     args = parse_args()
 
     summary_index = [

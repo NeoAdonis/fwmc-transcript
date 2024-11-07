@@ -5,6 +5,8 @@ import os
 from common.media import get_video_audio
 
 if __name__ == "__main__":
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
     # Parse command line arguments
     parser = argparse.ArgumentParser(
         description="Validate the structure and content of the transcripts and metadata files."
@@ -29,7 +31,7 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    output_folder = args.output_folder
+    output_folder = os.path.join(os.getcwd(), args.output_folder)
 
     get_video_audio(args.url, output_folder, args.download_video)
 
