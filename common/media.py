@@ -46,15 +46,15 @@ def convert_to_wav(path: str, new_base_name: str):
 def get_video_audio(url: str, output_dir: str, download_video: bool = False):
     """Download the audio and descriptions of the YouTube playlist or video using yt-dlp."""
 
-    # Check if the output folder exists, and create it if it doesn't
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-
     # Check if the required dependencies are installed
     yt_dlp_path = shutil.which("yt-dlp")
     if yt_dlp_path is None:
         print("yt-dlp not found. Please make sure that yt-dlp is installed.")
         raise RuntimeError("Dependencies not met")
+
+    # Check if the output folder exists, and create it if it doesn't
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
     # Download best source audio for better transcription and save some metadata
     subprocess.run(
