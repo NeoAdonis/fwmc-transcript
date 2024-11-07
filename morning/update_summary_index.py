@@ -155,21 +155,25 @@ def process_summary(
     return new_summary, episode_question
 
 
-# TODO: Refactor to a single function for both index and questions
+def refresh_file(filename, new_content):
+    """Refresh a file with new content if it has changed."""
+    current_content = []
+    with open(filename, "r", encoding="utf-8") as f:
+        current_content = f.readlines()
+    current_content = [
+        LAST_UPDATED_REGEX.sub(LAST_UPDATED_STRING, line) for line in current_content
+    ]
+    if "\n".join(filename) != "\n".join(new_content):
+        with open("questions.txt", "w", encoding="utf-8") as f:
+            f.writelines(f"{line}\n" for line in new_content)
+        return True
+    return False
+
+
 def refresh_summary_index(summary_index, summary_table):
     """Refresh the summary index with the latest episode summaries."""
-    current_index = []
-    with open("index.md", "r", encoding="utf-8") as f:
-        current_index = f.readlines()
-
-    current_index = [
-        LAST_UPDATED_REGEX.sub(LAST_UPDATED_STRING, line) for line in current_index
-    ]
-
-    if "\n".join(current_index) != "\n".join(summary_index):
-        with open("index.md", "w", encoding="utf-8") as f:
-            f.writelines(f"{line}\n" for line in summary_index)
-
+    was_updated = refresh_file("index.md", summary_index)
+    if was_updated:
         with open("index.csv", "w", encoding="utf-8") as csvfile:
             fieldnames = [
                 "Date",
@@ -183,25 +187,12 @@ def refresh_summary_index(summary_index, summary_table):
             writer.writeheader()
             for row in sorted(summary_table, key=lambda x: x["Date"]):
                 writer.writerow(row)
-        return True
-    return False
+    return was_updated
 
 
 def refresh_questions_file(question_summary):
     """Refresh the questions file with the latest questions of the day."""
-    current_questions = []
-    with open("questions.txt", "r", encoding="utf-8") as f:
-        current_questions = f.readlines()
-
-    current_questions = [
-        LAST_UPDATED_REGEX.sub(LAST_UPDATED_STRING, line) for line in current_questions
-    ]
-
-    if "\n".join(current_questions) != "\n".join(question_summary):
-        with open("questions.txt", "w", encoding="utf-8") as f:
-            f.writelines(f"{line}\n" for line in question_summary)
-        return True
-    return False
+    return refresh_file("questions.txt", question_summary)
 
 
 def main():
