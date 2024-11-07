@@ -3,6 +3,7 @@
 import os
 import shutil
 import subprocess
+from yt_dlp import YoutubeDL
 
 
 def convert_to_wav(path: str, new_base_name: str):
@@ -46,10 +47,18 @@ def convert_to_wav(path: str, new_base_name: str):
 def get_video_audio(url: str, output_dir: str, download_video: bool = False):
     """Download the audio and descriptions of the YouTube playlist or video using yt-dlp."""
 
+    def published_videos_filter(info, *, incomplete):  # pylint: disable=unused-argument
+        """Download only videos longer than a minute (or with unknown duration)"""
+        is_live = info.get("is_live")
+        live_status = info.get("live_status")
+        availability = info.get("availability")
+        if is_live and live_status != "is_upcoming" and availability == "public":
+            return "Video not live yet"
+
     # Check if the required dependencies are installed
-    yt_dlp_path = shutil.which("yt-dlp")
-    if yt_dlp_path is None:
-        print("yt-dlp not found. Please make sure that yt-dlp is installed.")
+    ffmpeg_path = shutil.which("ffmpeg")
+    if ffmpeg_path is None:
+        print("ffmpeg not found. Please make sure that ffmpeg is installed.")
         raise RuntimeError("Dependencies not met")
 
     # Check if the output folder exists, and create it if it doesn't
@@ -57,39 +66,36 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
         os.makedirs(output_dir)
 
     # Download best source audio for better transcription and save some metadata
-    subprocess.run(
-        [
-            yt_dlp_path,
-            "-q",
-            "--progress",
-            "-f",
-            "ba/b",
-            "-P",
-            output_dir,
-            "--download-archive",
-            os.path.join(output_dir, "archive.txt"),
-            "--match-filter",
-            "!is_live & live_status!=is_upcoming & availability=public",
-            "--print-to-file",
-            "%(id)s",
-            "%(release_date)s/%(release_date)s.title",
-            "--print-to-file",
-            "%(title)s",
-            "%(release_date)s/%(release_date)s.title",
-            "--write-description",
-            "-o",
-            "description:%(release_date)s/%(release_date)s",
-            "--write-thumbnail",
-            "-o",
-            "thumbnail:%(release_date)s/thumbnail",
-            "-o",
-            "%(release_date)s/audio.%(ext)s",
-            "-N",
-            "3",
-            url,
+    ydl_opts = {
+        "quiet": True,
+        "ffmpeg_location": ffmpeg_path,
+        "format": "ba/b",
+        "paths": {"home": output_dir},
+        "download_archive": os.path.join(output_dir, "archive.txt"),
+        "match_filter": published_videos_filter,
+        "print_to_file": {
+            "video": [
+                ("%(id)s", "%(release_date)s/%(release_date)s.title"),
+                ("%(title)s", "%(release_date)s/%(release_date)s.title"),
+            ],
+        },
+        "outtmpl": {
+            "description": "%(release_date)s/%(release_date)s",
+            "thumbnail": "%(release_date)s/thumbnail",
+            "default": "%(release_date)s/audio.%(ext)s",
+        },
+        "writedescription": True,
+        "writethumbnail": True,
+        "postprocessors": [
+            {
+                "key": "FFmpegExtractAudio",
+            }
         ],
-        check=True,
-    )
+        "noplaylist": False,
+        "concurrent_fragment_downloads": 3,
+    }
+    with YoutubeDL(ydl_opts) as ydl:
+        ydl.download([url])
 
     # Remove the "NA" folder if it exists
     na_folder = os.path.join(output_dir, "NA")
@@ -108,22 +114,13 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
 
     # If specified, download smallest video with at least 480p resolution for reference
     if download_video:
-        subprocess.run(
-            [
-                yt_dlp_path,
-                "-q",
-                "--progress",
-                "-f",
-                "bv*[height>=480]+ba/b[height>=480]/bv*+ba/b",
-                "-S",
-                "+size,+br,+res,+fps",
-                "-P",
-                output_dir,
-                "-o",
-                "%(release_date)s/video.%(ext)s",
-                "-N",
-                "3",
-                url,
-            ],
-            check=True,
-        )
+        video_opts = {
+            "quiet": True,
+            "format": "bv*[height>=480]+ba/b[height>=480]/bv*+ba/b",
+            "format_sort": ["+size", "+br", "+res", "+fps"],
+            "paths": {"home": output_dir},
+            "outtmpl": "%(release_date)s/video.%(ext)s",
+            "concurrent_fragment_downloads": 3,
+        }
+        with YoutubeDL(video_opts) as ydl:
+            ydl.download([url])

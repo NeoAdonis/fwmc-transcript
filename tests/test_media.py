@@ -60,8 +60,8 @@ class TestMedia(unittest.TestCase):
         mock_subprocess_run.assert_not_called()
 
     @patch("common.media.shutil.which")
-    def test_yt_dlp_not_installed(self, mock_shutil_which):
-        """Test the get_video_audio function when yt-dlp is not installed"""
+    def test_yt_dlp_ffmpeg_not_installed(self, mock_shutil_which):
+        """Test the get_video_audio function when ffmpeg is not installed"""
         mock_shutil_which.return_value = None
         with self.assertRaises(RuntimeError):
             get_video_audio(
