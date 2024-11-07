@@ -7,8 +7,8 @@ import re
 from datetime import datetime
 import torch
 import whisperx
-from common.convert_to_wav import convert_to_wav
 from common import printer
+from common.media import convert_to_wav
 
 # Define constants
 INTRODUCTION_PATTERN = "Hallo hallo BAU BAU"
@@ -189,7 +189,9 @@ def highlight_mistakes(transcript_file, new_output_dir):
     for pattern, reason in highlights:
         for i, line in enumerate(transcript_lines):
             if re.search(pattern, line, re.IGNORECASE):
-                printer.print_with_highlight(f"{transcript_file}:{i+1}", reason, line, pattern)
+                printer.print_with_highlight(
+                    f"{transcript_file}:{i+1}", reason, line, pattern
+                )
 
 
 def create_summary_draft(metadata, new_output_dir):

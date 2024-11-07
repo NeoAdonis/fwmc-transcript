@@ -2,7 +2,7 @@
 
 import argparse
 import os
-from common.get_video_audio import get_video_audio
+from common.media import get_video_audio
 
 if __name__ == "__main__":
     # Parse command line arguments
