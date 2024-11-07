@@ -8,20 +8,21 @@ import shutil
 
 def get_video_audio(url, output_dir, download_video: bool = False):
     """Download the audio and descriptions of the YouTube playlist or video using yt-dlp."""
+
     # Check if the output folder exists, and create it if it doesn't
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
     # Check if the required dependencies are installed
-    YT_DLP_PATH = shutil.which("yt-dlp")
-    if YT_DLP_PATH is None:
+    yt_dlp_path = shutil.which("yt-dlp")
+    if yt_dlp_path is None:
         print("yt-dlp not found. Please make sure that yt-dlp is installed.")
         raise RuntimeError("Dependencies not met")
 
     # Download best source audio for better transcription and save some metadata
     subprocess.run(
         [
-            YT_DLP_PATH,
+            yt_dlp_path,
             "-q",
             "--progress",
             "-f",
@@ -72,7 +73,7 @@ def get_video_audio(url, output_dir, download_video: bool = False):
     if download_video:
         subprocess.run(
             [
-                YT_DLP_PATH,
+                yt_dlp_path,
                 "-q",
                 "--progress",
                 "-f",
@@ -91,28 +92,29 @@ def get_video_audio(url, output_dir, download_video: bool = False):
         )
 
 
-# Parse command line arguments
-parser = argparse.ArgumentParser(
-    description="Validate the structure and content of the transcripts and metadata files."
-)
-parser.add_argument(
-    "--url",
-    type=str,
-    default="https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
-    help="URL of the YouTube playlist or video",
-)
-parser.add_argument(
-    "--output_dir",
-    type=str,
-    default="audio",
-    help="Path to the output directory",
-)
-parser.add_argument(
-    "--download_video",
-    type=bool,
-    default=False,
-    help="True if the video should be downloaded instead of audio only, False otherwise",
-)
-args = parser.parse_args()
+if __name__ == "__main__":
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description="Validate the structure and content of the transcripts and metadata files."
+    )
+    parser.add_argument(
+        "--url",
+        type=str,
+        default="https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
+        help="URL of the YouTube playlist or video",
+    )
+    parser.add_argument(
+        "--output_dir",
+        type=str,
+        default="audio",
+        help="Path to the output directory",
+    )
+    parser.add_argument(
+        "--download_video",
+        type=bool,
+        default=False,
+        help="True if the video should be downloaded instead of audio only, False otherwise",
+    )
+    args = parser.parse_args()
 
-get_video_audio(args.url, args.output_dir, args.download_video)
+    get_video_audio(args.url, args.output_dir, args.download_video)

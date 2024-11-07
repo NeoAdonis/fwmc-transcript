@@ -8,9 +8,10 @@ import subprocess
 
 def convert_to_wav(path: str, new_base_name: str):
     """Convert the audio file to WAV format using FFmpeg."""
+
     # Check if the required dependencies are installed
-    FFMPEG_PATH = shutil.which("ffmpeg")
-    if FFMPEG_PATH is None:
+    ffmpeg_path = shutil.which("ffmpeg")
+    if ffmpeg_path is None:
         print("ffmpeg not found. Please make sure that ffmpeg is installed.")
         raise RuntimeError("Dependencies not met")
 
@@ -25,7 +26,7 @@ def convert_to_wav(path: str, new_base_name: str):
         # Use ffmpeg to convert the audio file
         subprocess.run(
             [
-                FFMPEG_PATH,
+                ffmpeg_path,
                 "-v",
                 "warning",
                 "-i",
@@ -43,22 +44,23 @@ def convert_to_wav(path: str, new_base_name: str):
         )
 
 
-# Parse command line arguments
-parser = argparse.ArgumentParser(
-    description="Validate the structure and content of the transcripts and metadata files."
-)
-parser.add_argument(
-    "--path",
-    type=str,
-    default="audio.wav",
-    help="Path to the audio file to convert",
-)
-parser.add_argument(
-    "--new_base_name",
-    type=str,
-    default="audio_converted",
-    help="Base name for the converted audio file",
-)
-args = parser.parse_args()
+if __name__ == "__main__":
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description="Validate the structure and content of the transcripts and metadata files."
+    )
+    parser.add_argument(
+        "--path",
+        type=str,
+        default="audio.wav",
+        help="Path to the audio file to convert",
+    )
+    parser.add_argument(
+        "--new_base_name",
+        type=str,
+        default="audio_converted",
+        help="Base name for the converted audio file",
+    )
+    args = parser.parse_args()
 
-convert_to_wav(args.path, args.new_base_name)
+    convert_to_wav(args.path, args.new_base_name)
