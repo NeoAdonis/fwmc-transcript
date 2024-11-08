@@ -5,7 +5,7 @@ import unittest
 from morning import update_summary_index
 
 
-class TestUpdateSummaryIndexMethods(unittest.TestCase):
+class TestMorningUpdateSummaryIndexMethods(unittest.TestCase):
     """Unit tests class"""
 
     def test_load_metadata(self):

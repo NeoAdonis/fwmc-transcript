@@ -18,7 +18,7 @@ if __name__ == "__main__":
         help="URL of the YouTube playlist or video",
     )
     parser.add_argument(
-        "--output_folder",
+        "--output_dir",
         type=str,
         default="audio",
         help="Path to the output directory",
@@ -31,13 +31,13 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    output_folder = os.path.join(os.getcwd(), args.output_folder)
+    output_dir = os.path.join(os.getcwd(), args.output_dir)
 
-    get_video_audio(args.url, output_folder, args.download_video)
+    get_video_audio(args.url, output_dir, args.download_video)
 
     # Find the first time when there's a blank line after a non-blank line in the description files,
     # then keep only the lines before that
-    for root, _, files in os.walk(output_folder):
+    for root, _, files in os.walk(output_dir):
         for file in files:
             if file.endswith(".description"):
                 description_path = os.path.join(root, file)

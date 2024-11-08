@@ -77,17 +77,26 @@ def get_metadata(root, parent_folder_name):
 
     title = title_file_content[1].strip()
     episode = "???"
-    if title.startswith("【FUWAMOCO MORNING】"):
-        if "episode" in title:
-            episode = title.split("episode")[1].strip()
+    m = re.search(r"【FUWAMOCO MORNING】\s*episode (\d+)", title, re.IGNORECASE)
+    if (m):
+        episode = m.group(1)
+    else:
+        m = re.search(r"【FUWAMOCO MORNING】\s*([\w\s\-']+)", title, re.IGNORECASE)
+        if (m):
+            episode = m.group(1).strip()
         else:
-            episode = title.split("】")[1].strip()
+            m = re.search(r"【([^】]+)】", title, re.IGNORECASE)
+            if (m):
+                episode = m.group(1)
 
     description = description_file_content[0].strip()
     illustrator = "rswxx"  # Icomochi, FUWAMOCO designer
     for line in description_file_content[1:]:
         if "illust" in line:
-            illustrator = line.split("@")[1].split()[0]
+            if "@" in line:
+                illustrator = line.split("@")[1].split()[0]
+            elif "illustration by" in line:
+                illustrator = line.split("illustration by")[1].split()[0]
             break
         description += " " + line.strip()
 
@@ -97,15 +106,15 @@ def get_metadata(root, parent_folder_name):
         "episode": episode,
         "isSpecial": not episode.isdigit(),
         "date": datetime.strptime(parent_folder_name, "%Y%m%d").strftime("%Y-%m-%d"),
-        "day_of_week": datetime.strptime(parent_folder_name, "%Y%m%d").strftime("%A"),
+        "dayOfWeek": datetime.strptime(parent_folder_name, "%Y%m%d").strftime("%A"),
         "description": description,
         "illustrator": illustrator,
     }
 
-    if metadata["day_of_week"] not in ["Monday", "Wednesday", "Friday"]:
+    if metadata["dayOfWeek"] not in ["Monday", "Wednesday", "Friday"]:
         printer.print_warning(
             parent_folder_name,
-            f"Episode aired on an unexpected day ({metadata['day_of_week']}). "
+            f"Episode aired on an unexpected day ({metadata['dayOfWeek']}). "
             + "Maybe a bug?",
         )
 
@@ -241,7 +250,7 @@ def main():
         language_code="en", device=DEVICE
     )
     if args.include_no_prompt:
-        model_no_prompt = whisperx.load_model(model, DEVICE)
+        model_no_prompt = whisperx.load_model(args.model, DEVICE)
 
     # Iterate through the audio files in the source directory
     for root, _, files in os.walk(args.audio_dir):
@@ -261,7 +270,7 @@ def main():
                 with open(
                     os.path.join(new_output_dir, "metadata.json"), "w", encoding="utf-8"
                 ) as f:
-                    json.dump(metadata, f, indent=4)
+                    json.dump(metadata, f, ensure_ascii=False, indent=2)
 
                 if os.path.exists(os.path.join(new_output_dir, f"{NEW_BASE_NAME}.vtt")):
                     continue

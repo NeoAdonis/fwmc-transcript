@@ -1,10 +1,9 @@
 [CmdletBinding()]
 param(
     [string]$CondaEnvironment = 'whisperx',
-    [string]$AudioDirectory = 'audio',
-    [string]$OutputDirectory = 'transcripts',
-    [string]$Model = 'large-v2',
-    [switch]$IncludeNoPrompt
+    [string]$Url = 'https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS',
+    [string]$OutputDirectory = 'audio',
+    [switch]$DownloadVideo
 )
 
 if (-not (Get-Command conda -ErrorAction SilentlyContinue)) {
@@ -20,13 +19,7 @@ if (-not (Get-Command python -ErrorAction SilentlyContinue)) {
     throw 'python not found'
 }
 
-if (-not (Get-Command whisperx -ErrorAction SilentlyContinue)) {
-    Write-Host "WhisperX not found. Please make sure that WhisperX is installed in the Conda environment '$CondaEnvironment'." -ForegroundColor Red
-    & conda deactivate
-    throw 'whisperx not found'
-}
-
 $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location (Join-Path $scriptDirectory "..")
-& python -m morning.create_transcript --audio_dir $AudioDirectory --output_dir $OutputDirectory --model $Model --include_no_prompt $IncludeNoPrompt
+& python -m morning.get_audio --url $Url --output_dir $OutputDirectory --download_video $DownloadVideo
 Set-Location $scriptDirectory
