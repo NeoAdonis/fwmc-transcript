@@ -81,7 +81,7 @@ def get_metadata(root, parent_folder_name):
     patterns = [
         r"【FUWAMOCO MORNING】\s*episode (\d+)",
         r"【FUWAMOCO MORNING】\s*([\w\s\-']+)",
-        r"【([^】]+)】"
+        r"【([^】]+)】",
     ]
     for pattern in patterns:
         m = re.search(pattern, title, re.IGNORECASE)
@@ -240,20 +240,8 @@ def main():
 
     args = parse_args()
 
-    # Load transcription models
-    with open(PROMPT_FILE, "r", encoding="utf-8") as f:
-        model = whisperx.load_model(
-            args.model,
-            DEVICE,
-            asr_options={
-                "initial_prompt": f.read(),
-            },
-        )
-    align_model, align_metadata = whisperx.load_align_model(
-        language_code="en", device=DEVICE
-    )
-    if args.include_no_prompt:
-        model_no_prompt = whisperx.load_model(args.model, DEVICE)
+    model = None
+    model_no_prompt = None
 
     # Iterate through the audio files in the source directory
     for root, _, files in os.walk(args.audio_dir):
@@ -284,6 +272,20 @@ def main():
                 convert_to_wav(audio_path, CONVERT_BASE_NAME)
                 audio_path = os.path.join(root, f"{CONVERT_BASE_NAME}.wav")
 
+                # Load transcription models (if not already loaded)
+                if model is None:
+                    with open(PROMPT_FILE, "r", encoding="utf-8") as f:
+                        model = whisperx.load_model(
+                            args.model,
+                            DEVICE,
+                            asr_options={
+                                "initial_prompt": f.read(),
+                            },
+                        )
+                    align_model, align_metadata = whisperx.load_align_model(
+                        language_code="en", device=DEVICE
+                    )
+
                 # Transcript with prompt to create a more accurate transcript
                 transcribe_audio(
                     audio_path, model, align_model, align_metadata, new_output_dir
@@ -294,6 +296,8 @@ def main():
                     new_output_dir_no_prompt = os.path.join(new_output_dir, "noprompt")
                     if not os.path.exists(new_output_dir_no_prompt):
                         os.makedirs(new_output_dir_no_prompt)
+                    if model_no_prompt is None:
+                        model_no_prompt = whisperx.load_model(args.model, DEVICE)
                     transcribe_audio(
                         audio_path,
                         model_no_prompt,
