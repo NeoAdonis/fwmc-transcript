@@ -77,17 +77,17 @@ def get_metadata(root, parent_folder_name):
 
     title = title_file_content[1].strip()
     episode = "???"
-    m = re.search(r"【FUWAMOCO MORNING】\s*episode (\d+)", title, re.IGNORECASE)
-    if (m):
-        episode = m.group(1)
-    else:
-        m = re.search(r"【FUWAMOCO MORNING】\s*([\w\s\-']+)", title, re.IGNORECASE)
-        if (m):
+
+    patterns = [
+        r"【FUWAMOCO MORNING】\s*episode (\d+)",
+        r"【FUWAMOCO MORNING】\s*([\w\s\-']+)",
+        r"【([^】]+)】"
+    ]
+    for pattern in patterns:
+        m = re.search(pattern, title, re.IGNORECASE)
+        if m:
             episode = m.group(1).strip()
-        else:
-            m = re.search(r"【([^】]+)】", title, re.IGNORECASE)
-            if (m):
-                episode = m.group(1)
+            break
 
     description = description_file_content[0].strip()
     illustrator = "rswxx"  # Icomochi, FUWAMOCO designer
@@ -97,6 +97,9 @@ def get_metadata(root, parent_folder_name):
                 illustrator = line.split("@")[1].split()[0]
             elif "illustration by" in line:
                 illustrator = line.split("illustration by")[1].split()[0]
+            m = re.match(r"([\w_\-]*)", illustrator)
+            if m:
+                illustrator = m.group(1)
             break
         description += " " + line.strip()
 
