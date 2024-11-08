@@ -32,8 +32,8 @@ def parse_args():
     parser.add_argument(
         "--summaries_dir",
         type=str,
-        default="transcripts",
-        help="Path to the transcripts directory",
+        default="summaries",
+        help="Path to the summaries directory",
     )
     return parser.parse_args()
 
@@ -120,6 +120,9 @@ def process_summary(
     for line in summary:
         if line == "---\n":
             skip_front_matter = not skip_front_matter
+            continue
+
+        if skip_front_matter:
             continue
 
         header_match = HEADER_REGEX.fullmatch(line)
