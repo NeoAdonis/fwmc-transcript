@@ -13,7 +13,7 @@ Pattern,Reason
 \bPoki\b,'Pokey'
 \bMarni-chan\b,'Mane-chan'
 \bmaruchan\b,'Mane-chan'
-\bRock '?n'? Roll\b,'Rock n' Rawr'
 \bRound (1|one)\b,'Round1'
 \bpanlight,'penlight'
 \bpondering,'pon-de-ring'
+\bBaudo\b,'"BAU"DOL'

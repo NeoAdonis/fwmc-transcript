@@ -2,7 +2,7 @@ Pattern,Replacement,Warning
 "H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU,N
 Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bHelpFUWAMOCO\b,helpFWMC,N
-"\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2,N
+"\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2,Y
 \bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU,N
 \bruffian,Ruffian,N
 \bmama\s?p[ao]p(py|i)\b,Mama Puppy,N
@@ -12,6 +12,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bdogg(y|ie) of the day\b,Doggie of the Day,N
 \bquestion of the day\b,Question of the Day,N
 \bextra special ruffian,Extra Special Ruffian,N
+\bRock '?n'? Roll Part,Rock n' Rawr Part,Y
 \bBorn to be (Bau\s?do|Bottle|Boundless|Vodou)\b,"Born to be ""BAU""DOL☆★",N
 \bMan[io]-chan,Mane-chan,N
 \bMococo-chan,Moco-chan,Y
@@ -30,7 +31,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \b(Kali|Callie)\b,Calli,N
 \bAmbergreen\b,Immergreen,N
 \bNao[nr]a\b,Raora,N
-\bGigi Marin\b,Gigi Murin,N
+\bGigi Marin\b,Gigi Murin,Y
 \bOli\b,Ollie,N
 \bKai[lr]a[\s\-]senpai,Kaela-senpai,N
 \bEi-chan\b,A-chan,N
@@ -70,7 +71,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \benglish council\b,English -Council-,N
 \benglish justice\b,English -Justice-,N
 \bhololive myth\b,hololive -Myth-,N
-\bhololive advent\b,hololive -Advent-,N
+\bhololive advent\b,hololive -Advent-,Y
 \bhololive justice\b,hololive -Justice-,N
-\bhololive english advent\b,hololive English -Advent-,N
+\bhololive english advent\b,hololive English -Advent-,Y
 \b(Abbott|Alvin)\b,Advent,N
