@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description="Validate the structure and content of the transcripts, summaries and metadata files."
+        description="Validate the structure & content of transcripts, summaries and metadata files."
     )
     parser.add_argument(
         "--transcripts_dir",
