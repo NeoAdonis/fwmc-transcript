@@ -47,7 +47,7 @@ FUWAMOCO explain they enjoy singing together because their voices harmonize well
 
 ## Next Stream & Schedule (25:16)
 
-The next stream is FUWAMOCO Morning in a few hours, and they have a Rock n' Roll Party on Saturday featuring hololive songs.
+The next stream is FUWAMOCO Morning in a few hours, and they have a Rock n' Rawr Party on Saturday featuring hololive songs.
 
 ## Thanks & Extra Special Ruffians (27:05)
 
