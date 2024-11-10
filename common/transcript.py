@@ -29,9 +29,8 @@ def transcribe_audio(audio_path, model, align_model, align_metadata, new_output_
     writer(result, audio_path)
 
 
-# TODO: Consider merging this with the fix_mistakes function
-def check_captions(root, file):
-    """Check captions in a transcript."""
+def check_repeats(root, file):
+    """Check repeated lines in a transcript."""
     i = 1
     ln = 3
     prev_caption = None
@@ -56,7 +55,7 @@ def check_captions(root, file):
             last_unique_caption = caption
         prev_caption = caption
         i += 1
-        ln += 3
+        ln += 3 + caption.text.count("\n")
 
 
 def fetch_patterns(file):

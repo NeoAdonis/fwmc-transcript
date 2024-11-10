@@ -50,7 +50,7 @@ if __name__ == "__main__":
                     )
             # Check transcripts
             if file == "transcript.vtt":
-                transcript.check_captions(root, file)
+                transcript.check_repeats(root, file)
                 if transcript.fix_mistakes(replacements, root, file, True):
                     printer.print_info("File changed", relative_path)
                 transcript.highlight_ambiguities(highlights, root, file)
