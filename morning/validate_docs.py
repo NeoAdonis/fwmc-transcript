@@ -37,11 +37,10 @@ if __name__ == "__main__":
     with open(HIGHLIGHTS_FILE, "r", encoding="utf-8") as csvfile:
         highlights = list(csv.DictReader(csvfile))
 
-    print("Validating transcripts...")
-
+    print("Validating file structure, metadata and transcripts...")
     for root, dirs, files in transcripts_dir_walker:
         for file in files:
-            # Basic metadata checks
+            # Check metadata
             if file == "metadata.json":
                 with open(os.path.join(root, file), "r", encoding="utf-8") as f:
                     metadata = json.load(f)
@@ -52,13 +51,12 @@ if __name__ == "__main__":
                     printer.print_error(
                         "Numbered episode marked as special", relative_path
                     )
-            # Basic transcript checks
+            # Check transcripts
             if file == "transcript.vtt":
                 transcript.check_captions(root, file)
                 transcript.fix_mistakes(replacements, root, file, True)
                 transcript.highlight_ambiguities(highlights, root, file)
-
-        # Check for missing files
+        # Look for missing files
         for directory in dirs:
             summary_path = os.path.join(root, directory, "summary.md")
             transcript_path = os.path.join(root, directory, "transcript.vtt")
@@ -70,17 +68,21 @@ if __name__ == "__main__":
             else:
                 printer.print_error("No transcript file found", relative_path)
 
-    # Check summaries formatting
+    print("Validating summaries...")
+
+    # Lint summaries
     npm_command = shutil.which("bun")
     if not npm_command:
         npm_command = shutil.which("npm")
     if npm_command is None:
-        print("npm or bun command not found. Skipping linting of summaries.")
+        printer.print_warning(
+            "npm or bun command not found. Summaries linting skipped."
+        )
     else:
         subprocess.run([npm_command, "run", "lint-summaries"], check=True)
 
     # Check for long summaries
-    # This is done after linting as the linting process may have changed the summaries
+    # This is done after linting as summaries might have been changed
     for root, _, files in transcripts_dir_walker:
         for file in files:
             if file == "summary.md":
@@ -89,7 +91,7 @@ if __name__ == "__main__":
                 length = len(content)
                 relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
                 if length > SUMMARY_MAX_LENGTH:
-                    print(
-                        f"{relative_path} - File too long "
-                        + f"({length} characters, max {SUMMARY_MAX_LENGTH})"
+                    printer.print_error(
+                        f"File too long ({length} characters, max {SUMMARY_MAX_LENGTH})",
+                        relative_path,
                     )
