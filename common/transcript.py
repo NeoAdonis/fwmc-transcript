@@ -80,8 +80,8 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
     for replacement_entry in replacements:
         pattern = replacement_entry["Pattern"]
         regex = replacement_entry["Regex"]
-        replacement = replacement_entry["Replacement"]
-        warning = (replacement_entry["Warning"] == "Y") or warn_only
+        replacement = replacement_entry["Replacement"].replace("$", "\\")
+        warning = replacement_entry["Warning"] == "Y"
         for i, line in enumerate(transcript_lines):
             if re.search(pattern, line, re.IGNORECASE):
                 new_line = regex.sub(replacement, line)
@@ -95,12 +95,14 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
                             line,
                             pattern,
                         )
-                    if not warn_only:
+                    if not (warning and warn_only):
                         changed = True
                         transcript_lines[i] = new_line
     if changed:
         with open(os.path.join(directory, transcript_file), "w", encoding="utf-8") as f:
             f.write("\n".join(transcript_lines))
+            f.write("\n")
+    return changed
 
 
 def highlight_ambiguities(highlights, directory, transcript_file):

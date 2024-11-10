@@ -51,7 +51,8 @@ if __name__ == "__main__":
             # Check transcripts
             if file == "transcript.vtt":
                 transcript.check_captions(root, file)
-                transcript.fix_mistakes(replacements, root, file, True)
+                if transcript.fix_mistakes(replacements, root, file, True):
+                    printer.print_info("File changed", relative_path)
                 transcript.highlight_ambiguities(highlights, root, file)
         # Look for missing files
         for directory in dirs:
