@@ -20,9 +20,15 @@ def print_warning(reason, location=""):
     )
 
 
-def print_with_highlight(reason, location, text, pattern):
+def print_info(reason, location=""):
+    """Print an infomational message with the location and reason"""
+    if location != "":
+        reason = f" {reason}"
+    print(f"{colored(location, attrs=["underline"])}{reason}")
+
+
+def print_with_highlight(text, pattern):
     """Print the text with the pattern highlighted"""
-    print_warning(reason, location)
     print(
         re.sub(
             pattern,

@@ -20,6 +20,7 @@ def transcribe_audio(audio_path, model, align_model, align_metadata, new_output_
         align_model,
         align_metadata,
         audio,
+        "cuda",
         return_char_alignments=False,
     )
 
@@ -57,10 +58,12 @@ def check_captions(root, file):
         ln += 3
 
 
-def fix_mistakes(replacements, dir, transcript_file, warn_only=False):
+def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
     """Fix common mistakes in a transcript"""
-    relative_path = os.path.relpath(os.path.join(dir, transcript_file), os.getcwd())
-    with open(os.path.join(dir, transcript_file), "r", encoding="utf-8") as f:
+    relative_path = os.path.relpath(
+        os.path.join(directory, transcript_file), os.getcwd()
+    )
+    with open(os.path.join(directory, transcript_file), "r", encoding="utf-8") as f:
         transcript_content = f.read()
     transcript_lines = transcript_content.splitlines()
     changed = False
@@ -73,9 +76,11 @@ def fix_mistakes(replacements, dir, transcript_file, warn_only=False):
                 new_line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
                 if new_line != line:
                     if warning:
-                        printer.print_with_highlight(
+                        printer.print_warning(
                             f'Replaced with "{replacement}"',
                             f"{relative_path}:{i+1}",
+                        )
+                        printer.print_with_highlight(
                             line,
                             pattern,
                         )
@@ -83,14 +88,16 @@ def fix_mistakes(replacements, dir, transcript_file, warn_only=False):
                         changed = True
                         transcript_lines[i] = new_line
     if changed:
-        with open(os.path.join(dir, transcript_file), "w", encoding="utf-8") as f:
+        with open(os.path.join(directory, transcript_file), "w", encoding="utf-8") as f:
             f.write("\n".join(transcript_lines))
 
 
-def highlight_ambiguities(highlights, dir, transcript_file):
+def highlight_ambiguities(highlights, directory, transcript_file):
     """Highlight potential ambiguities that could lead to mistakes in a transcript"""
-    relative_path = os.path.relpath(os.path.join(dir, transcript_file), os.getcwd())
-    with open(os.path.join(dir, transcript_file), "r", encoding="utf-8") as f:
+    relative_path = os.path.relpath(
+        os.path.join(directory, transcript_file), os.getcwd()
+    )
+    with open(os.path.join(directory, transcript_file), "r", encoding="utf-8") as f:
         transcript_content = f.read()
     transcript_lines = transcript_content.splitlines()
     # Detect and highlight potential mistakes that might actually be correct
@@ -103,6 +110,7 @@ def highlight_ambiguities(highlights, dir, transcript_file):
         reason = highlight["Reason"]
         for i, line in enumerate(transcript_lines):
             if re.search(pattern, line, re.IGNORECASE):
-                printer.print_with_highlight(
-                    reason, f"{relative_path}:{i+1}", line, pattern
+                printer.print_info(
+                    f"Potential ambiguity: {reason}", f"{relative_path}:{i+1}"
                 )
+                printer.print_with_highlight(line, pattern)
