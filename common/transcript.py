@@ -1,5 +1,6 @@
 """This module contains functions related to transcripts."""
 
+import csv
 import os
 import re
 import webvtt
@@ -58,6 +59,15 @@ def check_captions(root, file):
         ln += 3
 
 
+def fetch_patterns(file):
+    """Fetch CSV file containing pattern, adding a regex pre-compiled object"""
+    with open(file, "r", encoding="utf-8") as csvfile:
+        patterns = list(csv.DictReader(csvfile))
+    for pattern in patterns:
+        pattern["Regex"] = re.compile(pattern["Pattern"], re.IGNORECASE)
+    return patterns
+
+
 def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
     """Fix common mistakes in a transcript"""
     relative_path = os.path.relpath(
@@ -69,11 +79,12 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
     changed = False
     for replacement_entry in replacements:
         pattern = replacement_entry["Pattern"]
+        regex = replacement_entry["Regex"]
         replacement = replacement_entry["Replacement"]
         warning = (replacement_entry["Warning"] == "Y") or warn_only
         for i, line in enumerate(transcript_lines):
             if re.search(pattern, line, re.IGNORECASE):
-                new_line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+                new_line = regex.sub(replacement, line)
                 if new_line != line:
                     if warning:
                         printer.print_warning(
@@ -104,12 +115,12 @@ def highlight_ambiguities(highlights, directory, transcript_file):
     # for manual review
     if INTRODUCTION_PATTERN not in transcript_content:
         printer.print_warning("Potential missing introduction", relative_path)
-
     for highlight in highlights:
         pattern = highlight["Pattern"]
         reason = highlight["Reason"]
+        regex = highlight["Regex"]
         for i, line in enumerate(transcript_lines):
-            if re.search(pattern, line, re.IGNORECASE):
+            if regex.search(line):
                 printer.print_info(
                     f"Potential ambiguity: {reason}", f"{relative_path}:{i+1}"
                 )

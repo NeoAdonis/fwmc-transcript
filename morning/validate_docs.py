@@ -1,7 +1,6 @@
 """Validate the structure and content of the transcripts, summaries and metadata files."""
 
 import argparse
-import csv
 import os
 import json
 import subprocess
@@ -32,10 +31,8 @@ if __name__ == "__main__":
 
     transcripts_dir_walker = os.walk(transcripts_dir)
 
-    with open(REPLACEMENTS_FILE, "r", encoding="utf-8") as csvfile:
-        replacements = list(csv.DictReader(csvfile))
-    with open(HIGHLIGHTS_FILE, "r", encoding="utf-8") as csvfile:
-        highlights = list(csv.DictReader(csvfile))
+    replacements = transcript.fetch_patterns(REPLACEMENTS_FILE)
+    highlights = transcript.fetch_patterns(HIGHLIGHTS_FILE)
 
     print("Validating file structure, metadata and transcripts...")
     for root, dirs, files in transcripts_dir_walker:

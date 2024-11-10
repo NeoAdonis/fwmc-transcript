@@ -1,7 +1,6 @@
 """Create transcripts for FUWAMOCO Morning episodes."""
 
 import argparse
-import csv
 import json
 import os
 import re
@@ -176,11 +175,11 @@ def main():
 
     model = None
     model_no_prompt = None
+    align_model = None
+    align_metadata = None
 
-    with open(REPLACEMENTS_FILE, "r", encoding="utf-8") as csvfile:
-        replacements = list(csv.DictReader(csvfile))
-    with open(HIGHLIGHTS_FILE, "r", encoding="utf-8") as csvfile:
-        highlights = list(csv.DictReader(csvfile))
+    replacements = transcript.fetch_patterns(REPLACEMENTS_FILE)
+    highlights = transcript.fetch_patterns(HIGHLIGHTS_FILE)
 
     # Iterate through the audio files in the source directory
     for root, _, files in os.walk(args.audio_dir):
