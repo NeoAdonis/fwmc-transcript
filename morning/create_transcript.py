@@ -1,22 +1,23 @@
 """Create transcripts for FUWAMOCO Morning episodes."""
 
 import argparse
+import csv
 import json
 import os
 import re
 from datetime import datetime
 import torch
 import whisperx
-from common import printer
+from common import printer, transcript
 from common.media import convert_to_wav
 
 # Define constants
-INTRODUCTION_PATTERN = "Hallo hallo BAU BAU"
 FILE_BASE_NAME = "audio"
 CONVERT_BASE_NAME = "audio_converted"
 NEW_BASE_NAME = "transcript"
 PROMPT_FILE = "config/transcript-prompt.txt"
 HIGHLIGHTS_FILE = "config/highlights.csv"
+REPLACEMENTS_FILE = "config/replacements.csv"
 DEFAULT_SECTION_NAMES = [
     "- Introduction",
     "- Pero Sighting",
@@ -66,10 +67,10 @@ def parse_args():
     return args
 
 
-def get_metadata(root, parent_folder_name):
+def get_metadata(root, dir_basename):
     """Get metadata for the episode from the title and description files"""
-    title_file_path = os.path.join(root, f"{parent_folder_name}.title")
-    description_file_path = os.path.join(root, f"{parent_folder_name}.description")
+    title_file_path = os.path.join(root, f"{dir_basename}.title")
+    description_file_path = os.path.join(root, f"{dir_basename}.description")
     with open(title_file_path, "r", encoding="utf-8") as f:
         title_file_content = f.readlines()
     with open(description_file_path, "r", encoding="utf-8") as f:
@@ -108,37 +109,20 @@ def get_metadata(root, parent_folder_name):
         "title": title,
         "episode": episode,
         "isSpecial": not episode.isdigit(),
-        "date": datetime.strptime(parent_folder_name, "%Y%m%d").strftime("%Y-%m-%d"),
-        "dayOfWeek": datetime.strptime(parent_folder_name, "%Y%m%d").strftime("%A"),
+        "date": datetime.strptime(dir_basename, "%Y%m%d").strftime("%Y-%m-%d"),
+        "dayOfWeek": datetime.strptime(dir_basename, "%Y%m%d").strftime("%A"),
         "description": description,
         "illustrator": illustrator,
     }
 
     if metadata["dayOfWeek"] not in ["Monday", "Wednesday", "Friday"]:
         printer.print_warning(
-            parent_folder_name,
             f"Episode aired on an unexpected day ({metadata['dayOfWeek']}). "
             + "Maybe a bug?",
+            dir_basename,
         )
 
     return metadata
-
-
-def transcribe_audio(audio_path, model, align_model, align_metadata, new_output_dir):
-    """Transcribe the audio file using the specified model"""
-    audio = whisperx.load_audio(audio_path)
-    result = model.transcribe(audio, BATCH_SIZE, language="en")
-    result = whisperx.align(
-        result["segments"],
-        align_model,
-        align_metadata,
-        audio,
-        DEVICE,
-        return_char_alignments=False,
-    )
-
-    writer = whisperx.utils.get_writer("vtt", new_output_dir)
-    writer(result, audio_path)
 
 
 def clean_transcript_files(new_output_dir):
@@ -154,56 +138,6 @@ def clean_transcript_files(new_output_dir):
                     f"{NEW_BASE_NAME}{os.path.splitext(file)[1]}",
                 ),
             )
-
-
-def fix_transcript_mistakes(transcript_file, new_output_dir):
-    """Fix common mistakes in the transcript"""
-    with open(
-        os.path.join(new_output_dir, transcript_file), "r", encoding="utf-8"
-    ) as f:
-        transcript_content = f.read()
-    transcript_lines = transcript_content.splitlines()
-    with open("./config/replacements.csv", "r", encoding="utf-8") as f:
-        replacements = [line.strip().split(",") for line in f.readlines()]
-    for pattern, replacement, warning in replacements:
-        if warning == "Y":
-            for i, line in enumerate(transcript_lines):
-                if re.search(pattern, line, re.IGNORECASE):
-                    printer.print_with_highlight(
-                        f"{transcript_file}:{i+1}",
-                        f'Replaced with "{replacement}"',
-                        line,
-                        pattern,
-                    )
-        transcript_content = re.sub(
-            pattern, replacement, transcript_content, flags=re.IGNORECASE
-        )
-    with open(
-        os.path.join(new_output_dir, transcript_file), "w", encoding="utf-8"
-    ) as f:
-        f.write(transcript_content)
-
-
-def highlight_mistakes(transcript_file, new_output_dir):
-    """Highlight potential mistakes in the transcript"""
-    with open(
-        os.path.join(new_output_dir, transcript_file), "r", encoding="utf-8"
-    ) as f:
-        transcript_content = f.read()
-    transcript_lines = transcript_content.splitlines()
-    # Detect and highlight potential mistakes that might actually be correct
-    # for manual review
-    if INTRODUCTION_PATTERN not in transcript_content:
-        printer.print_warning(transcript_file, "Potential missing introduction")
-
-    with open(HIGHLIGHTS_FILE, "r", encoding="utf-8") as f:
-        highlights = [line.strip().split(",") for line in f.readlines()]
-    for pattern, reason in highlights:
-        for i, line in enumerate(transcript_lines):
-            if re.search(pattern, line, re.IGNORECASE):
-                printer.print_with_highlight(
-                    f"{transcript_file}:{i+1}", reason, line, pattern
-                )
 
 
 def create_summary_draft(metadata, new_output_dir):
@@ -243,6 +177,11 @@ def main():
     model = None
     model_no_prompt = None
 
+    with open(REPLACEMENTS_FILE, "r", encoding="utf-8") as csvfile:
+        replacements = list(csv.DictReader(csvfile))
+    with open(HIGHLIGHTS_FILE, "r", encoding="utf-8") as csvfile:
+        highlights = list(csv.DictReader(csvfile))
+
     # Iterate through the audio files in the source directory
     for root, _, files in os.walk(args.audio_dir):
         for file in files:
@@ -250,10 +189,10 @@ def main():
                 audio_path = os.path.join(root, file)
                 if audio_path.endswith((".wave", ".wav")):
                     continue
-                parent_folder_name = os.path.basename(os.path.dirname(audio_path))
-                new_output_dir = os.path.join(args.output_dir, parent_folder_name)
+                dir_basename = os.path.basename(os.path.dirname(audio_path))
+                new_output_dir = os.path.join(args.output_dir, dir_basename)
 
-                metadata = get_metadata(root, parent_folder_name)
+                metadata = get_metadata(root, dir_basename)
 
                 if not os.path.exists(new_output_dir):
                     os.makedirs(new_output_dir)
@@ -287,7 +226,7 @@ def main():
                     )
 
                 # Transcript with prompt to create a more accurate transcript
-                transcribe_audio(
+                transcript.transcribe_audio(
                     audio_path, model, align_model, align_metadata, new_output_dir
                 )
 
@@ -298,7 +237,7 @@ def main():
                         os.makedirs(new_output_dir_no_prompt)
                     if model_no_prompt is None:
                         model_no_prompt = whisperx.load_model(args.model, DEVICE)
-                    transcribe_audio(
+                    transcript.transcribe_audio(
                         audio_path,
                         model_no_prompt,
                         align_model,
@@ -319,11 +258,13 @@ def main():
                     None,
                 )
                 if not transcript_file:
-                    printer.print_warning(new_output_dir, "Transcript file not found")
+                    printer.print_error("Transcript file not found", new_output_dir)
                     continue
 
-                fix_transcript_mistakes(transcript_file, new_output_dir)
-                highlight_mistakes(transcript_file, new_output_dir)
+                transcript.fix_mistakes(replacements, new_output_dir, transcript_file)
+                transcript.highlight_ambiguities(
+                    highlights, new_output_dir, transcript_file
+                )
 
                 if os.path.exists(os.path.join(new_output_dir, "summary.md")):
                     continue
