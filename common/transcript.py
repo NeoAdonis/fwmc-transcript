@@ -4,29 +4,10 @@ import csv
 import os
 import re
 import webvtt
-import whisperx
 from common import printer
 
 # Define constants
 INTRODUCTION_PATTERN = "Hallo hallo BAU BAU"
-BATCH_SIZE = 16
-
-
-def transcribe_audio(audio_path, model, align_model, align_metadata, new_output_dir):
-    """Transcribe the audio file using the specified model"""
-    audio = whisperx.load_audio(audio_path)
-    result = model.transcribe(audio, BATCH_SIZE, language="en")
-    result = whisperx.align(
-        result["segments"],
-        align_model,
-        align_metadata,
-        audio,
-        "cuda",
-        return_char_alignments=False,
-    )
-
-    writer = whisperx.utils.get_writer("vtt", new_output_dir)
-    writer(result, audio_path)
 
 
 def check_repeats(root, file):

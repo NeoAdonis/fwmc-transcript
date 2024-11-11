@@ -7,7 +7,7 @@ import re
 from datetime import datetime
 import torch
 import whisperx
-from common import printer, transcript
+from common import asr, printer, transcript
 from common.media import convert_to_wav
 
 # Define constants
@@ -225,7 +225,7 @@ def main():
                     )
 
                 # Transcript with prompt to create a more accurate transcript
-                transcript.transcribe_audio(
+                asr.transcribe_audio(
                     audio_path, model, align_model, align_metadata, new_output_dir
                 )
 
@@ -236,7 +236,7 @@ def main():
                         os.makedirs(new_output_dir_no_prompt)
                     if model_no_prompt is None:
                         model_no_prompt = whisperx.load_model(args.model, DEVICE)
-                    transcript.transcribe_audio(
+                    asr.transcribe_audio(
                         audio_path,
                         model_no_prompt,
                         align_model,
