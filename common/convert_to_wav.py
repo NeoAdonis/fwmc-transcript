@@ -1,6 +1,7 @@
 """Simple script to convert an audio file to WAV format using FFmpeg."""
 
 import argparse
+
 from common.media import convert_to_wav
 
 if __name__ == "__main__":

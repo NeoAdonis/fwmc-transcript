@@ -2,6 +2,7 @@
 
 import argparse
 import os
+
 from common.media import get_video_audio
 
 if __name__ == "__main__":

@@ -5,8 +5,10 @@ import json
 import os
 import re
 from datetime import datetime
+
 import torch
 import whisperx
+
 from common import asr, printer, transcript
 from common.media import convert_to_wav
 

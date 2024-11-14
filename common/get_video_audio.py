@@ -1,6 +1,7 @@
 """Common script to download audio from a YouTube playlist using yt-dlp."""
 
 import argparse
+
 from common.media import get_video_audio
 
 if __name__ == "__main__":

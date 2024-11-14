@@ -3,7 +3,9 @@
 import csv
 import os
 import re
+
 import webvtt
+
 from common import printer
 
 # Define constants

@@ -1,10 +1,11 @@
 """Validate the structure and content of the transcripts, summaries and metadata files."""
 
 import argparse
-import os
 import json
-import subprocess
+import os
 import shutil
+import subprocess
+
 from common import printer, transcript
 
 # Define constants

@@ -1,6 +1,7 @@
 """Printer module for printing warnings and highlighting text"""
 
 import re
+
 from termcolor import colored
 
 
