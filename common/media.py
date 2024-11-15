@@ -46,7 +46,7 @@ def convert_to_wav(path: str, new_base_name: str):
 
 
 def get_video_audio(url: str, output_dir: str, download_video: bool = False):
-    """Download the audio and descriptions of the YouTube playlist or video using yt-dlp."""
+    """Download audio and descriptions of a YouTube playlist or video using yt-dlp."""
 
     def published_videos_filter(info, *, incomplete):  # pylint: disable=unused-argument
         """Download only videos longer than a minute (or with unknown duration)"""
@@ -103,7 +103,8 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
     if os.path.exists(na_folder):
         shutil.rmtree(na_folder)
 
-    # yt-dlp appends new info to title files if it exists already; keep only the latest info
+    # yt-dlp appends new info to title files if it exists already;
+    # keep only the latest info
     for root, _, files in os.walk(output_dir):
         for file in files:
             if file.endswith(".title"):

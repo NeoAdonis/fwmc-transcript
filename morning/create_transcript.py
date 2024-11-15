@@ -36,7 +36,8 @@ BATCH_SIZE = 16
 def parse_args():
     """Parse command line arguments"""
     parser = argparse.ArgumentParser(
-        description="Validate the structure and content of the transcripts and metadata files."
+        description="Validate the structure and content of the transcripts"
+        + " and metadata files."
     )
     parser.add_argument(
         "--audio_dir",
@@ -54,7 +55,8 @@ def parse_args():
         "--model",
         type=str,
         default=(
-            "large-v2"  # This model *seems* to work better than "large-v3" for FUWAMOCO Morning
+            # This model *seems* to work better than "large-v3" for FUWAMOCO Morning
+            "large-v2"
         ),
         help="Whisper model to use for transcription",
     )
@@ -62,7 +64,8 @@ def parse_args():
         "--include_no_prompt",
         type=bool,
         default=False,
-        help="True if the transcript without prompt should be included, False otherwise",
+        help="True if the transcript without prompt should be included,"
+        + " False otherwise",
     )
     args = parser.parse_args()
     return args
@@ -231,7 +234,7 @@ def main():
                     audio_path, model, align_model, align_metadata, new_output_dir
                 )
 
-                # Transcript without prompt can be used to fix potential errors when using prompt
+                # Transcript without prompt can be used to fix ambiguities manually
                 if args.include_no_prompt:
                     new_output_dir_no_prompt = os.path.join(new_output_dir, "noprompt")
                     if not os.path.exists(new_output_dir_no_prompt):

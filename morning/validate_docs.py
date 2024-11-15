@@ -1,4 +1,4 @@
-"""Validate the structure and content of the transcripts, summaries and metadata files."""
+"""Validate structure and content of the transcripts, summaries and metadata files."""
 
 import argparse
 import json
@@ -18,7 +18,8 @@ if __name__ == "__main__":
 
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description="Validate the structure & content of transcripts, summaries and metadata files."
+        description="Validate structure and content of transcripts, summaries and"
+        + " metadata files."
     )
     parser.add_argument(
         "--transcripts_dir",
@@ -91,6 +92,7 @@ if __name__ == "__main__":
                 relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
                 if length > SUMMARY_MAX_LENGTH:
                     printer.print_error(
-                        f"File too long ({length} characters, max {SUMMARY_MAX_LENGTH})",
+                        f"File too long ({length} characters,"
+                        + f" max {SUMMARY_MAX_LENGTH})",
                         relative_path,
                     )

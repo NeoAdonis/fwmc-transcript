@@ -10,12 +10,13 @@ if __name__ == "__main__":
 
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description="Validate the structure and content of the transcripts and metadata files."
+        description="Validate structure and content of transcripts and metadata files."
     )
     parser.add_argument(
         "--url",
         type=str,
-        default="https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
+        default="https://www.youtube.com/playlist?list="
+        + "PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
         help="URL of the YouTube playlist or video",
     )
     parser.add_argument(
@@ -28,7 +29,8 @@ if __name__ == "__main__":
         "--download_video",
         type=bool,
         default=False,
-        help="True if the video should be downloaded instead of audio only, False otherwise",
+        help="True if the video should be downloaded instead of audio only,"
+        + " False otherwise",
     )
     args = parser.parse_args()
 
@@ -36,8 +38,8 @@ if __name__ == "__main__":
 
     get_video_audio(args.url, output_dir, args.download_video)
 
-    # Find the first time when there's a blank line after a non-blank line in the description files,
-    # then keep only the lines before that
+    # Find the first time when there's a blank line after a non-blank line in the
+    # description files, then keep only the lines before that
     for root, _, files in os.walk(output_dir):
         for file in files:
             if file.endswith(".description"):
