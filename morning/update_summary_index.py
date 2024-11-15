@@ -1,4 +1,4 @@
-"""Update the index.md file with the latest episode summaries and questions of the day"""
+"""Update index.md file with the latest episode summaries and questions of the day"""
 
 import argparse
 import csv
@@ -21,7 +21,8 @@ LAST_UPDATED_STRING = f"Last updated: {CURRENT_TIME_STRING} UTC"
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
-        description="Validate the structure and content of the transcripts and metadata files."
+        description="Update index file with the latest episode summaries and"
+        + " questions of the day."
     )
     parser.add_argument(
         "--transcripts_dir",
@@ -199,7 +200,7 @@ def refresh_questions_file(question_summary):
 
 
 def main():
-    """Update the index.md file with the latest episode summaries and questions of the day."""
+    """Update index file with the latest episode summaries and questions of the day."""
 
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -241,7 +242,8 @@ def main():
                 + f"[{metadata['name']}]({metadata['link']}) | "
                 + f"{metadata['description']} | "
                 + f"[Summary]({args.summaries_dir}/{summary_base_name}.md) | "
-                + f"[Transcript]({args.transcripts_dir}/{transcript_subdir}/transcript.vtt) |"
+                + f"[Transcript]({args.transcripts_dir}"
+                + f"/{transcript_subdir}/transcript.vtt) |"
             )
 
             summary_table.append(
@@ -266,7 +268,8 @@ def main():
             if episode_question and metadata["episode"] != "0":
                 question_summary.append("")
                 question_summary.append(
-                    f"{metadata['name']} — {re.sub(r'\s+', ' ', episode_question).strip()}"
+                    f"{metadata['name']} — "
+                    + re.sub(r"\s+", " ", episode_question).strip()
                 )
 
             with open(

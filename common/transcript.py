@@ -29,7 +29,8 @@ def check_repeats(root, file):
         elif caption.text != last_unique_caption.text:
             if (i - last_unique_id) >= 3:
                 printer.print_warning(
-                    f"Repeated caption from {last_unique_caption.start} to {prev_caption.end}",
+                    f"Repeated caption from {last_unique_caption.start}"
+                    + f" to {prev_caption.end}",
                     f"{relative_path}:{last_unique_ln}",
                 )
                 print(last_unique_caption.text)
