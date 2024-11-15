@@ -7,7 +7,7 @@ from common.media import convert_to_wav
 if __name__ == "__main__":
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description="Validate the structure and content of the transcripts and metadata files."
+        description="Convert an audio file to WAV using FFmpeg."
     )
     parser.add_argument(
         "--path",

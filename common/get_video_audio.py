@@ -7,12 +7,13 @@ from common.media import get_video_audio
 if __name__ == "__main__":
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description="Validate the structure and content of the transcripts and metadata files."
+        description="Download audio from a YouTube video or playlist using yt-dlp."
     )
     parser.add_argument(
         "--url",
         type=str,
-        default="https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
+        default="https://www.youtube.com/playlist?"
+        + "list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS",
         help="URL of the YouTube playlist or video",
     )
     parser.add_argument(
@@ -25,7 +26,7 @@ if __name__ == "__main__":
         "--download_video",
         type=bool,
         default=False,
-        help="True if the video should be downloaded instead of audio only, False otherwise",
+        help="If true, download video along with audio",
     )
     args = parser.parse_args()
 
