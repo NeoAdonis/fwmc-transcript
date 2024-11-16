@@ -39,11 +39,11 @@ if __name__ == "__main__":
     print("Validating file structure, metadata and transcripts...")
     for root, dirs, files in transcripts_dir_walker:
         for file in files:
+            relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
             # Check metadata
             if file == "metadata.json":
                 with open(os.path.join(root, file), "r", encoding="utf-8") as f:
                     metadata = json.load(f)
-                relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
                 if metadata.get("episode") == "???":
                     printer.print_error("Episode name/number not set", relative_path)
                 if isinstance(metadata["episode"], int) and metadata["isSpecial"]:
