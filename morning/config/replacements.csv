@@ -5,7 +5,8 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 "\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2,Y
 \bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU,N
 \bruffian,Ruffian,N
-\bmama\s?p[ao]p(py|i)\b,Mama Puppy,N
+\bdoggy pack\b,Doggy Pack,Y
+\bm[ao]m[ao]\s?p[ao]p(py|i)\b,Mama Puppy,N
 \bp[ao]p[ao]\s?p[ao]p(py|i)\b,Papa Puppy,N
 \bperr?o sighting,Pero Sighting,N
 \bPerro\b,Pero,Y
@@ -15,20 +16,25 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bRock '?n'? Roll Part,Rock n' Rawr Part,Y
 \bBorn to be (Bau\s?do|Bottle|Boundless|Vodou)\b,"Born to be ""BAU""DOL☆★",N
 \bMan[io]-chan,Mane-chan,N
+\bf[lu]a\s?mo[ck]o\b,FUWAMOCO,N
+\bmo(cok|koc)oi?\b,Mococo,N
+\bmo([ck]u|ko)[\s\-]?chan,Moco-chan,N
 \bMococo-chan,Moco-chan,Y
 \b(Na|No|Mo|Lo)riss?ai?\b,Nerissa,N
 \bNerissa Raven\s?\w+,Nerissa Ravencroft,N
 \bKou?seki\b,Koseki,N
 \bBi[jz]uu?\b,Bijou,N
+\bBehebo\b,Biboo,N
 \bKura[\s\-]senpai,Gura-senpai,N
-\bCrony\b,Kronii,N
+\bCrony|Cooney\b,Kronii,N
 \bBay[\s\-]senpai,Bae-senpai,N
-\bCorny-senpai,Kronii-senpai,N
+\b(Corny|Koni)[\s\-]senpai,Kronii-senpai,N
 \bFawna\b,Fauna,N
 \bMume\b,Mumei,N
 \bIris[\s\-]senpai,IRyS-senpai,N
 \b(Ch|K)ia[rn]a\b,Kiara,N
 \b(Kali|Callie)\b,Calli,N
+\bCecelia\b,Cecilia,N
 \bAmbergreen\b,Immergreen,N
 \bNao[nr]a\b,Raora,N
 \bGigi Marin\b,Gigi Murin,Y
@@ -56,8 +62,10 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bjoy sound\b,Joysound,N
 \b(Akihabara|Akiba) Min?[sz]udon?\b,$1 MisDo,N
 \b(Mr\.|Mister) Donuts?\b,Mister Donut,N
+\bpandaboy\b,PandaBoY,N
 \b[fp]on d[eu] rin?g,pon-de-ring,N
 \bfond[eu]rin?g,pon-de-ring,N
+\byoa\s?sobi\b,YOASOBI,N
 \byobae\b,yobai,N
 \b(Por[io]r[ou]|Portal|Porter)[\s\-]oneechan\b,Poruru-oneechan,N
 \bEnigmatic Recollection,ENigmatic Recollection,N
@@ -66,7 +74,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bholodoroke\b,holo Dorokei,N
 \bHololive\b,hololive,N
 \bHolostars\b,holostars,N
-\bhololive suikai?\b,holo no Suika,N
+\b(hololive|ho[lr]o no) suikai?\b,holo no Suika,N
 \benglish myth\b,English -Myth-,N
 \benglish council\b,English -Council-,N
 \benglish justice\b,English -Justice-,N
