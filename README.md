@@ -15,8 +15,8 @@ This is a fan made project. The contents in this repository follow the [hololive
 - 🎶 Jingle by [Sarina](https://twitter.com/Sarina_A_Elysia/status/1695163342699081980).
 - ▶️ Playlist: https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS
 - 📤 Submissions:
-    - Question Of The Day: [#helpFWMC](https://twitter.com/hashtag/helpFWMC)
-    - Other corners (Pero Sighting, Doggie Of The Day, Today I Went On A Walk...): [#FWMCMORNING](https://twitter.com/hashtag/FWMCMORNING)
+  - Question Of The Day: [#helpFWMC](https://twitter.com/hashtag/helpFWMC)
+  - Other corners (Pero Sighting, Doggie Of The Day, Today I Went On A Walk...): [#FWMCMORNING](https://twitter.com/hashtag/FWMCMORNING)
 
 An index of all FWMC Morning episodes, summaries and transcripts can be found at [`morning/index.md`](./morning/index.md).
 

@@ -17,7 +17,7 @@ FUWAMOCO announce their guest appearance on holo no Kyuujitsu, inviting JP Ruffi
 
 ## "Gimme Chocolate" 1 Million (12:14)
 
-FUWAMOCO celebrate their cover of Babymetal's "Gimme Chocolate" reaching 1 million views on YouTube.
+FUWAMOCO celebrate their cover of BABYMETAL's "Gimme Chocolate" reaching 1 million views on YouTube.
 
 ## HyperX Monitors (14:18)
 
