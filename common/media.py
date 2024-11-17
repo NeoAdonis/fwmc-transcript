@@ -7,7 +7,7 @@ import subprocess
 from yt_dlp import YoutubeDL
 
 
-def convert_to_wav(path: str, new_base_name: str):
+def convert_to_wav(path: str, new_base_name: str, start_from="", end_at=""):
     """Convert the audio file to WAV format using FFmpeg."""
 
     # Check if the required dependencies are installed
@@ -22,27 +22,31 @@ def convert_to_wav(path: str, new_base_name: str):
     # Construct the path for the converted audio file
     converted_audio = os.path.join(parent_folder, f"{new_base_name}.wav")
 
+    # Construct the FFmpeg command
+    args = [
+        ffmpeg_path,
+        "-v",
+        "warning",
+        "-i",
+        path,
+        "-vn",
+        "-acodec",
+        "pcm_s16le",
+        "-ar",
+        "44100",
+        "-ac",
+        "2",
+    ]
+    if start_from:
+        args.extend(["-ss", start_from])
+    if end_at:
+        args.extend(["-to", end_at])
+    args.append(converted_audio)
+
     # Check if the converted audio file already exists
     if not os.path.exists(converted_audio):
         # Use ffmpeg to convert the audio file
-        subprocess.run(
-            [
-                ffmpeg_path,
-                "-v",
-                "warning",
-                "-i",
-                path,
-                "-vn",
-                "-acodec",
-                "pcm_s16le",
-                "-ar",
-                "44100",
-                "-ac",
-                "2",
-                converted_audio,
-            ],
-            check=True,
-        )
+        subprocess.run(args, check=True)
 
 
 def get_video_audio(url: str, output_dir: str, download_video: bool = False):

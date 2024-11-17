@@ -60,12 +60,19 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
         transcript_content = f.read()
     transcript_lines = transcript_content.splitlines()
     changed = False
-    for replacement_entry in replacements:
-        pattern = replacement_entry["Pattern"]
-        regex = replacement_entry["Regex"]
-        replacement = replacement_entry["Replacement"].replace("$", "\\")
-        warning = replacement_entry["Warning"] == "Y"
-        for i, line in enumerate(transcript_lines):
+    cue_regex = re.compile(
+        r"^(\d{2}:)?\d{2}:\d{2}\.\d{3} --> (\d{2})?:\d{2}:\d{2}\.\d{3}$"
+    )
+    for i, line in enumerate(transcript_lines):
+        if line == "":
+            continue
+        if cue_regex.match(line):
+            continue
+        for replacement_entry in replacements:
+            pattern = replacement_entry["Pattern"]
+            regex = replacement_entry["Regex"]
+            replacement = replacement_entry["Replacement"].replace("$", "\\")
+            warning = replacement_entry["Warning"] == "Y"
             if re.search(pattern, line, re.IGNORECASE):
                 new_line = regex.sub(replacement, line)
                 if new_line != line:
