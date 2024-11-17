@@ -25,6 +25,14 @@ def transcribe_audio(
         "cuda" if torch.cuda.is_available() else "cpu",
         return_char_alignments=False,
     )
-
+    result["language"] = "en"
     writer = whisperx.utils.get_writer("vtt", output_dir)
-    writer(result, audio_path)
+    writer(
+        result,
+        audio_path,
+        {
+            "highlight_words": False,
+            "max_line_count": None,
+            "max_line_width": None,
+        },
+    )
