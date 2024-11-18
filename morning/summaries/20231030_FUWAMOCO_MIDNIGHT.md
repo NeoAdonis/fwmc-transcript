@@ -30,7 +30,7 @@ FUWAMOCO tell Ruffians about a small memory from their childhood, when they went
 
 ## 🐶 Doggie of the Night ([25:45](https://youtu.be/f6Xtez79CNs?t=25m45s))
 
-From [hololulz](https://twitter.com/hololulz/status/1709663409103401263) we have B-Man, who seems perplexed by the zombie head that they made.
+Today's (or rather "tonight's") Doggie is [B-Man](https://twitter.com/hololulz/status/1709663409103401263), who seems perplexed by a handmade zombie head.
 
 ## 🚶 Walk of the Night ([28:19](https://youtu.be/f6Xtez79CNs?t=28m19s))
 
