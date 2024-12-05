@@ -33,9 +33,9 @@ FUWAMOCO clarify that during their wrestling segment, they were wearing striped 
 
 FUWAMOCO announce the upcoming "Breaking Dimensions" concert in New York City on August 24-25, encouraging Ruffians to get streaming tickets.
 
-## AZKi x Aqua Collab (26:53)
+## Aqua ✕ AZKi Collab (26:53)
 
-FUWAMOCO reveal an upcoming karaoke collab with AZKi and Aqua, correcting the timing error on their schedule. The collab will air on AZKi's channel.
+FUWAMOCO reveal an upcoming karaoke collab with Aqua and AZKi, correcting the timing error on their schedule. The collab will air on AZKi's channel.
 
 ## Doggie Of The Day (29:47)
 
