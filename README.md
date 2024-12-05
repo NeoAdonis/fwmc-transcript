@@ -13,7 +13,7 @@ This is a fan made project. The contents in this repository follow the [hololive
 
 - 📅 Schedule: every **F**riday, **W**ednesday and **M**onday (aka **F**U**W**A**M**OCO) at 8:00 hrs. US Pacific Time.
 - 🎶 Jingle by [Sarina](https://twitter.com/Sarina_A_Elysia/status/1695163342699081980).
-- ▶️ Playlist: https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS
+- ▶️ Playlist: <https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS>
 - 📤 Submissions:
   - Question Of The Day: [#helpFWMC](https://twitter.com/hashtag/helpFWMC)
   - Other corners (Pero Sighting, Doggie Of The Day, Today I Went On A Walk...): [#FWMCMORNING](https://twitter.com/hashtag/FWMCMORNING)
@@ -47,7 +47,7 @@ If using Windows, you can install all these prerequisites with [WinGet](https://
 
 [Make sure that WinGet is installed](https://learn.microsoft.com/windows/package-manager/winget/), then run the following:
 
-```
+```text
 winget install Oven-sh.Bun
 winget install Anaconda.Miniconda3 -v py310_23.5.2-0
 winget install Gyan.FFmpeg

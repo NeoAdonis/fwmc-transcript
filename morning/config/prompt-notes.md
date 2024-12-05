@@ -1,3 +1,5 @@
+# Prompt notes
+
 Prompts have a token limit, so the following considerations have to be taken before including a word or phrase as part of them:
 
 - Words that are frequently used in the transcripts but tend to have many different misspellings should be part of the prompt.
