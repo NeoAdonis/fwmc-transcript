@@ -1,40 +1,45 @@
 Pattern,Emoji
-\bPero Sighting\b,👀
-^Confession,🙊
-^Misunderstanding,❌
-^Today I Went On A Walk,🚶
-^Walk of the,🚶
-^Question,❓
-^(What|Why),❔
-^Next Stream,📅
-\bDo[cg]tor,🧑‍⚕️
-\bDog(gie|gy)?,🐶
-\b(FWMC)?scoop\b,🔎
-\bRawr n' Response\b,📩
-\bSpecial Ruffians\b,✨
-\bLifetime Showtime\b,🎤
-"\b""?BAU""?DOL",🎤
-\bFire N Ice\b,🎤
 \bAFA\b,🏟️
 \bAnime Frontier\b,🤠
 \bAnime NYC\b,🗽
+"\b""?BAU""?DOL",🎤
+\bBreaking Dimensions\b,🎤
+\bBugs with\b,🦗
+\bComiket\b,📚
+\bConfession,🙊
+\bConnect The World\b,🎤
+\bdog(?!tor)(gie|gy)?,🐶
+\bDorokei\b,💰
 \bEnd\b,🫡
+\bENigmatic Recollection,📖
+\b(FWMC)?scoop\b,🔎
+\bFWMC 64\b,🎮
+\bGeoGuessr,🌍
 \b(Hajimete no Otsukai|Old enough)\b,🛒
 \bHOLOCTOBER\b,🎨
-\bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
-\bRound\s?1\b,🎳
-\bTiniest Ruffian,🍼
-\bBugs with\b,🦗
-\bENigmatic Recollection,📖
-\bGeoGuessr,🌍
 \b(holo)?GTA\b,🚗
-\bPatra\b,🦀❤️
-\bAqua(rium)?\b,⚓
+\bLifetime Showtime\b,🎤
+\bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
+^Misunderstand,❌
+^Next Stream,📅
+\bPero Sighting\b,👀
+^Question,❓
+\bRawr n' Response\b,📩
+\bRound1\b,🎳
+\bsleepover\b,🛏️
+\bSpecial Ruffians\b,✨
+\bTiniest Ruffian,🍼
+^Today I Went On A Walk,🚶
+^Walk of,🚶
+\bAqua ✕ AZKi\b,⚓⚒️
+\bKiara (&|and) Calli(ope)?\b,🐔💀
+\bShiorin? (&|and) (Bijou|Biboo)\b,👁‍🗨🗿
 \bA-chan\b,👓
 \bAZKi\b,⚒️
 \bSui(sei|[\s\-]chan)\b,☄️
 \bMiko(chi)?\b,🌸
 \bHaachama\b,❤️‍🔥
+\bAqua(rium)?\b,⚓
 \bChoco,🍫
 \bMarine\b,🏴‍☠️
 \bWatame\b,🐑
@@ -51,65 +56,55 @@ Pattern,Emoji
 \bMumei\b,🪶
 \bKronii\b,⏳
 \bAdvent(rix)?\b,⚠️
-\b(hibernat|sleep),😴
-\bShiorin? & (Bijou|Biboo)\b,👁‍🗨🗿
+\bRebellion\b,⚠️
 \b(Bijou|Biboo)\b,🗿
 \bNerissa\b,🎼
 \bShiorin?\b,👁‍🗨
-\bRebellion\b,⚠️
 \bJustice\b,⚖️
 \bElizabeth\b,💄
 \bRaora\b,🐱
 \bIcomochi\b,🍡
+\bPatra\b,🦀❤️
 \bPero\b,💜
 \bRuffian,🐾
 \bAnim(e|ations?)\b,📺
-\bholo(Gra| no Graffiti)\b,📺
 \bvoice (pack|drama),📢
 (k|M(illon)?) View,▶️
-\bvacation,🏖️
-\b(holo)?summer\b,🏖️
-\b(Val|BAU\-?l)entine\b,💘
-\bHalloween\b,🎃
-\bThanksgiving\b,🦃
 \bdecember\b,☃️
-\bwinter\b,☃️
-\bsnow,☃️
 \b(Christ|X\-)mas\b,🎄
+\bHalloween\b,🎃
 \bholidays?\b,🎄
-\bSanta\b,🎅
-\bMinecraft\b,⛏️
+\bholo(Gra| no Graffiti)\b,📺
+\b(holo)?summer\b,🏖️
 \bPup Talk\b,📣
+\bThanksgiving\b,🦃
 \b(Twitter|X) Space,🎙️
-\bFWMC 64\b,🎮
+\b(Val|BAU\-?l)entine\b,💘
+\bwinter\b,☃️
 \b3D Showcase\b,🎥
-\bComiket\b,📚
-\bDorokei\b,💰
-\bShorts?\b,🎥
-\bVideos?\b,🎥
 \bAd Break\b,📺
-\bCup Noodle,🍜
 \b(ani)?song,🎤
-\bcover\b,🎤
-\bconcert\b,🎤
-\bConnect The World\b,🎤
-\bBreaking Dimensions\b,🎤
-\bMis(ter )?Do(nut)?\b,🍩
-\bpon-de-ring,🍩
-\b(gift|present)s?\b,🎁
-\b(holo)?(goods|merch)\b,📦
-\bnot so\b,🚫
-\b(Twitter|tweets?)\b,🐦
 \bbreaking\b,‼️
+\bconcert\b,🎤
+\bcover\b,🎤
+\bCup Noodle,🍜
+\b(holo)?(goods|merch)\b,📦
+\bMinecraft\b,⛏️
+\bMis(ter )?Do(nut)?\b,🍩
+\bnot so\b,🚫
 \bPlay button,▶️
+\bpon-de-ring,🍩
+\bShorts?\b,🎥
+\b(Twitter|tweets?)\b,🐦
+\bVideos?\b,🎥
 \badventure,🏞️
 \ballerg(y|ies)\b,🤧
 \banniversar,🎊
 \bannounce,📢
 \bapology\b,🙇
 \bapparel\b,👗
-\basset,🖼️
 \bASMR\b,🎙️
+\basset,🖼️
 \baward,🏅
 \bbad\b,😢
 \bbattle,⚔️
@@ -121,38 +116,41 @@ Pattern,Emoji
 \bbreak\b,⏸️
 \bbunn(y|ies)\b,🐇
 \bBYOU\b,🤒
-\bcards? game,🃏
+cakes?\b,🍰
 \bcall\b,📲
+\bcards? game,🃏
 \bcats?\b,🐱
 \bcelebration,🎉
-\bchannel,📺
 \bchallenge,🏆
+\bchannel,📺
 \bcit(y|ies)\b,🏙️
 \bclaw,🐾
 \bcold,🥶
-\b(pop)?con(vention)?\b,🎪
 \bcosplay,👘
 \bcount(\b|down|er|ing),🔢
+\bdo[cg]tor,🧑‍⚕️
 \bdonut,🍩
 \bdream,💤
 \bdrink,🍹
 \beurobeat,🚗
-\bexpo\b,🎪
+\bexpo\b,🏟️
 \bexposed,📸
 \bfan art\b,🎨
 \b(figure|nendo|pop up parade\b),🪆
 \b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
+\b(gift|present)s?\b,🎁
 \b(goal|milestone),🏁
 \bgood\b,😊
 \bgrumpy\b,😠
 \bhappy\b,😊
 \bhealth\b,❤️‍🩹
+\b(hibernat|sleep),😴
 \b(holo)?ARK\b,🦕
+\b(home(?!work)|house),🏠
 \bhomework,📚
-\bhome,🏠
-\bhouse,🏠
 \bincident,🚨
 \bintro,📺
+\bisland,🏝️
 \bJapan\b,🇯🇵
 \bjingle,🎶
 \bkaraoke\b,🎤
@@ -161,6 +159,7 @@ Pattern,Emoji
 \blike,👍
 \bluck,🍀
 \bmarshmallow\b,🍡
+\bmayo,🍶
 \bmember,🪪
 \bmic(rophones?)?\b,🎙️
 \bmistak,❌
@@ -173,18 +172,21 @@ Pattern,Emoji
 \b(petition|survey),📝
 \bplush,🧸
 \bpoison,☠️
+\b(pop)?con(vention)?\b,🎪
 \bpower,🔋
 \bprank,🤭
 \bpunctual,🕒
 \bradio\b,📻
 \breplace,🔄
 \bsad\b,😢
+\bSanta\b,🎅
 \bschool,🏫
 \bsecret,🤫
 \bsexy\b,🔥
-\bskat(e|ing),🛹
 \bsigning\b,📝
+\bskat(e|ing),🛹
 \bsneeze,🤧
+\bsnow,☃️
 \bsore\b,🩹
 \bspecial\b,🎉
 \bspooky\b,👻
@@ -196,12 +198,13 @@ Pattern,Emoji
 \bTouhou\b,🌸
 \btravel,🧳
 \bupdate,🆕
+\bvacation,🏖️
 \bwalk,🚶‍➡️
 \bwaterpark\b,🔫
+\b(What|Why)\b,❔
 \bWonFes\b,🎨
-\bwrestling\b,🤼
 \bwork\b,💪
 \bworld\b,🌍
+\bwrestling\b,🤼
 \b3D\b,🎥
-cakes?\b,🍰
 \bRIP\b,🪦
