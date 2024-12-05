@@ -13,10 +13,10 @@ Thank you for your interest in contributing to this project! Before submitting a
 
 - Keep it short; aim for 2-3 sentences per segment. If one segment is too long, consider dividing it into more sections.
 - Take additional considerations for the following segments:
-    - Introduction: The episode number should be included.
-    - Doggie of the Day: Make sure to include the name of the pet showcased.
-    - Question of the Day: Summary should focus on the answer to the question asked.
-    - Thanks & Extra Special Ruffians: Avoid mentioning the names of any specific Ruffian that was called out.
+  - Introduction: The episode number should be included.
+  - Doggie of the Day: Make sure to include the name of the pet showcased.
+  - Question of the Day: Summary should focus on the answer to the question asked.
+  - Thanks & Extra Special Ruffians: Avoid mentioning the names of any specific Ruffian that was called out.
 - If possible, run the linter script first.
 
 There might be some summaries that don't comply with these guidelines, as they were made before a specific style was set in place. Feel free to point them out or, even better, to submit a fix.
