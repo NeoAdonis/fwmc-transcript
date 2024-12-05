@@ -12,7 +12,7 @@ from datetime import timezone as datetime_timezone
 EMOJI_FILE = "config/emojis.csv"
 NO_EMOJI_EPISODES = ["friday the 13th"]
 HEADER_REGEX = re.compile(r"(#+) (.*)\n")
-LAST_UPDATED_REGEX = re.compile(r"^Last updated: .*", re.IGNORECASE)
+LAST_UPDATED_REGEX = re.compile(r"^Last updated: [^\r\n]*", re.IGNORECASE)
 TIMESTAMP_REGEX = re.compile(r"(.*) \((\d+):(\d+)\)")
 CURRENT_TIME_STRING = datetime.now(datetime_timezone.utc).strftime("%Y-%m-%d %H:%M")
 LAST_UPDATED_STRING = f"Last updated: {CURRENT_TIME_STRING} UTC"
@@ -162,14 +162,18 @@ def process_summary(
 def refresh_file(filename, new_content):
     """Refresh a file with new content if it has changed."""
     current_content = []
-    with open(filename, "r", encoding="utf-8") as f:
+    line_terminator = "\n"
+    with open(filename, "r", encoding="utf-8", newline="") as f:
         current_content = f.readlines()
+        if "\r\n" in current_content[0]:
+            line_terminator = "\r\n"
     current_content = [
         LAST_UPDATED_REGEX.sub(LAST_UPDATED_STRING, line) for line in current_content
     ]
-    if "\n".join(filename) != "\n".join(new_content):
-        with open("questions.txt", "w", encoding="utf-8") as f:
-            f.writelines(f"{line}\n" for line in new_content)
+    new_content = [f"{line}{line_terminator}" for line in new_content]
+    if current_content != new_content:
+        with open(filename, "w", encoding="utf-8", newline="") as f:
+            f.writelines(f"{line}" for line in new_content)
         return True
     return False
 
@@ -178,7 +182,7 @@ def refresh_summary_index(summary_index, summary_table):
     """Refresh the summary index with the latest episode summaries."""
     was_updated = refresh_file("index.md", summary_index)
     if was_updated:
-        with open("index.csv", "w", encoding="utf-8") as csvfile:
+        with open("index.csv", "w", encoding="utf-8", newline="") as csvfile:
             fieldnames = [
                 "Date",
                 "Episode",
@@ -221,7 +225,7 @@ def main():
         LAST_UPDATED_STRING,
     ]
 
-    with open(EMOJI_FILE, "r", encoding="utf-8") as csvfile:
+    with open(EMOJI_FILE, "r", encoding="utf-8", newline="") as csvfile:
         emoji_list = list(csv.DictReader(csvfile))
 
     for transcript_subdir in os.listdir(args.transcripts_dir):

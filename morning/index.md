@@ -1,10 +1,10 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2024-11-01 21:56 UTC
+Last updated: 2024-12-05 03:26 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
-| 2023-07-31 | Mon | [Episode #0](https://youtu.be/Qd7ohtlOOkQ) | pilot episodes always end up a bit different than the planned show, huh! 🐾  | [Summary](summaries/20230731_0.md) | [Transcript](transcripts/20230731/transcript.vtt) |
+| 2023-07-31 | Mon | [Episode #0](https://youtu.be/Qd7ohtlOOkQ) | pilot episodes always end up a bit different than the planned show, huh! 🐾 | [Summary](summaries/20230731_0.md) | [Transcript](transcripts/20230731/transcript.vtt) |
 | 2023-08-02 | Wed | [Episode #1](https://youtu.be/4giLWiqvyVo) | welcome adventrix! ⚠️ | [Summary](summaries/20230802_1.md) | [Transcript](transcripts/20230802/transcript.vtt) |
 | 2023-08-04 | Fri | [Episode #2](https://youtu.be/YILB_0QF-uI) | the start to a new day filled with smiles ✨ | [Summary](summaries/20230804_2.md) | [Transcript](transcripts/20230804/transcript.vtt) |
 | 2023-08-07 | Mon | [Episode #3](https://youtu.be/Nph4ogfhuBE) | misunderstanding corner edition❓ | [Summary](summaries/20230807_3.md) | [Transcript](transcripts/20230807/transcript.vtt) |
@@ -36,7 +36,7 @@ Last updated: 2024-11-01 21:56 UTC
 | 2023-10-06 | Fri | [Episode #29](https://youtu.be/Tu6QNPp9d3c) | finally friday (and some secrets) ✨ | [Summary](summaries/20231006_29.md) | [Transcript](transcripts/20231006/transcript.vtt) |
 | 2023-10-09 | Mon | [Episode #30](https://youtu.be/4ljeCZkA2mc) | how is it episode 30 already?✨ | [Summary](summaries/20231009_30.md) | [Transcript](transcripts/20231009/transcript.vtt) |
 | 2023-10-11 | Wed | [Episode #31](https://youtu.be/f270ObaKNZw) | wednesday strength for you ✨ | [Summary](summaries/20231011_31.md) | [Transcript](transcripts/20231011/transcript.vtt) |
-| 2023-10-13 | Fri | [friday the 13th](https://youtu.be/QW_VwFyUBeU) | i̵͔̠̖͌̈̉̇́̎ẗ̵̢̡̳̦̫̦̫́̌̒͛̀'̷̣̀͐̀́̆s̷̰̦̅͐ ̴̨̻͇͓̼̹̙͋͑f̷̡̩̭͍͇͂̂̓̎̋ü̸̡̙͈̰͚̱̒ẘ̸̧̖̘͈͕͇́̏͐á̶̡̧͔̯̜̬͛́m̶̠̥̮̬̤̮̜̈́̄͂̀̏̈́o̶͚̞͚̐͌͜͝ĉ̵̥̼̀̉̃͝o̷̩͍̠̿̀̉̐͋ ̷̦̂͌ͅm̶͈̣̲̻̖͆̈͘ô̶̢̹̅͊̇̄͝r̸̮͊͌͑n̵̢͉̣̭͚͖̙̿̈́̀i̵̪͙̿̀̄̋͝ͅņ̶͈͎̰̻̘̏g̶͈͔̟͐̓͑̌̄͛͠.̵̡͔̘̣͈̌.̸̡̱̰̔̈́.̶̫͓̃  | [Summary](summaries/20231013_friday_the_13th.md) | [Transcript](transcripts/20231013/transcript.vtt) |
+| 2023-10-13 | Fri | [friday the 13th](https://youtu.be/QW_VwFyUBeU) | i̵͔̠̖͌̈̉̇́̎ẗ̵̢̡̳̦̫̦̫́̌̒͛̀'̷̣̀͐̀́̆s̷̰̦̅͐ ̴̨̻͇͓̼̹̙͋͑f̷̡̩̭͍͇͂̂̓̎̋ü̸̡̙͈̰͚̱̒ẘ̸̧̖̘͈͕͇́̏͐á̶̡̧͔̯̜̬͛́m̶̠̥̮̬̤̮̜̈́̄͂̀̏̈́o̶͚̞͚̐͌͜͝ĉ̵̥̼̀̉̃͝o̷̩͍̠̿̀̉̐͋ ̷̦̂͌ͅm̶͈̣̲̻̖͆̈͘ô̶̢̹̅͊̇̄͝r̸̮͊͌͑n̵̢͉̣̭͚͖̙̿̈́̀i̵̪͙̿̀̄̋͝ͅņ̶͈͎̰̻̘̏g̶͈͔̟͐̓͑̌̄͛͠.̵̡͔̘̣͈̌.̸̡̱̰̔̈́.̶̫͓̃ | [Summary](summaries/20231013_friday_the_13th.md) | [Transcript](transcripts/20231013/transcript.vtt) |
 | 2023-10-16 | Mon | [Episode #32](https://youtu.be/qTcTR5q0gTk) | power for the new week ✨ | [Summary](summaries/20231016_32.md) | [Transcript](transcripts/20231016/transcript.vtt) |
 | 2023-10-18 | Wed | [Episode #33](https://youtu.be/1C4TFSqt_nk) | what day of the week is it again ✨ | [Summary](summaries/20231018_33.md) | [Transcript](transcripts/20231018/transcript.vtt) |
 | 2023-10-20 | Fri | [Episode #34](https://youtu.be/WttmEXH3VWs) | fluffy and fuzzy friday ✨ | [Summary](summaries/20231020_34.md) | [Transcript](transcripts/20231020/transcript.vtt) |
