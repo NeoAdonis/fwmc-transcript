@@ -13,7 +13,7 @@ FUWAMOCO welcomes Ruffians to the 82nd episode of FUWAMOCO Morning, aiming to br
 
 Pero was seen wrestling a giant millipede, a fascinating sight for Ruffians during their walks.
 
-## "Let Me Be With You" 100k (11:07)
+## "Let Me Be With You" 100k Views (11:07)
 
 FUWAMOCO celebrate their cover of "Let Me Be With You" from Chobits reaching 100k views and thanks Ruffians for their support.
 

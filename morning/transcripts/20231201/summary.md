@@ -11,7 +11,7 @@ FUWAMOCO celebrate their 51st episode, the first one of the last month of 2023, 
 
 ## Pero Sighting (07:10)
 
-Pero was spotted sleeping inside a very nice car, causing no damage, just having a cozy nap.
+Pero was spotted sleeping peacefully inside a very nice car. FUWAMOCO reminded everyone to let him rest undisturbed to avoid trouble.
 
 ## 300k on Twitter (09:44)
 
@@ -23,7 +23,7 @@ FUWAMOCO made their first post on the hololive Reddit, receiving a warm welcome 
 
 ## holoEN Advent Calendar (14:24)
 
-The hololive English -Advent- Calendar is back. FUWAMOCO appeared in the first video, singing a song with Kiara, Calli, and Nerissa.
+The hololive English Advent Calendar is back. FUWAMOCO appeared in the first video, singing a song with Kiara, Calli, and Nerissa.
 
 ## "Connect the World" Blu-ray (17:02)
 
@@ -32,10 +32,6 @@ The "Connect the World" concert in LA will have a Blu-ray release, allowing fans
 ## holo no Suika Top Score (19:35)
 
 Mumei-senpai achieved over 15,000 points in the hololive Suika game, impressing FUWAMOCO with her skills.
-
-## "Identity" 200k (20:01)
-
-"Identity" reached 200,000 views, showcasing the ongoing support and enthusiasm from Ruffians.
 
 ## Misunderstanding (21:15)
 

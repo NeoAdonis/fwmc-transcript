@@ -13,7 +13,7 @@ FUWAMOCO opens the 137th episode with greetings to Ruffians, thanking them for t
 
 FUWAMOCO talks about spotting Pero at a store, joking that he might be there for demon dog treats or dirt, bringing laughter to Ruffians.
 
-## "BAU"DOL 1 Million (09:50)
+## "BAU"DOL 1 Million Views (09:50)
 
 FUWAMOCO celebrates their original song *Born to be "BAU"DOL☆★* reaching 1 million views, sharing their gratitude and dreams of a future solo live.
 

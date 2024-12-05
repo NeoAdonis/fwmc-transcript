@@ -13,7 +13,7 @@ Welcome to the 66th episode of FUWAMOCO Morning! FUWAMOCO is here to brighten yo
 
 Pero was spotted at a super cute cafe enjoying croissant cubes. He might be hoping to get taken home by a cafe-loving girl.
 
-## "White Love" 200k (10:26)
+## "White Love" 200k Views (10:26)
 
 FUWAMOCO's cover of "White Love" has reached 200,000 views. They thank Ruffians for the support and promise more music.
 

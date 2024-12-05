@@ -21,7 +21,7 @@ FUWAMOCO released a cover song of Kanaria's "Identity" over the weekend, marking
 
 FUWAMOCO admires Gura's song "Tokyo Wabi-Sabi Lullaby" for its melancholic vibe and beautiful city pop animation.
 
-## "Cute na Kanojo 400k" (15:35)
+## "Cute na Kanojo" 400k Views (15:35)
 
 FUWAMOCO celebrates reaching 400,000 plays on their cover "Cute na Kanojo," thanking the Ruffians for their support.
 

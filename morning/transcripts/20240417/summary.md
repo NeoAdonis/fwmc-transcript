@@ -15,7 +15,7 @@ Ruffians spotted Pero during a recent eclipse, adding a celestial mystery to the
 
 FUWAMOCO announce their guest appearance on holo no Kyuujitsu, inviting JP Ruffians to send in show ideas.
 
-## "Gimme Chocolate" 1 Million (12:14)
+## "Gimme Chocolate" 1 Million Views (12:14)
 
 FUWAMOCO celebrate their cover of BABYMETAL's "Gimme Chocolate" reaching 1 million views on YouTube.
 

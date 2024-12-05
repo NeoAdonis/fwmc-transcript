@@ -13,7 +13,7 @@ FUWAMOCO greets the Ruffians and introduces FUWAMOCO Morning.
 
 A Ruffian found Pero in their dessert, featuring mangoes, blueberries, mochi, and ice cream. FUWAMOCO advises keeping an eye out for Pero in food for safety.
 
-## "Lifetime Showtime" 100k (10:03)
+## "Lifetime Showtime" 100k Views (10:03)
 
 FUWAMOCO thanks Ruffians for 100,000 views on their original intro song, "Lifetime Showtime," and expresses their hope to reach 300,000 views someday.
 

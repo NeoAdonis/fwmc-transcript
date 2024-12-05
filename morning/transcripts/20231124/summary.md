@@ -17,7 +17,7 @@ Pero, with his wings, appeared to be very dense but well-equipped for his advent
 
 Marine Senchou will appear on Fuji TV's year-end FNS contest, becoming the first VTuber to do so.
 
-## Mococo Short 200k (12:39)
+## Mococo Short 200k Views (12:39)
 
 Mococo's recent YouTube short reached 200,000 views. Mococo was excited and grateful for the support.
 

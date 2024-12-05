@@ -13,7 +13,7 @@ Fuwawa and Mococo welcome Ruffians to the 7th episode of FUWAMOCO Morning, expla
 
 Pero was spotted in a mall in the Philippines, where he seemed fascinated by something resembling candy, likened to Pop Rocks.
 
-## FWMC Debut 1 Million (08:03)
+## FWMC Debut 1 Million Views (08:03)
 
 FUWAMOCO celebrates reaching 1 million views on their debut stream, expressing amazement and gratitude to the Ruffians for their support.
 

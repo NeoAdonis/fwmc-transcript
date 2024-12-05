@@ -13,7 +13,7 @@ FUWAMOCO welcomes Ruffians to their 50th episode.
 
 A Ruffian found Pero stuck in a container of lard in their kitchen.
 
-## "Identity" 200k (10:18)
+## "Identity" 200k Views (10:18)
 
 FUWAMOCO's cover of "Identity" reached 200,000 views in three days.
 

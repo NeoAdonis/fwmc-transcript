@@ -13,7 +13,7 @@ FUWAMOCO welcome the Ruffians to the 47th episode of FUWAMOCO Morning.
 
 Pero was spotted at the Miss Universe pageant, seemingly interested in the contestants.
 
-## Nerissa Birthday + 500k (09:00)
+## Nerissa Birthday + 500k Subscribers (09:00)
 
 Nerissa celebrated her birthday and reaching 500,000 subscribers. She also released a new cover song featuring her sister.
 

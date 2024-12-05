@@ -21,7 +21,7 @@ A Ruffian spotted Pero sniffing car tires, which could be dangerous.
 
 The cover song "Kaibutsu" hit 3 million views. FUWAMOCO expresses gratitude to Ruffians for listening.
 
-## hololive Subreddit at 1 Million (13:16)
+## hololive Subreddit 1 Million Members (13:16)
 
 The hololive subreddit has surpassed 1 million members. FUWAMOCO appreciates the support from fans.
 

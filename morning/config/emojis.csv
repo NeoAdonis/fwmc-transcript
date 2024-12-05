@@ -1,36 +1,53 @@
 Pattern,Emoji
+\b\d+(k| million) BAU BAUs\b,📢
+\b\d+ days\b,📆
 \bAFA\b,🏟️
 \bAnime Frontier\b,🤠
 \bAnime NYC\b,🗽
 "\b""?BAU""?DOL",🎤
 \bBreaking Dimensions\b,🎤
 \bBugs with\b,🦗
+\bCharacter Street\b,🎭
+\bCHEER UP\b,📣
+\bComic Fiesta\b,🏟️
 \bComiket\b,📚
 \bConfession,🙊
 \bConnect The World\b,🎤
 \bdog(?!tor)(gie|gy)?,🐶
 \bDorokei\b,💰
+\bEarth Defense Force\b,🐜
 \bEnd\b,🫡
 \bENigmatic Recollection,📖
+\bFUWAMOKOYO lines\b,📒
 \b(FWMC)?scoop\b,🔎
 \bFWMC 64\b,🎮
-\bGeoGuessr,🌍
+\bGeoGuessr,🌏
+\bGoodbye daylight,🌇
 \b(Hajimete no Otsukai|Old enough)\b,🛒
 \bHOLOCTOBER\b,🎨
 \b(holo)?GTA\b,🚗
+\bholo(live)?\s?Meet\b,✈️
+\bholo no kyuu?jitsu\b,📺
 \bLifetime Showtime\b,🎤
 \bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
+\bMind Craft\b,🎤
 ^Misunderstand,❌
 ^Next Stream,📅
+\bone more thing\b,⁉️
 \bPero Sighting\b,👀
 ^Question,❓
 \bRawr n' Response\b,📩
+\bRED HEART\b,❤️‍🔥
+"""ReUnion""",🎤
 \bRound1\b,🎳
 \bsleepover\b,🛏️
 \bSpecial Ruffians\b,✨
+\bSuper Chat,💬
+\bTidying-up Space\b,🎙️
 \bTiniest Ruffian,🍼
 ^Today I Went On A Walk,🚶
 ^Walk of,🚶
+\bwe dig it\b,👍
 \bAqua ✕ AZKi\b,⚓⚒️
 \bKiara (&|and) Calli(ope)?\b,🐔💀
 \bShiorin? (&|and) (Bijou|Biboo)\b,👁‍🗨🗿
@@ -46,6 +63,8 @@ Pattern,Emoji
 \bPolka\b,🎪
 \bKoyorin?\b,🧪
 \b(Asa|Kon)Koyo\b,🧪
+\bReGLOSS\b,🎤
+\bRirika\b,🌃
 \bOllie\b,🧟‍♀️
 \bAme(lia)?\b,🔎
 \bCalli(ope)?\b,💀
@@ -69,7 +88,7 @@ Pattern,Emoji
 \bRuffian,🐾
 \bAnim(e|ations?)\b,📺
 \bvoice (pack|drama),📢
-(k|M(illon)?) View,▶️
+(k|M(illion)?) View,▶️
 \bdecember\b,☃️
 \b(Christ|X\-)mas\b,🎄
 \bHalloween\b,🎃
@@ -94,6 +113,7 @@ Pattern,Emoji
 \bnot so\b,🚫
 \bPlay button,▶️
 \bpon-de-ring,🍩
+\b(rough|ruff)\b,🤕
 \bShorts?\b,🎥
 \b(Twitter|tweets?)\b,🐦
 \bVideos?\b,🎥
@@ -105,7 +125,7 @@ Pattern,Emoji
 \bapparel\b,👗
 \bASMR\b,🎙️
 \basset,🖼️
-\baward,🏅
+\b(award|prize|taishou?),🏅
 \bbad\b,😢
 \bbattle,⚔️
 \bBAU\s?time\b,🕒
@@ -114,6 +134,7 @@ Pattern,Emoji
 \bberserk\b,🤯
 \bbirthday,🎂
 \bbreak\b,⏸️
+\bbully,👊
 \bbunn(y|ies)\b,🐇
 \bBYOU\b,🤒
 cakes?\b,🍰
@@ -126,8 +147,10 @@ cakes?\b,🍰
 \bcit(y|ies)\b,🏙️
 \bclaw,🐾
 \bcold,🥶
+\bcompilation,📼
 \bcosplay,👘
 \bcount(\b|down|er|ing),🔢
+\bdifficult,😓
 \bdo[cg]tor,🧑‍⚕️
 \bdonut,🍩
 \bdream,💤
@@ -167,8 +190,11 @@ cakes?\b,🍰
 \bmusic,🎼
 \bnattou?\b,🫘
 \bnew\b,🆕
+\boff-air\b,📴
 \bonsen,♨️
 \boutfit,👗
+\bovertime,🕒
+\bpalworld\b,🌏
 \b(petition|survey),📝
 \bplush,🧸
 \bpoison,☠️
@@ -178,9 +204,11 @@ cakes?\b,🍰
 \bpunctual,🕒
 \bradio\b,📻
 \breplace,🔄
+\brival,⚔️
 \bsad\b,😢
 \bSanta\b,🎅
 \bschool,🏫
+\bsearch,🔍
 \bsecret,🤫
 \bsexy\b,🔥
 \bsigning\b,📝
@@ -191,20 +219,26 @@ cakes?\b,🍰
 \bspecial\b,🎉
 \bspooky\b,👻
 \bstream,📺
+\bstruggl,😓
+\b(sub)?reddit\b,📰
 \bSuika\b,🍉
 \bsurprise,🎁
+\bsync,🔄
 \btea\b,🍵
+\bthank,✨
 \btofu\b,⬜
 \bTouhou\b,🌸
 \btravel,🧳
 \bupdate,🆕
 \bvacation,🏖️
+\bwafer,🍪
 \bwalk,🚶‍➡️
 \bwaterpark\b,🔫
 \b(What|Why)\b,❔
 \bWonFes\b,🎨
 \bwork\b,💪
-\bworld\b,🌍
+\bworld\b,🌏
 \bwrestling\b,🤼
 \b3D\b,🎥
+\bfluffy\b,☁️
 \bRIP\b,🪦

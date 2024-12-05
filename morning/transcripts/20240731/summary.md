@@ -13,7 +13,7 @@ FUWAMOCO celebrates their 112th episode and one-year anniversary. They thank the
 
 Pero hasn't been seen for a while. FUWAMOCO wonders if Pero has retired to a quiet place, possibly the Northwest Passage.
 
-## "Kaibutsu" 5 Million (10:54)
+## "Kaibutsu" 5 Million Views (10:54)
 
 FUWAMOCO's cover of "Kaibutsu" has reached 5 million views on YouTube. They express their gratitude to the Ruffians and hope to release more music in their second year.
 
