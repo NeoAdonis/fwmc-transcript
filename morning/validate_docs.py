@@ -27,9 +27,16 @@ if __name__ == "__main__":
         default="transcripts",
         help="Path to the transcripts directory",
     )
+    parser.add_argument(
+        "--check_mistakes",
+        type=bool,
+        default=False,
+        help="If true, transcripts will be checked for common mistakes",
+    )
     args = parser.parse_args()
 
     transcripts_dir = args.transcripts_dir
+    check_mistakes = args.check_mistakes
 
     transcripts_dir_walker = os.walk(transcripts_dir)
 
@@ -52,10 +59,12 @@ if __name__ == "__main__":
                     )
             # Check transcripts
             if file == "transcript.vtt":
-                transcript.check_repeats(root, file)
-                if transcript.fix_mistakes(replacements, root, file, True):
-                    printer.print_info("File changed", relative_path)
-                transcript.highlight_ambiguities(highlights, root, file)
+                transcript.validate(root, file)
+                if check_mistakes:
+                    if transcript.fix_mistakes(replacements, root, file, True):
+                        printer.print_info("File changed", relative_path)
+                    transcript.check_repeats(root, file)
+                    transcript.highlight_ambiguities(highlights, root, file)
         # Look for missing files
         for directory in dirs:
             summary_path = os.path.join(root, directory, "summary.md")

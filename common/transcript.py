@@ -6,10 +6,38 @@ import re
 
 import webvtt
 
-from common import printer
+from common import printer, time
 
 # Define constants
 INTRODUCTION_PATTERN = "Hallo hallo BAU BAU"
+
+
+def validate(root, file):
+    """Validate transcript."""
+    i = 1
+    ln = 3
+    prev_caption = None
+    relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
+    for caption in webvtt.read(os.path.join(root, file)):
+        if caption.text == "":
+            printer.print_warning("Empty caption", f"{relative_path}:{ln}")
+        elif i != 1:
+            start_delta = time.str_to_timedelta(caption.start)
+            end_delta = time.str_to_timedelta(caption.end)
+            prev_end_delta = time.str_to_timedelta(prev_caption.end)
+            if start_delta >= end_delta:
+                printer.print_error(
+                    "Caption ends before it starts",
+                    f"{relative_path}:{ln}",
+                )
+            if prev_end_delta > start_delta:
+                printer.print_error(
+                    "Caption overlaps with the previous one",
+                    f"{relative_path}:{ln}",
+                )
+        prev_caption = caption
+        i += 1
+        ln += 3 + caption.text.count("\n")
 
 
 def check_repeats(root, file):
@@ -76,7 +104,7 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
             if re.search(pattern, line, re.IGNORECASE):
                 new_line = regex.sub(replacement, line)
                 if new_line != line:
-                    if warning:
+                    if warning and not warn_only:
                         printer.print_warning(
                             f'Replaced with "{replacement}"',
                             f"{relative_path}:{i+1}",
