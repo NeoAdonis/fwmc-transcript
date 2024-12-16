@@ -35,6 +35,10 @@ def validate(root, file):
                     "Caption overlaps with the previous one",
                     f"{relative_path}:{ln}",
                 )
+        # TODO: Fix issues in transcripts first to minimize noise
+        # if len(caption.text) > (42 * 3):
+        #     printer.print_warning("Caption too long", f"{relative_path}:{ln}")
+        #     print(caption.text)
         prev_caption = caption
         i += 1
         ln += 3 + caption.text.count("\n")
