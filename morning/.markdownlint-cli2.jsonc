@@ -24,8 +24,11 @@
                 // Japanese common nouns can be included if they aren't frequently used as such
                 // and the noun doesn't describe a concept originated from Japan (miko, okayu…).
                 "holoEN",
+                "holoID",
+                "holoX",
                 "DEV_IS",
                 "ReGLOSS",
+                "FLOW GLOW",
                 //// NON-HOLOLIVE
                 "Icomochi",
                 "Haruko",
@@ -48,19 +51,19 @@
                 //// GENERATION 0
                 // "Sora" is a common noun in Japanese (sky)
                 "Tokino",
-                "Robocosan", // "san" as part of the name is intentional
+                "Robocosan", // "san" is part of the name and not an honorific
                 "Roboco",
                 "AZKi",
                 // "Miko" is a Japanese concept (shrine maiden)
                 // "Sakura" is a common noun in Japanese (cherry blossom)
-                // "Suisei" is a common noun in Japanese (comet)
+                "Suisei", // Also a common noun in Japanese (comet)
                 "Hoshimachi",
                 //// GENERATION 1
                 // "Aki" is a common noun in Japanese (autumn)
                 "Rosenthal",
                 "Haato",
                 // "Akai" is a common noun in Japanese (red)
-                // "Fubuki" is a common noun in Japanese (blizzard)
+                "Fubuki", // Also a common noun in Japanese (blizzard)
                 "Shirakami",
                 // "Matsuri" is a common noun in Japanese (festival)
                 "Natsuiro",
@@ -70,7 +73,7 @@
                 // "Aqua" is a common noun in English
                 "Minato", // Also a common noun in Japanese (harbor)
                 "Shion",
-                // "Murasaki" is a common noun in Japanese (purple)
+                "Murasaki", // Also a common noun in Japanese (purple)
                 "Ayame",
                 "Nakiri",
                 // "Choco" is a common short form of "chocolate"
@@ -80,7 +83,7 @@
                 "Oozora", // Also a common noun in Japanese (firmament)
                 //// GAMERS
                 "Mio", // Not to be confused with "mío" (mine)
-                // "Ookami" is a common noun in Japanese (wolf)
+                "Ookami", // Also a common noun in Japanese (wolf)
                 // "Okayu" is a Japanese concept (rice gruel)
                 "Nekomata",
                 // "Korone" is a Japanese concept (a pastry)
@@ -89,11 +92,11 @@
                 "Pekora",
                 "Usada",
                 // "Flare" is a common noun in English
-                "Shiranui", // Rarely used as a common noun in Japanese (will-o'-the-wisp)
+                "Shiranui", // Also a common noun in Japanese (will-o'-the-wisp); rarely used
                 "Noel",
                 "Shirogane", // Also a common noun in Japanese (silver)
                 // "Marine" is a common noun in English
-                "Houshou", // Rarely used as a common noun in Japanese
+                "Houshou",
                 //// GENERATION 4 "HOLOFORCE"
                 "Kanata",
                 "Amane",
@@ -101,15 +104,15 @@
                 "Tsunomaki",
                 "Towa",
                 "Tokoyami",
-                // "Luna" is a common noun in Spanish (moon)
+                "Luna", // Also a common noun in Spanish (moon)
                 "Himemori",
-                // "Coco" is a common noun in Spanish (coconut)
+                "Coco", // Also a common noun in Spanish (coconut)
                 "Kiryu",
                 //// GENERATION 5 "NEPOLABO"
                 "Lamy",
                 "Wamy",
                 "Yukihana",
-                // "Nene" is a common noun in Spanish (baby)
+                "Nene", // Also a common noun in Spanish (baby)
                 "Momosuzu",
                 "Botan",
                 "Shishiro",
@@ -117,15 +120,15 @@
                 "Poruru",
                 "Omaru",
                 //// HOLOX
-                // "La+" is not included to avoid issues with the "+" symbol
-                "Darknesss", // Extra "s" is intentional
+                // "La+" is excluded to avoid issues with the "+" symbol
+                "Darknesss", // The extra "s" is not a misspelling
                 "Lui",
                 "Takane", // Also a common noun in Japanese (high sound; high price)
-                "Iroha", // Rarely used as a common noun in Japanese (an ordering system for kana)
+                "Iroha", // Also a common noun in Japanese (an ordering system for kana)
                 "Kazama",
                 //// INDONESIA
                 "Ayunda",
-                // "Risu" is a common noun in Japanese (squirrel)
+                "Risu", // Also a common noun in Japanese (squirrel)
                 "Moona",
                 "Hoshinova",
                 "Airani",
@@ -146,7 +149,7 @@
                 "Kanaeru",
                 //// ENGLISH MYTH
                 "Amelia",
-                // "Ame" is a common noun in Japanese (rain)
+                "Ame", // Also a common noun in Japanese (rain)
                 "Watson",
                 "Calliope",
                 "Calli",
@@ -167,7 +170,7 @@
                 "Ceres",
                 "Kronii",
                 "Ouro",
-                // "Mumei" is a common noun in Japanese (nameless); the song "mumei" is spelled in lowercase
+                // "Mumei" is excluded because it can also refer to the song "mumei", which is spelled in lowercase; also a common noun in Japanese (nameless)
                 "Nanashi", // Also a common noun in Japanese (nameless)
                 "Sana", // Also an adjective in Spanish (healthy female)
                 // "Tsukumo" spelled as "TSUKUMO" is the name of a company
@@ -178,13 +181,13 @@
                 "FUWAMOCO",
                 "Fuwawa",
                 "Mococo",
-                // "Moco" is a common noun in Spanish (snot)
+                "Moco", // Also a common noun in Spanish (snot)
                 "Moco-chan",
                 "Abyssgard",
                 "Pero", // Also a common noun in Spanish (but)
                 "Nerissa",
                 "Ravencroft",
-                // "Shiori" is a common noun in Japanese (bookmark)
+                "Shori", // Also a common noun in Japanese (bookmark)
                 // "Novella" is a common noun in English
                 //// ENGLISH JUSTICE
                 "Cecilia",
@@ -196,8 +199,8 @@
                 "Murin",
                 "Raora",
                 "Panthera",
-                //// REGLOSS
-                // "Ao" is a common noun in Japanese (blue)
+                //// DEV_IS REGLOSS
+                "Ao", // Also a common noun in Japanese (blue)
                 "Hiodoshi",
                 "Kanade",
                 "Otonose",
@@ -205,8 +208,19 @@
                 "Ichijou",
                 "Raden",
                 "Juufuutei",
-                // "Hajime" is a common noun in Japanese (beginning)
-                "Todoroki"
+                "Hajime", // Also a common noun in Japanese (beginning)
+                "Todoroki",
+                //// DEV_IS FLOW GLOW
+                "Riona",
+                "Isaki",
+                "Niko",
+                "Koganei",
+                "Su",
+                "Mizumiya",
+                "Chihaya",
+                "Rindo",
+                "Vivi",
+                "Kikirara"
             ]
         },
         "search-replace": {
