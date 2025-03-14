@@ -7,7 +7,7 @@ Thank you for your interest in contributing to this project! Before submitting a
 - Make sure that your contribution follows the [hololive production Derivative Works Guidelines](https://hololivepro.com/en/terms/). In short, ensure that it cannot be misinterpreted as officially endorsed by any hololive talent or Cover Corp., and that it doesn't damage a third party's image.
 - Use proper capitalization for proper nouns. Use the [hololive Talent page](https://hololive.hololivepro.com/en/talents/) as reference for talent and generation names.
 - Separate Japanese honorifics with a hyphen (e.g., Tanigo-san, Moco-chan).
-- Unless relevant to the context of the content, do not introduce intentional misspellings. For example, do not spell 'Ruffians' as 'Wuffians'.
+- Do not introduce intentional misspellings unless it's relevant to the context of the content. For example, avoid spelling 'Ruffians' as 'Wuffians'.
 
 ## Summaries for FWMC Morning
 
