@@ -10,6 +10,7 @@ from common import printer, time
 
 # Define constants
 INTRODUCTION_PATTERN = "Hallo hallo BAU BAU"
+CUE_REGEX = re.compile(r"^(\d{2}:)?\d{2}:\d{2}\.\d{3} --> (\d{2})?:\d{2}:\d{2}\.\d{3}$")
 
 
 def validate(root, file):
@@ -89,24 +90,18 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
         os.path.join(directory, transcript_file), os.getcwd()
     )
     with open(os.path.join(directory, transcript_file), "r", encoding="utf-8") as f:
-        transcript_content = f.read()
-    transcript_lines = transcript_content.splitlines()
+        transcript_lines = f.read().splitlines()
     changed = False
-    cue_regex = re.compile(
-        r"^(\d{2}:)?\d{2}:\d{2}\.\d{3} --> (\d{2})?:\d{2}:\d{2}\.\d{3}$"
-    )
     for i, line in enumerate(transcript_lines):
         if line == "":
             continue
-        if cue_regex.match(line):
+        if CUE_REGEX.match(line):
             continue
         for replacement_entry in replacements:
-            pattern = replacement_entry["Pattern"]
-            regex = replacement_entry["Regex"]
             replacement = replacement_entry["Replacement"].replace("$", "\\")
             warning = replacement_entry["Warning"] == "Y"
-            if re.search(pattern, line, re.IGNORECASE):
-                new_line = regex.sub(replacement, line)
+            if re.search(replacement_entry["Pattern"], line, re.IGNORECASE):
+                new_line = replacement_entry["Regex"].sub(replacement, line)
                 if new_line != line:
                     if warning and not warn_only:
                         printer.print_warning(
@@ -115,7 +110,7 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
                         )
                         printer.print_with_highlight(
                             line,
-                            pattern,
+                            replacement_entry["Pattern"],
                         )
                     if not (warning and warn_only):
                         changed = True
