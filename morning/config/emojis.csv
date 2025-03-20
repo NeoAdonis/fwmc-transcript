@@ -47,7 +47,9 @@ Pattern,Emoji
 \bTiniest Ruffian,🍼
 ^Today I Went On A Walk,🚶
 ^Walk of,🚶
+\bwe( are|'re) back\b,🎉
 \bwe dig it\b,👍
+\bYouTube hits\b,🏏
 \bAqua ✕ AZKi\b,⚓⚒️
 \bKiara (&|and) Calli(ope)?\b,🐔💀
 \bShiorin? (&|and) (Bijou|Biboo)\b,👁‍🗨🗿
@@ -160,6 +162,7 @@ cakes?\b,🍰
 \bexposed,📸
 \bfan art\b,🎨
 \b(figure|nendo|pop up parade\b),🪆
+\bfundoshi,🩲
 \b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
 \b(gift|present)s?\b,🎁
 \b(goal|milestone),🏁
@@ -179,6 +182,7 @@ cakes?\b,🍰
 \bkaraoke\b,🎤
 \bkou?shien\b,⚾
 \blantern,🏮
+\bleak,📖
 \blike,👍
 \bluck,🍀
 \bmarshmallow\b,🍡
@@ -225,6 +229,7 @@ cakes?\b,🍰
 \bsurprise,🎁
 \bsync,🔄
 \btea\b,🍵
+\bterror,😱
 \bthank,✨
 \btofu\b,⬜
 \bTouhou\b,🌸
@@ -234,6 +239,7 @@ cakes?\b,🍰
 \bwafer,🍪
 \bwalk,🚶‍➡️
 \bwaterpark\b,🔫
+\bweather,🌦️
 \b(What|Why)\b,❔
 \bWonFes\b,🎨
 \bwork\b,💪
@@ -241,4 +247,5 @@ cakes?\b,🍰
 \bwrestling\b,🤼
 \b3D\b,🎥
 \bfluffy\b,☁️
+\bpart(y|ies)\b,🎉
 \bRIP\b,🪦
