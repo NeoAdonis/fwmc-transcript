@@ -1,4 +1,5 @@
-"""Update index.md file with the latest episode summaries and questions of the day"""
+"""Generate and update formatted episode summaries, and update index file with the
+latest summaries and questions of the day."""
 
 import argparse
 import csv
@@ -21,8 +22,8 @@ LAST_UPDATED_STRING = f"Last updated: {CURRENT_TIME_STRING} UTC"
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
-        description="Update index file with the latest episode summaries and"
-        + " questions of the day."
+        description="Generate and update formatted episode summaries, and update index"
+        + "file with the latest summaries and questions of the day."
     )
     parser.add_argument(
         "--transcripts_dir",

@@ -1,8 +1,8 @@
-"""Unit tests for update_summary_index.py."""
+"""Unit tests for update_summaries.py."""
 
 import os
 import unittest
-from morning import update_summary_index
+from morning import update_summaries
 
 
 class TestMorningUpdateSummaryIndexMethods(unittest.TestCase):
@@ -10,7 +10,7 @@ class TestMorningUpdateSummaryIndexMethods(unittest.TestCase):
 
     def test_load_metadata(self):
         """Test get_metadata function"""
-        m = update_summary_index.load_metadata("morning/transcripts/20231013")
+        m = update_summaries.load_metadata("morning/transcripts/20231013")
         self.assertEqual(m["episode"], "friday the 13th")
         self.assertEqual(m["isSpecial"], True)
         self.assertEqual(m["date"], "2023-10-13")
@@ -20,13 +20,13 @@ class TestMorningUpdateSummaryIndexMethods(unittest.TestCase):
     def test_format_episode_filename(self):
         """Test format_episode_filename function"""
         os.chdir("morning/transcripts")
-        filename_reg = update_summary_index.format_episode_filename(
+        filename_reg = update_summaries.format_episode_filename(
             "20201234", {"episode": "123"}
         )
-        filename_spaces = update_summary_index.format_episode_filename(
+        filename_spaces = update_summaries.format_episode_filename(
             "20202345", {"episode": "special episode in space"}
         )
-        filename_kana = update_summary_index.format_episode_filename(
+        filename_kana = update_summaries.format_episode_filename(
             "20231229", {"episode": "あさモコLIVE"}
         )
         self.assertEqual(filename_reg, "20201234_123")
@@ -35,7 +35,7 @@ class TestMorningUpdateSummaryIndexMethods(unittest.TestCase):
 
     def test_format_header_line_base(self):
         """Test format_header_line function"""
-        line = update_summary_index.format_header_line(
+        line = update_summaries.format_header_line(
             [
                 {"Pattern": r"\btest", "Emoji": "🧪"},
                 {"Pattern": r"unit", "Emoji": "❌"},
@@ -52,7 +52,7 @@ class TestMorningUpdateSummaryIndexMethods(unittest.TestCase):
 
     def test_format_header_line_intro(self):
         """Test format_header_line function on an introduction section"""
-        line = update_summary_index.format_header_line(
+        line = update_summaries.format_header_line(
             [{"Pattern": r"test", "Emoji": "🧪"}, {"Pattern": r"intro", "Emoji": "❌"}],
             "##",
             "Introduction (12:34)",
@@ -66,7 +66,7 @@ class TestMorningUpdateSummaryIndexMethods(unittest.TestCase):
 
     def test_format_header_line_no_emoji(self):
         """Test format_header_line function on an episode that should not use emoji"""
-        line = update_summary_index.format_header_line(
+        line = update_summaries.format_header_line(
             [
                 {"Pattern": r"\btest", "Emoji": "🧪"},
                 {"Pattern": r"unit", "Emoji": "❌"},
