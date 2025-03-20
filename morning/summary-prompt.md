@@ -1,6 +1,7 @@
----
+<!-- markdownlint-disable search-replace -->
+<!--
 The following text is used as prompt to an LLM to create an initial draft summary of each episode of FWMC Morning, excluding special one-offs. If using a virtual assistant such as ChatGPT, you'll need to change the transcript extension to .txt before uploading.
----
+-->
 
 ## About you
 
