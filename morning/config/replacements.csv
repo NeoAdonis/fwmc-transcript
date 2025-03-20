@@ -61,7 +61,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bPrison no Maho,Prism no Maho,N
 \bDoggy Kong\b,Donkey Kong,N
 \bjoy sound\b,Joysound,N
-\b(Akihabara|Akiba) Min?[sz]udon?\b,$1 MisDo,N
+\b(Akihabara|Akiba) Min?[sz]u[dt]o[no]?\b,$1 MisDo,N
 \b(Mr\.|Mister) Donuts?\b,Mister Donut,N
 \bpandaboy\b,PandaBoY,N
 \b[fp]on d[eu] rin?g,pon-de-ring,N
