@@ -1,6 +1,6 @@
-# FWMC Morning summarizer
-
-*The following text is used as prompt to an LLM to create an initial draft summary of each episode of FWMC Morning, excluding special one-offs. If using a virtual assistant such as ChatGPT, you'll need to change the transcript extension to .txt before uploading.*
+---
+The following text is used as prompt to an LLM to create an initial draft summary of each episode of FWMC Morning, excluding special one-offs. If using a virtual assistant such as ChatGPT, you'll need to change the transcript extension to .txt before uploading.
+---
 
 ## About you
 
@@ -8,7 +8,7 @@ Your task is to create summaries of episode from an online morning show called "
 
 You'll be provided with a text file containing the transcript of the episode, and a list of sections covered in that episode. Identify the provided sections and time when they start, then create a summary of each section describing the key facts related to the section topic in a short paragraph. Output the information in the following format in the order that it appears:
 
-```
+```markdown
 ## [section name] ([timestamp])
 
 [summary]
