@@ -23,7 +23,7 @@ During their hiatus, FUWAMOCO was named VTuber of the Year 2024, participated in
 
 ## hololive 6th Fes After Party (17:07)
 
-FUWAMOCO made their Fes debut at hololive 6th Fes "Color Rise Harmony," performing "Born to be BAUDOL" and "Yakko no Uta." They also joined Advent in "Rebellion" and performed with Nenechi at the Creator Stage. Ruffians were encouraged to check the event's archive.
+FUWAMOCO made their Fes debut at hololive 6th Fes "Color Rise Harmony," performing "Born to be "BAU"DOL☆★" and "Yakko no Uta." They also joined Advent in "Rebellion" and performed with Nenechi at the Creator Stage. Ruffians were encouraged to check the event's archive.
 
 ## Misunderstanding (30:40)
 
@@ -31,7 +31,7 @@ Some Ruffians believed FUWAMOCO Morning was gone for six months, but it was only
 
 ## Doggie of the Day (32:58)
 
-Today's Doggie of the Day is Cream! A new puppy joining the family alongside another dog named Coffee. FUWAMOCO suggests adding Cookie or Sugar to complete the theme.
+Today's Doggie of the Day is Cream, a baby puppy who is very cute but also still a little bit shy. Cream just joined the family alongside another dog named Coffee. FUWAMOCO suggests adding Cookie or Sugar to complete the theme.
 
 ## Today I Went On A Walk (35:29)
 
@@ -39,7 +39,7 @@ Ruffians shared pictures of cherry blossoms, marking the arrival of spring. FUWA
 
 ## Question of the Day (36:44)
 
-Today's question: "Do you like dango?" FUWAMOCO explains that dango is a Japanese sweet made from rice flour, different from mochi. They love mitarashi dango for its sweet and salty soy sauce flavor.
+Today's question: do FUWAMOCO like [dango](https://en.wikipedia.org/wiki/Dango)? They explain that dango is a Japanese sweet made from rice flour, different from mochi. They love mitarashi dango for its sweet and salty soy sauce flavor.
 
 ## Next Stream & Schedule (39:06)
 
@@ -47,4 +47,4 @@ FUWAMOCO hints at exciting things coming soon and reminds Ruffians to join FUWAM
 
 ## Thanks & Extra Special Ruffians (39:32)
 
-FUWAMOCO thanks Ruffians for their support and invites them to keep engaging with the show by sending questions, walk photos, and FUWAMOCO Scoop news.
+FUWAMOCO thanks Ruffians for their support and invites them to keep engaging with the show by sending questions, walk photos, and \#FWMCScoop news.
