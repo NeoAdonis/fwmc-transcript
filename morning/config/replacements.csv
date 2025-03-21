@@ -1,6 +1,8 @@
 Pattern,Replacement,Warning
 "H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU,N
 Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
+(FUWAMOCO Morning hajimaru yo!?),<i>$1</i>,N
+(FUWAMOCO Morning deshita!?),<i>$1</i>,N
 \bHelpFUWAMOCO\b,helpFWMC,N
 "\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2,Y
 \bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU,N
@@ -61,6 +63,8 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bPrison no Maho,Prism no Maho,N
 \bDoggy Kong\b,Donkey Kong,N
 \bjoy sound\b,Joysound,N
+\bMakuhari[\s\-](mansion|mensei)\b,Makurari Messe,N
+\bminecraft\b,Minecraft,N
 \b(Akihabara|Akiba) Min?[sz]u[dt]o[no]?\b,$1 MisDo,N
 \b(Mr\.|Mister) Donuts?\b,Mister Donut,N
 \bpandaboy\b,PandaBoY,N
