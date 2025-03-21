@@ -27,6 +27,7 @@ def transcribe_audio(
     )
     result["language"] = "en"
     writer = whisperx.utils.get_writer("vtt", output_dir)
+    writer.always_include_hours = True
     writer(
         result,
         audio_path,
