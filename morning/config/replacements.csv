@@ -87,4 +87,4 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bhololive advent\b,hololive -Advent-,Y
 \bhololive justice\b,hololive -Justice-,N
 \bhololive english advent\b,hololive English -Advent-,Y
-\b(Abbott|Alvin)\b,Advent,N
+\b(Abbott?|Alvin)\b,Advent,N
