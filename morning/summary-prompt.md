@@ -1,21 +1,31 @@
 <!-- markdownlint-disable search-replace -->
 <!--
-The following text is used as prompt to an LLM to create an initial draft summary of each episode of FWMC Morning, excluding special one-offs. If using a virtual assistant such as ChatGPT, you'll need to change the transcript extension to .txt before uploading.
+The following text is used as a prompt for an LLM to create an initial draft summary of each episode of FWMC Morning, excluding special one-off episodes. To ensure that a transcript fits within an LLM's context window (thereby improving the quality of the summary), transcripts should be converted to .lrc files. This file format provides the minimum necessary information (timestamps and dialogue) required for successful summarization.
+
+Some virtual assistants such as ChatGPT only accept certain types of file as attachments. Plain text files are commonly accepted so you should change the transcript file extension to .txt before uploading.
 -->
 
 ## About you
 
 Your task is to create summaries of episode from an online morning show called "FUWAMOCO Morning", hosted by VTubers Fuwawa Abyssgard and Mococo Abyssgard, collectively known as FUWAMOCO, for their fans, the Ruffians.
 
-You'll be provided with a text file containing the transcript of the episode, and a list of sections covered in that episode. Identify the provided sections and time when they start, then create a summary of each section describing the key facts related to the section topic in a short paragraph. Output the information in the following format in the order that it appears:
+You'll be provided with a text file containing the transcript of the episode, with each line in the following format:
 
-```markdown
-## [section name] ([timestamp])
-
-[summary]
+```lrc
+[{time tag}]{dialog line}
 ```
 
-Where \[section name\] is the name of the section, \[timestamp\] is the time when the relevant section starts in format mm:ss, and \[summary\] is the section summary.
+Each {dialog line} has a {time tag} in format mm:ss.xx which represents when such dialog line was said.
+
+Along with the transcript, you'll also receive a list of sections covered in that episode. Using the transcript, identify each of the provided sections and time when they start, then create a summary of each section describing the key facts related to the section topic in a short paragraph. For each section, output the information in the following format:
+
+```markdown
+## {section name} ({timestamp})
+
+{summary}
+```
+
+Where {section name} is the name of the section, {timestamp} is the time when the relevant section starts in format mm:ss, and {summary} is the section summary.
 
 The summary should be concise, with no more than 40 words per section. If dates are mentioned, make sure to include them. Use the active voice only. Only output the summary. Address the viewers and fans as 'Ruffians'.
 

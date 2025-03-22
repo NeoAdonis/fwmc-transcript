@@ -45,6 +45,20 @@ def validate(root, file):
         ln += 3 + caption.text.count("\n")
 
 
+def to_lrc(root, file):
+    """Convert a transcript to LRC format."""
+    lrc_file = os.path.splitext(file)[0] + ".lrc"
+    with open(os.path.join(root, lrc_file), "w", encoding="utf-8") as f:
+        for caption in webvtt.read(os.path.join(root, file)):
+            start = time.str_to_timedelta(caption.start)
+            # To make the LRC file leaner, we can avoid adding an end time
+            # end = time.str_to_timedelta(caption.end)
+            text = re.sub(r"<[^>]*>", "", caption.text).replace("\n", " ")
+            f.write(f"[{time.timedelta_to_simple_str(start)}]{text}\n")
+            # f.write(f"[{time.timedelta_to_str(end)}]\n")
+    return lrc_file
+
+
 def check_repeats(root, file):
     """Check repeated lines in a transcript."""
     i = 1
