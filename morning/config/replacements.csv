@@ -23,7 +23,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bmo(cok|koc)oi?\b,Mococo,N
 \bmo([ck]u|ko)[\s\-]?chan,Moco-chan,N
 \bMococo-chan,Moco-chan,Y
-\b(Na|No|Mo|Lo)riss?ai?\b,Nerissa,N
+\b(Na|No|Nu|Mo|Lo)rr?iss?ai?\b,Nerissa,N
 \bNerissa Raven\s?\w+,Nerissa Ravencroft,N
 \bKou?seki\b,Koseki,N
 \bBi[jz]uu?\b,Bijou,N
