@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-03-31 19:53 UTC
+Last updated: 2025-04-15 04:07 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -152,3 +152,8 @@ Last updated: 2025-03-31 19:53 UTC
 | 2024-11-01 | Fri | [Episode #140](https://youtu.be/nGCNOxSxUlM) | we'll all be waiting with wagging tails ✨ we'll see you again for 8am PT on March 10th 2025!! | [Summary](summaries/20241101_140.md) | [Transcript](transcripts/20241101/transcript.vtt) |
 | 2025-03-10 | Mon | [Episode #141](https://youtu.be/uYBFgUM_cwk) | the well-awaited return of fuwamoco morning ✨ | [Summary](summaries/20250310_141.md) | [Transcript](transcripts/20250310/transcript.vtt) |
 | 2025-03-31 | Mon | [Episode #142](https://youtu.be/09O8ylooCFg) | we'll be back soon...!! ✨ | [Summary](summaries/20250331_142.md) | [Transcript](transcripts/20250331/transcript.vtt) |
+| 2025-04-04 | Fri | [Episode #143](https://youtu.be/BKmFltx_NSg) | pup talk already?! ✨ | [Summary](summaries/20250404_143.md) | [Transcript](transcripts/20250404/transcript.vtt) |
+| 2025-04-07 | Mon | [Episode #144](https://youtu.be/88KKEzARyyw) | time for spring ✨ | [Summary](summaries/20250407_144.md) | [Transcript](transcripts/20250407/transcript.vtt) |
+| 2025-04-09 | Wed | [Episode #145](https://youtu.be/0lcbdziWksY) | strong dogs bau bau ✨ ⁽ˢᵉᶜʳᵉᵗˡʸ ᵐᶦˢˢᶦⁿᵍ ʸᵒᵘ⁾ | [Summary](summaries/20250409_145.md) | [Transcript](transcripts/20250409/transcript.vtt) |
+| 2025-04-11 | Fri | [Episode #146](https://youtu.be/KZ896BEEnRc) | mogu mogu gummy ✨ | [Summary](summaries/20250411_146.md) | [Transcript](transcripts/20250411/transcript.vtt) |
+| 2025-04-14 | Mon | [Episode #147](https://youtu.be/N7P27pXxGb8) | it's monday (happy) ✨ | [Summary](summaries/20250414_147.md) | [Transcript](transcripts/20250414/transcript.vtt) |

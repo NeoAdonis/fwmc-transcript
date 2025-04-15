@@ -3,6 +3,7 @@ Pattern,Emoji
 \b\d+ days\b,📆
 \bAFA\b,🏟️
 \bAnime Frontier\b,🤠
+\bAnime Gear Guru\b,🧥
 \bAnime NYC\b,🗽
 "\b""?BAU""?DOL",🎤
 \bBreaking Dimensions\b,🎤
@@ -20,13 +21,14 @@ Pattern,Emoji
 \bENigmatic Recollection,📖
 \bFUWAMOKOYO lines\b,📒
 \b(FWMC)?scoop\b,🔎
-\bFWMC 64\b,🎮
+\b(FWMC|FUWAMOCO) 64\b,🎮
 \bGeoGuessr,🌏
 \bGoodbye daylight,🌇
 \b(Hajimete no Otsukai|Old enough)\b,🛒
 \bHOLOCTOBER\b,🎨
 \b(holo)?GTA\b,🚗
 \bholo(live)?\s?Meet\b,✈️
+\bholoWitch,🪄
 \bholo no kyuu?jitsu\b,📺
 \bLifetime Showtime\b,🎤
 \bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
@@ -60,6 +62,7 @@ Pattern,Emoji
 \bHaachama\b,❤️‍🔥
 \bAqua(rium)?\b,⚓
 \bChoco,🍫
+\bSubaru\b,🚑
 \bMarine\b,🏴‍☠️
 \bWatame\b,🐑
 \bPolka\b,🎪
@@ -148,6 +151,7 @@ cakes?\b,🍰
 \bchannel,📺
 \bcit(y|ies)\b,🏙️
 \bclaw,🐾
+\bclear\b,🎉
 \bcold,🥶
 \bcompilation,📼
 \bcosplay,👘
@@ -160,6 +164,7 @@ cakes?\b,🍰
 \beurobeat,🚗
 \bexpo\b,🏟️
 \bexposed,📸
+\bFamilyMart\b,🏪
 \bfan art\b,🎨
 \b(figure|nendo|pop up parade\b),🪆
 \bfundoshi,🩲
@@ -168,6 +173,7 @@ cakes?\b,🍰
 \b(goal|milestone),🏁
 \bgood\b,😊
 \bgrumpy\b,😠
+\bhanami\b,🌸
 \bhappy\b,😊
 \bhealth\b,❤️‍🩹
 \b(hibernat|sleep),😴
@@ -233,6 +239,7 @@ cakes?\b,🍰
 \bthank,✨
 \btofu\b,⬜
 \bTouhou\b,🌸
+\btrap,🪤
 \btravel,🧳
 \bupdate,🆕
 \bvacation,🏖️
