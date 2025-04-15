@@ -53,12 +53,12 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
     """Download audio and descriptions of a YouTube playlist or video using yt-dlp."""
 
     def published_videos_filter(info, *, incomplete):  # pylint: disable=unused-argument
-        """Download only videos longer than a minute (or with unknown duration)"""
+        """Download only VODs."""
         is_live = info.get("is_live")
         live_status = info.get("live_status")
         availability = info.get("availability")
-        if is_live and live_status != "is_upcoming" and availability == "public":
-            return "Video not live yet"
+        if is_live or live_status == "is_upcoming" or availability != "public":
+            return "Video not available yet"
 
     # Check if the required dependencies are installed
     ffmpeg_path = shutil.which("ffmpeg")
