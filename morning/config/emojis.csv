@@ -14,6 +14,7 @@ Pattern,Emoji
 \bComiket\b,📚
 \bConfession,🙊
 \bConnect The World\b,🎤
+\bCrescent Moon\b,🌙
 \bdog(?!tor)(gie|gy)?,🐶
 \bDorokei\b,💰
 \bEarth Defense Force\b,🐜
@@ -63,6 +64,7 @@ Pattern,Emoji
 \bAqua(rium)?\b,⚓
 \bChoco,🍫
 \bSubaru\b,🚑
+\bOkayu,🍙
 \bMarine\b,🏴‍☠️
 \bWatame\b,🐑
 \bPolka\b,🎪
@@ -70,6 +72,7 @@ Pattern,Emoji
 \b(Asa|Kon)Koyo\b,🧪
 \bReGLOSS\b,🎤
 \bRirika\b,🌃
+\bMoona\b,🔮
 \bOllie\b,🧟‍♀️
 \bAme(lia)?\b,🔎
 \bCalli(ope)?\b,💀
@@ -169,6 +172,7 @@ cakes?\b,🍰
 \b(figure|nendo|pop up parade\b),🪆
 \bfundoshi,🩲
 \b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
+\bgamer?s?\b,🎮
 \b(gift|present)s?\b,🎁
 \b(goal|milestone),🏁
 \bgood\b,😊
@@ -233,6 +237,7 @@ cakes?\b,🍰
 \b(sub)?reddit\b,📰
 \bSuika\b,🍉
 \bsurprise,🎁
+\bsushi\b,🍣
 \bsync,🔄
 \btea\b,🍵
 \bterror,😱
@@ -241,6 +246,7 @@ cakes?\b,🍰
 \bTouhou\b,🌸
 \btrap,🪤
 \btravel,🧳
+\btrouble,🚨
 \bupdate,🆕
 \bvacation,🏖️
 \bwafer,🍪
@@ -254,5 +260,6 @@ cakes?\b,🍰
 \bwrestling\b,🤼
 \b3D\b,🎥
 \bfluffy\b,☁️
+\b(FWMC|FUWAMOCO) Morning\b,🌅
 \bpart(y|ies)\b,🎉
 \bRIP\b,🪦

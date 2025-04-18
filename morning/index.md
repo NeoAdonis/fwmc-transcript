@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-04-15 04:07 UTC
+Last updated: 2025-04-18 23:43 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -157,3 +157,5 @@ Last updated: 2025-04-15 04:07 UTC
 | 2025-04-09 | Wed | [Episode #145](https://youtu.be/0lcbdziWksY) | strong dogs bau bau ✨ ⁽ˢᵉᶜʳᵉᵗˡʸ ᵐᶦˢˢᶦⁿᵍ ʸᵒᵘ⁾ | [Summary](summaries/20250409_145.md) | [Transcript](transcripts/20250409/transcript.vtt) |
 | 2025-04-11 | Fri | [Episode #146](https://youtu.be/KZ896BEEnRc) | mogu mogu gummy ✨ | [Summary](summaries/20250411_146.md) | [Transcript](transcripts/20250411/transcript.vtt) |
 | 2025-04-14 | Mon | [Episode #147](https://youtu.be/N7P27pXxGb8) | it's monday (happy) ✨ | [Summary](summaries/20250414_147.md) | [Transcript](transcripts/20250414/transcript.vtt) |
+| 2025-04-16 | Wed | [Episode #148](https://youtu.be/uEvwiMKgiT0) | is fuwawa in trouble ✨ | [Summary](summaries/20250416_148.md) | [Transcript](transcripts/20250416/transcript.vtt) |
+| 2025-04-18 | Fri | [Episode #149](https://youtu.be/A3oPLltmj9w) | please keep hold of our paws ✨ | [Summary](summaries/20250418_149.md) | [Transcript](transcripts/20250418/transcript.vtt) |
