@@ -54,10 +54,11 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
 
     def published_videos_filter(info, *, incomplete):  # pylint: disable=unused-argument
         """Download only VODs."""
-        is_live = info.get("is_live")
+        if info.get("playlist_index") is None:
+            return  # Don't filter out playlists
         live_status = info.get("live_status")
-        availability = info.get("availability")
-        if is_live or live_status == "is_upcoming" or availability != "public":
+        # availability = info.get("availability")
+        if live_status == "is_live" or live_status == "is_upcoming":
             return "Video not available yet"
 
     # Check if the required dependencies are installed
