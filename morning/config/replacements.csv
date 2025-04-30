@@ -1,8 +1,8 @@
 Pattern,Replacement,Warning
 "H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU,N
 Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
-(FUWAMOCO Morning hajimaru yo!?),<i>$1</i>,N
-(FUWAMOCO Morning deshita!?),<i>$1</i>,N
+((?<!\<i\>)FUWAMOCO Morning hajimaru yo!?(?!\</i\>)),<i>$1</i>,N
+((?<!\<i\>)FUWAMOCO Morning deshita!?(?!\</i\>)),<i>$1</i>,N
 \bHelpFUWAMOCO\b,helpFWMC,N
 "\b(H|h)ashtag,? hashtag,? (\w+)",$1ashtag #$2,Y
 \bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU,N
@@ -29,7 +29,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bBi[jz]uu?\b,Bijou,N
 \bBehebo\b,Biboo,N
 \bKura[\s\-]senpai,Gura-senpai,N
-\bCrony|Cooney\b,Kronii,N
+\bCrony|Cooney|Kuro-nii\b,Kronii,N
 \bBay[\s\-]senpai,Bae-senpai,N
 \b(Corny|Koni)[\s\-]senpai,Kronii-senpai,N
 \bFawna\b,Fauna,N
