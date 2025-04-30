@@ -23,8 +23,9 @@ def timedelta_to_simple_str(delta: datetime.timedelta) -> str:
     """Convert a timedelta object to a simple string (mm:ss.xx)."""
     delta_parts = str(delta).split(".")
     time_parts = delta_parts[0].split(":")
+    minutes = str(int(time_parts[0]) * 60 + int(time_parts[1])).zfill(2)
     return (
-        time_parts[1]
+        minutes
         + ":"
         + time_parts[2]
         + "."

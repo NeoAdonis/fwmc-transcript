@@ -17,7 +17,9 @@ def fix_repeats(
     last_unique_id = 0
     new_vtt = webvtt.WebVTT()
     base_name = os.path.basename(vtt_root)
-    audio_path = os.path.join(audio_root, f"{base_name}/audio.webm")
+    audio_path = os.path.join(audio_root, f"{base_name}/audio.opus")
+    if not os.path.exists(audio_path):
+        audio_path = os.path.join(audio_root, f"{base_name}/audio.webm")
     if not os.path.exists(audio_path):
         audio_path = os.path.join(audio_root, f"{base_name}/audio.mp4")
     if not os.path.exists(audio_path):
@@ -69,8 +71,6 @@ def fix_repeats(
         new_vtt.save(os.path.join(vtt_root, file))
         with open(os.path.join(vtt_root, file), "r", encoding="utf-8") as f:
             content = f.read()
-        content = content.replace("\n00:", "\n")
-        content = content.replace(" 00:", " ")
         content += "\n\n"
         with open(os.path.join(vtt_root, file), "w", encoding="utf-8") as f:
             f.write(content)
