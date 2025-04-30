@@ -56,7 +56,7 @@ def to_lrc(root, file):
             text = re.sub(r"<[^>]*>", "", caption.text).replace("\n", " ")
             f.write(f"[{time.timedelta_to_simple_str(start)}]{text}\n")
             # f.write(f"[{time.timedelta_to_str(end)}]\n")
-    return lrc_file
+    return os.path.join(root, lrc_file)
 
 
 def check_repeats(root, file):
