@@ -32,6 +32,8 @@ Pattern,Emoji
 \bholo(live)?\s?Meet\b,✈️
 \bholoWitch,🪄
 \bholo no kyuu?jitsu\b,📺
+\bHorror Matsuri\b,👻
+\bKaibutsu\b,👹
 \bLifetime Showtime\b,🎤
 \bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
 \bMind Craft\b,🎤
