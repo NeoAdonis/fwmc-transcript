@@ -9,7 +9,7 @@ from datetime import datetime
 import torch
 import whisperx
 
-from common import asr, printer, transcript
+from common import asr, asrtransform, printer, transcript
 from common.media import convert_to_wav
 
 # Define constants
@@ -224,6 +224,7 @@ def main():
                             asr_options={
                                 "initial_prompt": f.read(),
                             },
+                            language="en",
                         )
                     align_model, align_metadata = whisperx.load_align_model(
                         language_code="en", device=DEVICE
@@ -232,6 +233,15 @@ def main():
                 # Transcript with prompt to create a more accurate transcript
                 asr.transcribe_audio(
                     audio_path, model, align_model, align_metadata, new_output_dir
+                )
+                # TODO: Simplify parameter passing
+                asrtransform.fix_repeats(
+                    new_output_dir,
+                    f"{NEW_BASE_NAME}.vtt",
+                    root,
+                    model,
+                    align_model,
+                    align_metadata,
                 )
 
                 # Transcript without prompt can be used to fix ambiguities manually
