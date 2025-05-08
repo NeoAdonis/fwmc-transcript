@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-05-06 01:55 UTC
+Last updated: 2025-05-08 02:11 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -163,3 +163,4 @@ Last updated: 2025-05-06 01:55 UTC
 | 2025-04-30 | Wed | [Episode #151](https://youtu.be/CI-1qV2kpOk) | we'll be here for eachother, okay? let's be a bit more kind than usual ✨ | [Summary](summaries/20250430_151.md) | [Transcript](transcripts/20250430/transcript.vtt) |
 | 2025-05-02 | Fri | [Episode #152](https://youtu.be/T5I5u9M1ZKY) | ending off the week together again ✨ | [Summary](summaries/20250502_152.md) | [Transcript](transcripts/20250502/transcript.vtt) |
 | 2025-05-05 | Mon | [Episode #153](https://youtu.be/iOgtP1MPDi4) | start off a new week on the right paw ✨ | [Summary](summaries/20250505_153.md) | [Transcript](transcripts/20250505/transcript.vtt) |
+| 2025-05-07 | Wed | [Episode #154](https://youtu.be/mUbbdKNGz9g) | keep going strong ✨ | [Summary](summaries/20250507_154.md) | [Transcript](transcripts/20250507/transcript.vtt) |

@@ -37,6 +37,7 @@ Pattern,Emoji
 \bLifetime Showtime\b,🎤
 \bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
 \bMind Craft\b,🎤
+\bMio Wakeup\b,⏰
 ^Misunderstand,❌
 ^Next Stream,📅
 \bone more thing\b,⁉️
@@ -69,6 +70,7 @@ Pattern,Emoji
 \bChoco,🍫
 \bShion\b,🌙
 \bSubaru\b,🚑
+\bMio\b,🌲
 \bOkayu,🍙
 \bMarine\b,🏴‍☠️
 \bWatame\b,🐑
@@ -140,6 +142,7 @@ Pattern,Emoji
 \basset,🖼️
 \b(award|prize|taishou?),🏅
 \bbad\b,😢
+\bbathing suit,👙
 \bbattle,⚔️
 \bBAU\s?time\b,🕒
 \bbear,🐻
