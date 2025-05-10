@@ -61,6 +61,7 @@ Pattern,Emoji
 \bKiara (&|and) Calli(ope)?\b,🐔💀
 \bShiorin? (&|and) (Bijou|Biboo)\b,👁‍🗨🗿
 \bA-chan\b,👓
+\bNodoka\b,📝
 \bAZKi\b,⚒️
 \bSui(sei|[\s\-]chan)\b,☄️
 \bMiko(chi)?\b,🌸
@@ -218,6 +219,7 @@ cakes?\b,🍰
 \bovertime,🕒
 \bpalworld\b,🌏
 \b(petition|survey),📝
+\bphone\b,📱
 \bplush,🧸
 \bpoison,☠️
 \b(pop)?con(vention)?\b,🎪
