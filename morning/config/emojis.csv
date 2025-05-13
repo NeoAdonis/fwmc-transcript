@@ -59,12 +59,14 @@ Pattern,Emoji
 \bYouTube hits\b,🏏
 \bAqua ✕ AZKi\b,⚓⚒️
 \bKiara (&|and) Calli(ope)?\b,🐔💀
+\bNerissa? (&|and|\+) (Bijou|Biboo)\b,🎼🗿
 \bShiorin? (&|and) (Bijou|Biboo)\b,👁‍🗨🗿
 \bA-chan\b,👓
 \bNodoka\b,📝
 \bAZKi\b,⚒️
 \bSui(sei|[\s\-]chan)\b,☄️
 \bMiko(chi)?\b,🌸
+\bAkirose\b,🍎
 \bHaachama\b,❤️‍🔥
 \bAqua(rium)?\b,⚓
 \bAyame\b,😈
