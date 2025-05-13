@@ -75,8 +75,8 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \byobae\b,yobai,N
 \b(Por[io]r[ou]|Portal|Porter)[\s\-](o|and )(nee|neru)[\s\-]?chan\b,Poruru-oneechan,N
 \bEnigmatic Recollection,ENigmatic Recollection,N
-\bEnreko\b,ENreco,N
-\bNRECCO\b,ENreco,N
+\b(Ano|En)reko\b,ENReco,N
+\bNRECCO\b,ENReco,N
 \bholodoroke\b,holo Dorokei,N
 \bHololive\b,hololive,N
 \bHolostars\b,holostars,N
