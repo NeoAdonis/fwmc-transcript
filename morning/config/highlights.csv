@@ -1,4 +1,5 @@
 Pattern,Reason
+\bAyami\b,'Ayamy'
 \b(L|M|N)(a|o)riss?ai?\b,'Nerissa'
 \bMoomin\b,'Mumei'
 \bKuroe\b,'Chloe' or 'Kuroi' or 'Kuro'
