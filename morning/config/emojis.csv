@@ -144,7 +144,6 @@ Pattern,Emoji
 \bASMR\b,🎙️
 \basset,🖼️
 \b(award|prize|taishou?),🏅
-\bbad\b,😢
 \bbathing suit,👙
 \bbattle,⚔️
 \bBAU\s?time\b,🕒
@@ -176,7 +175,8 @@ cakes?\b,🍰
 \bdream,💤
 \bdrink,🍹
 \beurobeat,🚗
-\bexpo\b,🏟️
+\bevent,🏟️
+\bexpo(sition)?s?\b,🏟️
 \bexposed,📸
 \bFamilyMart\b,🏪
 \bfan art\b,🎨
@@ -216,6 +216,7 @@ cakes?\b,🍰
 \bnattou?\b,🫘
 \bnew\b,🆕
 \boff-air\b,📴
+\bomen\b,🔮
 \bonsen,♨️
 \boutfit,👗
 \bovertime,🕒
@@ -271,6 +272,7 @@ cakes?\b,🍰
 \bworld\b,🌏
 \bwrestling\b,🤼
 \b3D\b,🎥
+\bbad\b,😢
 \bfluffy\b,☁️
 \b(FWMC|FUWAMOCO) Morning\b,🌅
 \bpart(y|ies)\b,🎉
