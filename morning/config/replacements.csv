@@ -8,8 +8,8 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bBAU BAU[\s\-](pyo(n)?|byu(u)?|bure)\b,BAU BAU BYOU,N
 \bruffian,Ruffian,N
 \bdoggy pack\b,Doggy Pack,Y
-\bm[ao]m[ao]\s?p[ao]p(py|i)\b,Mama Puppy,N
-\bp[ao]p[ao]\s?p[ao]p(py|i)\b,Papa Puppy,N
+\bm[ao]m[ao]\s?p[aou]p(py|i)\b,Mama Puppy,N
+\bp[ao]p[ao]\s?p[aou]p(py|i)\b,Papa Puppy,N
 \bperr?o sighting,Pero Sighting,N
 \bPerro\b,Pero,Y
 \bdogg(y|ie) of the day\b,Doggie of the Day,N
@@ -30,7 +30,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bBehebo\b,Biboo,N
 \bKura[\s\-]senpai,Gura-senpai,N
 \bCrony|Cooney|Kuro-nii\b,Kronii,N
-\bBay[\s\-]senpai,Bae-senpai,N
+\bBab?y[\s\-]senpai,Bae-senpai,Y
 \b(Corny|Koni)[\s\-]senpai,Kronii-senpai,N
 \bFawna\b,Fauna,N
 \bMume\b,Mumei,N
@@ -42,6 +42,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bAmbergreen\b,Immergreen,N
 \bNao[nr]a\b,Raora,N
 \bGigi Marin\b,Gigi Murin,Y
+\bAutofesta\b,Autofister,N
 \bOli\b,Ollie,N
 \bKai[lr]a[\s\-]senpai,Kaela-senpai,N
 \bEi-chan\b,A-chan,N
@@ -58,6 +59,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bHolox\b,holoX,N
 \bKoei[\s\-]senpai,Chloe-senpai,N
 \bLaplace[\s\-]senpai,La+-senpai,N
+\bRui[\s\-]senpai,Lui-senpai,N
 \b[rw]eg[lr]oss\b,ReGLOSS,N
 \bTwoS[nt]acks\b,2Snacks,N
 \bKyoto no Kano(jo|[\s\-]chan)\b,Cute na Kanojo,N
