@@ -21,6 +21,7 @@ Pattern,Emoji
 \bEnd\b,🫡
 \bENigmatic Recollection,📖
 \bENReco\b,📖
+\bFatal Frame\b,📸
 \bFUWAMOKOYO lines\b,📒
 \b(FWMC)?scoop\b,🔎
 \b(FWMC|FUWAMOCO) 64\b,🎮
@@ -102,6 +103,7 @@ Pattern,Emoji
 \bRaora\b,🐱
 \bIcomochi\b,🍡
 \bPatra\b,🦀❤️
+\bUi-mama\b,🌂
 \bPero\b,💜
 \bRuffian,🐾
 \bAnim(e|ations?)\b,📺
