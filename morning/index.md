@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-05-23 05:28 UTC
+Last updated: 2025-05-25 20:04 UTC
 
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
@@ -169,3 +169,4 @@ Last updated: 2025-05-23 05:28 UTC
 | 2025-05-14 | Wed | [Episode #157](https://youtu.be/xba6xhc7bWE) | what the heck do all these dreams mean anyway ✨ | [Summary](summaries/20250514_157.md) | [Transcript](transcripts/20250514/transcript.vtt) |
 | 2025-05-19 | Mon | [Episode #158](https://youtu.be/Hdw_p0p80iI) | WHERE DID THE WEEK GO?! (mistakenly aggressive caps lock) ✨ | [Summary](summaries/20250519_158.md) | [Transcript](transcripts/20250519/transcript.vtt) |
 | 2025-05-21 | Wed | [Episode #159](https://youtu.be/vZWoVVUCO14) | a step a day together ✨ | [Summary](summaries/20250521_159.md) | [Transcript](transcripts/20250521/transcript.vtt) |
+| 2025-05-23 | Fri | [Episode #160](https://youtu.be/HITf1GZ8HK8) | end of the week?! end of may?! WHAT THE HECK ✨ | [Summary](summaries/20250523_160.md) | [Transcript](transcripts/20250523/transcript.vtt) |
