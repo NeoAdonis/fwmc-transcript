@@ -2,6 +2,7 @@
 
 import torch
 import whisperx
+from whisperx.utils import get_writer
 
 # Define constants
 BATCH_SIZE = 16
@@ -17,6 +18,7 @@ def transcribe_audio(
     """Transcribe the audio file using the specified model"""
     audio = whisperx.load_audio(audio_path)
     result = model.transcribe(audio, BATCH_SIZE, language="en")
+    result["language"] = "en"
     result = whisperx.align(
         result["segments"],
         align_model,
@@ -25,11 +27,12 @@ def transcribe_audio(
         "cuda" if torch.cuda.is_available() else "cpu",
         return_char_alignments=False,
     )
-    result["language"] = "en"
-    writer = whisperx.utils.get_writer("vtt", output_dir)
+    writer = get_writer("vtt", output_dir)
     writer.always_include_hours = True
+    writer_result = dict(result)
+    writer_result["language"] = "en"
     writer(
-        result,
+        writer_result,
         audio_path,
         {
             "highlight_words": False,
