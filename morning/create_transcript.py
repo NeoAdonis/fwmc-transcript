@@ -230,6 +230,9 @@ def main():
                         language_code="en", device=DEVICE
                     )
 
+                assert align_model is not None, "Align model was not loaded"
+                assert align_metadata is not None, "Align metadata was not loaded"
+
                 # Transcript with prompt to create a more accurate transcript
                 asr.transcribe_audio(
                     audio_path, model, align_model, align_metadata, new_output_dir

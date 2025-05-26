@@ -1,7 +1,10 @@
 """This module contains functions related to automatic speech recognition."""
 
+from typing import Any
+
 import torch
 import whisperx
+from transformers import Wav2Vec2ForCTC
 from whisperx.utils import get_writer
 
 # Define constants
@@ -11,8 +14,8 @@ BATCH_SIZE = 16
 def transcribe_audio(
     audio_path: str,
     model: whisperx.asr.FasterWhisperPipeline,
-    align_model: torch.nn.Module,
-    align_metadata: dict,
+    align_model: Wav2Vec2ForCTC,
+    align_metadata: dict[str, Any],
     output_dir: str,
 ):
     """Transcribe the audio file using the specified model"""
@@ -31,12 +34,13 @@ def transcribe_audio(
     writer.always_include_hours = True
     writer_result = dict(result)
     writer_result["language"] = "en"
-    writer(
-        writer_result,
-        audio_path,
-        {
-            "highlight_words": False,
-            "max_line_count": None,
-            "max_line_width": None,
-        },
-    )
+    with open(audio_path, "w", encoding="utf-8") as f:
+        writer(
+            writer_result,
+            f,
+            {
+                "highlight_words": False,
+                "max_line_count": None,
+                "max_line_width": None,
+            },
+        )

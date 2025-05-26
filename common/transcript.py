@@ -22,7 +22,7 @@ def validate(root, file):
     for caption in webvtt.read(os.path.join(root, file)):
         if caption.text == "":
             printer.print_warning("Empty caption", f"{relative_path}:{ln}")
-        elif i != 1:
+        elif prev_caption is not None:
             start_delta = time.str_to_timedelta(caption.start)
             end_delta = time.str_to_timedelta(caption.end)
             prev_end_delta = time.str_to_timedelta(prev_caption.end)
@@ -69,7 +69,8 @@ def check_repeats(root, file):
     last_unique_ln = 0
     relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
     for caption in webvtt.read(os.path.join(root, file)):
-        if i == 1:
+        # Redundant condition to keep PyLance in check
+        if last_unique_caption is None or prev_caption is None:
             last_unique_caption = prev_caption = caption
         if caption.text == "":
             printer.print_warning("Empty caption", f"{relative_path}:{ln}")

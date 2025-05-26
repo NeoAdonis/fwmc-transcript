@@ -25,7 +25,7 @@ def fix_repeats(
     if not os.path.exists(audio_path):
         return False
     for caption in webvtt.read(os.path.join(vtt_root, file)):
-        if i == 1:
+        if last_unique_caption is None:
             last_unique_caption = caption
         if caption.text != last_unique_caption.text:
             if (i - last_unique_id) > limit:
