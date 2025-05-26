@@ -2,6 +2,7 @@
 
 Last updated: 2025-05-25 20:04 UTC
 
+<!-- markdownlint-disable-file MD044 -->
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
 | 2023-07-31 | Mon | [Episode #0](https://youtu.be/Qd7ohtlOOkQ) | pilot episodes always end up a bit different than the planned show, huh! 🐾 | [Summary](summaries/20230731_0.md) | [Transcript](transcripts/20230731/transcript.vtt) |

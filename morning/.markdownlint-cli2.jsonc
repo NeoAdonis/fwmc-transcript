@@ -6,9 +6,6 @@
         "code-fence-style": {
             "style": "backtick"
         },
-        "first-line-heading": {
-            "level": 2
-        },
         "heading-style": {
             "style": "atx"
         },
@@ -275,9 +272,6 @@
             ]
         }
     },
-    "customRules": [
-        "markdownlint-rule-search-replace"
-    ],
     "fix": true,
     "gitignore": true,
     "noBanner": true

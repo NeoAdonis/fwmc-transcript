@@ -216,6 +216,7 @@ def main():
         "",
         LAST_UPDATED_STRING,
         "",
+        "<!-- markdownlint-disable-file MD044 -->",
         "| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |",
         "| ------ | --- | --------- | --- | --------- | ------------ |",
     ]
