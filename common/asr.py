@@ -34,13 +34,12 @@ def transcribe_audio(
     writer.always_include_hours = True
     writer_result = dict(result)
     writer_result["language"] = "en"
-    with open(audio_path, "w", encoding="utf-8") as f:
-        writer(
-            writer_result,
-            f,
-            {
-                "highlight_words": False,
-                "max_line_count": None,
-                "max_line_width": None,
-            },
-        )
+    writer(
+        writer_result,
+        audio_path, # type: ignore
+        {
+            "highlight_words": False,
+            "max_line_count": None,
+            "max_line_width": None,
+        },
+    )
