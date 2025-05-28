@@ -28,16 +28,19 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bKou?seki\b,Koseki,N
 \bBi[jz]uu?\b,Bijou,N
 \bBehebo\b,Biboo,N
+\bAmi[\s\-]senpai,Ame-senpai,N
 \bKura[\s\-]senpai,Gura-senpai,N
 \bCrony|Cooney|Kuro-nii\b,Kronii,N
-\bBab?y[\s\-]senpai,Bae-senpai,Y
-\b(Corny|Koni)[\s\-]senpai,Kronii-senpai,N
+\bBab?yi?[\s\-]senpai,Bae-senpai,Y
+\b(Corny|Koni|Kurenai)[\s\-]senpai,Kronii-senpai,N
 \bFawna\b,Fauna,N
 \bMume\b,Mumei,N
-\bAria[\s\-]senpai,IRyS-senpai,Y
 \bIris[\s\-]senpai,IRyS-senpai,N
 \b(Ch|K)ia[rn]a\b,Kiara,N
 \b(Kali|Callie)\b,Calli,N
+\bKaori[\s\-]senpai,Calli-senpai,N
+\bK[iy]a[iy]-senpai,Calli-senpai,N
+\bK[iy]ar[iy][\s\-]senpai,Calli-senpai,Y
 \bCecelia\b,Cecilia,N
 \bAmbergreen\b,Immergreen,N
 \bNao[nr]a\b,Raora,N
@@ -48,9 +51,12 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bEi-chan\b,A-chan,N
 \bAi?[sz]uki[\s\-](san|chan|senpai),AZKi-$1,N
 \bRoboco-san\b,Robocosan,N
+\bAki roseto\b,Aki Rosenthal,N
+\bAkirose[\s\-]senpai,Akirose-senpai,N
 \bHachima[\s\-](san|chan|senpai),Haachama-$1,N
 \bHajime[\s\-]senpai,Haachama-senpai,N
 \bAqours[\s\-]senpai,Aqua-senpai,N
+\bOkai[\s\-]senpai,Okayu-senpai,N
 \bPecora\b,Pekora,N
 \bM(i|or)ning([\s\-]of)?[\s\-]Senchou[\s\-]Senpai,Marine-senchou-senpai,N
 \bMarisa and Jo-senpai,Marine-senchou-senpai,N
@@ -64,6 +70,8 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bTwoS[nt]acks\b,2Snacks,N
 \bKyoto no Kano(jo|[\s\-]chan)\b,Cute na Kanojo,N
 \bPrison no Maho,Prism no Maho,N
+\bRosie the Lamp\b,Rose of the Lamp,N
+\bSlop by Step\b,Slap by Step,N
 \bDoggy Kong\b,Donkey Kong,N
 \bjoy sound\b,Joysound,N
 \bMakuhari[\s\-](mansion|mensei)\b,Makurari Messe,N
@@ -85,6 +93,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bHolostars\b,holostars,N
 \bholovitch\b,holoWitch,N
 \b(hololive|ho[lr]o no) suikai?\b,holo no Suika,N
+\bholomith\b,holoMyth,N
 \benglish myth\b,English -Myth-,N
 \benglish council\b,English -Council-,N
 \benglish justice\b,English -Justice-,N

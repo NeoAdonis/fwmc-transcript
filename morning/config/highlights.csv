@@ -1,7 +1,8 @@
 Pattern,Reason
 \bAyami\b,'Ayamy'
-\b(L|M|N)(a|o)riss?ai?\b,'Nerissa'
+\b(Aria|Ai)[\s\-]senpai,'IRyS-senpai' or 'ID senpai' or 'our senpai'
 \bMoomin\b,'Mumei'
+\b(L|M|N)(a|o)riss?ai?\b,'Nerissa'
 \bKuroe\b,'Chloe' or 'Kuroi' or 'Kuro'
 \bKoei\b,'Chloe'
 \bHajime\b,'Hajime' or 'Haachama'
