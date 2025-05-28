@@ -4,6 +4,7 @@ Pattern,Emoji
 \bAFA\b,🏟️
 \bAnime Frontier\b,🤠
 \bAnime Gear Guru\b,🧥
+\bAnime Boston\b,🏟️
 \bAnime NYC\b,🗽
 "\b""?BAU""?DOL",🎤
 \bBreaking Dimensions\b,🎤
@@ -57,6 +58,7 @@ Pattern,Emoji
 ^Walk of,🚶
 \bwe( are|'re) back\b,🎉
 \bwe dig it\b,👍
+\bWorld Tour,🌏
 \bYouTube hits\b,🏏
 \bAqua ✕ AZKi\b,⚓⚒️
 \bKiara (&|and) Calli(ope)?\b,🐔💀
@@ -202,6 +204,7 @@ cakes?\b,🍰
 \bisland,🏝️
 \bJapan\b,🇯🇵
 \bjingle,🎶
+\bJoypolis\b,🕹️
 \bkaraoke\b,🎤
 \bkou?shien\b,⚾
 \blantern,🏮
@@ -220,6 +223,7 @@ cakes?\b,🍰
 \boff-air\b,📴
 \bomen\b,🔮
 \bonsen,♨️
+\bORNG\b,🍊
 \boutfit,👗
 \bovertime,🕒
 \bpalworld\b,🌏
