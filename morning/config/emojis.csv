@@ -38,6 +38,7 @@ Pattern,Emoji
 \bKaibutsu\b,👹
 \bLifetime Showtime\b,🎤
 \bMama Puppy (&|and) Papa Puppy\b,👨🏼‍👩🏼‍👧🏼‍👧🏼
+\b(Metal Gear Solid|MGS)\b,📦
 \bMind Craft\b,🎤
 \bMio Wakeup\b,⏰
 ^Misunderstand,❌
@@ -200,6 +201,7 @@ cakes?\b,🍰
 \b(home(?!work)|house),🏠
 \bhomework,📚
 \bincident,🚨
+\binspirat,💡
 \bintro,📺
 \bisland,🏝️
 \bJapan\b,🇯🇵

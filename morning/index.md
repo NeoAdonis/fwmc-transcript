@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-05-28 22:02 UTC
+Last updated: 2025-06-02 18:13 UTC
 
 <!-- markdownlint-disable-file MD044 -->
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
@@ -172,3 +172,4 @@ Last updated: 2025-05-28 22:02 UTC
 | 2025-05-21 | Wed | [Episode #159](https://youtu.be/vZWoVVUCO14) | a step a day together ✨ | [Summary](summaries/20250521_159.md) | [Transcript](transcripts/20250521/transcript.vtt) |
 | 2025-05-23 | Fri | [Episode #160](https://youtu.be/HITf1GZ8HK8) | end of the week?! end of may?! WHAT THE HECK ✨ | [Summary](summaries/20250523_160.md) | [Transcript](transcripts/20250523/transcript.vtt) |
 | 2025-05-28 | Wed | [Episode #161](https://youtu.be/uWdnMXkKj_g) | time for the -monday- wednesday magic ✨ | [Summary](summaries/20250528_161.md) | [Transcript](transcripts/20250528/transcript.vtt) |
+| 2025-06-02 | Mon | [Episode #162](https://youtu.be/xFzx7AjkEJI) | monday!! FUWAMOCO MORNING!! wow!! ✨ | [Summary](summaries/20250602_162.md) | [Transcript](transcripts/20250602/transcript.vtt) |
