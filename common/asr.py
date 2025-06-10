@@ -5,6 +5,7 @@ from typing import Any
 import torch
 import whisperx
 from transformers import Wav2Vec2ForCTC
+from whisperx.asr import FasterWhisperPipeline
 from whisperx.utils import get_writer
 
 # Define constants
@@ -13,7 +14,7 @@ BATCH_SIZE = 16
 
 def transcribe_audio(
     audio_path: str,
-    model: whisperx.asr.FasterWhisperPipeline,
+    model: FasterWhisperPipeline,
     align_model: Wav2Vec2ForCTC,
     align_metadata: dict[str, Any],
     output_dir: str,
