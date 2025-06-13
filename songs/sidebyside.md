@@ -51,7 +51,7 @@
 | Bringing out the best in each other                               | 互いを輝かせて           |
 | now we're feeling free like were meant to be.                     | 自由になれる これが運命だから   |
 |                                                                   |                   |
-| Come inside, we'll be there, you can call me day or night.        | ここへおいで 昼でも夜でも     |
+| Promise I will be there, you can call me day or night.            | そこにいることを約束 昼でも夜でも |
 | When you need a friend to lean on I'll be there as fast as light. | 君が寄りかかれる友でいたい     |
 | Nothing's gonna keep us apart, not even rain or snow              | どんな雨や雪も 僕らを引き離せない |
 | 'cause we know that friendships glow and shine so bright          | 友情は明るく輝き          |
