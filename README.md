@@ -70,6 +70,7 @@ The latest supported PyTorch version in whisperX (as of version 3.1.1) is 2.1.2,
 A compilation of lyrics, fanchants & other content related to their songs.
 
 - Born to be "BAU"DOL☆★ (🎼 [lyrics: `songs/baudol.md`](./songs/baudol.md))
+- side by side ["NEKOPARA After: La Vraie Famille" Ending Theme] (🎼 [lyrics: `songs/sidebyside.md`](./songs/sidebyside.md))
 
 ## ✨ Thanks
 
