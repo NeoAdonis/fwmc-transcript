@@ -6,14 +6,16 @@
 『ネコぱらAfter ラ・ブレ・ファミーユ』エンディングテーマ
 
 - Vocals: FUWAMOCO
-- Production, Mix & Mastering: Aiobahn +81
-- Lyrics: Aiobahn +81, Kris Roche
-- Music video production: hakumei
-- MV Director, Character Design & Illustration: my0nruri
-- MV Assistant Director, Composition: 上甲愛士
-- MV Animation: my0nruri, 上甲愛士, すいず
-- MV Effects Animation: 上甲愛士, くうぉーつ
-- MV Motion Graphics: おーん
+- Production, Mix & Mastering: Aiobahn +81 ([@aiobahn81](https://x.com/aiobahn81))
+- Song: Aiobahn +81, Kris Roche
+- Lyrics: Kris Roche
+- Additional guitar: 安藤河音
+- Music video production: hakumei ([@hakumei_lab](https://x.com/hakumei_lab))
+- MV Director, Character Design & Illustration: [my0nruri](https://x.com/my0nruri)
+- MV Assistant Director, Composite: 上甲愛士 ([@JokoManato](https://x.com/JokoManato))
+- MV Animation: my0nruri, 上甲愛士, すいず ([@swaezc](https://x.com/swaezc))
+- MV Effects Animation: 上甲愛士, くうぉーつ ([@kwootsu](https://x.com/kwootsu))
+- MV Motion Graphics: おーん ([@onmokoworks](https://x.com/onmokoworks))
 - MV Background: my0nruri, 上甲愛士, おーん
 
 ## 🔊 Available on
