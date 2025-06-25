@@ -1,0 +1,14 @@
+name: transcripts
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - black
+  - isort
+  - mypy
+  - pylint
+  - termcolor
+  - yt-dlp
+  - pip
+  - pip:
+      - webvtt-py
