@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-07-04 22:48 UTC
+Last updated: 2025-09-02 03:22 UTC
 
 <!-- markdownlint-disable-file MD044 -->
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
@@ -176,3 +176,8 @@ Last updated: 2025-07-04 22:48 UTC
 | 2025-06-09 | Mon | [Episode #163](https://youtu.be/ikUG9KebhRc) | another happy FWMC morning ✨ | [Summary](summaries/20250609_163.md) | [Transcript](transcripts/20250609/transcript.vtt) |
 | 2025-06-16 | Mon | [Episode #164](https://youtu.be/89JPNEar_xE) | silly things everyday, every week, all the time ✨ | [Summary](summaries/20250616_164.md) | [Transcript](transcripts/20250616/transcript.vtt) |
 | 2025-06-30 | Mon | [Episode #165](https://youtu.be/N4X1wAhM3ks) | bau bau everywhere we go ✨ | [Summary](summaries/20250630_165.md) | [Transcript](transcripts/20250630/transcript.vtt) |
+| 2025-07-21 | Mon | [Episode #166](https://youtu.be/KxTcVaPF3d4) | beautiful bau bau new week (feeling better?) ✨ | [Summary](summaries/20250721_166.md) | [Transcript](transcripts/20250721/transcript.vtt) |
+| 2025-07-28 | Mon | [Episode #167](https://youtu.be/x8Js8yqXLT8) | we'll never stop being silly (never ever) ✨ | [Summary](summaries/20250728_167.md) | [Transcript](transcripts/20250728/transcript.vtt) |
+| 2025-08-04 | Mon | [Episode #168](https://youtu.be/VbWqQeJtZgU) | what just happened last week ✨ | [Summary](summaries/20250804_168.md) | [Transcript](transcripts/20250804/transcript.vtt) |
+| 2025-08-18 | Mon | [Episode #169](https://youtu.be/shssT7PfhZk) | wake up with a smile on your face ✨ | [Summary](summaries/20250818_169.md) | [Transcript](transcripts/20250818/transcript.vtt) |
+| 2025-09-01 | Mon | [Episode #170](https://youtu.be/7C3I9Ht3CQQ) | back to a new week and a new month together ✨ | [Summary](summaries/20250901_170.md) | [Transcript](transcripts/20250901/transcript.vtt) |
