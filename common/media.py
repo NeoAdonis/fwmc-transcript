@@ -74,6 +74,7 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
     # Download best source audio for better transcription and save some metadata
     ydl_opts = {
         "quiet": True,
+        "ignoreerrors": True,
         "ffmpeg_location": ffmpeg_path,
         "format": "ba/b",
         "paths": {"home": output_dir},
