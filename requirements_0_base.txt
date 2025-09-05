@@ -1,0 +1,7 @@
+black
+isort
+mypy
+pylint
+termcolor
+yt-dlp
+webvtt-py

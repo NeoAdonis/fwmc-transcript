@@ -1,0 +1,3 @@
+-i https://download.pytorch.org/whl/cu129
+torch
+torchaudio

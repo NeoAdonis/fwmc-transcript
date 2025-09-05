@@ -33,10 +33,9 @@ Some of the files here are generated automatically.
 ### Prerequisites
 
 - [Bun](https://bun.sh/) or [Node.js](https://nodejs.org/)
-- [Miniforge](https://conda-forge.org/download/)
-- [WhisperX](https://github.com/m-bain/whisperX)
 - [FFmpeg](https://ffmpeg.org/)
-- Optional: [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
+- Optional: [Miniforge](https://conda-forge.org/download/) to handle virtual Python environments.
+- Otherwise, make sure that Python 3.12 is installed.
 
 If using Windows, you can install all these prerequisites with [WinGet](https://learn.microsoft.com/windows/package-manager/).
 
@@ -48,17 +47,25 @@ If using Windows, you can install all these prerequisites with [WinGet](https://
 
 ```text
 winget install Oven-sh.Bun
-winget install CondaForge.Miniforge3
 winget install Gyan.FFmpeg
-winget install Nvidia.CUDA -v 12.8
+winget install CondaForge.Miniforge3
 ```
 
 ### Set up Miniconda environment
 
 1. If using PowerShell, init Miniconda: `conda init powershell`
-1. Create environment: `conda env create --file environment.yml`
+1. Create environment with some base packages: `conda env create --file environment.yml`
 1. Activate environment: `conda activate transcripts`
-1. Install requirements: `pip install -r requirements_1_torch_cu128.txt` (use `requirements_1_torch_cpu.txt` instead if you don't have an Nvidia GPU)
+1. Install requirements: `pip install -r requirements_1_torch_cu129.txt` (use `requirements_1_torch_cpu_<platform>.txt` instead if you don't have an Nvidia GPU)
+1. Install WhisperX: `pip install -r requirements_2_whisperx.txt`
+
+### Set up venv
+
+1. Create environment: `python3.12 -m venv transcripts`
+1. Activate environment:
+    1. Shell: `source activate transcripts/bin/activate`
+1. Install base packages: `pip install -r requirements_0_base.txt`
+1. Install requirements: `pip install -r requirements_1_torch_cu129.txt` (use `requirements_1_torch_cpu_<platform>.txt` instead if you don't have an Nvidia GPU)
 1. Install WhisperX: `pip install -r requirements_2_whisperx.txt`
 
 ## 🎶 FUWAMOCO songs
