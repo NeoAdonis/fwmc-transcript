@@ -27,9 +27,9 @@ FUWAMOCO updated Ruffians on their merch. Birthday goods and 1M merch are reachi
 
 ## 6th fes 3D Program (21:17)
 
-The 6th Fes Blu-ray is out and includes “Holofocus,” a new camera feature with oshi-centric angles. FUWAMOCO highly recommend it for a fresh viewing experience of the concert.
+The 6th Fes Blu-ray is out and includes "Holofocus," a new camera feature with oshi-centric angles. FUWAMOCO highly recommend it for a fresh viewing experience of the concert.
 
-## Mococo is...? (27:27)
+## Mococo is…? (27:27)
 
 Mococo addressed a misunderstood tweet challenging artists to post sexy art of her, then and clarified she was actually who posted it. They celebrated fan art and teased a censored birthday short on YouTube, concluding Mococo is "too much for YouTube."
 
@@ -43,7 +43,7 @@ Mococo advised Ruffians to listen to their bodies and get enough sleep. She enco
 
 ## Doggie Of The Day (36:17)
 
-“Flower Dog,” a stylish and hard-working pet, was showcased. FUWAMOCO praised its fashionable look and imagined it carrying heavy flowers to spread love and protect smiles.
+"Flower Dog," a stylish and hard-working pet, was showcased. FUWAMOCO praised its fashionable look and imagined it carrying heavy flowers to spread love and protect smiles.
 
 ## Today I Went On A Walk (38:33)
 

@@ -177,6 +177,7 @@ cakes?\b,🍰
 \bcompilation,📼
 \bcosplay,👘
 \bcount(\b|down|er|ing),🔢
+\bdragon,🐉
 \bdifficult,😓
 \bdo[cg]tor,🧑‍⚕️
 \bdonut,🍩
@@ -189,6 +190,7 @@ cakes?\b,🍰
 \bFamilyMart\b,🏪
 \bfan art\b,🎨
 \b(figure|nendo|pop up parade\b),🪆
+\bfirework,🎆
 \bfundoshi,🩲
 \b(FUWAMOC|FWMC)ODE\s?WORD\b,🗣️
 \bgamer?s?\b,🎮
@@ -199,6 +201,7 @@ cakes?\b,🍰
 \bhanami\b,🌸
 \bhappy\b,😊
 \bhealth\b,❤️‍🩹
+\bhorror,😱
 \b(hibernat|sleep),😴
 \b(holo)?ARK\b,🦕
 \b(home(?!work)|house),🏠
