@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-09-02 03:22 UTC
+Last updated: 2025-09-09 01:02 UTC
 
 <!-- markdownlint-disable-file MD044 -->
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
@@ -181,3 +181,4 @@ Last updated: 2025-09-02 03:22 UTC
 | 2025-08-04 | Mon | [Episode #168](https://youtu.be/VbWqQeJtZgU) | what just happened last week ✨ | [Summary](summaries/20250804_168.md) | [Transcript](transcripts/20250804/transcript.vtt) |
 | 2025-08-18 | Mon | [Episode #169](https://youtu.be/shssT7PfhZk) | wake up with a smile on your face ✨ | [Summary](summaries/20250818_169.md) | [Transcript](transcripts/20250818/transcript.vtt) |
 | 2025-09-01 | Mon | [Episode #170](https://youtu.be/7C3I9Ht3CQQ) | back to a new week and a new month together ✨ | [Summary](summaries/20250901_170.md) | [Transcript](transcripts/20250901/transcript.vtt) |
+| 2025-09-08 | Mon | [Episode #171](https://youtu.be/b6ftikeREro) | summer isn't allowed to end though!! ✨ | [Summary](summaries/20250908_171.md) | [Transcript](transcripts/20250908/transcript.vtt) |
