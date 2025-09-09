@@ -6,12 +6,12 @@
 🩵 FUWAMOCO **2nd original song** 🩷
 
 - Vocals: FUWAMOCO
-- Song & Arrangement: 周防パトラ (@Patra_HNST)
+- Song & Arrangement: 周防パトラ ([@Patra_HNST](https://x.com/Patra_HNST))
 - Lyrics: 周防パトラ, FUWAMOCO (English lyrics)
-- Animation & Movie: Yunarun (@Yunaree)  MiU (@Miu7_0)
+- Animation & Movie: Yunarun ([@Yunaree](https://x.com/Yunaree))  MiU ([@Miu7_0](https://x.com/Miu7_0))
 - Additional Translations: fts
 - Captions: T-chan
-- Logo: saku39 (@skb138)
+- Logo: saku39 ([@skb318](https://x.com/skb318))
 
 ## 🔊 Available on
 
