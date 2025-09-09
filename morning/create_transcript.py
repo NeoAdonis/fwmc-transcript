@@ -30,8 +30,7 @@ DEFAULT_SECTION_NAMES = [
     "- Thanks & Extra Special Ruffians",
 ]
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-BATCH_SIZE = 16
-
+COMPUTE_TYPE = "float16" if DEVICE == "cuda" else "int8"
 
 def parse_args():
     """Parse command line arguments"""
@@ -221,6 +220,7 @@ def main():
                         model = whisperx.load_model(
                             args.model,
                             DEVICE,
+                            compute_type=COMPUTE_TYPE,
                             asr_options={
                                 "initial_prompt": f.read(),
                             },
@@ -235,7 +235,7 @@ def main():
 
                 # Transcript with prompt to create a more accurate transcript
                 asr.transcribe_audio(
-                    audio_path, model, align_model, align_metadata, new_output_dir
+                    audio_path, model, align_model, align_metadata, DEVICE, new_output_dir
                 )
                 # TODO: Simplify parameter passing
                 asrtransform.fix_repeats(

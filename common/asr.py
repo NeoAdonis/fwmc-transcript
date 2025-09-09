@@ -17,6 +17,7 @@ def transcribe_audio(
     model: FasterWhisperPipeline,
     align_model: Wav2Vec2ForCTC,
     align_metadata: dict[str, Any],
+    device: str,
     output_dir: str,
 ):
     """Transcribe the audio file using the specified model"""
@@ -28,7 +29,7 @@ def transcribe_audio(
         align_model,
         align_metadata,
         audio,
-        "cuda" if torch.cuda.is_available() else "cpu",
+        device,
         return_char_alignments=False,
     )
     writer = get_writer("vtt", output_dir)
