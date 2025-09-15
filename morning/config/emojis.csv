@@ -1,6 +1,7 @@
 Pattern,Emoji
 \b\d+(k| million) BAU BAUs\b,📢
 \b\d+ days\b,📆
+\bAdvent vs. Justice\b,⚠️⚖️
 \bAFA\b,🏟️
 \bAnime Frontier\b,🤠
 \bAnime Gear Guru\b,🧥
@@ -30,6 +31,7 @@ Pattern,Emoji
 \bGeoGuessr,🌏
 \bGoodbye daylight,🌇
 \b(Hajimete no Otsukai|Old enough)\b,🛒
+\bholoEN \d+th\b,🎊
 \bHOLOCTOBER\b,🎨
 \b(holo)?GTA\b,🚗
 \bholo(live)?\s?Meet\b,✈️
@@ -45,6 +47,7 @@ Pattern,Emoji
 ^Misunderstand,❌
 ^New Family Member,🦋
 ^Next Stream,📅
+\bNexus Gate\b,🌀
 \bone more thing\b,⁉️
 \bPero Sighting\b,👀
 ^Question,❓
@@ -225,6 +228,7 @@ cakes?\b,🍰
 \bmic(rophones?)?\b,🎙️
 \bmistak,❌
 \bmonitor,🖥️
+\bmovie,🎥
 \bmusic,🎼
 \bnattou?\b,🫘
 \bnew\b,🆕
