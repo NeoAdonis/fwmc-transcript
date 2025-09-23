@@ -1,4 +1,4 @@
 -i https://download.pytorch.org/whl/cu129
 torch
 torchaudio
-nvidia-cudnn-cu12<9.0.0; platform_system == "Linux" # resolves libcudnn_ops_infer.so.8.so not found
+nvidia-cudnn-cu11<9.0.0; platform_system == "Linux" # resolves libcudnn_ops_infer.so.8.so not found

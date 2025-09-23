@@ -78,7 +78,7 @@ You can install Bun or Node.js from your distro package manager, or directly by 
 1. Install requirements: `pip install -r requirements_1_torch_cu129.txt` (use `requirements_1_torch_cpu_<platform>.txt` instead if you don't have an Nvidia GPU)
 1. Install WhisperX: `pip install -r requirements_2_whisperx.txt`
 1. On Linux, if you encounter an error similar to `ImportError: libctranslate2-d3638643.so.4.4.0: cannot enable executable stack as shared object requires`, run `./workaround_libctranslate2_clear-execstack.sh` to clear conflicting `GNU_STACK` executable flag from the library; see <https://github.com/OpenNMT/CTranslate2/issues/1849>.
-1. On Linux, if you encounter an error similar to `Could not load library libcudnn_ops_infer.so.8`, downgrade Torch: `pip install -r requirements_1_torch_cu118.txt`; see <https://github.com/m-bain/whisperX/issues/967>. Ignore any dependency conflicts coming from WhisperX.
+1. On Linux, if you encounter an error similar to `Could not load library libcudnn_ops_infer.so.8`, install CUDNN 11. You can also install `nvidia-cudnn-cu11` from pip, then set `LD_LIBRARY_PATH` to the libraries location (e.g. `export LD_LIBRARY_PATH="$VIRTUAL_ENV/lib/python3.x/site-packages/nvidia/cublas/lib:$VIRTUAL_ENV/lib/python3.x/site-packages/nvidia/cudnn/lib:$LD_LIBRARY_PATH"`).
 
 ## 🎶 FUWAMOCO songs
 
