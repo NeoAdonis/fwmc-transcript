@@ -7,6 +7,7 @@ Pattern,Emoji
 \bAnime Gear Guru\b,🧥
 \bAnime Boston\b,🏟️
 \bAnime NYC\b,🗽
+\bAll for One\b,🎤
 "\b""?BAU""?DOL",🎤
 \bBreaking Dimensions\b,🎤
 \bBugs with\b,🦗
@@ -14,6 +15,7 @@ Pattern,Emoji
 \bCHEER UP\b,📣
 \bComic Fiesta\b,🏟️
 \bComiket\b,📚
+\bComptiq\b,📚
 \bConfession,🙊
 \bConnect The World\b,🎤
 \bCrescent Moon\b,🌙
@@ -31,10 +33,12 @@ Pattern,Emoji
 \bGeoGuessr,🌏
 \bGoodbye daylight,🌇
 \b(Hajimete no Otsukai|Old enough)\b,🛒
-\bholoEN \d+th\b,🎊
 \bHOLOCTOBER\b,🎨
+\bHOLOEARTH\b,🌏
+\bholoEN \d+th\b,🎊
 \b(holo)?GTA\b,🚗
 \bholo(live)?\s?Meet\b,✈️
+\bholonatsu\b,🏖️
 \bholoWitch,🪄
 \bholo no kyuu?jitsu\b,📺
 \bHorror Matsuri\b,👻
@@ -107,7 +111,9 @@ Pattern,Emoji
 \bNerissa\b,🎼
 \bShiorin?\b,👁‍🗨
 \bJustice\b,⚖️
+\bCecilia\b,🍵
 \bElizabeth\b,💄
+\bGigi\b,👧
 \bRaora\b,🐱
 \bIcomochi\b,🍡
 \bPatra\b,🦀❤️
@@ -173,6 +179,7 @@ cakes?\b,🍰
 \bcelebration,🎉
 \bchallenge,🏆
 \bchannel,📺
+\bcicada,🐛
 \bcit(y|ies)\b,🏙️
 \bclaw,🐾
 \bclear\b,🎉
@@ -256,6 +263,7 @@ cakes?\b,🍰
 \bsearch,🔍
 \bsecret,🤫
 \bsexy\b,🔥
+\bsick,🤒
 \bsigning\b,📝
 \bskat(e|ing),🛹
 \bsneeze,🤧
