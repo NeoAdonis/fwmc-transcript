@@ -3,6 +3,7 @@ Pattern,Emoji
 \b\d+ days\b,📆
 \bAdvent vs. Justice\b,⚠️⚖️
 \bAFA\b,🏟️
+\bAmong Us\b,ඞ
 \bAnime Frontier\b,🤠
 \bAnime Gear Guru\b,🧥
 \bAnime Boston\b,🏟️
@@ -130,7 +131,7 @@ Pattern,Emoji
 \bholidays?\b,🎄
 \bholo(Gra| no Graffiti)\b,📺
 \b(holo)?summer\b,🏖️
-\bPup Talk\b,📣
+\b(Cat|Pup) Talk\b,📣
 \bThanksgiving\b,🦃
 \b(Twitter|X) Space,🎙️
 \b(Val|BAU\-?l)entine\b,💘
@@ -183,6 +184,7 @@ cakes?\b,🍰
 \bcit(y|ies)\b,🏙️
 \bclaw,🐾
 \bclear\b,🎉
+\bcooking\b,🍳
 \bcold,🥶
 \bcompilation,📼
 \bcosplay,👘
