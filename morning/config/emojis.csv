@@ -63,6 +63,7 @@ Pattern,Emoji
 \bsleepover\b,🛏️
 \bSpecial Ruffians\b,✨
 \bSuper Chat,💬
+\bTakarazuka\b,🎭
 \bTidying-up Space\b,🎙️
 \bTiniest Ruffian,🍼
 ^Today I Went On A Walk,🚶
@@ -96,6 +97,7 @@ Pattern,Emoji
 \b(Asa|Kon)Koyo\b,🧪
 \bReGLOSS\b,🎤
 \bRirika\b,🌃
+\bAo\b,🖋️
 \bMoona\b,🔮
 \bOllie\b,🧟‍♀️
 \bAme(lia)?\b,🔎
