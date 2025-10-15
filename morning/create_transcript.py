@@ -187,16 +187,16 @@ def main():
     highlights = transcript.fetch_patterns(HIGHLIGHTS_FILE)
 
     # Iterate through the audio files in the source directory
-    for root, _, files in os.walk(args.audio_dir):
-        for file in files:
-            if file.startswith(FILE_BASE_NAME):
-                audio_path = os.path.join(root, file)
+    for audio_root, _, audio_files in os.walk(args.audio_dir):
+        for audio_file in audio_files:
+            if audio_file.startswith(FILE_BASE_NAME):
+                audio_path = os.path.join(audio_root, audio_file)
                 if audio_path.endswith((".wave", ".wav")):
                     continue
                 dir_basename = os.path.basename(os.path.dirname(audio_path))
                 new_output_dir = os.path.join(args.output_dir, dir_basename)
 
-                metadata = get_metadata(root, dir_basename)
+                metadata = get_metadata(audio_root, dir_basename)
 
                 if not os.path.exists(new_output_dir):
                     os.makedirs(new_output_dir)
@@ -213,7 +213,7 @@ def main():
 
                 # Convert audio files for easier transcription
                 convert_to_wav(audio_path, CONVERT_BASE_NAME)
-                audio_path = os.path.join(root, f"{CONVERT_BASE_NAME}.wav")
+                audio_path = os.path.join(audio_root, f"{CONVERT_BASE_NAME}.wav")
 
                 # Load transcription models (if not already loaded)
                 if model is None:
@@ -247,10 +247,11 @@ def main():
                 asrtransform.fix_repeats(
                     new_output_dir,
                     f"{NEW_BASE_NAME}.vtt",
-                    root,
+                    audio_root,
                     model,
                     align_model,
                     align_metadata,
+                    DEVICE,
                 )
 
                 # Transcript without prompt can be used to fix ambiguities manually

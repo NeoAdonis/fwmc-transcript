@@ -62,12 +62,12 @@ if __name__ == "__main__":
         for file in files:
             if file == "transcript.vtt":
                 relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
-                REPEATS_FIXED = asrtransform.fix_repeats(
-                    root, file, audio_dir, model, align_model, align_metadata
+                repeats_fixed = asrtransform.fix_repeats(
+                    root, file, audio_dir, model, align_model, align_metadata, DEVICE
                 )
-                if REPEATS_FIXED:
+                if repeats_fixed:
                     printer.print_info("Repeated sections rewritten", relative_path)
                 if transcript.fix_mistakes(replacements, root, file, True):
-                    if not REPEATS_FIXED:
+                    if not repeats_fixed:
                         printer.print_info("Mistakes fixed", relative_path)
                 # transcript.highlight_ambiguities(highlights, root, file)

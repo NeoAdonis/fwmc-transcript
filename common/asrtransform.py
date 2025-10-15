@@ -6,8 +6,9 @@ import webvtt
 
 from common import asr, media, time
 
+
 def fix_repeats(
-    vtt_root, file, audio_root, model, align_model, align_metadata, limit=4
+    vtt_root, file, audio_root, model, align_model, align_metadata, device: str, limit=4
 ):
     """EXPERIMENTAL. Fix repeated lines in a transcript."""
     changed = False
@@ -41,7 +42,12 @@ def fix_repeats(
                     audio_root, f"{base_name}/fragment.wav"
                 )
                 asr.transcribe_audio(
-                    fragment_audio_path, model, align_model, align_metadata, vtt_root
+                    fragment_audio_path,
+                    model,
+                    align_model,
+                    align_metadata,
+                    device,
+                    vtt_root,
                 )
                 fragment_vtt = os.path.join(vtt_root, "fragment.vtt")
                 for fragment_caption in webvtt.read(fragment_vtt):

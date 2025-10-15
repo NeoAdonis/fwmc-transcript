@@ -2,8 +2,8 @@
 profile = "black"
 
 [[tool.mypy.overrides]]
-module = ["webvtt", "whisperx", "yt_dlp"]
-ignore_missing_imports = true
+module = ["webvtt.*", "whisperx.*", "yt_dlp.*"]
+follow_untyped_imports = true
 
 [tool.pylint.format]
 max-line-length = 88

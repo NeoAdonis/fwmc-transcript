@@ -2,11 +2,10 @@
 
 from typing import Any
 
-import torch
 import whisperx
 from transformers import Wav2Vec2ForCTC
 from whisperx.asr import FasterWhisperPipeline
-from whisperx.utils import get_writer
+from whisperx.utils import WriteVTT, get_writer
 
 # Define constants
 BATCH_SIZE = 16
@@ -32,13 +31,13 @@ def transcribe_audio(
         device,
         return_char_alignments=False,
     )
-    writer = get_writer("vtt", output_dir)
+    writer: WriteVTT = get_writer("vtt", output_dir)  # type: ignore[assignment]
     writer.always_include_hours = True
     writer_result = dict(result)
     writer_result["language"] = "en"
     writer(
         writer_result,
-        audio_path, # type: ignore
+        audio_path,  # type: ignore
         {
             "highlight_words": False,
             "max_line_count": None,
