@@ -50,6 +50,7 @@ Pattern,Emoji
 \bMind Craft\b,🎤
 \bMio Wakeup\b,⏰
 ^Misunderstand,❌
+^Needy Nerissa\b,🥺🎼
 ^New Family Member,🦋
 ^Next Stream,📅
 \bNexus Gate\b,🌀
@@ -70,6 +71,7 @@ Pattern,Emoji
 ^Walk of,🚶
 \bwe( are|'re) back\b,🎉
 \bwe dig it\b,👍
+\bWhite Love\b,❄️
 \bWorld Tour,🌏
 \bYouTube hits\b,🏏
 \bAqua ✕ AZKi\b,⚓⚒️
@@ -100,6 +102,7 @@ Pattern,Emoji
 \bAo\b,🖋️
 \bMoona\b,🔮
 \bOllie\b,🧟‍♀️
+\bZeta\b,📜
 \bAme(lia)?\b,🔎
 \bCalli(ope)?\b,💀
 \bGura\b,🔱

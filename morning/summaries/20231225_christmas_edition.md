@@ -22,7 +22,7 @@ FUWAMOCO released special Christmas voice packs in English and Japanese, offerin
 
 During a Christmas Among Us collab, Mococo's aggression was misunderstood, leading to an awkward moment with Biboo and Ame-senpai.
 
-## 🎤 "White Love" Cover ([17:48](https://youtu.be/ddeU_2d6pjA?t=17m48s))
+## ❄️ "White Love" Cover ([17:48](https://youtu.be/ddeU_2d6pjA?t=17m48s))
 
 FUWAMOCO announces a new cover song, "White Love," a famous winter song in Japan, premiering after the show.
 
