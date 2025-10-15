@@ -1,6 +1,6 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-10-08 00:41 UTC
+Last updated: 2025-10-15 01:34 UTC
 
 <!-- markdownlint-disable-file MD044 -->
 | 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
@@ -186,3 +186,4 @@ Last updated: 2025-10-08 00:41 UTC
 | 2025-09-22 | Mon | [Episode #173](https://youtu.be/_7OUE2xsu70) | tails wagging for an exciting week ✨ | [Summary](summaries/20250922_173.md) | [Transcript](transcripts/20250922/transcript.vtt) |
 | 2025-09-29 | Mon | [Episode #174](https://youtu.be/1WcE8TGm7gs) | feeling extra hungry this morning ✨ | [Summary](summaries/20250929_174.md) | [Transcript](transcripts/20250929/transcript.vtt) |
 | 2025-10-06 | Mon | [Episode #175](https://youtu.be/Sh2XOJVqXek) | happy 175th episode ✨ | [Summary](summaries/20251006_175.md) | [Transcript](transcripts/20251006/transcript.vtt) |
+| 2025-10-13 | Mon | [Episode #176](https://youtu.be/vbJHDqVl9R0) | a silly new week ✨ | [Summary](summaries/20251013_176.md) | [Transcript](transcripts/20251013/transcript.vtt) |

@@ -19,4 +19,5 @@ Pattern,Reason
 \bRound (1|one)\b,'Round1'
 \bpanlight,'penlight'
 \bpondering,'pon-de-ring'
-\bBaudo\b,'"BAU"DOL'
+\bBaudo\b,"'""BAU""DOL'"
+\bRiding on Dreams\b,'Ridin'on Dreams'
