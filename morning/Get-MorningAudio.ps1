@@ -21,5 +21,9 @@ if (-not (Get-Command python -ErrorAction SilentlyContinue)) {
 
 $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location (Join-Path $scriptDirectory "..")
-& python -m morning.get_audio --url $Url --output_dir $OutputDirectory --download_video $DownloadVideo
+$arguments = @('--url', $Url, '--output_dir', $OutputDirectory)
+if ($DownloadVideo) {
+    $arguments += '--download_video'
+}
+& python -m morning.get_audio @arguments
 Set-Location $scriptDirectory

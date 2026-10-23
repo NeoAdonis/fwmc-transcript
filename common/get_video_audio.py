@@ -24,9 +24,8 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--download_video",
-        type=bool,
-        default=False,
-        help="If true, download video along with audio",
+        action="store_true",
+        help="Download video along with audio",
     )
     args = parser.parse_args()
 

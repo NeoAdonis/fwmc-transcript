@@ -28,5 +28,9 @@ if (-not (Get-Command whisperx -ErrorAction SilentlyContinue)) {
 
 $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location (Join-Path $scriptDirectory "..")
-& python -m morning.create_transcript --audio_dir $AudioDirectory --output_dir $OutputDirectory --model $Model --include_no_prompt $IncludeNoPrompt
+$arguments = @('--audio_dir', $AudioDirectory, '--output_dir', $OutputDirectory, '--model', $Model)
+if ($IncludeNoPrompt) {
+    $arguments += '--include_no_prompt'
+}
+& python -m morning.create_transcript @arguments
 Set-Location $scriptDirectory

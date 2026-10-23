@@ -62,10 +62,8 @@ def parse_args():
     )
     parser.add_argument(
         "--include_no_prompt",
-        type=bool,
-        default=False,
-        help="True if the transcript without prompt should be included,"
-        + " False otherwise",
+        action="store_true",
+        help="Include the transcript without prompt",
     )
     args = parser.parse_args()
     return args

@@ -27,10 +27,8 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--download_video",
-        type=bool,
-        default=False,
-        help="True if the video should be downloaded instead of audio only,"
-        + " False otherwise",
+        action="store_true",
+        help="Download the video instead of audio only",
     )
     args = parser.parse_args()
 
