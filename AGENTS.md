@@ -1,0 +1,65 @@
+# Project overview for coding agents (and curious humans)
+
+This project contains Python scripts to generate automatic transcriptions, as well as summaries, for [FUWAMOCO](https://www.youtube.com/@FUWAMOCOch) content, starting with FWMC Morning. It also hosts the resulting transcripts, summaries and indexes, plus lyrics for some of their songs. It's a fan made project, so its contents must follow the [hololive production Derivative Works Guidelines](https://hololivepro.com/en/terms/) (see [`CONTRIBUTING.md`](./CONTRIBUTING.md)).
+
+## Design philosophy
+
+- Worse is better: Prioritize simplicity and ease of implementation over complexity and completeness.
+- DRY (Don't Repeat Yourself) and AHA (Avoid Hasty Abstractions): Avoid redundancy by reusing code wherever possible without adding unnecessary abstraction.
+- Testing: TODO (testing guidelines and tooling will be updated soon).
+- Refactor freely: Although the project has been around for a while, there are no strong signs of heavy usage that would warrant backward compatibility, so prefer a clean reimplementation over patching, as long as it respects the principles above. Point out any breaking changes to the scripts' command-line options or file formats.
+- Code as the source of truth: The code, including its docstrings, is its own primary documentation; keep docstrings up to date when changing it. If there are any inconsistencies between other documentation and the code, the code should be considered the source of truth.
+
+## Coding conventions
+
+Follow the style conventions in [`STYLE.md`](./STYLE.md), especially for code comments and written content. In short:
+
+- The project uses the default Ruff style, so `ruff format` (with the appropriate flags, e.g. `--check`) can both fix and verify formatting. The formatter doesn't sort imports; use `ruff check --select I --fix` for that.
+- Use `ruff check` to check for common mistakes and non-idiomatic code.
+- Comments follow PEP 8: a single space after the `#`, two spaces before an inline comment, complete sentences. The formatter doesn't wrap comments, so keep them within the 88-character line limit manually.
+- Docstrings follow PEP 257: triple double quotes and a brief summary line ending with a period.
+- In written content (transcripts, summaries, documentation), use proper capitalization for talent names, hyphenate Japanese honorifics (e.g., Moco-chan) and don't introduce intentional misspellings.
+
+## Commits
+
+- Coding agents shouldn't create commits on their own, only when explicitly asked by the user.
+- Follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification and the 50/72 rule, as described in [`STYLE.md`](./STYLE.md).
+- If possible, use a tool such as Cocogitto (`cog check`, `cog verify`) to validate commit messages.
+- Don't add AI attribution trailers (e.g. "Co-Authored-By", "Generated with") to commits or PR descriptions; they clutter permanent history and can read as product promotion. This isn't opposition to transparency about AI use.
+
+## Code structure
+
+Shared code, relative to `common/`:
+
+- `asr.py`: automatic speech recognition with WhisperX.
+- `asrtransform.py`: experimental post-processing of ASR output, such as fixing repeated captions.
+- `media.py`: media download (yt-dlp) and conversion to WAV (FFmpeg).
+  - `get_video_audio.py`, `convert_to_wav.py`: command-line wrappers around `media.py`.
+- `transcript.py`: transcript validation, conversion to LRC, and detection or replacement of common mistakes.
+- `printer.py`: helpers to print errors, warnings and highlighted text.
+- `time.py`: conversion helpers between timestamps and `timedelta`.
+
+FWMC Morning, relative to `morning/`:
+
+- `get_audio.py`: downloads the audio, title and description of episodes into `audio/` (ignored by Git).
+- `create_transcript.py`: transcribes downloaded episodes into `transcripts/`, including their metadata and a summary draft.
+- `fix_captions.py`: experimental script to fix repeated captions in existing transcripts.
+- `transcript_to_lrc.py`: converts transcripts to LRC files to feed them to an LLM with `summary-prompt.md`.
+- `update_summaries.py`: generates the formatted summaries in `summaries/` and updates `index.md`, `index.csv` and `questions.txt`.
+- `validate_docs.py`: validates the structure and content of transcripts, summaries and metadata, and lints summaries with markdownlint (configured in `.markdownlint-cli2.jsonc`).
+- `get_morning_audio.sh`, `new_morning_transcript.sh` (and their PowerShell counterparts, `Get-MorningAudio.ps1` and `New-MorningTranscript.ps1`): convenience wrappers around `get_audio.py` and `create_transcript.py`.
+- `config/`: data used by the scripts.
+  - `transcript-prompt.txt`: initial prompt for WhisperX with frequently used words and phrases. `prompt-notes.md` explains what should be included in it.
+  - `replacements.csv`: patterns for common transcription mistakes and their replacements.
+  - `highlights.csv`: patterns for ambiguous words that should be reviewed manually.
+  - `emojis.csv`: patterns to pick an emoji for each summary heading.
+
+FWMC Morning data, relative to `morning/`:
+
+- `transcripts/<YYYYMMDD>/`: one directory per episode, with its `metadata.json`, `transcript.vtt` and `summary.md`. This is the source that should be edited.
+- `summaries/<YYYYMMDD>_<episode>.md`: formatted summaries generated by `update_summaries.py`; don't edit them by hand.
+- `index.md`, `index.csv`, `questions.txt`: indexes generated by `update_summaries.py`; don't edit them by hand.
+
+Songs, relative to `songs/`: lyrics, fanchants and other content related to FUWAMOCO songs, one Markdown file per song.
+
+Tests, relative to `tests/`: unit tests for `common.media` and some of the FWMC Morning scripts.

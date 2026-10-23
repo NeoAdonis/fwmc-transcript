@@ -1,32 +1,30 @@
 # How to Contribute
 
-Thank you for your interest in contributing to this project! Before submitting a pull request, please **read the following guidelines**.
+Thank you for your interest in contributing to this project! Please **read the following guidelines** before submitting a pull request.
 
 ## General
 
-- Make sure that your contribution follows the [hololive production Derivative Works Guidelines](https://hololivepro.com/en/terms/). In short, ensure that it cannot be misinterpreted as officially endorsed by any hololive talent or Cover Corp., and that it doesn't damage a third party's image.
-- Use proper capitalization for proper nouns. Use the [hololive Talent page](https://hololive.hololivepro.com/en/talents/) as reference for talent and generation names.
-- Separate Japanese honorifics with a hyphen (e.g., Tanigo-san, Moco-chan).
-- Do not introduce intentional misspellings unless it's relevant to the context of the content. For example, avoid spelling 'Ruffians' as 'Wuffians'.
+- Follow the [hololive production Derivative Works Guidelines](https://hololivepro.com/en/terms/). In short, make sure that no one could take your contribution as officially endorsed by any hololive talent or Cover Corp., and that it doesn't damage a third party's image.
+- Follow the conventions in the [style guide](STYLE.md), both for code and written content.
 
 ## Summaries for FWMC Morning
 
-- Keep it short; aim for 2-3 sentences per segment. If one segment is too long, consider dividing it into more sections.
-- Take additional considerations for the following segments:
-  - Introduction: The episode number should be included.
-  - Doggie of the Day: Make sure to include the name of the pet showcased.
-  - Question of the Day: Summary should focus on the answer to the question asked.
-  - Thanks & Extra Special Ruffians: Avoid mentioning the names of any specific Ruffian that was called out.
-- If possible, run the linter script first.
+- Keep summaries short: aim for 2-3 sentences per segment. If a segment runs longer, consider splitting it into several sections.
+- Some segments need extra care:
+  - Introduction: Include the episode number.
+  - Doggie of the Day: Include the name of the featured pet.
+  - Question of the Day: Focus on the answer to the question.
+  - Thanks & Extra Special Ruffians: Don't name any of the Ruffians called out.
+- If possible, run the validation script ([morning/validate_docs.py](morning/validate_docs.py)) before submitting.
 
-There might be some summaries that don't comply with these guidelines, as they were made before a specific style was set in place. Feel free to point them out or, even better, to submit a fix.
+Some older summaries predate these guidelines and may not follow them. Feel free to point them out or, even better, submit a fix.
 
 ## Subtitles
 
-Until a standard format has been set, only typo corrections and meaningful timestamp fixes will be accepted.
+Until a standard format is set, only typo corrections and meaningful timestamp fixes are accepted.
 
 ## Others
 
-If you're planning to submit other types of contribution, please ask first by opening an issue.
+If you plan to submit another type of contribution, please open an issue to ask first.
 
 Have a howl of a day! BAU BAU! 🐾
