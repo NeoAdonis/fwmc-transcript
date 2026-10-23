@@ -1,9 +1,3 @@
-[tool.isort]
-profile = "black"
-
 [[tool.mypy.overrides]]
 module = ["webvtt.*", "whisperx.*", "yt_dlp.*"]
 follow_untyped_imports = true
-
-[tool.pylint.format]
-max-line-length = 88
