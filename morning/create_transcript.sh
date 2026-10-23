@@ -10,8 +10,16 @@ if ! command -v conda &> /dev/null; then
 fi
 
 # Activate the Conda environment
-source "$(conda info --base)/etc/profile.d/conda.sh"
-conda activate "$conda_environment"
+if ! conda_base="$(conda info --base)"; then
+    echo "Could not determine the Conda base directory." >&2
+    exit 1
+fi
+# shellcheck source=/dev/null
+source "$conda_base/etc/profile.d/conda.sh"
+if ! conda activate "$conda_environment"; then
+    echo "Could not activate the Conda environment '$conda_environment'." >&2
+    exit 1
+fi
 
 # Check if Python is available
 if ! command -v python &> /dev/null; then
