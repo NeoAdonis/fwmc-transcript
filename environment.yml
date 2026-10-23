@@ -2,13 +2,7 @@ name: transcripts
 channels:
   - conda-forge
 dependencies:
-  - python=3.12
-  - black
-  - isort
-  - mypy
-  - pylint
-  - termcolor
-  - yt-dlp
+  - python=3.13
   - pip
   - pip:
-      - webvtt-py
+      - -r requirements_0_base.txt
