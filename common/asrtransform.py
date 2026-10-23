@@ -14,7 +14,7 @@ def fix_repeats(
     changed = False
     i = 1
     last_unique_caption = None
-    last_captions = []
+    last_captions: list[webvtt.Caption] = []
     last_unique_id = 0
     new_vtt = webvtt.WebVTT()
     base_name = os.path.basename(vtt_root)
@@ -25,7 +25,7 @@ def fix_repeats(
         audio_path = os.path.join(audio_root, f"{base_name}/audio.mp4")
     if not os.path.exists(audio_path):
         return False
-    for caption in webvtt.read(os.path.join(vtt_root, file)):
+    for caption in webvtt.read(os.path.join(vtt_root, file)).captions:
         if last_unique_caption is None:
             last_unique_caption = caption
         if caption.text != last_unique_caption.text:
@@ -50,7 +50,7 @@ def fix_repeats(
                     vtt_root,
                 )
                 fragment_vtt = os.path.join(vtt_root, "fragment.vtt")
-                for fragment_caption in webvtt.read(fragment_vtt):
+                for fragment_caption in webvtt.read(fragment_vtt).captions:
                     fragment_start = new_start + time.str_to_timedelta(
                         f"{fragment_caption.start}000"
                     )
