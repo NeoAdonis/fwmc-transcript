@@ -52,7 +52,7 @@ def convert_to_wav(path: str, new_base_name: str, start_from="", end_at=""):
 def get_video_audio(url: str, output_dir: str, download_video: bool = False):
     """Download audio and descriptions of a YouTube playlist or video using yt-dlp."""
 
-    def published_videos_filter(info, *, incomplete):  # pylint: disable=unused-argument
+    def published_videos_filter(info, *, incomplete):
         """Download only VODs."""
         if info.get("playlist_index") is None:
             return  # Don't filter out playlists
