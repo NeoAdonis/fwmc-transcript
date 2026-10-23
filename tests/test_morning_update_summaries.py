@@ -2,6 +2,7 @@
 
 import os
 import unittest
+
 from morning import update_summaries
 
 

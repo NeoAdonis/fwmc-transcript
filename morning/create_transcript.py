@@ -157,15 +157,14 @@ def create_summary_draft(metadata, new_output_dir):
         "---",
         f"episode: {episode_name}",
         f"date: {metadata['date']}",
-        f"link: \"https://youtu.be/{metadata['id']}\"",
+        f'link: "https://youtu.be/{metadata["id"]}"',
         "wip: true",
         "---",
         "",
         "## Sections",
         "",
     ]
-    for section_name in DEFAULT_SECTION_NAMES:
-        summary_draft.append(section_name)
+    summary_draft.extend(DEFAULT_SECTION_NAMES)
 
     with open(os.path.join(new_output_dir, "summary.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(summary_draft))

@@ -6,8 +6,7 @@ import csv
 import json
 import os
 import re
-from datetime import datetime
-from datetime import timezone as datetime_timezone
+from datetime import UTC, datetime
 
 # Define constants
 EMOJI_FILE = "config/emojis.csv"
@@ -15,7 +14,7 @@ NO_EMOJI_EPISODES = ["friday the 13th"]
 HEADER_REGEX = re.compile(r"(#+) (.*)\n")
 LAST_UPDATED_REGEX = re.compile(r"^Last updated: [^\r\n]*", re.IGNORECASE)
 TIMESTAMP_REGEX = re.compile(r"(.*) \((\d+):(\d+)\)")
-CURRENT_TIME_STRING = datetime.now(datetime_timezone.utc).strftime("%Y-%m-%d %H:%M")
+CURRENT_TIME_STRING = datetime.now(UTC).strftime("%Y-%m-%d %H:%M")
 LAST_UPDATED_STRING = f"Last updated: {CURRENT_TIME_STRING} UTC"
 
 

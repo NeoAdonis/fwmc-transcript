@@ -9,7 +9,7 @@ def print_error(reason: str, location=""):
     """Print an error message with the location and reason"""
     if location != "":
         reason = f" {reason}"
-    print(f"{colored(location, "red", attrs=["underline"])}{colored(reason, "red")}")
+    print(f"{colored(location, 'red', attrs=['underline'])}{colored(reason, 'red')}")
 
 
 def print_warning(reason: str, location=""):
@@ -17,7 +17,7 @@ def print_warning(reason: str, location=""):
     if location != "":
         reason = f" {reason}"
     print(
-        f"{colored(location, "yellow", attrs=["underline"])}{colored(reason, "yellow")}"
+        f"{colored(location, 'yellow', attrs=['underline'])}{colored(reason, 'yellow')}"
     )
 
 
@@ -25,7 +25,7 @@ def print_info(reason: str, location=""):
     """Print an infomational message with the location and reason"""
     if location != "":
         reason = f" {reason}"
-    print(f"{colored(location, attrs=["underline"])}{reason}")
+    print(f"{colored(location, attrs=['underline'])}{reason}")
 
 
 def print_with_highlight(text: str, pattern: str | re.Pattern[str]):

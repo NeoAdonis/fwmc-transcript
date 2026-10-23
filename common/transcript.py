@@ -121,7 +121,7 @@ def fix_mistakes(replacements, directory, transcript_file, warn_only=False):
                     if warning and not warn_only:
                         printer.print_warning(
                             f'Replaced with "{replacement}"',
-                            f"{relative_path}:{i+1}",
+                            f"{relative_path}:{i + 1}",
                         )
                         printer.print_with_highlight(
                             line,
@@ -156,6 +156,6 @@ def highlight_ambiguities(highlights, directory, transcript_file):
         for i, line in enumerate(transcript_lines):
             if regex.search(line):
                 printer.print_info(
-                    f"Potential ambiguity: {reason}", f"{relative_path}:{i+1}"
+                    f"Potential ambiguity: {reason}", f"{relative_path}:{i + 1}"
                 )
                 printer.print_with_highlight(line, pattern)
