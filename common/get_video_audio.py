@@ -1,6 +1,7 @@
 """Common script to download audio from a YouTube playlist using yt-dlp."""
 
 import argparse
+import sys
 
 from common.media import get_video_audio
 
@@ -29,4 +30,5 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    get_video_audio(args.url, args.output_dir, args.download_video)
+    if not get_video_audio(args.url, args.output_dir, args.download_video):
+        sys.exit("Some downloads failed; see the errors above.")

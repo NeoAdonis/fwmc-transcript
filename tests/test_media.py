@@ -34,6 +34,7 @@ class FakeYoutubeDL:
     """Stand-in for YoutubeDL that records its options and downloaded URLs."""
 
     instances: ClassVar[list["FakeYoutubeDL"]] = []
+    retcodes: ClassVar[list[int]] = []  # Return code of each instance, 0 if missing.
     on_download = None  # Optional callback to simulate files written by yt-dlp.
 
     def __init__(self, opts):
@@ -48,10 +49,12 @@ class FakeYoutubeDL:
         return False
 
     def download(self, urls):
-        """Record the URLs and run the on_download callback, if any."""
+        """Record the URLs, run the on_download callback and return the code."""
         self.urls.extend(urls)
         if FakeYoutubeDL.on_download:
             FakeYoutubeDL.on_download()
+        index = FakeYoutubeDL.instances.index(self)
+        return FakeYoutubeDL.retcodes[index] if index < len(self.retcodes) else 0
 
 
 @pytest.fixture
@@ -59,6 +62,7 @@ def fake_ydl(monkeypatch):
     """Replace YoutubeDL with FakeYoutubeDL and return the class."""
     mock_ffmpeg(monkeypatch, FAKE_FFMPEG)
     monkeypatch.setattr(FakeYoutubeDL, "instances", [])
+    monkeypatch.setattr(FakeYoutubeDL, "retcodes", [])
     monkeypatch.setattr(FakeYoutubeDL, "on_download", None)
     monkeypatch.setattr(media, "YoutubeDL", FakeYoutubeDL)
     return FakeYoutubeDL
@@ -210,12 +214,36 @@ def test_get_video_audio_date_folders(fake_ydl, tmp_path, release_date, expected
 
 
 def test_get_video_audio_downloads_video(fake_ydl, tmp_path):
-    """If requested, the video is downloaded after the audio."""
+    """If requested, the video is downloaded after the audio, with its own archive."""
     media.get_video_audio(URL, str(tmp_path), download_video=True)
     audio_ydl, video_ydl = fake_ydl.instances
     assert audio_ydl.urls == video_ydl.urls == [URL]
+    assert video_ydl.opts["ignoreerrors"] is True
+    assert video_ydl.opts["ffmpeg_location"] == FAKE_FFMPEG
     assert video_ydl.opts["paths"] == {"home": str(tmp_path)}
+    assert video_ydl.opts["download_archive"] == str(tmp_path / "video_archive.txt")
+    assert video_ydl.opts["match_filter"] is audio_ydl.opts["match_filter"]
     assert video_ydl.opts["outtmpl"].endswith("/video.%(ext)s")
+
+
+@pytest.mark.parametrize(
+    ("download_video", "retcodes", "expected"),
+    [
+        (False, [0], True),
+        (False, [1], False),
+        (True, [0, 0], True),
+        (True, [1, 0], False),
+        (True, [0, 1], False),
+    ],
+)
+def test_get_video_audio_reports_failures(
+    fake_ydl, tmp_path, download_video, retcodes, expected
+):
+    """Success is reported only if every download succeeded."""
+    fake_ydl.retcodes = retcodes
+    result = media.get_video_audio(URL, str(tmp_path), download_video)
+    assert result is expected
+    assert len(fake_ydl.instances) == len(retcodes)
 
 
 @pytest.mark.parametrize(
@@ -225,15 +253,16 @@ def test_get_video_audio_downloads_video(fake_ydl, tmp_path):
         ({"live_status": "not_live"}, False),
         ({"live_status": "is_live"}, True),
         ({"live_status": "is_upcoming"}, True),
+        ({"live_status": "post_live"}, True),
         ({"playlist_index": 1, "live_status": "not_live"}, False),
         ({"playlist_index": 1, "live_status": "was_live"}, False),
-        ({"playlist_index": 1, "live_status": "post_live"}, False),
+        ({"playlist_index": 1, "live_status": "post_live"}, True),
         ({"playlist_index": 1, "live_status": "is_live"}, True),
         ({"playlist_index": 1, "live_status": "is_upcoming"}, True),
     ],
 )
 def test_get_video_audio_match_filter(fake_ydl, tmp_path, info, skipped):
-    """Live and upcoming videos are skipped, whether in a playlist or not."""
+    """Unfinished videos are skipped, whether in a playlist or not."""
     media.get_video_audio(URL, str(tmp_path))
     match_filter = fake_ydl.instances[0].opts["match_filter"]
     result = match_filter(info, incomplete=False)

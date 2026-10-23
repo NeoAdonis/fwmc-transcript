@@ -2,6 +2,7 @@
 
 import argparse
 import os
+import sys
 
 from common.media import get_video_audio
 
@@ -34,7 +35,7 @@ if __name__ == "__main__":
 
     output_dir = os.path.join(os.getcwd(), args.output_dir)
 
-    get_video_audio(args.url, output_dir, args.download_video)
+    success = get_video_audio(args.url, output_dir, args.download_video)
 
     # Find the first time when there's a blank line after a non-blank line in the
     # description files, then keep only the lines before that
@@ -49,3 +50,6 @@ if __name__ == "__main__":
                         with open(description_path, "w", encoding="utf-8") as f:
                             f.writelines(content[:i])
                         break
+
+    if not success:
+        sys.exit("Some downloads failed; see the errors above.")

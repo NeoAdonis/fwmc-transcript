@@ -51,17 +51,22 @@ def convert_to_wav(path: str, new_base_name: str, start_from="", end_at=""):
     subprocess.run(args, check=True)
 
 
-def get_video_audio(url: str, output_dir: str, download_video: bool = False):
+def get_video_audio(url: str, output_dir: str, download_video: bool = False) -> bool:
     """Download audio and descriptions of a YouTube playlist or video using yt-dlp.
 
     Each video is saved in a folder named after its release date (YYYYMMDD), or its
     upload date if it wasn't a live stream or premiere.
+
+    Errors in a video are printed and don't stop the remaining downloads. Return
+    whether all downloads succeeded.
     """
 
     def published_videos_filter(info, incomplete):
         """Download only VODs."""
-        # Playlists have no live status, so they aren't filtered out
-        if info.get("live_status") in ("is_live", "is_upcoming"):
+        # Playlists have no live status, so they aren't filtered out. Recordings of
+        # streams that just ended (post_live) may be incomplete while YouTube is
+        # still processing them.
+        if info.get("live_status") in ("is_live", "is_upcoming", "post_live"):
             return "Video not available yet"
 
     # Check if the required dependencies are installed
@@ -112,7 +117,7 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
             "concurrent_fragment_downloads": 3,
         }
     ) as ydl:
-        ydl.download([url])
+        success = ydl.download([url]) == 0
 
     # yt-dlp appends new info to title files if it exists already;
     # keep only the latest info
@@ -130,11 +135,17 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
         with YoutubeDL(
             {
                 "quiet": True,
+                "ignoreerrors": True,
+                "ffmpeg_location": ffmpeg_path,
                 "format": "bv*[height>=480]+ba/b[height>=480]/bv*+ba/b",
                 "format_sort": ["+size", "+br", "+res", "+fps"],
                 "paths": {"home": output_dir},
+                "download_archive": os.path.join(output_dir, "video_archive.txt"),
+                "match_filter": published_videos_filter,
                 "outtmpl": f"{date}/video.%(ext)s",
                 "concurrent_fragment_downloads": 3,
             }
         ) as ydl:
-            ydl.download([url])
+            success = ydl.download([url]) == 0 and success
+
+    return success
