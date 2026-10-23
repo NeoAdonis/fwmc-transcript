@@ -8,7 +8,11 @@ from yt_dlp import YoutubeDL
 
 
 def convert_to_wav(path: str, new_base_name: str, start_from="", end_at=""):
-    """Convert the audio file to WAV format using FFmpeg."""
+    """Convert the audio file to WAV format using FFmpeg.
+
+    The WAV file is written next to the source file, replacing any existing file
+    with the same name, since it may be incomplete or have been trimmed differently.
+    """
 
     # Check if the required dependencies are installed
     ffmpeg_path = shutil.which("ffmpeg")
@@ -25,6 +29,7 @@ def convert_to_wav(path: str, new_base_name: str, start_from="", end_at=""):
     # Construct the FFmpeg command
     args = [
         ffmpeg_path,
+        "-y",
         "-v",
         "warning",
         "-i",
@@ -43,22 +48,20 @@ def convert_to_wav(path: str, new_base_name: str, start_from="", end_at=""):
         args.extend(["-to", end_at])
     args.append(converted_audio)
 
-    # Check if the converted audio file already exists
-    if not os.path.exists(converted_audio):
-        # Use ffmpeg to convert the audio file
-        subprocess.run(args, check=True)
+    subprocess.run(args, check=True)
 
 
 def get_video_audio(url: str, output_dir: str, download_video: bool = False):
-    """Download audio and descriptions of a YouTube playlist or video using yt-dlp."""
+    """Download audio and descriptions of a YouTube playlist or video using yt-dlp.
 
-    def published_videos_filter(info, *, incomplete):
+    Each video is saved in a folder named after its release date (YYYYMMDD), or its
+    upload date if it wasn't a live stream or premiere.
+    """
+
+    def published_videos_filter(info, incomplete):
         """Download only VODs."""
-        if info.get("playlist_index") is None:
-            return  # Don't filter out playlists
-        live_status = info.get("live_status")
-        # availability = info.get("availability")
-        if live_status == "is_live" or live_status == "is_upcoming":
+        # Playlists have no live status, so they aren't filtered out
+        if info.get("live_status") in ("is_live", "is_upcoming"):
             return "Video not available yet"
 
     # Check if the required dependencies are installed
@@ -71,43 +74,45 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # Download best source audio for better transcription and save some metadata
-    ydl_opts = {
-        "quiet": True,
-        "ignoreerrors": True,
-        "ffmpeg_location": ffmpeg_path,
-        "format": "ba/b",
-        "paths": {"home": output_dir},
-        "download_archive": os.path.join(output_dir, "archive.txt"),
-        "match_filter": published_videos_filter,
-        "print_to_file": {
-            "video": [
-                ("%(id)s", "%(release_date)s/%(release_date)s.title"),
-                ("%(title)s", "%(release_date)s/%(release_date)s.title"),
-            ],
-        },
-        "outtmpl": {
-            "description": "%(release_date)s/%(release_date)s",
-            "thumbnail": "%(release_date)s/thumbnail",
-            "default": "%(release_date)s/audio.%(ext)s",
-        },
-        "writedescription": True,
-        "writethumbnail": True,
-        "postprocessors": [
-            {
-                "key": "FFmpegExtractAudio",
-            }
-        ],
-        "noplaylist": False,
-        "concurrent_fragment_downloads": 3,
-    }
-    with YoutubeDL(ydl_opts) as ydl:
-        ydl.download([url])
+    # Only live streams and premieres have a release date
+    date = "%(release_date,upload_date)s"
 
-    # Remove the "NA" folder if it exists
-    na_folder = os.path.join(output_dir, "NA")
-    if os.path.exists(na_folder):
-        shutil.rmtree(na_folder)
+    # Download best source audio for better transcription and save some metadata.
+    # The yt-dlp stubs bundled with Pylance (typeshed) expect a single tuple per
+    # print_to_file key, but yt-dlp takes a list of them.
+    with YoutubeDL(
+        {  # pyright: ignore[reportArgumentType]
+            "quiet": True,
+            "ignoreerrors": True,
+            "ffmpeg_location": ffmpeg_path,
+            "format": "ba/b",
+            "paths": {"home": output_dir},
+            "download_archive": os.path.join(output_dir, "archive.txt"),
+            "match_filter": published_videos_filter,
+            "print_to_file": {
+                "video": [
+                    ("%(id)s", f"{date}/{date}.title"),
+                    ("%(title)s", f"{date}/{date}.title"),
+                ],
+            },
+            "outtmpl": {
+                "description": f"{date}/{date}",
+                "thumbnail": f"{date}/thumbnail",
+                "default": f"{date}/audio.%(ext)s",
+            },
+            "writedescription": True,
+            "writethumbnail": True,
+            "allow_playlist_files": False,
+            "postprocessors": [
+                {
+                    "key": "FFmpegExtractAudio",
+                }
+            ],
+            "noplaylist": False,
+            "concurrent_fragment_downloads": 3,
+        }
+    ) as ydl:
+        ydl.download([url])
 
     # yt-dlp appends new info to title files if it exists already;
     # keep only the latest info
@@ -122,13 +127,14 @@ def get_video_audio(url: str, output_dir: str, download_video: bool = False):
 
     # If specified, download smallest video with at least 480p resolution for reference
     if download_video:
-        video_opts = {
-            "quiet": True,
-            "format": "bv*[height>=480]+ba/b[height>=480]/bv*+ba/b",
-            "format_sort": ["+size", "+br", "+res", "+fps"],
-            "paths": {"home": output_dir},
-            "outtmpl": "%(release_date)s/video.%(ext)s",
-            "concurrent_fragment_downloads": 3,
-        }
-        with YoutubeDL(video_opts) as ydl:
+        with YoutubeDL(
+            {
+                "quiet": True,
+                "format": "bv*[height>=480]+ba/b[height>=480]/bv*+ba/b",
+                "format_sort": ["+size", "+br", "+res", "+fps"],
+                "paths": {"home": output_dir},
+                "outtmpl": f"{date}/video.%(ext)s",
+                "concurrent_fragment_downloads": 3,
+            }
+        ) as ydl:
             ydl.download([url])
