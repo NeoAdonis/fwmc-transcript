@@ -1,3 +1,7 @@
 [[tool.mypy.overrides]]
 module = ["webvtt.*", "whisperx.*", "yt_dlp.*"]
 follow_untyped_imports = true
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,3 +1,4 @@
+pytest
 termcolor
 webvtt-py
 yt-dlp[default]
