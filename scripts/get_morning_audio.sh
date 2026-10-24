@@ -28,7 +28,7 @@ if ! command -v python &> /dev/null; then
 fi
 
 script_directory="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-cd "$script_directory/.." || exit 1
+cd "$script_directory/../src" || exit 1
 
 args=(--url "$url" --output_dir "$output_directory")
 if [[ "$download_video" == true ]]; then

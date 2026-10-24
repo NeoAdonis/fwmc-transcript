@@ -1,10 +1,11 @@
 [tool.mypy]
 explicit_package_bases = true
+mypy_path = "src"
 
 [[tool.mypy.overrides]]
 module = ["webvtt.*", "whisperx.*", "yt_dlp.*"]
 follow_untyped_imports = true
 
 [tool.pytest.ini_options]
-pythonpath = ["."]
+pythonpath = ["src"]
 testpaths = ["tests"]

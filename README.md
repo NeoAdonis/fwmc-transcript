@@ -78,7 +78,7 @@ Install Bun or Node.js from your distribution's package manager, or follow the i
 
 1. Install PyTorch: `pip install -r requirements_1_torch_cu128_<platform>.txt` (or `requirements_1_torch_cpu_<platform>.txt` if you don't have an NVIDIA GPU).
 1. Install WhisperX: `pip install -r requirements_2_whisperx.txt`
-1. On Linux, if you get an error like `ImportError: libctranslate2-d3638643.so.4.4.0: cannot enable executable stack as shared object requires`, run `./workaround_libctranslate2_clear-execstack.sh` to clear the conflicting `GNU_STACK` executable flag from the library (see <https://github.com/OpenNMT/CTranslate2/issues/1849>).
+1. On Linux, if you get an error like `ImportError: libctranslate2-d3638643.so.4.4.0: cannot enable executable stack as shared object requires`, run `./scripts/workaround_libctranslate2_clear-execstack.sh` to clear the conflicting `GNU_STACK` executable flag from the library (see <https://github.com/OpenNMT/CTranslate2/issues/1849>).
 1. On Linux, if you get an error like `Could not load library libcudnn_ops_infer.so.8`, install cuDNN 11. Alternatively, install `nvidia-cudnn-cu11` with pip and add its libraries to `LD_LIBRARY_PATH` (e.g. `export LD_LIBRARY_PATH="$VIRTUAL_ENV/lib/python3.x/site-packages/nvidia/cublas/lib:$VIRTUAL_ENV/lib/python3.x/site-packages/nvidia/cudnn/lib:$LD_LIBRARY_PATH"`).
 
 ### Install linters

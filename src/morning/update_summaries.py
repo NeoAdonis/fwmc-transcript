@@ -207,7 +207,8 @@ def refresh_questions_file(question_summary):
 def main():
     """Update index file with the latest episode summaries and questions of the day."""
 
-    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    # Paths are relative to the data in the morning directory at the repository root
+    os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../morning"))
 
     args = parse_args()
 

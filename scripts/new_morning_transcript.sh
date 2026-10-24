@@ -37,7 +37,7 @@ if ! command -v whisperx &> /dev/null; then
 fi
 
 script_directory="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-cd "$script_directory/.." || exit 1
+cd "$script_directory/../src" || exit 1
 
 args=(--audio_dir "$audio_directory" --output_dir "$output_directory" --model "$model")
 if [[ "$include_no_prompt" == true ]]; then

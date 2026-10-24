@@ -174,7 +174,8 @@ def create_summary_draft(metadata, new_output_dir):
 def main():
     """Create transcripts for FUWAMOCO Morning episodes."""
 
-    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    # Paths are relative to the data in the morning directory at the repository root
+    os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../morning"))
 
     args = parse_args()
 

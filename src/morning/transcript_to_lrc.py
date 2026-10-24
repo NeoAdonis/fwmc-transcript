@@ -31,7 +31,8 @@ def main():
     """Convert existing transcripts to LRC files for easier processing by external
     tools such as LLMs."""
 
-    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    # Paths are relative to the data in the morning directory at the repository root
+    os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../morning"))
 
     args = parse_args()
 

@@ -16,7 +16,8 @@ REPLACEMENTS_FILE = "config/replacements.csv"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 if __name__ == "__main__":
-    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    # Paths are relative to the data in the morning directory at the repository root
+    os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../morning"))
 
     # Parse command line arguments
     parser = argparse.ArgumentParser(description="Fix captions")

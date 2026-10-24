@@ -20,10 +20,10 @@ if (-not (Get-Command python -ErrorAction SilentlyContinue)) {
 }
 
 $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
-Set-Location (Join-Path $scriptDirectory "..")
+Push-Location (Join-Path $scriptDirectory "../src")
 $arguments = @('--url', $Url, '--output_dir', $OutputDirectory)
 if ($DownloadVideo) {
     $arguments += '--download_video'
 }
 & python -m morning.get_audio @arguments
-Set-Location $scriptDirectory
+Pop-Location

@@ -15,7 +15,7 @@ Thank you for your interest in contributing to this project! Please **read the f
   - Doggie of the Day: Include the name of the featured pet.
   - Question of the Day: Focus on the answer to the question.
   - Thanks & Extra Special Ruffians: Don't name any of the Ruffians called out.
-- If possible, run the validation script ([morning/validate_docs.py](morning/validate_docs.py)) before submitting.
+- If possible, run the validation script ([src/morning/validate_docs.py](src/morning/validate_docs.py)) before submitting.
 
 Some older summaries predate these guidelines and may not follow them. Feel free to point them out or, even better, submit a fix.
 
