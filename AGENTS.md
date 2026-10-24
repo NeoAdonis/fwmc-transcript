@@ -36,7 +36,6 @@ Shared code, relative to `src/common/`:
 - `asr.py`: automatic speech recognition with WhisperX.
 - `asrtransform.py`: experimental post-processing of ASR output, such as fixing repeated captions.
 - `media.py`: media download (yt-dlp) and conversion to WAV (FFmpeg).
-  - `get_video_audio.py`, `convert_to_wav.py`: command-line wrappers around `media.py`.
 - `transcript.py`: transcript validation, conversion to LRC, and detection or replacement of common mistakes.
 - `printer.py`: helpers to print errors, warnings and highlighted text.
 - `time.py`: conversion helpers between timestamps and `timedelta`.
@@ -53,6 +52,7 @@ FWMC Morning scripts, relative to `src/morning/`:
 Shell scripts, relative to `scripts/`:
 
 - `get_morning_audio.sh`, `new_morning_transcript.sh` (and their PowerShell counterparts, `Get-MorningAudio.ps1` and `New-MorningTranscript.ps1`): convenience wrappers around `get_audio.py` and `create_transcript.py`.
+- `get_video_audio.sh`, `convert_to_wav.sh` (and their PowerShell counterparts, `Get-VideoAudio.ps1` and `ConvertTo-Wav.ps1`): call `get_video_audio()` and `convert_to_wav()` from `media.py`, so yt-dlp and FFmpeg get the same options as in the Python scripts.
 - `workaround_libctranslate2_clear-execstack.sh`: workaround for a CTranslate2 loading error on Linux (see `README.md`).
 
 FWMC Morning data, relative to `morning/`:
