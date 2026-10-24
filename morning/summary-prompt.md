@@ -1,4 +1,4 @@
-<!-- markdownlint-disable search-replace -->
+<!-- markdownlint-disable first-line-heading -->
 <!--
 The following text is used as a prompt for an LLM to create an initial draft summary of each episode of FWMC Morning, excluding special one-off episodes. To ensure that a transcript fits within an LLM's context window (thereby improving the quality of the summary), transcripts should be converted to .lrc files. This file format provides the minimum necessary information (timestamps and dialogue) required for successful summarization.
 

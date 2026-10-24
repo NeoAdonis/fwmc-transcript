@@ -29,7 +29,7 @@ Even though the new set of emotes includes one for Mococo sneezing, it's missing
 
 ## Spooky Storytime (18:20)
 
-FUWAMOCO will be hosting a story time stream where they'll be reading some of the spooky and silly stories written by Ruffians! You can submit yours [here](https://docs.google.com/forms/d/e/1FAIpQLSeNJFVNgkNxwKGcYppQx05s53oPWd8dP-BnIad3kcL37fS9hA/viewform)! Deadline: 2023-10-30T17:00Z
+FUWAMOCO will be hosting a story time stream where they'll be reading some of the spooky and silly stories written by Ruffians! You can submit yours [through this form](https://docs.google.com/forms/d/e/1FAIpQLSeNJFVNgkNxwKGcYppQx05s53oPWd8dP-BnIad3kcL37fS9hA/viewform)! Deadline: 2023-10-30T17:00Z
 
 ## Misunderstanding (21:51)
 

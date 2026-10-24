@@ -1,6 +1,8 @@
 {
     "config": {
         // Lyrics use stylized names, such as FUWA and MOCO
-        "proper-names": false
+        "proper-names": false,
+        // Lyric tables are aligned visually, which full-width characters break
+        "table-column-style": false
     }
 }

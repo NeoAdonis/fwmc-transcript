@@ -152,7 +152,7 @@
 ### Japanese version（日本語版）
 
 | Japanese 【日本語】 | Romaji | English |
-|-|-|-|
+| - | - | - |
 | It's show time! 一緒にいたいよ | *It's show time!* Issho ni itai yo | It's show time! I want to be with you |
 | Lifetime Showtime Anytime BAU BAU! | *Lifetime Showtime Anytime BAU BAU!* | Lifetime Showtime Anytime BAU BAU! |
 | Yeah, 二人は / Yeah, future is bright | *Yeah*, futari wa / *Yeah, future is bright* | Yeah, the two of us are / Yeah, future is bright |
@@ -199,7 +199,7 @@
 | 一生涯 Walk with you! | Isshōgai *Walk with you!* | Lifelong, walk with you! |
 | Good times and bad times | *Good times and bad times* | Good times and bad times |
 | It doesn't matter! | *It doesn't matter!* | It doesn't matter! |
-| いつだって It's that day!| Itsudatte *It's that day!* | Always, it's that day! |
+| いつだって It's that day! | Itsudatte *It's that day!* | Always, it's that day! |
 | Lifetime Showtime Everyday! BAU BAU! | *Lifetime Showtime Everyday! BAU BAU!* | Lifetime Showtime Everyday! BAU BAU! |
 | Yeah, 二人は / Yeah, future is bright | *Yeah*, futari wa / *Yeah, future is bright* | Yeah, the two of us are / Yeah, future is bright |
 | Happy lucky puppy sisters! | Happy lucky puppy sisters! | Happy lucky puppy sisters! |
