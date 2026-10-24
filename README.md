@@ -85,6 +85,8 @@ Install Bun or Node.js from your distribution's package manager, or follow the i
 
 To lint and type-check the code, install the linters in your environment: `pip install -r requirements_3_optional_linters.txt`. Alternatively, you can use them externally, such as through a global install (e.g. `uv tool install ruff`), an editor extension or a package manager (e.g. `apt`, `pacman`).
 
+To lint Markdown files with [markdownlint](https://github.com/DavidAnson/markdownlint-cli2), install it from the repository root with `npm ci` (or `bun install --frozen-lockfile`), then run `npm run lint` (or `bun run lint`). The FWMC Morning validation script also runs it.
+
 ## 🎶 FUWAMOCO songs
 
 Lyrics, fanchants and other content related to their songs:

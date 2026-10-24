@@ -6,6 +6,7 @@ Thank you for your interest in contributing to this project! Please **read the f
 
 - Follow the [hololive production Derivative Works Guidelines](https://hololivepro.com/en/terms/). In short, make sure that no one could take your contribution as officially endorsed by any hololive talent or Cover Corp., and that it doesn't damage a third party's image.
 - Follow the conventions in the [style guide](STYLE.md), both for code and written content.
+- If possible, lint Markdown files with `npm run lint` (or `bun run lint`) before submitting; see the [README](README.md) to set it up. The linter fixes some issues automatically.
 
 ## Summaries for FWMC Morning
 

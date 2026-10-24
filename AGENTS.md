@@ -48,7 +48,7 @@ FWMC Morning scripts, relative to `src/morning/`:
 - `fix_captions.py`: experimental script to fix repeated captions in existing transcripts.
 - `transcript_to_lrc.py`: converts transcripts to LRC files to feed them to an LLM with `morning/summary-prompt.md`.
 - `update_summaries.py`: generates the formatted summaries in `morning/summaries/` and updates `morning/index.md`, `morning/index.csv` and `morning/questions.txt`.
-- `validate_docs.py`: validates the structure and content of transcripts, summaries and metadata, and lints summaries with markdownlint (installed with `morning/package.json` and configured in `morning/.markdownlint-cli2.jsonc`).
+- `validate_docs.py`: validates the structure and content of transcripts, summaries and metadata, and lints all Markdown files with markdownlint.
 
 Shell scripts, relative to `scripts/`:
 
@@ -68,5 +68,13 @@ FWMC Morning data, relative to `morning/`:
 - `summary-prompt.md`: prompt to draft a summary from a transcript with an LLM.
 
 Songs, relative to `songs/`: lyrics, fanchants and other content related to FUWAMOCO songs, one Markdown file per song.
+
+Markdown linting, relative to the repository root:
+
+- `package.json`, `package-lock.json`: markdownlint-cli2 and its custom rules, installed with `npm ci` (or `bun install --frozen-lockfile`). `npm run lint` (or `bun run lint`) lints and fixes all Markdown files.
+- `.markdownlint-cli2.jsonc`: shared configuration, including the proper names list. Configuration files in subdirectories merge with it to override rules for their files:
+  - `.github/`: templates don't start with a heading.
+  - `songs/`: lyrics use stylized names, so proper names aren't checked.
+  - `morning/transcripts/`: summaries start with a second-level heading and use custom search-and-replace rules, such as timestamps in headings.
 
 Tests, relative to `tests/`: unit tests for `common.media` and some of the FWMC Morning scripts.
