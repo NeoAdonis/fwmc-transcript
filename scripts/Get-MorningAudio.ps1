@@ -2,28 +2,8 @@
 param(
     [string]$CondaEnvironment = 'whisperx',
     [string]$Url = 'https://www.youtube.com/playlist?list=PLf4O_VcbYo27DpnCJZXRsxov6_DD2Q1NS',
-    [string]$OutputDirectory = 'audio',
+    [string]$OutputDirectory = (Join-Path $PSScriptRoot '../morning/audio'),
     [switch]$DownloadVideo
 )
 
-if (-not (Get-Command conda -ErrorAction SilentlyContinue)) {
-    Write-Host "conda not found. Please make sure that Anaconda/Miniconda is properly installed." -ForegroundColor Red
-    throw 'conda not found'
-}
-
-& conda activate $CondaEnvironment
-
-if (-not (Get-Command python -ErrorAction SilentlyContinue)) {
-    Write-Host "Python not found. Please make sure that Python is properly installed in the Conda environment '$CondaEnvironment'." -ForegroundColor Red
-    & conda deactivate
-    throw 'python not found'
-}
-
-$scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
-Push-Location (Join-Path $scriptDirectory "../src")
-$arguments = @('--url', $Url, '--output_dir', $OutputDirectory)
-if ($DownloadVideo) {
-    $arguments += '--download_video'
-}
-& python -m morning.get_audio @arguments
-Pop-Location
+& (Join-Path $PSScriptRoot 'Get-VideoAudio.ps1') $Url -OutputDirectory $OutputDirectory -DownloadVideo:$DownloadVideo -CondaEnvironment $CondaEnvironment

@@ -42,7 +42,6 @@ Shared code, relative to `src/common/`:
 
 FWMC Morning scripts, relative to `src/morning/`:
 
-- `get_audio.py`: downloads the audio, title and description of episodes into `morning/audio/` (ignored by Git).
 - `create_transcript.py`: transcribes downloaded episodes into `morning/transcripts/`, including their metadata and a summary draft.
 - `fix_captions.py`: experimental script to fix repeated captions in existing transcripts.
 - `transcript_to_lrc.py`: converts transcripts to LRC files to feed them to an LLM with `morning/summary-prompt.md`.
@@ -51,7 +50,8 @@ FWMC Morning scripts, relative to `src/morning/`:
 
 Shell scripts, relative to `scripts/`:
 
-- `get_morning_audio.sh`, `new_morning_transcript.sh` (and their PowerShell counterparts, `Get-MorningAudio.ps1` and `New-MorningTranscript.ps1`): convenience wrappers around `get_audio.py` and `create_transcript.py`.
+- `get_morning_audio.sh` (and its PowerShell counterpart, `Get-MorningAudio.ps1`): downloads the audio, title and description of FWMC Morning episodes into `morning/audio/` (ignored by Git) with `get_video_audio.sh`.
+- `new_morning_transcript.sh` (and its PowerShell counterpart, `New-MorningTranscript.ps1`): convenience wrapper around `create_transcript.py`.
 - `get_video_audio.sh`, `convert_to_wav.sh` (and their PowerShell counterparts, `Get-VideoAudio.ps1` and `ConvertTo-Wav.ps1`): call `get_video_audio()` and `convert_to_wav()` from `media.py`, so yt-dlp and FFmpeg get the same options as in the Python scripts.
 - `workaround_libctranslate2_clear-execstack.sh`: workaround for a CTranslate2 loading error on Linux (see `README.md`).
 

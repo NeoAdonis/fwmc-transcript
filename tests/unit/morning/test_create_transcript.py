@@ -20,7 +20,7 @@ DESCRIPTION = [
 def write_episode(
     audio_dir, date, title=REGULAR_TITLE, description=None, video_id="2Q_Z4PVnMdk"
 ):
-    """Write the title and description files of an episode, like get_audio.py."""
+    """Write the title and description files of an episode, like get_video_audio()."""
     episode_dir = audio_dir / date
     episode_dir.mkdir(parents=True)
     (episode_dir / f"{date}.title").write_text(
@@ -111,6 +111,16 @@ def test_get_metadata_default_illustrator(tmp_path):
     metadata = get_metadata(tmp_path, description=["first line", "second line"])
     assert metadata["illustrator"] == "rswxx"
     assert metadata["description"] == "first line second line"
+
+
+def test_get_metadata_first_paragraph(tmp_path):
+    """Only the first paragraph of the description is used."""
+    metadata = get_metadata(
+        tmp_path,
+        description=["first line", "", "#FWMCMORNING", "illustration by @someone"],
+    )
+    assert metadata["description"] == "first line"
+    assert metadata["illustrator"] == "rswxx"
 
 
 @pytest.mark.parametrize(

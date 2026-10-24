@@ -79,6 +79,8 @@ def get_metadata(root, dir_basename):
 
     title = title_file_content[1].strip()
     episode = "???"
+    # Default to Icomochi (@rswxx), the FUWAMOCO designer.
+    illustrator = "rswxx"
 
     patterns = [
         r"【FUWAMOCO MORNING】\s*episode (\d+)",
@@ -91,9 +93,16 @@ def get_metadata(root, dir_basename):
             episode = m.group(1).strip()
             break
 
-    description = description_file_content[0].strip()
-    illustrator = "rswxx"  # Icomochi, FUWAMOCO designer
-    for line in description_file_content[1:]:
+    # Only the first paragraph has the description and credits of the episode; the
+    # rest is the same for every episode
+    description_lines = []
+    for line in description_file_content:
+        if not line.strip() and description_lines and description_lines[-1].strip():
+            break
+        description_lines.append(line)
+    description = description_lines[0].strip()
+
+    for line in description_lines[1:]:
         if "illust" in line:
             if "@" in line:
                 illustrator = line.split("@")[1].split()[0]
