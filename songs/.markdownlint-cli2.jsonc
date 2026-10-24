@@ -1,0 +1,6 @@
+{
+    "config": {
+        // Lyrics use stylized names, such as FUWA and MOCO
+        "proper-names": false
+    }
+}

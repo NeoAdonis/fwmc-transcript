@@ -1,0 +1,6 @@
+{
+    "config": {
+        // Templates start with the content to fill in, not a heading
+        "first-line-heading": false
+    }
+}
