@@ -22,8 +22,8 @@ def fix_repeats(
             last_unique_caption = caption
         if caption.text != last_unique_caption.text:
             if (i - last_unique_id) > limit:
-                new_start = time.str_to_timedelta(f"{last_unique_caption.start}000")
-                new_end = time.str_to_timedelta(f"{caption.start}000")
+                new_start = time.str_to_timedelta(last_unique_caption.start)
+                new_end = time.str_to_timedelta(caption.start)
                 media.convert_to_wav(
                     audio_path,
                     "fragment",
@@ -44,10 +44,10 @@ def fix_repeats(
                 fragment_vtt = os.path.join(vtt_root, "fragment.vtt")
                 for fragment_caption in webvtt.read(fragment_vtt).captions:
                     fragment_start = new_start + time.str_to_timedelta(
-                        f"{fragment_caption.start}000"
+                        fragment_caption.start
                     )
                     fragment_end = new_start + time.str_to_timedelta(
-                        f"{fragment_caption.end}000"
+                        fragment_caption.end
                     )
                     fragment_caption.start = time.timedelta_to_str(fragment_start)
                     fragment_caption.end = time.timedelta_to_str(fragment_end)
