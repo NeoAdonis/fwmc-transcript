@@ -171,7 +171,13 @@ def test_create_summary_draft(tmp_path, title, episode_line):
 @pytest.fixture
 def fake_asr(monkeypatch):
     """Replace audio conversion and transcription with fakes and record the calls."""
-    calls = {"convert": [], "load_model": [], "load_align_model": [], "transcribe": []}
+    calls = {
+        "convert": [],
+        "load_model": [],
+        "load_align_model": [],
+        "transcribe": [],
+        "fix_repeats": [],
+    }
 
     def convert_to_wav(path, new_base_name):
         calls["convert"].append(path)
@@ -199,9 +205,14 @@ def fake_asr(monkeypatch):
         create_transcript.whisperx, "load_align_model", load_align_model
     )
     monkeypatch.setattr(create_transcript.asr, "transcribe_audio", transcribe_audio)
-    monkeypatch.setattr(
-        create_transcript.asrtransform, "fix_repeats", lambda *_args: False
-    )
+
+    def fix_repeats(vtt_root, file, audio_path, *_args):
+        assert os.path.exists(os.path.join(vtt_root, file))
+        assert os.path.exists(audio_path)
+        calls["fix_repeats"].append((vtt_root, file, audio_path))
+        return False
+
+    monkeypatch.setattr(create_transcript.asrtransform, "fix_repeats", fix_repeats)
     return calls
 
 
@@ -289,6 +300,21 @@ def test_main_ignores_other_files(monkeypatch, tmp_path, fake_asr):
 
     assert fake_asr["transcribe"] == []
     assert not (tmp_path / "transcripts").exists()
+
+
+def test_main_fixes_repeats(monkeypatch, tmp_path, fake_asr):
+    """Repeats are fixed in the new transcript, using the downloaded audio."""
+    episode_dir = write_episode(tmp_path / "audio", "20260320")
+    (episode_dir / "audio.m4a").touch()
+    run_main(monkeypatch, tmp_path)
+
+    assert fake_asr["fix_repeats"] == [
+        (
+            str(tmp_path / "transcripts" / "20260320"),
+            "audio_converted.vtt",
+            str(episode_dir / "audio.m4a"),
+        )
+    ]
 
 
 def test_main_include_no_prompt(monkeypatch, tmp_path, fake_asr):

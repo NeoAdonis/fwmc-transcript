@@ -8,23 +8,15 @@ from common import asr, media, time
 
 
 def fix_repeats(
-    vtt_root, file, audio_root, model, align_model, align_metadata, device: str, limit=4
+    vtt_root, file, audio_path, model, align_model, align_metadata, device: str, limit=4
 ):
-    """EXPERIMENTAL. Fix repeated lines in a transcript."""
+    """EXPERIMENTAL. Fix repeated lines in a transcript of the given audio file."""
     changed = False
     i = 1
     last_unique_caption = None
     last_captions: list[webvtt.Caption] = []
     last_unique_id = 0
     new_vtt = webvtt.WebVTT()
-    base_name = os.path.basename(vtt_root)
-    audio_path = os.path.join(audio_root, f"{base_name}/audio.opus")
-    if not os.path.exists(audio_path):
-        audio_path = os.path.join(audio_root, f"{base_name}/audio.webm")
-    if not os.path.exists(audio_path):
-        audio_path = os.path.join(audio_root, f"{base_name}/audio.mp4")
-    if not os.path.exists(audio_path):
-        return False
     for caption in webvtt.read(os.path.join(vtt_root, file)).captions:
         if last_unique_caption is None:
             last_unique_caption = caption
@@ -39,7 +31,7 @@ def fix_repeats(
                     time.timedelta_to_str(new_end),
                 )
                 fragment_audio_path = os.path.join(
-                    audio_root, f"{base_name}/fragment.wav"
+                    os.path.dirname(audio_path), "fragment.wav"
                 )
                 asr.transcribe_audio(
                     fragment_audio_path,

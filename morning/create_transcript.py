@@ -210,7 +210,7 @@ def main():
 
                 # Convert audio files for easier transcription
                 convert_to_wav(audio_path, CONVERT_BASE_NAME)
-                audio_path = os.path.join(audio_root, f"{CONVERT_BASE_NAME}.wav")
+                wav_path = os.path.join(audio_root, f"{CONVERT_BASE_NAME}.wav")
 
                 # Load transcription models (if not already loaded)
                 if model is None:
@@ -233,18 +233,19 @@ def main():
 
                 # Transcript with prompt to create a more accurate transcript
                 asr.transcribe_audio(
-                    audio_path,
+                    wav_path,
                     model,
                     align_model,
                     align_metadata,
                     DEVICE,
                     new_output_dir,
                 )
+                # The transcript is named after the WAV file until it's cleaned up
                 # TODO: Simplify parameter passing
                 asrtransform.fix_repeats(
                     new_output_dir,
-                    f"{NEW_BASE_NAME}.vtt",
-                    audio_root,
+                    f"{CONVERT_BASE_NAME}.vtt",
+                    audio_path,
                     model,
                     align_model,
                     align_metadata,
@@ -259,7 +260,7 @@ def main():
                     if model_no_prompt is None:
                         model_no_prompt = whisperx.load_model(args.model, DEVICE)
                     asr.transcribe_audio(
-                        audio_path,
+                        wav_path,
                         model_no_prompt,
                         align_model,
                         align_metadata,
@@ -267,7 +268,7 @@ def main():
                         new_output_dir_no_prompt,
                     )
 
-                os.remove(audio_path)
+                os.remove(wav_path)
 
                 clean_transcript_files(new_output_dir)
 

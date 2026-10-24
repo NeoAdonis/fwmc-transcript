@@ -1,6 +1,7 @@
 """Fix captions. EXPERIMENTAL."""
 
 import argparse
+import glob
 import os
 
 import torch
@@ -62,8 +63,22 @@ if __name__ == "__main__":
         for file in files:
             if file == "transcript.vtt":
                 relative_path = os.path.relpath(os.path.join(root, file), os.getcwd())
-                repeats_fixed = asrtransform.fix_repeats(
-                    root, file, audio_dir, model, align_model, align_metadata, DEVICE
+                episode_audio_dir = os.path.join(audio_dir, os.path.basename(root))
+                audio_paths = [
+                    path
+                    for path in glob.glob(
+                        os.path.join(glob.escape(episode_audio_dir), "audio.*")
+                    )
+                    if not path.endswith((".wave", ".wav"))
+                ]
+                repeats_fixed = bool(audio_paths) and asrtransform.fix_repeats(
+                    root,
+                    file,
+                    audio_paths[0],
+                    model,
+                    align_model,
+                    align_metadata,
+                    DEVICE,
                 )
                 if repeats_fixed:
                     printer.print_info("Repeated sections rewritten", relative_path)
