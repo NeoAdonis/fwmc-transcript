@@ -5,13 +5,58 @@ link: "https://youtu.be/EQh0DUL4Z38"
 wip: true
 ---
 
-## Sections
+## Introduction (05:13)
 
-- Introduction
-- Pero Sighting
-- Mococo Pup Talk
-- Doggie Of The Day
-- Today I Went On A Walk
-- Question Of The Day
-- Next Stream & Schedule
-- Thanks & Extra Special Ruffians
+FUWAMOCO open the 178th episode of FUWAMOCO Morning, the last one of 2025 before the show goes into hibernation as the clocks change.
+
+## Pero Sighting (08:54)
+
+Pero was spotted floating behind a Ruffian in one of the scariest sightings of the year. FUWAMOCO tell Ruffians to watch their backs and carry mini puddings from Japan, since anyone without one is susceptible.
+
+## Raora New Song (11:28)
+
+Raora from hololive English -Justice- released her first original song, *Gacha Gacha Adventure*, along with its music video. FUWAMOCO congratulate her on the big milestone and warn that it will get stuck in Ruffians' heads.
+
+## Lifetime Showtime (14:28)
+
+FUWAMOCO's original song *Lifetime Showtime* is about to reach 500,000 views. They thank Ruffians early, recommend watching it with the music video and mention that the acoustic live version is available to Doggy Pack members.
+
+## Collab Festival (17:45)
+
+FUWAMOCO look back at a week full of collabs: the Backrooms with Cecilia and Gigi, Japanese snacks with Shiori, Poppy Playtime with Biboo, Mage Arena and Visage with Fubuki-senpai, where they reached 17%.
+
+## McDonalds × FWMC (24:38)
+
+FUWAMOCO are collaborating with McDonald's Japan, singing a song about the Chicky Chicken, a crispy chicken with garlic pepper released on the 29th in Japan. They sing it in Japanese, English and a blend of both.
+
+## Biboo 3D Live (27:40)
+
+Biboo announced her first 3D live, *Log In*, happening on November 1 at 8 PM PT. Roboco-senpai is the first announced guest, and FUWAMOCO imagine them doing the robot together.
+
+## PC-98 (29:09)
+
+FUWAMOCO came across a working PC-98, a retro Japanese computer never sold outside Japan, at a secret spot. They were thrilled to play on it and feel ready to own one to enjoy their PC-98 game collection.
+
+## FWMC Pup Talk and farewell (for now) (34:01)
+
+FUWAMOCO thank Ruffians for making FUWAMOCO Morning, which they have held since their debut, so special. They promise to stay healthy during hibernation and see Ruffians again on March 9 at 8 AM PT.
+
+## Doggie Of The Day (37:23)
+
+The last Doggie of the Day of 2025 is Estella! She's dressed up as a demon dog for Halloween, though FUWAMOCO suspect she actually has an angelic personality.
+
+## Today I Went On A Walk (39:45)
+
+A Ruffian took FUWAMOCO along on a road trip under a bright blue sky. Fuwawa hopes they weren't tied to the roof the whole way and asks for the passenger seat next time.
+
+## Question Of The Day (41:28)
+
+Asked if they would rewatch their debut stream, FUWAMOCO say they watched it for their first anniversary. Their feelings haven't changed, except that they're even stronger: they'll keep protecting Ruffians' smiles in 2026 and beyond.
+
+## Next Stream & Schedule (44:14)
+
+FUWAMOCO stream a yandere ASMR for the Doggy Pack next. This week also brings a VRChat collab with Fubuki-senpai and Biboo, Phasmophobia VR, a solo cover premiere, an Advent Halloween party and a signing stream.
+
+## Thanks & Extra Special Ruffians (50:14)
+
+FUWAMOCO thank Ruffians for joining and give shout-outs to some Extra Special Ruffians before wishing everyone a howl of a day.

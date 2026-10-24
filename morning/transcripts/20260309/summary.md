@@ -5,13 +5,66 @@ link: "https://youtu.be/Grtnnh46AtI"
 wip: true
 ---
 
-## Sections
+## Introduction (05:10)
 
-- Introduction
-- Pero Sighting
-- Mococo Pup Talk
-- Doggie Of The Day
-- Today I Went On A Walk
-- Question Of The Day
-- Next Stream & Schedule
-- Thanks & Extra Special Ruffians
+FUWAMOCO return from hibernation with the 179th episode of FUWAMOCO Morning, happy to see energetic Ruffians and many first-timers.
+
+## Pero Sighting (08:13)
+
+Pero was spotted next to a cactus that was turning blue and starting to flower. FUWAMOCO suspect Pero caused the color change and warn Ruffians that he causes trouble everywhere he goes.
+
+## 7th fes "Ridin' on Dreams" (10:35)
+
+FUWAMOCO thank Ruffians for supporting hololive SUPER EXPO 2026 and hololive 7th fes *Ridin' on Dreams*, three full days for the first time, whether they flew to Japan, watched online or sent cheering messages.
+
+## Suisei × Fortnite (15:06)
+
+Suisei-senpai has been announced as part of Fortnite. FUWAMOCO congratulate her and share that their own Fortnite issues might finally be fixed, just in time to try the collab and maybe have a battle royale.
+
+## Pekora Mario Tennis Collab (17:04)
+
+Pekora-senpai is hosting a big hololive Mario Tennis Cup, her first large collab in a long time. FUWAMOCO are excited to join, aim to win and hope to find time to practice beforehand.
+
+## Lawson Collab (20:10)
+
+A hololive campaign starts at Lawson stores across Japan on March 17, featuring FUWAMOCO-themed Karaage-kun, clear files with selected snacks, clear sheets with drinks, merch and special hololive-wrapped stores in Shibuya and Osaka.
+
+## EN Mystery (25:46)
+
+The hololive English account teased "something big and sparkly" with a mysterious image. FUWAMOCO don't know what it is, guess at space swimsuits, and point out that the reveal is on March 15 at 7 PM PT.
+
+## FUWAMOCO ASMR (28:37)
+
+FUWAMOCO released a new ASMR voice pack in English and Japanese where they get mischievous with sleepyhead Ruffians. A five-minute sample is on the hololive English YouTube channel, and the full pack is on the official hololive shop.
+
+## Fes Mischief (31:40)
+
+During fes, about a dozen hololive EN, ID and JP members piled onto a bed to cuddle, with Elizabeth in the middle. FUWAMOCO will share more stories at today's after-party stream.
+
+## FWMC Outfit Reveal (34:21)
+
+FUWAMOCO will reveal a brand-new outfit on March 14 at 6 PM PT. They tease that it's different from the ASMR one and very fluffy and fuzzy, and invite Ruffians to share their predictions.
+
+## Mococo Pup Talk (35:38)
+
+Mococo starts a Pup Talk, then stops: FUWAMOCO Morning is back to Mondays, Wednesdays and Fridays, so Ruffians will have to wait until Wednesday for the next one.
+
+## Doggie Of The Day (37:19)
+
+Today's Doggie of the Day is Paco, adopted from an animal shelter a few months ago. FUWAMOCO are baffled by his strange face, eyes, ears and dancing, and doubt that he can even BAU BAU.
+
+## Today I Went On A Walk (40:27)
+
+A Ruffian shared a walk under blue skies with blossoms in FUWAMOCO colors. FUWAMOCO say spring is here and encourage Ruffians to keep a healthy rhythm and try new paths.
+
+## Question Of The Day (41:57)
+
+Asked how hard it is to get back into preparing FUWAMOCO Morning, FUWAMOCO admit they forgot how to do it while busy with fes and expo, but expect to be back up to speed by Wednesday.
+
+## Next Stream & Schedule (44:39)
+
+FUWAMOCO hold their fes and expo after-party stream today at 6 PM PT. They'll share their feelings and silly stories, such as what really happened between them and Kiara-senpai.
+
+## Thanks & Extra Special Ruffians (47:34)
+
+FUWAMOCO thank Ruffians for joining and give shout-outs to some Extra Special Ruffians before wishing everyone a howl of a day.
