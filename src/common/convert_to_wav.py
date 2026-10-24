@@ -1,4 +1,9 @@
-"""Simple script to convert an audio file to WAV format using FFmpeg."""
+"""Script to convert an audio file to WAV format using FFmpeg.
+
+The WAV file is written next to the source file, replacing any existing one.
+"""
+
+# TODO: Check whether this script is still needed, and remove it if it isn't.
 
 import argparse
 
