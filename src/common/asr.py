@@ -1,4 +1,10 @@
-"""This module contains functions related to automatic speech recognition."""
+"""Automatic speech recognition with WhisperX.
+
+Transcripts are written in the WebVTT layout that common.transcript expects: a
+WEBVTT header and a blank line, then one cue per segment, made of a timing line
+with hours always included, a single text line and a blank line, with no cue
+identifiers.
+"""
 
 import warnings
 from typing import Any
@@ -33,11 +39,14 @@ def transcribe_audio(
     align_metadata: dict[str, Any],
     device: str,
     output_dir: str,
-):
-    """Transcribe the audio file using the specified model"""
+) -> None:
+    """Transcribe an English audio file into a WebVTT file in the output directory.
+
+    Each segment becomes a single cue on a single line. The file is named after the
+    audio file, replacing any existing one, and the output directory must exist.
+    """
     audio = whisperx.load_audio(audio_path)
-    result = model.transcribe(audio, BATCH_SIZE, language="en")
-    result["language"] = "en"
+    result = model.transcribe(audio, batch_size=BATCH_SIZE, language="en")
     result = whisperx.align(
         result["segments"],
         align_model,
@@ -46,13 +55,14 @@ def transcribe_audio(
         device,
         return_char_alignments=False,
     )
+    result["language"] = "en"
+    # TODO: Replace "-->" in words, as WhisperX only does it for segments without
+    # word timings and it would break the cue.
     writer: WriteVTT = get_writer("vtt", output_dir)  # type: ignore[assignment]
     writer.always_include_hours = True
-    writer_result = dict(result)
-    writer_result["language"] = "en"
     writer(
-        writer_result,
-        audio_path,  # type: ignore
+        result,
+        audio_path,
         {
             "highlight_words": False,
             "max_line_count": None,
