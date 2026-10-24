@@ -11,7 +11,7 @@ if __name__ == "__main__":
 
     # Parse command line arguments
     parser = argparse.ArgumentParser(
-        description="Validate structure and content of transcripts and metadata files."
+        description="Download the audio and descriptions of FWMC Morning episodes."
     )
     parser.add_argument(
         "--url",
