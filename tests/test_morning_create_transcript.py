@@ -167,6 +167,7 @@ def test_create_summary_draft(tmp_path, title, episode_line):
         "",
         *create_transcript.DEFAULT_SECTION_NAMES,
     ]
+    assert summary.endswith("\n")  # Markdown files end with a single newline.
 
 
 # main

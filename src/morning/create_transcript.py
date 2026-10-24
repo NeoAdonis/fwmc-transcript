@@ -168,7 +168,7 @@ def create_summary_draft(metadata, new_output_dir):
     summary_draft.extend(DEFAULT_SECTION_NAMES)
 
     with open(os.path.join(new_output_dir, "summary.md"), "w", encoding="utf-8") as f:
-        f.write("\n".join(summary_draft))
+        f.write("\n".join(summary_draft) + "\n")
 
 
 def main():
