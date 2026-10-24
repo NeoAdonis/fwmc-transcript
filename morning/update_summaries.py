@@ -22,7 +22,7 @@ def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
         description="Generate and update formatted episode summaries, and update index"
-        + "file with the latest summaries and questions of the day."
+        + " file with the latest summaries and questions of the day."
     )
     parser.add_argument(
         "--transcripts_dir",
@@ -160,12 +160,13 @@ def process_summary(
 
 
 def refresh_file(filename, new_content):
-    """Refresh a file with new content if it has changed."""
+    """Refresh a file with new content if it has changed, creating it if needed."""
     current_content = []
     line_terminator = "\n"
-    with open(filename, "r", encoding="utf-8", newline="") as f:
-        current_content = f.readlines()
-        if "\r\n" in current_content[0]:
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8", newline="") as f:
+            current_content = f.readlines()
+        if current_content and "\r\n" in current_content[0]:
             line_terminator = "\r\n"
     current_content = [
         LAST_UPDATED_REGEX.sub(LAST_UPDATED_STRING, line) for line in current_content
@@ -229,7 +230,9 @@ def main():
     with open(EMOJI_FILE, "r", encoding="utf-8", newline="") as csvfile:
         emoji_list = list(csv.DictReader(csvfile))
 
-    for transcript_subdir in os.listdir(args.transcripts_dir):
+    summary_files = set()
+
+    for transcript_subdir in sorted(os.listdir(args.transcripts_dir)):
         subfolder_path = os.path.join(args.transcripts_dir, transcript_subdir)
         if os.path.isdir(subfolder_path):
             with open(
@@ -277,12 +280,19 @@ def main():
                     + re.sub(r"\s+", " ", episode_question).strip()
                 )
 
+            summary_files.add(f"{summary_base_name}.md")
             with open(
                 os.path.join(args.summaries_dir, f"{summary_base_name}.md"),
                 "w",
                 encoding="utf-8",
             ) as f:
                 f.writelines(new_summary)
+
+    # Remove summaries left behind by renamed or removed episodes
+    for file in os.listdir(args.summaries_dir):
+        if file.endswith(".md") and file not in summary_files:
+            os.remove(os.path.join(args.summaries_dir, file))
+            print(f"Removed old summary {file}")
 
     if refresh_summary_index(summary_index, summary_table):
         print("Index updated")

@@ -198,6 +198,21 @@ def test_refresh_file_changed(tmp_path, newline):
     assert path.read_bytes() == f"Title{newline}New row{newline}".encode()
 
 
+def test_refresh_file_new(tmp_path):
+    """Missing files are created."""
+    path = tmp_path / "questions.txt"
+    assert update_summaries.refresh_file(str(path), ["Title", "Row"]) is True
+    assert path.read_text(encoding="utf-8") == "Title\nRow\n"
+
+
+def test_refresh_file_empty(tmp_path):
+    """Empty files are filled in."""
+    path = tmp_path / "questions.txt"
+    path.touch()
+    assert update_summaries.refresh_file(str(path), ["Title"]) is True
+    assert path.read_text(encoding="utf-8") == "Title\n"
+
+
 # main
 
 
@@ -244,6 +259,18 @@ def test_main_writes_summaries(morning_dir):
     )
 
 
+def test_main_removes_old_summaries(morning_dir):
+    """Summaries of renamed episodes are removed, keeping other files."""
+    (morning_dir / "summaries" / "20240214_old_name.md").touch()
+    (morning_dir / "summaries" / ".markdownlint-cli2.jsonc").touch()
+    update_summaries.main()
+    assert sorted(os.listdir(morning_dir / "summaries")) == [
+        ".markdownlint-cli2.jsonc",
+        "20230731_0.md",
+        "20240214_BAUlentines_day.md",
+    ]
+
+
 def test_main_writes_indexes(morning_dir, capsys):
     """The index files list every episode, and the questions skip episode 0."""
     update_summaries.main()
@@ -251,8 +278,7 @@ def test_main_writes_indexes(morning_dir, capsys):
 
     index = (morning_dir / "index.md").read_text(encoding="utf-8").splitlines()
     assert index[2] == update_summaries.LAST_UPDATED_STRING
-    # The row order is checked by test_main_sorts_episodes
-    assert sorted(index[-2:]) == [
+    assert index[-2:] == [
         (
             "| 2023-07-31 | Mon | [Episode #0](https://youtu.be/id20230731) | "
             "Description of 0 | [Summary](summaries/20230731_0.md) | "
@@ -290,7 +316,6 @@ def test_main_without_changes(morning_dir, capsys):
     assert (morning_dir / "index.md").read_bytes() == index
 
 
-@pytest.mark.xfail(strict=True, reason="Episodes are listed in os.listdir() order")
 def test_main_sorts_episodes(morning_dir, monkeypatch):
     """Episodes are listed by date, whatever order the file system uses."""
     listdir = os.listdir
