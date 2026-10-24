@@ -84,8 +84,10 @@ if __name__ == "__main__":
                 if repeats_fixed:
                     printer.print_info("Repeated sections rewritten", relative_path)
                 if (
-                    transcript.fix_mistakes(replacements, root, file, True)
+                    transcript.fix_mistakes(
+                        replacements, os.path.join(root, file), skip_flagged=True
+                    )
                     and not repeats_fixed
                 ):
                     printer.print_info("Mistakes fixed", relative_path)
-                # transcript.highlight_ambiguities(highlights, root, file)
+                # transcript.highlight_ambiguities(highlights, os.path.join(root, file))

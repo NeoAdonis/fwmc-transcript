@@ -288,10 +288,9 @@ def main():
                     printer.print_error("Transcript file not found", new_output_dir)
                     continue
 
-                transcript.fix_mistakes(replacements, new_output_dir, transcript_file)
-                transcript.highlight_ambiguities(
-                    highlights, new_output_dir, transcript_file
-                )
+                transcript_path = os.path.join(new_output_dir, transcript_file)
+                transcript.fix_mistakes(replacements, transcript_path)
+                transcript.highlight_ambiguities(highlights, transcript_path)
 
                 if os.path.exists(os.path.join(new_output_dir, "summary.md")):
                     continue

@@ -39,7 +39,7 @@ def main():
     for root, _, files in os.walk(os.path.join(args.transcripts_dir, args.date)):
         for file in files:
             if file.endswith(".vtt"):
-                print(transcript.to_lrc(root, file))
+                print(transcript.to_lrc(os.path.join(root, file)))
 
 
 if __name__ == "__main__":

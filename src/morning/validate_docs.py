@@ -60,12 +60,13 @@ if __name__ == "__main__":
                     )
             # Check transcripts
             if file == "transcript.vtt":
-                transcript.validate(root, file)
+                path = os.path.join(root, file)
+                transcript.validate(path)
                 if check_mistakes:
-                    if transcript.fix_mistakes(replacements, root, file, True):
+                    if transcript.fix_mistakes(replacements, path, skip_flagged=True):
                         printer.print_info("File changed", relative_path)
-                    transcript.check_repeats(root, file)
-                    transcript.highlight_ambiguities(highlights, root, file)
+                    transcript.check_repeats(path)
+                    transcript.highlight_ambiguities(highlights, path)
         # Look for missing files
         for directory in dirs:
             summary_path = os.path.join(root, directory, "summary.md")
