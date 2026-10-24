@@ -1,4 +1,5 @@
 Pattern,Replacement,Warning
+\bbow[ -]bow\b,BAU BAU,N
 "H[ae]ll?o,? h[ae]ll?o,? BAU BAU",Hallo hallo BAU BAU,N
 Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 ((?<!\<i\>)FUWAMOCO Morning hajimaru yo!?(?!\</i\>)),<i>$1</i>,N
@@ -19,7 +20,7 @@ Aloha (no )?BAU BAU,Hallo hallo BAU BAU,N
 \bRock '?n'? Roll Part,Rock n' Rawr Part,Y
 \bBorn to be (Bau\s?do|Bottle|Boundless|Vodou)\b,"Born to be ""BAU""DOL☆★",N
 \bMan[io]-chan,Mane-chan,N
-\bf[lu]a\s?mo[ck]o\b,FUWAMOCO,N
+\bf[lu]a\s?m[ou][ck]o\b,FUWAMOCO,N
 \bmo(cok|koc)oi?\b,Mococo,N
 \bmo([ck]u|ko)[\s\-]?chan,Moco-chan,N
 \bMococo-chan,Moco-chan,Y
