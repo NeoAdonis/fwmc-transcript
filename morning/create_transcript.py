@@ -128,10 +128,14 @@ def get_metadata(root, dir_basename):
 
 def clean_transcript_files(new_output_dir):
     """Clean up the transcript files"""
-    for file in os.listdir(new_output_dir):
+    files = os.listdir(new_output_dir)
+    # Remove the old transcripts first, so that the new ones aren't removed after
+    # being renamed
+    for file in files:
         if file.startswith(NEW_BASE_NAME):
             os.remove(os.path.join(new_output_dir, file))
-        elif file.startswith(CONVERT_BASE_NAME):
+    for file in files:
+        if file.startswith(CONVERT_BASE_NAME):
             os.rename(
                 os.path.join(new_output_dir, file),
                 os.path.join(

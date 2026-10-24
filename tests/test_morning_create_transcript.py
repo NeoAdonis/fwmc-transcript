@@ -125,9 +125,13 @@ def test_get_metadata_unexpected_day(tmp_path, capsys, date, warned):
 # clean_transcript_files
 
 
-def test_clean_transcript_files(tmp_path):
+def test_clean_transcript_files(monkeypatch, tmp_path):
     """New transcripts replace the old ones, keeping other files."""
-    # main() skips episodes with a transcript.vtt, so only other files can be left
+    # List the new transcript before the old one, which used to remove it after
+    # renaming it
+    listdir = os.listdir
+    monkeypatch.setattr(create_transcript.os, "listdir", lambda p: sorted(listdir(p)))
+    (tmp_path / "transcript.vtt").write_text("old", encoding="utf-8")
     (tmp_path / "transcript.lrc").write_text("old", encoding="utf-8")
     (tmp_path / "audio_converted.vtt").write_text("new", encoding="utf-8")
     (tmp_path / "metadata.json").write_text("{}", encoding="utf-8")
