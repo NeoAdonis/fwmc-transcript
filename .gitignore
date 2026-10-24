@@ -1,4 +1,6 @@
 .claude
+.coverage
 audio
+htmlcov
 node_modules
 *.pyc

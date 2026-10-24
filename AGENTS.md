@@ -81,3 +81,5 @@ Tests, relative to `tests/`:
 
 - `unit/`: unit tests that mirror the layout of `src/`, with one `test_<module>.py` file per module (e.g. `unit/common/test_media.py` for `src/common/media.py`).
 - `integration/`: reserved for future integration tests.
+
+Run `pytest --cov` from the repository root to measure test coverage of `src/` with pytest-cov (configured in `pyproject.toml`).

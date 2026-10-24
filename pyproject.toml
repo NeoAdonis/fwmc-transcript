@@ -11,3 +11,13 @@ pythonpath = ["src"]
 testpaths = ["tests"]
 # Test files mirror src/, so the same names can appear in different directories.
 addopts = ["--import-mode=importlib"]
+
+[tool.coverage.run]
+source = ["src"]
+branch = true
+
+[tool.coverage.report]
+# Report modules that no test imports, since src/ has no __init__.py files.
+include_namespace_packages = true
+show_missing = true
+skip_empty = true
