@@ -1,9 +1,9 @@
 # 🌅 FUWAMOCO Morning Episode Summaries
 
-Last updated: 2025-10-15 01:34 UTC
+Last updated: 2026-10-24 02:07 UTC
 
 <!-- markdownlint-disable-file MD044 -->
-| 🗓️ Date |     | 📺 Episode |     | 📄 Summary | 🔤 Transcript |
+| 🗓️ Date | | 📺 Episode | | 📄 Summary | 🔤 Transcript |
 | ------ | --- | --------- | --- | --------- | ------------ |
 | 2023-07-31 | Mon | [Episode #0](https://youtu.be/Qd7ohtlOOkQ) | pilot episodes always end up a bit different than the planned show, huh! 🐾 | [Summary](summaries/20230731_0.md) | [Transcript](transcripts/20230731/transcript.vtt) |
 | 2023-08-02 | Wed | [Episode #1](https://youtu.be/4giLWiqvyVo) | welcome adventrix! ⚠️ | [Summary](summaries/20230802_1.md) | [Transcript](transcripts/20230802/transcript.vtt) |
@@ -187,3 +187,8 @@ Last updated: 2025-10-15 01:34 UTC
 | 2025-09-29 | Mon | [Episode #174](https://youtu.be/1WcE8TGm7gs) | feeling extra hungry this morning ✨ | [Summary](summaries/20250929_174.md) | [Transcript](transcripts/20250929/transcript.vtt) |
 | 2025-10-06 | Mon | [Episode #175](https://youtu.be/Sh2XOJVqXek) | happy 175th episode ✨ | [Summary](summaries/20251006_175.md) | [Transcript](transcripts/20251006/transcript.vtt) |
 | 2025-10-13 | Mon | [Episode #176](https://youtu.be/vbJHDqVl9R0) | a silly new week ✨ | [Summary](summaries/20251013_176.md) | [Transcript](transcripts/20251013/transcript.vtt) |
+| 2025-10-20 | Mon | [Episode #177](https://youtu.be/si5nKzdLGyw) | chilly mornings made warmer with fluff & fuzz ✨ | [Summary](summaries/20251020_177.md) | [Transcript](transcripts/20251020/transcript.vtt) |
+| 2025-10-27 | Mon | [Episode #178](https://youtu.be/EQh0DUL4Z38) | our last chilly morning together before hibernation ✨ | [Summary](summaries/20251027_178.md) | [Transcript](transcripts/20251027/transcript.vtt) |
+| 2026-03-09 | Mon | [Episode #179](https://youtu.be/Grtnnh46AtI) | we're back to start the day off on the right paw with you ✨️ | [Summary](summaries/20260309_179.md) | [Transcript](transcripts/20260309/transcript.vtt) |
+| 2026-03-11 | Wed | [Episode #180](https://youtu.be/v6aPqNfzl5I) | big news big news big news are you ready ✨️ | [Summary](summaries/20260311_180.md) | [Transcript](transcripts/20260311/transcript.vtt) |
+| 2026-03-20 | Fri | [Episode #181](https://youtu.be/2Q_Z4PVnMdk) | last FWMC morning until fuwawa is back from the hospital ✨️ | [Summary](summaries/20260320_181.md) | [Transcript](transcripts/20260320/transcript.vtt) |
