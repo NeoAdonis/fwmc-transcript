@@ -27,7 +27,7 @@ Their cover of *White Love* hit 2 million views. Released in December 2023, the 
 
 ## 7th fes Announcement (15:00)
 
-The 7th hololive Fest, titled *Ridin'on Dreams*, will be held March 6–8, 2026. FUWAMOCO share their excitement and encourage Ruffians to join the fun in person or online.
+The 7th hololive Fest, titled *Ridin' on Dreams*, will be held March 6–8, 2026. FUWAMOCO share their excitement and encourage Ruffians to join the fun in person or online.
 
 ## Needy Nerissa? (18:18)
 
