@@ -78,18 +78,21 @@ if __name__ == "__main__":
             else:
                 printer.print_error("No transcript file found", relative_path)
 
-    print("Validating summaries...")
+    print("Linting Markdown files...", flush=True)
 
-    # Lint summaries
+    # Lint all Markdown files in the repository, including summaries
     npm_command = shutil.which("bun")
     if not npm_command:
         npm_command = shutil.which("npm")
     if npm_command is None:
-        printer.print_warning(
-            "npm or bun command not found. Summaries linting skipped."
-        )
+        printer.print_warning("npm or bun command not found. Markdown linting skipped.")
     else:
-        subprocess.run([npm_command, "run", "lint-summaries"], check=True)
+        # The package.json file is at the repository root
+        result = subprocess.run([npm_command, "run", "lint"], check=False, cwd="..")
+        if result.returncode != 0:
+            printer.print_error("Markdown linting failed")
+
+    print("Validating summaries...")
 
     # Check for long summaries
     # This is done after linting as summaries might have been changed
