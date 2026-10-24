@@ -36,8 +36,7 @@ COMPUTE_TYPE = "float16" if DEVICE == "cuda" else "int8"
 def parse_args():
     """Parse command line arguments"""
     parser = argparse.ArgumentParser(
-        description="Validate the structure and content of the transcripts"
-        + " and metadata files."
+        description="Create transcripts for FUWAMOCO Morning episodes."
     )
     parser.add_argument(
         "--audio_dir",
