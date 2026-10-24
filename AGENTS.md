@@ -77,4 +77,7 @@ Markdown linting, relative to the repository root:
   - `songs/`: lyrics use stylized names, so proper names aren't checked.
   - `morning/transcripts/`: summaries start with a second-level heading and use custom search-and-replace rules, such as timestamps in headings.
 
-Tests, relative to `tests/`: unit tests for `common.media` and some of the FWMC Morning scripts.
+Tests, relative to `tests/`:
+
+- `unit/`: unit tests that mirror the layout of `src/`, with one `test_<module>.py` file per module (e.g. `unit/common/test_media.py` for `src/common/media.py`).
+- `integration/`: reserved for future integration tests.

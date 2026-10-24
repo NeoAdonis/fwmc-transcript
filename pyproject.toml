@@ -9,3 +9,5 @@ follow_untyped_imports = true
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
+# Test files mirror src/, so the same names can appear in different directories.
+addopts = ["--import-mode=importlib"]
